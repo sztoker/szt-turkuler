@@ -1,26 +1,17 @@
 {
   "id": "atim-araptir-benim",
   "baslik": "ATIM ARAPTIR BENİM",
-  "sozler_html": "<p>Atım araptır benim - amman amman</p>\n<p>Haydi yüküm şaraptır benim - vay vay   (2</p>\n<p>Bu yıl böyle giderse - amman amman</p>\n<p>Haydi halim haraptır - benim vay vay     (2</p>\n<p class=\"bos\"></p>\n<p><b>Emişim gümüşüm bir hoşum vay vay</b></p>\n<p class=\"bos\"></p>\n<p>Çokça da içmişim sarhoşum vay vay</p>\n<p class=\"bos\"></p>\n<p>Atım kara ben kara - amman amman</p>\n<p>Haydi kalk gidelim ılgara - vay vay (2</p>\n<p>Ilgar bize n'eylesin - amman amman</p>\n<p>Haydi kalk gidelim kızlara (2-sazlara) - vay vay (2</p>\n<p class=\"bos\"></p>\n<p><b>Emişim gümüşüm ...</b></p>",
-  "sozler_duz": "Atım araptır benim - amman amman Haydi yüküm şaraptır benim - vay vay (2 Bu yıl böyle giderse - amman amman Haydi halim haraptır - benim vay vay (2 Emişim gümüşüm bir hoşum vay vay Çokça da içmişim sarhoşum vay vay Atım kara ben kara - amman amman Haydi kalk gidelim ılgara - vay vay (2 Ilgar bize n'eylesin - amman amman Haydi kalk gidelim kızlara (2-sazlara) - vay vay (2 Emişim gümüşüm ...",
+  "sozler_html": "<p>Atım araptır benim - amman amman</p>\n<p>Haydi yüküm şaraptır benim - vay vay   (2</p>\n<p>Bu yıl böyle giderse - amman amman</p>\n<p>Haydi halim haraptır - benim vay vay     (2</p>\n<p class=\"bos\"></p>\n<p><b>Emişim gümüşüm bir hoşum vay vay</b></p>\n<p class=\"bos\"><b>Çokça da içmişim sarhoşum vay vay</b></p><p class=\"bos\"><br></p>\n<p class=\"bos\"></p>\n<p>Atım kara ben kara - amman amman</p>\n<p>Haydi kalk gidelim ılgara - vay vay (2</p>\n<p>Ilgar bize n'eylesin - amman amman</p>\n<p>Haydi kalk gidelim kızlara (2-sazlara) - vay vay (2</p>\n<p class=\"bos\"></p>\n<p><b>Emişim gümüşüm ...</b></p>",
+  "sozler_duz": "Atım araptır benim - amman amman\n\nHaydi yüküm şaraptır benim - vay vay (2\n\nBu yıl böyle giderse - amman amman\n\nHaydi halim haraptır - benim vay vay (2\n\nEmişim gümüşüm bir hoşum vay vay\n\nÇokça da içmişim sarhoşum vay vay\n\nAtım kara ben kara - amman amman\n\nHaydi kalk gidelim ılgara - vay vay (2\n\nIlgar bize n'eylesin - amman amman\n\nHaydi kalk gidelim kızlara (2-sazlara) - vay vay (2\n\nEmişim gümüşüm ...",
   "meta": {
-    "yore": "",
     "turu": "1",
-    "turu2": "H",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
     "karar": "Sol",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "diger_bilgiler": "?"
   },
   "sistem": {
     "eski_id": 454,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T15:40:12.149Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
