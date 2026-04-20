@@ -2,25 +2,17 @@
   "id": "ah-bir-atas-ver",
   "baslik": "AH BİR ATAŞ VER",
   "sozler_html": "<p>Ah bir ataş ver cigaramı yakayım</p>\n<p>Sen salın gel ben boyuna bakayım</p>\n<p class=\"bos\"></p>\n<p><b>Uzun olur gemilerin direği</b></p>\n<p><b>Ah çatal olur efelerin yüreği</b></p>\n<p><b>(Ah yanık olur anaların yüreği)</b></p>\n<p class=\"bos\"></p>\n<p>Ah vur ataşı gavur sinem ko yansın</p>\n<p>Arkadaşlar uykulardan uyansın</p>\n<p class=\"bos\"></p>\n<p><b>Uzun olur…</b></p>",
-  "sozler_duz": "Ah bir ataş ver cigaramı yakayım Sen salın gel ben boyuna bakayım Uzun olur gemilerin direği Ah çatal olur efelerin yüreği (Ah yanık olur anaların yüreği) Ah vur ataşı gavur sinem ko yansın Arkadaşlar uykulardan uyansın Uzun olur…",
+  "sozler_duz": "Ah bir ataş ver cigaramı yakayım\n\nSen salın gel ben boyuna bakayım\n\nUzun olur gemilerin direği\n\nAh çatal olur efelerin yüreği\n\n(Ah yanık olur anaların yüreği)\n\nAh vur ataşı gavur sinem ko yansın\n\nArkadaşlar uykulardan uyansın\n\nUzun olur…",
   "meta": {
     "yore": "İZMİR",
-    "turu": "1",
-    "turu2": "",
     "derleyen": "Durmuş Yazıcıoğlu",
     "kaynak_kisi": "Çetin Bozalan",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_1",
-    "karar": "Do - Sol",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "karar": "Do - Sol"
   },
   "sistem": {
     "eski_id": 390,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T22:45:35.562Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false

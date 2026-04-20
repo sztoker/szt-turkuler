@@ -2,25 +2,14 @@
   "id": "atimi-bagladim-nar-agacina",
   "baslik": "ATIMI BAĞLADIM NAR AĞACINA",
   "sozler_html": "<p>Atımı bağladım nar ağacına</p>\n<p>Perçemin dolaştı gül ağacına</p>\n<p class=\"bos\"></p>\n<p><b>Nargile nargile nargilesiyem</b></p>\n<p><b>Anamın atamın bir denesiyem</b></p>\n<p class=\"bos\"></p>\n<p>Okçu okun attı değdi yarama</p>\n<p>Haberim aparın garip anama</p>\n<p class=\"bos\"></p>\n<p><b>Nargile ...</b></p>\n<p class=\"bos\"></p>\n<p>Atımı bağladım delikli taşa</p>\n<p>Yönümü çevirdim dohum gardaşa</p>\n<p class=\"bos\"></p>\n<p><b>Nargile ...</b></p>",
-  "sozler_duz": "Atımı bağladım nar ağacına Perçemin dolaştı gül ağacına Nargile nargile nargilesiyem Anamın atamın bir denesiyem Okçu okun attı değdi yarama Haberim aparın garip anama Nargile ... Atımı bağladım delikli taşa Yönümü çevirdim dohum gardaşa Nargile ...",
+  "sozler_duz": "Atımı bağladım nar ağacına\n\nPerçemin dolaştı gül ağacına\n\nNargile nargile nargilesiyem\n\nAnamın atamın bir denesiyem\n\nOkçu okun attı değdi yarama\n\nHaberim aparın garip anama\n\nNargile ...\n\nAtımı bağladım delikli taşa\n\nYönümü çevirdim dohum gardaşa\n\nNargile ...",
   "meta": {
-    "yore": "AZERİ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_22",
-    "karar": "",
-    "diger_bilgiler": "AZERİ",
-    "aciklama": ""
+    "yore": "AZERİ"
   },
   "sistem": {
     "eski_id": 455,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T23:04:17.015Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false

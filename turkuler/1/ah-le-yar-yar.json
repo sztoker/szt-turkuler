@@ -2,25 +2,15 @@
   "id": "ah-le-yar-yar",
   "baslik": "AH LE YAR YAR",
   "sozler_html": "<p>Sana olan duyguları bir bilebilsem</p>\n<p>Anlatabilsem  belki severdin</p>\n<p>İçimdeki hasretini bir duyabilsen</p>\n<p>Anlayabilsen  belki benimdin</p>\n<p class=\"bos\"></p>\n<p><b>Sana sevdiğim diyemem</b></p>\n<p><b>Yalan yalan-2 </b></p>\n<p><b>Vallahi yalan İ nan ki yalan</b></p>\n<p><b>Sen kara sevdamsın benim</b></p>\n<p><b>Duman duman -2 </b></p>\n<p><b>Hasretin tüter  içimde yanan</b></p>\n<p><b>Ah le yar yar  yine başımda sevdan</b></p>\n<p><b>Ah le yar yar  geceler kara zindan</b></p>\n<p><b>Ah le yar yar  bir parçacık canım kaldı </b></p>\n<p><b>Onu da sen al</b></p>\n<p class=\"bos\"></p>\n<p>Aklıma düştü gözlerin  bir bıçak gibi</p>\n<p>Ah silah gibi  cehennem gibi</p>\n<p>Söylenmemiş türkümdün sen</p>\n<p>Unutmam seni  unutmam seni  unutamam ki</p>\n<p class=\"bos\"></p>\n<p><b>Sana sevdiğim diyemem...</b></p>",
-  "sozler_duz": "Sana olan duyguları bir bilebilsem Anlatabilsem belki severdin İçimdeki hasretini bir duyabilsen Anlayabilsen belki benimdin Sana sevdiğim diyemem Yalan yalan-2 Vallahi yalan İ nan ki yalan Sen kara sevdamsın benim Duman duman -2 Hasretin tüter içimde yanan Ah le yar yar yine başımda sevdan Ah le yar yar geceler kara zindan Ah le yar yar bir parçacık canım kaldı Onu da sen al Aklıma düştü gözlerin bir bıçak gibi Ah silah gibi cehennem gibi Söylenmemiş türkümdün sen Unutmam seni unutmam seni unutamam ki Sana sevdiğim diyemem...",
+  "sozler_duz": "Sana olan duyguları bir bilebilsem\n\nAnlatabilsem belki severdin\n\nİçimdeki hasretini bir duyabilsen\n\nAnlayabilsen belki benimdin\n\nSana sevdiğim diyemem\n\nYalan yalan-2\n\nVallahi yalan İ nan ki yalan\n\nSen kara sevdamsın benim\n\nDuman duman -2\n\nHasretin tüter içimde yanan\n\nAh le yar yar yine başımda sevdan\n\nAh le yar yar geceler kara zindan\n\nAh le yar yar bir parçacık canım kaldı\n\nOnu da sen al\n\nAklıma düştü gözlerin bir bıçak gibi\n\nAh silah gibi cehennem gibi\n\nSöylenmemiş türkümdün sen\n\nUnutmam seni unutmam seni unutamam ki\n\nSana sevdiğim diyemem...",
   "meta": {
-    "yore": "",
-    "turu": "1",
-    "turu2": "1",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Yücel Arzen",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_22",
-    "karar": "La",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 304,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T22:46:02.870Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false

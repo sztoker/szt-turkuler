@@ -2,25 +2,14 @@
   "id": "az-bana-gonder",
   "baslik": "AZ BANA GÖNDER",
   "sozler_html": "<p>Hazana ermeden baharı ömrüm</p>\n<p>Bir muhabbetname yaz bana gönder</p>\n<p>Hicrine yanmıştır dayanmaz gönlüm</p>\n<p>Sitemle sözleri az bana gönder</p>\n<p class=\"bos\"></p>\n<p><b>Ben sana aşığım ey peri ruhsar</b></p>\n<p><b>Muhabbet sırrına ermesin yadlar</b></p>\n<p><b>Sakla mektubunu yaz bana gönder</b></p>\n<p class=\"bos\"></p>\n<p><b>Az bana az bana az bana gönder</b></p>\n<p><b>Sitemli sözleri yaz bana gönder</b></p>\n<p><b>Hicrine yanmıştır dayanmaz gönlüm</b></p>\n<p><b>Hasretin ateşi az bana gönder</b></p>\n<p class=\"bos\"></p>\n<p>Şu bana ettiğin cevr ile nazı</p>\n<p>Hep sana yaptım arz-ı niyazı</p>\n<p>Hatrına gelince yaz bazı bazı</p>\n<p>Ağla göz yaşını az bana gönder</p>\n<p class=\"bos\"></p>\n<p><b>Ben sana ...</b></p>",
-  "sozler_duz": "Hazana ermeden baharı ömrüm Bir muhabbetname yaz bana gönder Hicrine yanmıştır dayanmaz gönlüm Sitemle sözleri az bana gönder Ben sana aşığım ey peri ruhsar Muhabbet sırrına ermesin yadlar Sakla mektubunu yaz bana gönder Az bana az bana az bana gönder Sitemli sözleri yaz bana gönder Hicrine yanmıştır dayanmaz gönlüm Hasretin ateşi az bana gönder Şu bana ettiğin cevr ile nazı Hep sana yaptım arz-ı niyazı Hatrına gelince yaz bazı bazı Ağla göz yaşını az bana gönder Ben sana ...",
+  "sozler_duz": "Hazana ermeden baharı ömrüm\n\nBir muhabbetname yaz bana gönder\n\nHicrine yanmıştır dayanmaz gönlüm\n\nSitemle sözleri az bana gönder\n\nBen sana aşığım ey peri ruhsar\n\nMuhabbet sırrına ermesin yadlar\n\nSakla mektubunu yaz bana gönder\n\nAz bana az bana az bana gönder\n\nSitemli sözleri yaz bana gönder\n\nHicrine yanmıştır dayanmaz gönlüm\n\nHasretin ateşi az bana gönder\n\nŞu bana ettiğin cevr ile nazı\n\nHep sana yaptım arz-ı niyazı\n\nHatrına gelince yaz bazı bazı\n\nAğla göz yaşını az bana gönder\n\nBen sana ...",
   "meta": {
-    "yore": "AZERİ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AZERİ",
-    "aciklama": ""
+    "yore": "AZERİ"
   },
   "sistem": {
     "eski_id": 480,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T23:10:15.518Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false

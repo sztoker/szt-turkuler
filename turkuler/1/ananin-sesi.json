@@ -1,26 +1,17 @@
 {
   "id": "ananin-sesi",
   "baslik": "ANANIN SESİ",
-  "sozler_html": "<p>Ana galgim odlanır</p>\n<p>Söz düşende  davadan</p>\n<p>Bes değil mi ey insanlar</p>\n<p>Döküldü gan ahti gan</p>\n<p>Bes değil mi kara toprah</p>\n<p>Su içti göz yaşından</p>\n<p class=\"bos\"></p>\n<p><b>Yeryüzünde dostu olsun </b></p>\n<p><b>G erek insan insanın</b></p>\n<p><b>Könlümdeki bu arzular </b></p>\n<p><b>A rzusudur zamanın</b></p>\n<p><b>Men anayım bu sesimde </b></p>\n<p><b>Y erin göğün derdi var</b></p>\n<p><b>Sulhe gelin ey insanlar </b></p>\n<p><b>Y oksa dünya mehvolar</b></p>\n<p class=\"bos\"></p>\n<p>Silahları yandırın</p>\n<p>A rşa çıksın tütsüsü</p>\n<p>Her obada her bir evde</p>\n<p>K anat açsın sulh sözü</p>\n<p>Yüzü gülsün insanlığın</p>\n<p>B ayram etsin yeryüzü</p>\n<p class=\"bos\"></p>\n<p>Yeryüzünde ...</p>",
-  "sozler_duz": "Ana galgim odlanır Söz düşende davadan Bes değil mi ey insanlar Döküldü gan ahti gan Bes değil mi kara toprah Su içti göz yaşından Yeryüzünde dostu olsun G erek insan insanın Könlümdeki bu arzular A rzusudur zamanın Men anayım bu sesimde Y erin göğün derdi var Sulhe gelin ey insanlar Y oksa dünya mehvolar Silahları yandırın A rşa çıksın tütsüsü Her obada her bir evde K anat açsın sulh sözü Yüzü gülsün insanlığın B ayram etsin yeryüzü Yeryüzünde ...",
+  "sozler_html": "<p>Ana galgim odlanır</p>\n<p>Söz düşende  davadan</p>\n<p>Bes değil mi ey insanlar</p>\n<p>Döküldü gan ahti gan</p>\n<p>Bes değil mi kara toprah</p>\n<p>Su içti göz yaşından</p>\n<p class=\"bos\"></p>\n<p><b>Yeryüzünde dostu olsun </b></p>\n<p><b>Gerek insan insanın</b></p>\n<p><b>Könlümdeki bu arzular </b></p>\n<p><b>Arzusudur zamanın</b></p>\n<p><b>Men anayım bu sesimde </b></p>\n<p><b>Yerin göğün derdi var</b></p>\n<p><b>Sulhe gelin ey insanlar </b></p>\n<p><b>Yoksa dünya mehvolar</b></p>\n<p class=\"bos\"></p>\n<p>Silahları yandırın</p>\n<p>Arşa çıksın tütsüsü</p>\n<p>Her obada her bir evde</p>\n<p>Kanat açsın sulh sözü</p>\n<p>Yüzü gülsün insanlığın</p>\n<p>Bayram etsin yeryüzü</p>\n<p class=\"bos\"></p>\n<p><b>Yeryüzünde ...</b></p>",
+  "sozler_duz": "Ana galgim odlanır\n\nSöz düşende davadan\n\nBes değil mi ey insanlar\n\nDöküldü gan ahti gan\n\nBes değil mi kara toprah\n\nSu içti göz yaşından\n\nYeryüzünde dostu olsun\n\nGerek insan insanın\n\nKönlümdeki bu arzular\n\nArzusudur zamanın\n\nMen anayım bu sesimde\n\nYerin göğün derdi var\n\nSulhe gelin ey insanlar\n\nYoksa dünya mehvolar\n\nSilahları yandırın\n\nArşa çıksın tütsüsü\n\nHer obada her bir evde\n\nKanat açsın sulh sözü\n\nYüzü gülsün insanlığın\n\nBayram etsin yeryüzü\n\nYeryüzünde ...",
   "meta": {
     "yore": "AZERİ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AZERİ        S : Nevruz Genceli    M : Ali Ekber T",
-    "aciklama": ""
+    "soz": "Nevruz Genceli",
+    "muzik": "Ali Ekber T"
   },
   "sistem": {
     "eski_id": 423,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T22:55:33.177Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false

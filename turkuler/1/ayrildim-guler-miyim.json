@@ -1,26 +1,13 @@
 {
   "id": "ayrildim-guler-miyim",
   "baslik": "AYRILDIM GÜLER MİYİM",
-  "sozler_html": "<p>Ayrıldım güler miyim</p>\n<p>Ayrılı k   dil er miyim</p>\n<p>Katli m e ferman olsa da</p>\n<p>Yar senden geçer miyim</p>\n<p class=\"bos\"></p>\n<p><b>Al at a  yeşil  k olan </b></p>\n<p><b>Bi nd e  sahrayı dolan</b></p>\n<p><b>Benim gibi var m’ola da </b></p>\n<p><b>Yarinden mahrum olan</b></p>\n<p class=\"bos\"></p>\n<p>Ayrıldım gülüm senden</p>\n<p>Dilli bülbülüm  senden</p>\n<p>Ölüm ayırsın derken de</p>\n<p>Dirim  ayrıldı senden</p>\n<p class=\"bos\"></p>\n<p><b>Al atı ...</b></p>",
-  "sozler_duz": "Ayrıldım güler miyim Ayrılı k dil er miyim Katli m e ferman olsa da Yar senden geçer miyim Al at a yeşil k olan Bi nd e sahrayı dolan Benim gibi var m’ola da Yarinden mahrum olan Ayrıldım gülüm senden Dilli bülbülüm senden Ölüm ayırsın derken de Dirim ayrıldı senden Al atı ...",
-  "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "H",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Ayrıldım güler miyim</p>\n<p>Ayrılı k   diler miyim</p>\n<p>Katli m e ferman olsa da</p>\n<p>Yar senden geçer miyim</p>\n<p class=\"bos\"></p>\n<p><b>Al ata  yeşil  kolan </b></p>\n<p><b>Bi nd e  sahrayı dolan</b></p>\n<p><b>Benim gibi var m’ola da </b></p>\n<p><b>Yarinden mahrum olan</b></p>\n<p class=\"bos\"></p>\n<p>Ayrıldım gülüm senden</p>\n<p>Dilli bülbülüm  senden</p>\n<p>Ölüm ayırsın derken de</p>\n<p>Dirim  ayrıldı senden</p>\n<p class=\"bos\"></p>\n<p><b>Al ata ...</b></p>",
+  "sozler_duz": "Ayrıldım güler miyim\n\nAyrılı k diler miyim\n\nKatli m e ferman olsa da\n\nYar senden geçer miyim\n\nAl ata yeşil kolan\n\nBi nd e sahrayı dolan\n\nBenim gibi var m’ola da\n\nYarinden mahrum olan\n\nAyrıldım gülüm senden\n\nDilli bülbülüm senden\n\nÖlüm ayırsın derken de\n\nDirim ayrıldı senden\n\nAl ata ...",
+  "meta": {},
   "sistem": {
     "eski_id": 475,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T23:07:27.539Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false

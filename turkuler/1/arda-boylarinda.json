@@ -2,25 +2,16 @@
   "id": "arda-boylarinda",
   "baslik": "ARDA BOYLARINDA",
   "sozler_html": "<p>Arda boylarında kırmızı erik</p>\n<p>Helime’nin ardında on yedi belik</p>\n<p class=\"bos\"></p>\n<p><b>Ah annecim ah annecim yaktın ya beni</b></p>\n<p><b>Bu genç yaşta denizlere attın ya beni</b></p>\n<p class=\"bos\"></p>\n<p>Alıverin feracemi annecim diksin</p>\n<p>O gıymatlı İsmail’e kendisi gitsin</p>\n<p class=\"bos\"></p>\n<p><b>Uyan uyan Yusuf’um senin olayım</b></p>\n<p><b>Ardalar aldı ya nerde bulayım</b></p>\n<p class=\"bos\"></p>\n<p>Arda boylarına ben kendim gittim</p>\n<p>Dalgalar vurdukça can teslim ettim</p>\n<p class=\"bos\"></p>\n<p><b>Ah annecim ah annecim yaktın ya beni</b></p>\n<p><b>Bu genç yaşta denizlere attın ya beni</b></p>",
-  "sozler_duz": "Arda boylarında kırmızı erik Helime’nin ardında on yedi belik Ah annecim ah annecim yaktın ya beni Bu genç yaşta denizlere attın ya beni Alıverin feracemi annecim diksin O gıymatlı İsmail’e kendisi gitsin Uyan uyan Yusuf’um senin olayım Ardalar aldı ya nerde bulayım Arda boylarına ben kendim gittim Dalgalar vurdukça can teslim ettim Ah annecim ah annecim yaktın ya beni Bu genç yaşta denizlere attın ya beni",
+  "sozler_duz": "Arda boylarında kırmızı erik\n\nHelime’nin ardında on yedi belik\n\nAh annecim ah annecim yaktın ya beni\n\nBu genç yaşta denizlere attın ya beni\n\nAlıverin feracemi annecim diksin\n\nO gıymatlı İsmail’e kendisi gitsin\n\nUyan uyan Yusuf’um senin olayım\n\nArdalar aldı ya nerde bulayım\n\nArda boylarına ben kendim gittim\n\nDalgalar vurdukça can teslim ettim\n\nAh annecim ah annecim yaktın ya beni\n\nBu genç yaşta denizlere attın ya beni",
   "meta": {
     "yore": "RUMELİ",
-    "turu": "",
-    "turu2": "",
     "derleyen": "Rüstem Avcı",
-    "kaynak_kisi": "Aydın Çakır",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "RUMELİ",
-    "aciklama": ""
+    "kaynak_kisi": "Aydın Çakır"
   },
   "sistem": {
     "eski_id": 144,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T22:56:27.554Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false

@@ -2,25 +2,14 @@
   "id": "ay-oglan-tatar-misin",
   "baslik": "AY OĞLAN TATAR MISIN",
   "sozler_html": "<p>Ay oğlan Tatar mısın</p>\n<p>Şeftali satar mısın</p>\n<p>Şeftali şöyle dursun-ay oğlan</p>\n<p>Benimle kaçar mısın</p>\n<p class=\"bos\"></p>\n<p><b>Haydi yarim Kayabaşı'na Kayabaşı'na</b></p>\n<p><b>Al beni yanına yanı başına</b></p>\n<p class=\"bos\"></p>\n<p>Ay oğlan imana gel</p>\n<p>Dolaş da pınara gel</p>\n<p>Hiç bayanen yok ise -ay oğlan</p>\n<p>Elini yu'mağa gel</p>\n<p class=\"bos\"></p>\n<p><b>Haydi yarim ...</b></p>",
-  "sozler_duz": "Ay oğlan Tatar mısın Şeftali satar mısın Şeftali şöyle dursun-ay oğlan Benimle kaçar mısın Haydi yarim Kayabaşı'na Kayabaşı'na Al beni yanına yanı başına Ay oğlan imana gel Dolaş da pınara gel Hiç bayanen yok ise -ay oğlan Elini yu'mağa gel Haydi yarim ...",
+  "sozler_duz": "Ay oğlan Tatar mısın\n\nŞeftali satar mısın\n\nŞeftali şöyle dursun-ay oğlan\n\nBenimle kaçar mısın\n\nHaydi yarim Kayabaşı'na Kayabaşı'na\n\nAl beni yanına yanı başına\n\nAy oğlan imana gel\n\nDolaş da pınara gel\n\nHiç bayanen yok ise -ay oğlan\n\nElini yu'mağa gel\n\nHaydi yarim ...",
   "meta": {
-    "yore": "BİLECİK",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "BİLECİK",
-    "aciklama": ""
+    "yore": "BİLECİK"
   },
   "sistem": {
     "eski_id": 467,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T23:05:49.690Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false

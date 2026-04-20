@@ -2,25 +2,16 @@
   "id": "asker-yolu-beklerim",
   "baslik": "ASKER YOLU BEKLERİM",
   "sozler_html": "<p>Asker Yolu Beklerim</p>\n<p>Günü Güne Eklerim</p>\n<p>Sen Git Yarim Talime De</p>\n<p>Ben Sılayı Beklerim</p>\n<p class=\"bos\"></p>\n<p><b>Mendilimde Tel Oya</b></p>\n<p><b>Gülmedim Doya Doya</b></p>\n<p><b>Asker Yolu Beklerim De</b></p>\n<p><b>Günleri Saya Saya</b></p>\n<p class=\"bos\"></p>\n<p>Sucu Sucu Suyunan</p>\n<p>Soğan Acısıyınan</p>\n<p>Küsüdüm De Barıştım</p>\n<p>Yarin Bacısıyınan</p>\n<p class=\"bos\"></p>\n<p><b>Mendilimde Tel Oya ...</b></p>\n<p class=\"bos\"></p>\n<p>Pilav Pişirdim Yavan</p>\n<p>Üstüne Koydum Soğan</p>\n<p>Yatağına Uzanmış Da</p>\n<p>Uyan Askerim Uyan</p>\n<p class=\"bos\"></p>\n<p><b>Mendilimde Tel Oya ...</b></p>",
-  "sozler_duz": "Asker Yolu Beklerim Günü Güne Eklerim Sen Git Yarim Talime De Ben Sılayı Beklerim Mendilimde Tel Oya Gülmedim Doya Doya Asker Yolu Beklerim De Günleri Saya Saya Sucu Sucu Suyunan Soğan Acısıyınan Küsüdüm De Barıştım Yarin Bacısıyınan Mendilimde Tel Oya ... Pilav Pişirdim Yavan Üstüne Koydum Soğan Yatağına Uzanmış Da Uyan Askerim Uyan Mendilimde Tel Oya ...",
+  "sozler_duz": "Asker Yolu Beklerim\n\nGünü Güne Eklerim\n\nSen Git Yarim Talime De\n\nBen Sılayı Beklerim\n\nMendilimde Tel Oya\n\nGülmedim Doya Doya\n\nAsker Yolu Beklerim De\n\nGünleri Saya Saya\n\nSucu Sucu Suyunan\n\nSoğan Acısıyınan\n\nKüsüdüm De Barıştım\n\nYarin Bacısıyınan\n\nMendilimde Tel Oya ...\n\nPilav Pişirdim Yavan\n\nÜstüne Koydum Soğan\n\nYatağına Uzanmış Da\n\nUyan Askerim Uyan\n\nMendilimde Tel Oya ...",
   "meta": {
     "yore": "Yozgat",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Nedim Akdağ-Nida Tüfekçi",
-    "aciklama": ""
+    "derleyen": "Nida Tüfekçi",
+    "kaynak_kisi": "Nedim Akdağ"
   },
   "sistem": {
     "eski_id": 3365,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T23:01:11.262Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false

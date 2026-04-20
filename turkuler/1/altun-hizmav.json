@@ -2,25 +2,15 @@
   "id": "altun-hizmav",
   "baslik": "ALTUN HIZMAV",
   "sozler_html": "<p>Altun hızmav mülayim</p>\n<p>Seni haktan dileyim</p>\n<p>Yaz günü temmuzda</p>\n<p>Sen terle ben sileyim</p>\n<p class=\"bos\"></p>\n<p><b>Gün gördüm günler gördüm </b></p>\n<p><b>Seni gördüm şad oldum</b></p>\n<p><b>Gün gördüm günler gördüm </b></p>\n<p><b>Senin derdinden öldüm</b></p>\n<p class=\"bos\"></p>\n<p>Altun hızmav incidi</p>\n<p>Gömleğim narincidi</p>\n<p>Benim lal olmuş dilim</p>\n<p>Ne dedim yar incidi</p>\n<p class=\"bos\"></p>\n<p><b>Gün gördüm ...</b></p>\n<p class=\"bos\"></p>\n<p>Altun hızmav tomala</p>\n<p>Yanaşır al yanağa</p>\n<p>Yarim gel görüşelim</p>\n<p>Ben gidirem ırağa</p>\n<p class=\"bos\"></p>\n<p><b>Gün gördüm ...</b></p>\n<p class=\"bos\"></p>\n<p>Altun hızmav arabi</p>\n<p>Lebleri gül şarabı</p>\n<p>Uzak yoldan gelipsen</p>\n<p>Kuvvat olsun çelebi</p>\n<p class=\"bos\"></p>\n<p><b>Gün gördüm ...</b></p>",
-  "sozler_duz": "Altun hızmav mülayim Seni haktan dileyim Yaz günü temmuzda Sen terle ben sileyim Gün gördüm günler gördüm Seni gördüm şad oldum Gün gördüm günler gördüm Senin derdinden öldüm Altun hızmav incidi Gömleğim narincidi Benim lal olmuş dilim Ne dedim yar incidi Gün gördüm ... Altun hızmav tomala Yanaşır al yanağa Yarim gel görüşelim Ben gidirem ırağa Gün gördüm ... Altun hızmav arabi Lebleri gül şarabı Uzak yoldan gelipsen Kuvvat olsun çelebi Gün gördüm ...",
+  "sozler_duz": "Altun hızmav mülayim\n\nSeni haktan dileyim\n\nYaz günü temmuzda\n\nSen terle ben sileyim\n\nGün gördüm günler gördüm\n\nSeni gördüm şad oldum\n\nGün gördüm günler gördüm\n\nSenin derdinden öldüm\n\nAltun hızmav incidi\n\nGömleğim narincidi\n\nBenim lal olmuş dilim\n\nNe dedim yar incidi\n\nGün gördüm ...\n\nAltun hızmav tomala\n\nYanaşır al yanağa\n\nYarim gel görüşelim\n\nBen gidirem ırağa\n\nGün gördüm ...\n\nAltun hızmav arabi\n\nLebleri gül şarabı\n\nUzak yoldan gelipsen\n\nKuvvat olsun çelebi\n\nGün gördüm ...",
   "meta": {
     "yore": "KERKÜK",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "Do",
-    "diger_bilgiler": "KERKÜK",
-    "aciklama": ""
+    "karar": "Do"
   },
   "sistem": {
     "eski_id": 10,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T22:53:02.531Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
