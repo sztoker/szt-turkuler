@@ -1,26 +1,13 @@
 {
   "id": "alma-attim-yuvarlandi",
   "baslik": "ALMA ATTIM YUVARLANDI",
-  "sozler_html": "<p>Alma attım yuvarlandı – Oğul (4</p>\n<p>Gitti beşiğe dayandı</p>\n<p>Bebek uykudan uyandı</p>\n<p class=\"bos\"></p>\n<p><b>Nenni oğul oğul </b></p>\n<p><b>Nenni yavrum yavrum</b></p>\n<p><b>Nenni gülüm gülüm </b></p>\n<p><b>Nenni balam balam </b></p>\n<p><b>Nenni bebek</b></p>\n<p class=\"bos\"></p>\n<p>Sana bebek diyemedim</p>\n<p>Ak sütümden veremedim</p>\n<p>(Kalkıp meme veremedim) / <b>Nenni ...</b></p>\n<p class=\"bos\"></p>\n<p>Kızlar gelin çaydan geçek</p>\n<p>Çay bulanık nerden içek</p>\n<p>Bebek ölmüş kefen biçek  /  <b>Nenni ...</b></p>",
-  "sozler_duz": "Alma attım yuvarlandı – Oğul (4 Gitti beşiğe dayandı Bebek uykudan uyandı Nenni oğul oğul Nenni yavrum yavrum Nenni gülüm gülüm Nenni balam balam Nenni bebek Sana bebek diyemedim Ak sütümden veremedim (Kalkıp meme veremedim) / Nenni ... Kızlar gelin çaydan geçek Çay bulanık nerden içek Bebek ölmüş kefen biçek / Nenni ...",
-  "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Alma attım yuvarlandı – Oğul (4</p>\n<p>Gitti beşiğe dayandı</p>\n<p>Bebek uykudan uyandı</p>\n<p class=\"bos\"></p>\n<p><b>Nenni oğul oğul </b></p>\n<p><b>Nenni yavrum yavrum</b></p>\n<p><b>Nenni gülüm gülüm </b></p>\n<p><b>Nenni balam balam </b></p>\n<p><b>Nenni bebek</b></p>\n<p class=\"bos\"></p>\n<p>Sana bebek diyemedim</p>\n<p>Ak sütümden veremedim</p>\n<p>(Kalkıp meme veremedim)&nbsp;</p><p><b><br></b></p><p><b>Nenni ...</b></p>\n<p class=\"bos\"></p>\n<p>Kızlar gelin çaydan geçek</p>\n<p>Çay bulanık nerden içek</p>\n<p>Bebek ölmüş kefen biçek&nbsp;</p><p><b><br></b></p><p><b>Nenni ...</b></p>",
+  "sozler_duz": "Alma attım yuvarlandı – Oğul (4\n\nGitti beşiğe dayandı\n\nBebek uykudan uyandı\n\nNenni oğul oğul\n\nNenni yavrum yavrum\n\nNenni gülüm gülüm\n\nNenni balam balam\n\nNenni bebek\n\nSana bebek diyemedim\n\nAk sütümden veremedim\n\n(Kalkıp meme veremedim) \n\nNenni ...\n\nKızlar gelin çaydan geçek\n\nÇay bulanık nerden içek\n\nBebek ölmüş kefen biçek \n\nNenni ...",
+  "meta": {},
   "sistem": {
     "eski_id": 55,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T22:52:10.966Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
