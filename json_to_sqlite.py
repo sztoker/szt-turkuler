@@ -58,7 +58,7 @@ def main():
     conn.executescript(SCHEMA)
 
     # Türküleri yükle
-    json_files = sorted(glob.glob(os.path.join(JSON_DIR, '*.json')))
+    json_files = sorted(glob.glob(os.path.join(JSON_DIR, '**', '*.json'), recursive=True))
     print(f"JSON dosyaları bulundu: {len(json_files)}")
 
     turku_sayisi = 0
