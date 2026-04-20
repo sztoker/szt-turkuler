@@ -1,0 +1,28 @@
+{
+  "id": "gece-gelen-konuk",
+  "baslik": "GECE GELEN KONUK",
+  "sozler_html": "<p>Gözlerin nasıl bulanık / Gözlerin sanki bir orman</p>\n<p>Saklı korkulardan sanık / Sanki kaçarken vurulan</p>\n<p class=\"bos\"></p>\n<p>Dudakların nasıl ürkek / Ne kadar uzakta sesin</p>\n<p>Sen gece gelen konuğum / Hiç  kimsenin ve herkesin</p>\n<p class=\"bos\"></p>\n<p>Kirpiklerin diken diken / Tel örgüler kirpiklerin</p>\n<p>Yasak sınırlar geçerken / Geride kaybettiklerim</p>",
+  "sozler_duz": "Gözlerin nasıl bulanık / Gözlerin sanki bir orman Saklı korkulardan sanık / Sanki kaçarken vurulan Dudakların nasıl ürkek / Ne kadar uzakta sesin Sen gece gelen konuğum / Hiç kimsenin ve herkesin Kirpiklerin diken diken / Tel örgüler kirpiklerin Yasak sınırlar geçerken / Geride kaybettiklerim",
+  "meta": {
+    "yore": "",
+    "turu": "",
+    "turu2": "",
+    "derleyen": "",
+    "kaynak_kisi": "",
+    "soz": "Yağmur Adsız",
+    "muzik": "Arif Kemal",
+    "soyleyenler": "",
+    "repertuar": "",
+    "karar": "",
+    "diger_bilgiler": "S : Yağmur Adsız     M : Arif Kemal",
+    "aciklama": ""
+  },
+  "sistem": {
+    "eski_id": 815,
+    "olusturma": "2026-04-20",
+    "son_degisiklik": "2026-04-20",
+    "versiyon": 1,
+    "yayinlanabilir": true,
+    "kontrol_edildi": false
+  }
+}

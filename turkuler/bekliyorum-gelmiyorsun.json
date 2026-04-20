@@ -1,0 +1,28 @@
+{
+  "id": "bekliyorum-gelmiyorsun",
+  "baslik": "BEKLİYORUM GELMİYORSUN",
+  "sozler_html": "<p>Yetişmiyor sana sesim</p>\n<p>Bekliyorum gelmiyorsun</p>\n<p>Yıllar geçti mevsim mevsim</p>\n<p>Bekliyorum gelmiyorsun</p>\n<p class=\"bos\"></p>\n<p>Dağlar  yüce beller uzun</p>\n<p>Günler aylar yıllar uzun</p>\n<p>Bu kadar mı yollar uzun</p>\n<p>Bekliyorum gelmiyorsun</p>",
+  "sozler_duz": "Yetişmiyor sana sesim Bekliyorum gelmiyorsun Yıllar geçti mevsim mevsim Bekliyorum gelmiyorsun Dağlar yüce beller uzun Günler aylar yıllar uzun Bu kadar mı yollar uzun Bekliyorum gelmiyorsun",
+  "meta": {
+    "yore": "",
+    "turu": "",
+    "turu2": "",
+    "derleyen": "",
+    "kaynak_kisi": "",
+    "soz": "",
+    "muzik": "",
+    "soyleyenler": "",
+    "repertuar": "",
+    "karar": "",
+    "diger_bilgiler": "?     Ezginin Günlüğü",
+    "aciklama": ""
+  },
+  "sistem": {
+    "eski_id": 502,
+    "olusturma": "2026-04-20",
+    "son_degisiklik": "2026-04-20",
+    "versiyon": 1,
+    "yayinlanabilir": true,
+    "kontrol_edildi": false
+  }
+}

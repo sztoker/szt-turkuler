@@ -1,0 +1,28 @@
+{
+  "id": "bir-dost-bir-post",
+  "baslik": "BİR DOST BİR POST",
+  "sozler_html": "<p>Bütün dünya senin olsun  /  Bir dost bir post yeter bana</p>\n<p>Atlas libas senin olsun  /  Bir dost bir post yeter bana</p>\n<p class=\"bos\"></p>\n<p>Beyler tahtından inerler  /  Ayaksız ata binerler</p>\n<p>Toprağa gömüp dönerler  /  Bir dost bir post yeter bana</p>",
+  "sozler_duz": "Bütün dünya senin olsun / Bir dost bir post yeter bana Atlas libas senin olsun / Bir dost bir post yeter bana Beyler tahtından inerler / Ayaksız ata binerler Toprağa gömüp dönerler / Bir dost bir post yeter bana",
+  "meta": {
+    "yore": "",
+    "turu": "",
+    "turu2": "",
+    "derleyen": "",
+    "kaynak_kisi": "",
+    "soz": "",
+    "muzik": "",
+    "soyleyenler": "",
+    "repertuar": "",
+    "karar": "",
+    "diger_bilgiler": "",
+    "aciklama": ""
+  },
+  "sistem": {
+    "eski_id": 237,
+    "olusturma": "2026-04-20",
+    "son_degisiklik": "2026-04-20",
+    "versiyon": 1,
+    "yayinlanabilir": true,
+    "kontrol_edildi": false
+  }
+}

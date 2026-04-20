@@ -1,0 +1,28 @@
+{
+  "id": "seher-yeli",
+  "baslik": "SEHER YELİ",
+  "sozler_html": "<p>Seher yeli nazlı yare / Bildir beni bildir beni</p>\n<p>Düşmüşüm elden ayaktan / Kaldır beni kaldır beni</p>\n<p class=\"bos\"></p>\n<p>Söyle güzeller şahına / Yüz süreydim dergahına</p>\n<p>Zehir olan kadehine / Doldur beni doldur beni</p>\n<p class=\"bos\"></p>\n<p>Kul Ahmed'im gönül versem / Bağrında gülünü dersem</p>\n<p>Senden gayrı yar seversem / Öldür beni öldür beni</p>",
+  "sozler_duz": "Seher yeli nazlı yare / Bildir beni bildir beni Düşmüşüm elden ayaktan / Kaldır beni kaldır beni Söyle güzeller şahına / Yüz süreydim dergahına Zehir olan kadehine / Doldur beni doldur beni Kul Ahmed'im gönül versem / Bağrında gülünü dersem Senden gayrı yar seversem / Öldür beni öldür beni",
+  "meta": {
+    "yore": "",
+    "turu": "",
+    "turu2": "",
+    "derleyen": "",
+    "kaynak_kisi": "",
+    "soz": "Kul Ahmet",
+    "muzik": "",
+    "soyleyenler": "",
+    "repertuar": "",
+    "karar": "",
+    "diger_bilgiler": "S: Kul Ahmet",
+    "aciklama": ""
+  },
+  "sistem": {
+    "eski_id": 1136,
+    "olusturma": "2026-04-20",
+    "son_degisiklik": "2026-04-20",
+    "versiyon": 1,
+    "yayinlanabilir": true,
+    "kontrol_edildi": false
+  }
+}

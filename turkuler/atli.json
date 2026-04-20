@@ -1,0 +1,28 @@
+{
+  "id": "atli",
+  "baslik": "ATLI",
+  "sozler_html": "<p>Ay kocaman at kara</p>\n<p>Torbamda zeytin kara</p>\n<p>Bilirim de yolları</p>\n<p>Varamam Kordoba'ya</p>\n<p class=\"bos\"></p>\n<p>Ova geçtim yel geçtim</p>\n<p>Ay kırmızı at kara</p>\n<p>Ölüm gözler yolumu</p>\n<p>Kordoba surlarında</p>\n<p class=\"bos\"></p>\n<p>Yola baktım yol uzun</p>\n<p>Aman atım yaman atım</p>\n<p>Etme eyleme ölüm</p>\n<p>Varmadan Kordoba'ya</p>",
+  "sozler_duz": "Ay kocaman at kara Torbamda zeytin kara Bilirim de yolları Varamam Kordoba'ya Ova geçtim yel geçtim Ay kırmızı at kara Ölüm gözler yolumu Kordoba surlarında Yola baktım yol uzun Aman atım yaman atım Etme eyleme ölüm Varmadan Kordoba'ya",
+  "meta": {
+    "yore": "",
+    "turu": "",
+    "turu2": "Ö",
+    "derleyen": "",
+    "kaynak_kisi": "",
+    "soz": "F.G. Lorca",
+    "muzik": "Zülfü Livaneli",
+    "soyleyenler": "",
+    "repertuar": "2020_2",
+    "karar": "La",
+    "diger_bilgiler": "",
+    "aciklama": ""
+  },
+  "sistem": {
+    "eski_id": 457,
+    "olusturma": "2026-04-20",
+    "son_degisiklik": "2026-04-20",
+    "versiyon": 1,
+    "yayinlanabilir": true,
+    "kontrol_edildi": false
+  }
+}

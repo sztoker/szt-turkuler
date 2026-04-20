@@ -1,0 +1,28 @@
+{
+  "id": "gun-dogdu",
+  "baslik": "GÜN DOĞDU",
+  "sozler_html": "<p>Gün doğdu hep uyandık / Siperlere dayandık</p>\n<p>Bağımsızlık uğruna da / Al kanlara boyandık</p>\n<p class=\"bos\"></p>\n<p>Yolumuz devrim yolu / Gelin kardaşlar gelin</p>\n<p>Yurdumuza faşist dolmuş / Vurun kardaşlar vurun</p>",
+  "sozler_duz": "Gün doğdu hep uyandık / Siperlere dayandık Bağımsızlık uğruna da / Al kanlara boyandık Yolumuz devrim yolu / Gelin kardaşlar gelin Yurdumuza faşist dolmuş / Vurun kardaşlar vurun",
+  "meta": {
+    "yore": "",
+    "turu": "",
+    "turu2": "",
+    "derleyen": "",
+    "kaynak_kisi": "",
+    "soz": "",
+    "muzik": "",
+    "soyleyenler": "",
+    "repertuar": "",
+    "karar": "",
+    "diger_bilgiler": "",
+    "aciklama": ""
+  },
+  "sistem": {
+    "eski_id": 875,
+    "olusturma": "2026-04-20",
+    "son_degisiklik": "2026-04-20",
+    "versiyon": 1,
+    "yayinlanabilir": true,
+    "kontrol_edildi": false
+  }
+}

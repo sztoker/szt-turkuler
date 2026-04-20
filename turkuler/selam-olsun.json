@@ -1,0 +1,28 @@
+{
+  "id": "selam-olsun",
+  "baslik": "SELAM OLSUN",
+  "sozler_html": "<p>Selam olsun dağa daşa  /  Yaranlara selam olsun</p>\n<p>Ormandaki kurda kuşa  /  Cerenlere selam olsun</p>\n<p class=\"bos\"></p>\n<p>Dünya üstü kara zindan  /  Boynumuzda yağlı urgan</p>\n<p>Yolculardan hancılardan  /  Soranlara selam olsun</p>\n<p class=\"bos\"></p>\n<p>Ölüm canın has yoldaşı  /  Diken gülün gönüldeşi</p>\n<p>Kar altında deniz düşü  /  Kuranlara selam olsun</p>\n<p class=\"bos\"></p>\n<p>Kağıdımız çaput bizim /  Kefenimiz bulut bizim</p>\n<p>Mesleğimiz umut bizim  /  Kıranlara selam olsun</p>",
+  "sozler_duz": "Selam olsun dağa daşa / Yaranlara selam olsun Ormandaki kurda kuşa / Cerenlere selam olsun Dünya üstü kara zindan / Boynumuzda yağlı urgan Yolculardan hancılardan / Soranlara selam olsun Ölüm canın has yoldaşı / Diken gülün gönüldeşi Kar altında deniz düşü / Kuranlara selam olsun Kağıdımız çaput bizim / Kefenimiz bulut bizim Mesleğimiz umut bizim / Kıranlara selam olsun",
+  "meta": {
+    "yore": "",
+    "turu": "",
+    "turu2": "",
+    "derleyen": "",
+    "kaynak_kisi": "",
+    "soz": "Zülfü Livaneli",
+    "muzik": "Zülfü Livaneli",
+    "soyleyenler": "",
+    "repertuar": "",
+    "karar": "",
+    "diger_bilgiler": "",
+    "aciklama": ""
+  },
+  "sistem": {
+    "eski_id": 1137,
+    "olusturma": "2026-04-20",
+    "son_degisiklik": "2026-04-20",
+    "versiyon": 1,
+    "yayinlanabilir": true,
+    "kontrol_edildi": false
+  }
+}
