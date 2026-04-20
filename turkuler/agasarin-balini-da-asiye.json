@@ -1,26 +1,17 @@
 {
   "id": "agasarin-balini-da-asiye",
   "baslik": "AĞASAR’IN BALINI DA (ASİYE)",
-  "sozler_html": "<p>Ağ asarin balını da gel salını salını</p>\n<p>Adam cebinde taşır / Senin gibi gelini</p>\n<p>Adam cebinde taşır da / Senin gibi gelini</p>\n<p>Uy sevdiğim uy uy</p>\n<p class=\"bos\"></p>\n<p><b>Uy asiye asiye / Tütün koydum kesiye </b></p>\n<p><b>Anan seni veriyi da / Bir bağa pirasaya </b></p>\n<p><b>Uy sevdigim uy uy </b></p>\n<p class=\"bos\"></p>\n<p>Sis dağinin başları da / Püfur püfur esiyo</p>\n<p>Baban bu yıl gurbanı  / Çifter çifter kesiyo</p>\n<p>Baban bu yıl gurbanı  da / Çifter çifter kesiyo</p>\n<p>Uy sevdigim uy uy</p>\n<p class=\"bos\"></p>\n<p><b>Uy asiye asiye...</b></p>",
-  "sozler_duz": "Ağ asarin balını da gel salını salını Adam cebinde taşır / Senin gibi gelini Adam cebinde taşır da / Senin gibi gelini Uy sevdiğim uy uy Uy asiye asiye / Tütün koydum kesiye Anan seni veriyi da / Bir bağa pirasaya Uy sevdigim uy uy Sis dağinin başları da / Püfur püfur esiyo Baban bu yıl gurbanı / Çifter çifter kesiyo Baban bu yıl gurbanı da / Çifter çifter kesiyo Uy sevdigim uy uy Uy asiye asiye...",
+  "sozler_html": "<p>Ağasarin balını da gel salını salını</p>\n<p>Adam cebinde taşır / Senin gibi gelini</p>\n<p>Adam cebinde taşır da / Senin gibi gelini</p>\n<p>Uy sevdiğim uy uy</p>\n<p class=\"bos\"></p>\n<p><b>Uy asiye asiye / Tütün koydum kesiye </b></p>\n<p><b>Anan seni veriyi da / Bir bağa pirasaya </b></p>\n<p><b>Uy sevdigim uy uy </b></p>\n<p class=\"bos\"></p>\n<p>Sis dağinin başları da / Püfur püfur esiyo</p>\n<p>Baban bu yıl gurbanı  / Çifter çifter kesiyo</p>\n<p>Baban bu yıl gurbanı  da / Çifter çifter kesiyo</p>\n<p>Uy sevdigim uy uy</p>\n<p class=\"bos\"></p>\n<p><b>Uy asiye asiye...</b></p>",
+  "sozler_duz": "Ağasarin balını da gel salını salını\n\nAdam cebinde taşır / Senin gibi gelini\n\nAdam cebinde taşır da / Senin gibi gelini\n\nUy sevdiğim uy uy\n\nUy asiye asiye / Tütün koydum kesiye\n\nAnan seni veriyi da / Bir bağa pirasaya\n\nUy sevdigim uy uy\n\nSis dağinin başları da / Püfur püfur esiyo\n\nBaban bu yıl gurbanı / Çifter çifter kesiyo\n\nBaban bu yıl gurbanı da / Çifter çifter kesiyo\n\nUy sevdigim uy uy\n\nUy asiye asiye...",
   "meta": {
     "yore": "AKÇAABAT / TRABZON ?Giresun/Görele",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
     "kaynak_kisi": "Ömer Akpınar",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "La",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 384,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T15:32:44.993Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
