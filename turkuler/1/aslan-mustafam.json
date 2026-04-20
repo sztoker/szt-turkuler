@@ -1,26 +1,15 @@
 {
   "id": "aslan-mustafam",
   "baslik": "ASLAN MUSTAFAM",
-  "sozler_html": "<p>Hey hey - Kenardan geçeyim –anam anam</p>\n<p>yol sizin olsun –birtanem aman</p>\n<p>Ağular içeyim –anam anam-bal sizin olsun -birtanem aman</p>\n<p>Amanın gel gel gel gel gel –Aslan Mustafam aman</p>\n<p>Haydi gel gel- Kömür gözlü yarim vay vay</p>\n<p class=\"bos\"></p>\n<p>Hey hey - Bozkır dedikleri anam anam</p>\n<p>küçük kasaba birtanem aman</p>\n<p>Sevilir güzeller anam anam gelmez hesaba birtanem aman</p>\n<p>Amanın gel gel gel ...</p>",
-  "sozler_duz": "Hey hey - Kenardan geçeyim –anam anam yol sizin olsun –birtanem aman Ağular içeyim –anam anam-bal sizin olsun -birtanem aman Amanın gel gel gel gel gel –Aslan Mustafam aman Haydi gel gel- Kömür gözlü yarim vay vay Hey hey - Bozkır dedikleri anam anam küçük kasaba birtanem aman Sevilir güzeller anam anam gelmez hesaba birtanem aman Amanın gel gel gel ...",
+  "sozler_html": "<p>Hey hey - Kenardan geçeyim –anam anam</p>\n<p>yol sizin olsun –birtanem aman</p>\n<p>Ağular içeyim –anam anam</p><p>Bal sizin olsun -birtanem aman</p><p><br></p>\n<p><b>Amanın gel gel gel gel gel –Aslan Mustafam aman</b></p>\n<p><b>Haydi gel gel- Kömür gözlü yarim vay vay</b></p>\n<p class=\"bos\"></p>\n<p>Hey hey - Bozkır dedikleri anam anam</p>\n<p>küçük kasaba birtanem aman</p>\n<p>Sevilir güzeller anam anam&nbsp;</p><p>Gelmez hesaba birtanem aman</p><p><br></p>\n<p><b>Amanın gel gel gel ...</b></p>",
+  "sozler_duz": "Hey hey - Kenardan geçeyim –anam anam\n\nyol sizin olsun –birtanem aman\n\nAğular içeyim –anam anam\n\nBal sizin olsun -birtanem aman\n\nAmanın gel gel gel gel gel –Aslan Mustafam aman\n\nHaydi gel gel- Kömür gözlü yarim vay vay\n\nHey hey - Bozkır dedikleri anam anam\n\nküçük kasaba birtanem aman\n\nSevilir güzeller anam anam \n\nGelmez hesaba birtanem aman\n\nAmanın gel gel gel ...",
   "meta": {
-    "yore": "BOZKIR / KONYA",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "BOZKIR / KONYA     D :  İst. Bld. Kon.",
-    "aciklama": ""
+    "yore": "BOZKIR / KONYA"
   },
   "sistem": {
     "eski_id": 440,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T23:02:52.590Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
