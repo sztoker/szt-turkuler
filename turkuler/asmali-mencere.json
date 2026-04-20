@@ -1,26 +1,16 @@
 {
   "id": "asmali-mencere",
   "baslik": "ASMALI MENCERE",
-  "sozler_html": "<p>Asmalı Mencere</p>\n<p>Kara Gözlüm Al Beni içere</p>\n<p>Merdivanım Kırk Ayak</p>\n<p>Kırkına Vurdum Dayak</p>\n<p>Benden Başka Seversen</p>\n<p>Kalkmaz Döşeklere Yat</p>\n<p class=\"bos\"></p>\n<p>Olurmu Böyle</p>\n<p>Kara Gözlüm Derdini Söyle</p>\n<p class=\"bos\"></p>\n<p>Kaleden İndirdiler</p>\n<p>Kır Ata Bindirdiler</p>\n<p>Üç Günlük Güvey İken</p>\n<p>Yemen'e Gönderdiler</p>\n<p class=\"bos\"></p>\n<p>Olurmu Böyle</p>\n<p>Kara Gözlüm Derdini Söyle</p>",
-  "sozler_duz": "Asmalı Mencere Kara Gözlüm Al Beni içere Merdivanım Kırk Ayak Kırkına Vurdum Dayak Benden Başka Seversen Kalkmaz Döşeklere Yat Olurmu Böyle Kara Gözlüm Derdini Söyle Kaleden İndirdiler Kır Ata Bindirdiler Üç Günlük Güvey İken Yemen'e Gönderdiler Olurmu Böyle Kara Gözlüm Derdini Söyle",
+  "sozler_html": "<p>Asmalı Mencere</p>\n<p>Kara Gözlüm Al Beni içere</p>\n<p>Merdivanım Kırk Ayak</p>\n<p>Kırkına Vurdum Dayak</p>\n<p>Benden Başka Seversen</p>\n<p>Kalkmaz Döşeklere Yat</p>\n<p class=\"bos\"></p>\n<p><b>Olurmu Böyle</b></p>\n<p><b>Kara Gözlüm Derdini Söyle</b></p>\n<p class=\"bos\"></p>\n<p>Kaleden İndirdiler</p>\n<p>Kır Ata Bindirdiler</p>\n<p>Üç Günlük Güvey İken</p>\n<p>Yemen'e Gönderdiler</p>\n<p class=\"bos\"></p>\n<p><b>Olurmu Böyle</b></p>\n<p><b>Kara Gözlüm Derdini Söyle</b></p>",
+  "sozler_duz": "Asmalı Mencere\n\nKara Gözlüm Al Beni içere\n\nMerdivanım Kırk Ayak\n\nKırkına Vurdum Dayak\n\nBenden Başka Seversen\n\nKalkmaz Döşeklere Yat\n\nOlurmu Böyle\n\nKara Gözlüm Derdini Söyle\n\nKaleden İndirdiler\n\nKır Ata Bindirdiler\n\nÜç Günlük Güvey İken\n\nYemen'e Gönderdiler\n\nOlurmu Böyle\n\nKara Gözlüm Derdini Söyle",
   "meta": {
     "yore": "İzmir/Karaburun",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Müjgan Ağaoğlu-Muzaffer Sarısözen",
-    "aciklama": ""
+    "diger_bilgiler": "Müjgan Ağaoğlu-Muzaffer Sarısözen"
   },
   "sistem": {
     "eski_id": 3370,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T15:37:48.832Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
