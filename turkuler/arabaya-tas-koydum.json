@@ -1,26 +1,16 @@
 {
   "id": "arabaya-tas-koydum",
   "baslik": "ARABAYA TAŞ KOYDUM",
-  "sozler_html": "<p>Arabaya taş koydum -civanım arabaya taş koydum</p>\n<p>Ben bu yola baş koydum -civanım ben bu yola baş koydum</p>\n<p>Seni gelecek diye -civanım seni gelecek diye</p>\n<p>Sol yanımı boş koydum -civanım sol yanımı boş koydum</p>\n<p class=\"bos\"></p>\n<p>Kekliğim vak vak - ufak ufak ufak bas</p>\n<p>Aç kolların sar boynuma ister öldür ister as</p>\n<p class=\"bos\"></p>\n<p>Arabası dört teker / Beyoğlu’na kum çeker</p>\n<p>Beyoğlu’nun kızları / İşmar eder göz süzer / Kekliğim ...</p>",
-  "sozler_duz": "Arabaya taş koydum -civanım arabaya taş koydum Ben bu yola baş koydum -civanım ben bu yola baş koydum Seni gelecek diye -civanım seni gelecek diye Sol yanımı boş koydum -civanım sol yanımı boş koydum Kekliğim vak vak - ufak ufak ufak bas Aç kolların sar boynuma ister öldür ister as Arabası dört teker / Beyoğlu’na kum çeker Beyoğlu’nun kızları / İşmar eder göz süzer / Kekliğim ...",
+  "sozler_html": "<p>Arabaya taş koydum -civanım arabaya taş koydum</p>\n<p>Ben bu yola baş koydum -civanım ben bu yola baş koydum</p>\n<p>Seni gelecek diye -civanım seni gelecek diye</p>\n<p>Sol yanımı boş koydum -civanım sol yanımı boş koydum</p>\n<p class=\"bos\"></p>\n<p><b>Kekliğim vak vak - ufak ufak ufak bas</b></p>\n<p><b>Aç kolların sar boynuma ister öldür ister as</b></p>\n<p class=\"bos\"></p>\n<p>Arabası dört teker / Beyoğlu’na kum çeker</p>\n<p>Beyoğlu’nun kızları / İşmar eder göz süzer&nbsp;</p><p><br></p><p><b>Kekliğim vak vak...</b></p>",
+  "sozler_duz": "Arabaya taş koydum -civanım arabaya taş koydum\n\nBen bu yola baş koydum -civanım ben bu yola baş koydum\n\nSeni gelecek diye -civanım seni gelecek diye\n\nSol yanımı boş koydum -civanım sol yanımı boş koydum\n\nKekliğim vak vak - ufak ufak ufak bas\n\nAç kolların sar boynuma ister öldür ister as\n\nArabası dört teker / Beyoğlu’na kum çeker\n\nBeyoğlu’nun kızları / İşmar eder göz süzer \n\nKekliğim vak vak...",
   "meta": {
     "yore": "İSTANBUL",
-    "turu": "",
-    "turu2": "F",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_22",
-    "karar": "",
-    "diger_bilgiler": "(T) İSTANBUL                     Hüzzam / Aksak",
-    "aciklama": ""
+    "diger_bilgiler": "(T) İSTANBUL                     Hüzzam / Aksak"
   },
   "sistem": {
     "eski_id": 431,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T18:37:43.108Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
