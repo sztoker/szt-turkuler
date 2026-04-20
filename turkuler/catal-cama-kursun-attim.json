@@ -1,26 +1,16 @@
 {
   "id": "catal-cama-kursun-attim",
   "baslik": "ÇATAL ÇAMA KURŞUN ATTIM",
-  "sozler_html": "<p>Çatal çama kurşun attım geçmedi</p>\n<p>Al(i)efe'ye ayran verdim içmedi</p>\n<p>-aman yandım aman</p>\n<p class=\"bos\"></p>\n<p>Öşürcü Yakup elime geçmedi</p>\n<p>Teke bıçak tırpan gibi biçmedi</p>\n<p>-aman yandım aman</p>\n<p class=\"bos\"></p>\n<p>Kova kova çapulama kum doldu</p>\n<p>Silahlarım senin için gün doldu</p>\n<p>Öşürcüler bizim köyden kovuldu</p>\n<p>Düşmanlarım dumanlara boğuldu</p>",
-  "sozler_duz": "Çatal çama kurşun attım geçmedi Al(i)efe'ye ayran verdim içmedi -aman yandım aman Öşürcü Yakup elime geçmedi Teke bıçak tırpan gibi biçmedi -aman yandım aman Kova kova çapulama kum doldu Silahlarım senin için gün doldu Öşürcüler bizim köyden kovuldu Düşmanlarım dumanlara boğuldu",
+  "sozler_html": "<p>Çatal çama kurşun attım geçmedi</p>\n<p>Al(i)efe'ye ayran verdim içmedi</p>\n<p><i>-aman yandım aman</i></p>\n<p class=\"bos\"></p>\n<p>Öşürcü Yakup elime geçmedi</p>\n<p>Teke bıçak tırpan gibi biçmedi</p>\n<p><i>-aman yandım aman</i></p>\n<p class=\"bos\"></p>\n<p>Kova kova çapulama kum doldu</p>\n<p>Silahlarım senin için gün doldu</p><p><i>-aman yandım aman</i></p><p><br></p>\n<p>Öşürcüler bizim köyden kovuldu</p>\n<p>Düşmanlarım dumanlara boğuldu</p><p><i>-aman yandım aman</i></p>",
+  "sozler_duz": "Çatal çama kurşun attım geçmedi\n\nAl(i)efe'ye ayran verdim içmedi\n\n-aman yandım aman\n\nÖşürcü Yakup elime geçmedi\n\nTeke bıçak tırpan gibi biçmedi\n\n-aman yandım aman\n\nKova kova çapulama kum doldu\n\nSilahlarım senin için gün doldu\n\n-aman yandım aman\n\nÖşürcüler bizim köyden kovuldu\n\nDüşmanlarım dumanlara boğuldu\n\n-aman yandım aman",
   "meta": {
     "yore": "BOLU",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "Muzaffer Sarısözen",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "BOLU",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen"
   },
   "sistem": {
     "eski_id": 65,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T15:57:24.966Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
