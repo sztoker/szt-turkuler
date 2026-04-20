@@ -2,25 +2,16 @@
   "id": "asip-asip-gider-yaylanin-yolu",
   "baslik": "AŞIP AŞIP GİDER YAYLANIN YOLU",
   "sozler_html": "<p>Aşıp aşıp gider yaylanın yolu</p>\n<p>Sehile dayanmaz  yaylanı n  gülü</p>\n<p>Gayet güzel olsa yiğidin yari</p>\n<p>O da gelir bir bir iki naz ile</p>\n<p class=\"bos\"></p>\n<p>Yayla yollarında göç kater kater</p>\n<p>Eşinden ayrılmış bir palaz öter</p>\n<p>Ötme palaz ötme seni tutarlar</p>\n<p>Tutarlar da dar kafese atarlar</p>",
-  "sozler_duz": "Aşıp aşıp gider yaylanın yolu Sehile dayanmaz yaylanı n gülü Gayet güzel olsa yiğidin yari O da gelir bir bir iki naz ile Yayla yollarında göç kater kater Eşinden ayrılmış bir palaz öter Ötme palaz ötme seni tutarlar Tutarlar da dar kafese atarlar",
+  "sozler_duz": "Aşıp aşıp gider yaylanın yolu\n\nSehile dayanmaz yaylanı n gülü\n\nGayet güzel olsa yiğidin yari\n\nO da gelir bir bir iki naz ile\n\nYayla yollarında göç kater kater\n\nEşinden ayrılmış bir palaz öter\n\nÖtme palaz ötme seni tutarlar\n\nTutarlar da dar kafese atarlar",
   "meta": {
     "yore": "SİLİFKE",
-    "turu": "",
-    "turu2": "szt",
     "derleyen": "Adnan Ataman",
-    "kaynak_kisi": "Hüseyin Say",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "",
-    "diger_bilgiler": "SİLİFKE",
-    "aciklama": ""
+    "kaynak_kisi": "Hüseyin Say"
   },
   "sistem": {
     "eski_id": 447,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T23:00:36.429Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
