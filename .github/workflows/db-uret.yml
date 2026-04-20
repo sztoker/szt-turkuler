@@ -1,0 +1,39 @@
+name: Veritabanı Üret
+
+on:
+  # Elle tetikleme — GitHub'da "Actions" sekmesinden "Run workflow" butonu
+  workflow_dispatch:
+    inputs:
+      versiyon:
+        description: 'Sürüm numarası (örn: v1.2.0)'
+        required: true
+        default: 'v1.0.0'
+
+jobs:
+  db-uret:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo'yu çek
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Script'i çalıştır
+        run: python json_to_sqlite.py
+
+      - name: Release oluştur ve DB'yi yükle
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.inputs.versiyon }}
+          name: ${{ github.event.inputs.versiyon }}
+          body: |
+            JSON'lardan otomatik üretildi.
+            Türkü sayısı için Actions loguna bakın.
+          files: turku.db
+          make_latest: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
