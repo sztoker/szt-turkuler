@@ -2,25 +2,14 @@
   "id": "ay-giz-adin-yamandir",
   "baslik": "AY GIZ ADIN YAMANDIR",
   "sozler_html": "<p>Ay gız adın yamandır</p>\n<p>Hoş bakışın yamandır</p>\n<p>Dünen gece söz verdin balam</p>\n<p>Bu gece ki tamamdır</p>\n<p class=\"bos\"></p>\n<p><b>Kaşın gözün şirin sözün  </b></p>\n<p><b>Aldı yazık canımı</b></p>\n<p><b>Men sene heyran </b></p>\n<p><b>Sen cana kurban</b></p>\n<p><b>Ay hanım hanım </b></p>\n<p><b>Men seni alım </b></p>\n<p><b>Dağlara kaçım bu gece</b></p>\n<p class=\"bos\"></p>\n<p>Ay gız adın Emine</p>\n<p>Şeker verdim yenile</p>\n<p>Nenem seni beğendi balam</p>\n<p>Kaç gel sen de ben ile</p>\n<p class=\"bos\"></p>\n<p><b>Kaşın gözün ...</b></p>",
-  "sozler_duz": "Ay gız adın yamandır Hoş bakışın yamandır Dünen gece söz verdin balam Bu gece ki tamamdır Kaşın gözün şirin sözün Aldı yazık canımı Men sene heyran Sen cana kurban Ay hanım hanım Men seni alım Dağlara kaçım bu gece Ay gız adın Emine Şeker verdim yenile Nenem seni beğendi balam Kaç gel sen de ben ile Kaşın gözün ...",
+  "sozler_duz": "Ay gız adın yamandır\n\nHoş bakışın yamandır\n\nDünen gece söz verdin balam\n\nBu gece ki tamamdır\n\nKaşın gözün şirin sözün\n\nAldı yazık canımı\n\nMen sene heyran\n\nSen cana kurban\n\nAy hanım hanım\n\nMen seni alım\n\nDağlara kaçım bu gece\n\nAy gız adın Emine\n\nŞeker verdim yenile\n\nNenem seni beğendi balam\n\nKaç gel sen de ben ile\n\nKaşın gözün ...",
   "meta": {
-    "yore": "AZERİ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AZERİ",
-    "aciklama": ""
+    "yore": "AZERİ"
   },
   "sistem": {
     "eski_id": 465,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T23:05:13.885Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
