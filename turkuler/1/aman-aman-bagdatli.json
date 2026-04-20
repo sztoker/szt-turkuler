@@ -2,25 +2,16 @@
   "id": "aman-aman-bagdatli",
   "baslik": "AMAN AMAN BAĞDATLI",
   "sozler_html": "<p>Aman aman Bağdat’lı</p>\n<p>Yanağı baldan tatlı</p>\n<p>Kış günü yar yanında</p>\n<p>Yaz günü sahra tatlı</p>\n<p class=\"bos\"></p>\n<p><b>Aman meleğim nasıl edeyim </b></p>\n<p><b>Seko seko seko gel yanıma </b></p>\n<p class=\"bos\"></p>\n<p>Bağdat’ın hamamları</p>\n<p>Yanıyor külhanları</p>\n<p>Ne acayip baş bağlar</p>\n<p>Antakya hanımları</p>\n<p class=\"bos\"></p>\n<p><b>Aman meleğim...</b></p>\n<p class=\"bos\"></p>\n<p>Bağdat’a giden olsa</p>\n<p>Halimden bilen olsa</p>\n<p>Seni yıkarım bağdat</p>\n<p>Yarime ziyan olsa</p>\n<p class=\"bos\"></p>\n<p><b>Aman meleğim...</b></p>\n<p class=\"bos\"></p>\n<p>Bağdat’a tel vuruldu</p>\n<p>Akan sular duruldu</p>\n<p>Şu benim cahil gönlüm</p>\n<p>Bir güzele vuruldu</p>\n<p class=\"bos\"></p>\n<p><b>Aman meleğim...</b></p>",
-  "sozler_duz": "Aman aman Bağdat’lı Yanağı baldan tatlı Kış günü yar yanında Yaz günü sahra tatlı Aman meleğim nasıl edeyim Seko seko seko gel yanıma Bağdat’ın hamamları Yanıyor külhanları Ne acayip baş bağlar Antakya hanımları Aman meleğim... Bağdat’a giden olsa Halimden bilen olsa Seni yıkarım bağdat Yarime ziyan olsa Aman meleğim... Bağdat’a tel vuruldu Akan sular duruldu Şu benim cahil gönlüm Bir güzele vuruldu Aman meleğim...",
+  "sozler_duz": "Aman aman Bağdat’lı\n\nYanağı baldan tatlı\n\nKış günü yar yanında\n\nYaz günü sahra tatlı\n\nAman meleğim nasıl edeyim\n\nSeko seko seko gel yanıma\n\nBağdat’ın hamamları\n\nYanıyor külhanları\n\nNe acayip baş bağlar\n\nAntakya hanımları\n\nAman meleğim...\n\nBağdat’a giden olsa\n\nHalimden bilen olsa\n\nSeni yıkarım bağdat\n\nYarime ziyan olsa\n\nAman meleğim...\n\nBağdat’a tel vuruldu\n\nAkan sular duruldu\n\nŞu benim cahil gönlüm\n\nBir güzele vuruldu\n\nAman meleğim...",
   "meta": {
     "yore": "Hatay",
-    "turu": "",
-    "turu2": "BB",
     "derleyen": "Muzaffer Sarısözen",
-    "kaynak_kisi": "Necmettin Melek",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Necmettin Melek"
   },
   "sistem": {
     "eski_id": 5244,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T22:53:14.088Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
