@@ -1,26 +1,17 @@
 {
   "id": "adananin-yollari-taslik",
   "baslik": "ADANANIN YOLLARI TAŞLIK",
-  "sozler_html": "<p>Adana’nın yolları taşlık</p>\n<p>Yok cebimizde beş para harçlık</p>\n<p>Elden gitti kahpe de gençlik</p>\n<p class=\"bos\"></p>\n<p><b>Ağ am Adana'lı paş am Adana'lı </b></p>\n<p><b>Evde duramıyom sana dadanalı</b></p>\n<p><b>Sebebim sen oldun şişman delikanlı</b></p>\n<p><b>Hey güllü hele hele güllü</b></p>\n<p><b>Kız güllü hele hele güllü</b></p>\n<p><b>Peştemalı püsküllü, peştemalı sümbüllü</b></p>\n<p><b>Ağam Adana'lı paşam Adana'lı</b></p>\n<p><b>Evde duramıyom sana dadanalı</b></p>\n<p class=\"bos\"></p>\n<p>Adana'nın yolları taştan</p>\n<p>Sen çıkardın beni baştan</p>\n<p>Hem anadan hem kardaştan</p>\n<p class=\"bos\"></p>\n<p><b>Ağam Adana'lı paşam...</b></p>\n<p class=\"bos\"></p>\n<p>Adana'nın bayırına</p>\n<p>Ağam at güverdim çayırına</p>\n<p>Anam babam hayırına</p>\n<p class=\"bos\"></p>\n<p><b>Ağam Adana'lı paşam...</b></p>",
-  "sozler_duz": "Adana’nın yolları taşlık Yok cebimizde beş para harçlık Elden gitti kahpe de gençlik Ağ am Adana'lı paş am Adana'lı Evde duramıyom sana dadanalı Sebebim sen oldun şişman delikanlı Hey güllü hele hele güllü Kız güllü hele hele güllü Peştemalı püsküllü, peştemalı sümbüllü Ağam Adana'lı paşam Adana'lı Evde duramıyom sana dadanalı Adana'nın yolları taştan Sen çıkardın beni baştan Hem anadan hem kardaştan Ağam Adana'lı paşam... Adana'nın bayırına Ağam at güverdim çayırına Anam babam hayırına Ağam Adana'lı paşam...",
+  "sozler_html": "<p>Adana’nın yolları taşlık</p>\n<p>Yok cebimizde beş para harçlık</p>\n<p>Elden gitti kahpe de gençlik</p>\n<p class=\"bos\"></p>\n<p><b>Ağam Adana'lı paş am Adana'lı </b></p>\n<p><b>Evde duramıyom sana dadanalı</b></p>\n<p><b>Sebebim sen oldun şişman delikanlı</b></p>\n<p><b>Hey güllü hele hele güllü</b></p>\n<p><b>Kız güllü hele hele güllü</b></p>\n<p><b>Peştemalı püsküllü, peştemalı sümbüllü</b></p>\n<p><b>Ağam Adana'lı paşam Adana'lı</b></p>\n<p><b>Evde duramıyom sana dadanalı</b></p>\n<p class=\"bos\"></p>\n<p>Adana'nın yolları taştan</p>\n<p>Sen çıkardın beni baştan</p>\n<p>Hem anadan hem kardaştan</p>\n<p class=\"bos\"></p>\n<p><b>Ağam Adana'lı paşam...</b></p>\n<p class=\"bos\"></p>\n<p>Adana'nın bayırına</p>\n<p>Ağam at güverdim çayırına</p>\n<p>Anam babam hayırına</p>\n<p class=\"bos\"></p>\n<p><b>Ağam Adana'lı paşam...</b></p>",
+  "sozler_duz": "Adana’nın yolları taşlık\n\nYok cebimizde beş para harçlık\n\nElden gitti kahpe de gençlik\n\nAğam Adana'lı paş am Adana'lı\n\nEvde duramıyom sana dadanalı\n\nSebebim sen oldun şişman delikanlı\n\nHey güllü hele hele güllü\n\nKız güllü hele hele güllü\n\nPeştemalı püsküllü, peştemalı sümbüllü\n\nAğam Adana'lı paşam Adana'lı\n\nEvde duramıyom sana dadanalı\n\nAdana'nın yolları taştan\n\nSen çıkardın beni baştan\n\nHem anadan hem kardaştan\n\nAğam Adana'lı paşam...\n\nAdana'nın bayırına\n\nAğam at güverdim çayırına\n\nAnam babam hayırına\n\nAğam Adana'lı paşam...",
   "meta": {
     "yore": "Adana",
-    "turu": "",
-    "turu2": "",
     "derleyen": "Muzaffer Sarısözen",
-    "kaynak_kisi": "Yöre Ekibi",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "22",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Yöre Ekibi"
   },
   "sistem": {
     "eski_id": 3264,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T21:53:31.161Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
