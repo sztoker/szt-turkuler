@@ -2,25 +2,14 @@
   "id": "atmacayi-vurdular",
   "baslik": "ATMACAYI VURDULAR",
   "sozler_html": "<p>Atmacayı vurdular bir avuç kanı için</p>\n<p>Gel edelim sevdalık babanın canı için</p>\n<p>Kadir kayıp diyorlar nereye gidiyorlar</p>\n<p>Benim ufak gülümü ellere veriyorlar</p>\n<p class=\"bos\"></p>\n<p>Gidemiyom yaylaya yol yok mudur karadan</p>\n<p>Sevdalık edenleri ayırmasın yaradan</p>\n<p>Haydi gidelim size sizin yolların size</p>\n<p>Ne dedim de darıldın niye gelmiyon bize</p>",
-  "sozler_duz": "Atmacayı vurdular bir avuç kanı için Gel edelim sevdalık babanın canı için Kadir kayıp diyorlar nereye gidiyorlar Benim ufak gülümü ellere veriyorlar Gidemiyom yaylaya yol yok mudur karadan Sevdalık edenleri ayırmasın yaradan Haydi gidelim size sizin yolların size Ne dedim de darıldın niye gelmiyon bize",
+  "sozler_duz": "Atmacayı vurdular bir avuç kanı için\n\nGel edelim sevdalık babanın canı için\n\nKadir kayıp diyorlar nereye gidiyorlar\n\nBenim ufak gülümü ellere veriyorlar\n\nGidemiyom yaylaya yol yok mudur karadan\n\nSevdalık edenleri ayırmasın yaradan\n\nHaydi gidelim size sizin yolların size\n\nNe dedim de darıldın niye gelmiyon bize",
   "meta": {
-    "yore": "GÖRELE",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "GÖRELE",
-    "aciklama": ""
+    "yore": "GÖRELE"
   },
   "sistem": {
     "eski_id": 458,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T23:04:46.003Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
