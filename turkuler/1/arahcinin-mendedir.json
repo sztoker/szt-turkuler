@@ -2,25 +2,14 @@
   "id": "arahcinin-mendedir",
   "baslik": "ARAHCININ MENDEDİR",
   "sozler_html": "<p>Arahcının mendedir ceyran</p>\n<p>Sermişem emendedir ceyran</p>\n<p>Alem gözele dönse ceyran</p>\n<p>Menim könlüm sendedir ceyran</p>\n<p class=\"bos\"></p>\n<p>Aşığın çoktur senin çoktur</p>\n<p>Kirpiğin oktur senin oktur</p>\n<p>Derdinden men deliyem</p>\n<p>Hiç haberin yoktur senin yoktur</p>\n<p class=\"bos\"></p>\n<p>Sene men gül diyemem ceyran</p>\n<p>Gülün ömrü az olur ceyran</p>\n<p>Sene bülbül diyemem ceyran</p>\n<p>Bülbül hoş-avaz olur ceyran</p>",
-  "sozler_duz": "Arahcının mendedir ceyran Sermişem emendedir ceyran Alem gözele dönse ceyran Menim könlüm sendedir ceyran Aşığın çoktur senin çoktur Kirpiğin oktur senin oktur Derdinden men deliyem Hiç haberin yoktur senin yoktur Sene men gül diyemem ceyran Gülün ömrü az olur ceyran Sene bülbül diyemem ceyran Bülbül hoş-avaz olur ceyran",
+  "sozler_duz": "Arahcının mendedir ceyran\n\nSermişem emendedir ceyran\n\nAlem gözele dönse ceyran\n\nMenim könlüm sendedir ceyran\n\nAşığın çoktur senin çoktur\n\nKirpiğin oktur senin oktur\n\nDerdinden men deliyem\n\nHiç haberin yoktur senin yoktur\n\nSene men gül diyemem ceyran\n\nGülün ömrü az olur ceyran\n\nSene bülbül diyemem ceyran\n\nBülbül hoş-avaz olur ceyran",
   "meta": {
-    "yore": "AZERİ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AZERİ",
-    "aciklama": ""
+    "yore": "AZERİ"
   },
   "sistem": {
     "eski_id": 432,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T22:56:13.386Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
