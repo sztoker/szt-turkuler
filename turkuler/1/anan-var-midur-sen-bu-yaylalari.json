@@ -2,25 +2,15 @@
   "id": "anan-var-midur-sen-bu-yaylalari",
   "baslik": "ANAN VAR MİDUR (Sen bu yaylaları...)",
   "sozler_html": "<p>Hey- Sen bu yaylalari yayliyamazsun</p>\n<p>Gülüm yayliyamazsun</p>\n<p>Derindir ırmaklari boyliyamazsun</p>\n<p>Ak ellerin kınalidur oyniyamazsun</p>\n<p class=\"bos\"></p>\n<p><b>Anan var midur / Baban var midur</b></p>\n<p><b>Seni bağa methettiler / Asli var midur</b></p>\n<p><b>Dema nenene (4</b></p>\n<p><b>Dersan beni nenene koyar kefene</b></p>\n<p class=\"bos\"></p>\n<p>Hey – Açildum açildum açilamadum</p>\n<p>Gülüm açilamadum</p>\n<p>Ufak idi terazisi tartilamadum</p>\n<p>O domuzun kızina da sarilamadum</p>\n<p class=\"bos\"></p>\n<p><b>Anan var midur ...</b></p>\n<p class=\"bos\"></p>\n<p>Soğuk su başında kuzu kebabi</p>\n<p>Kuzu kebabi yavrim kuzu kebabi</p>\n<p>İner düz ovaya çeker şarabi</p>\n<p>Zalim uşağun yoktur imani</p>",
-  "sozler_duz": "Hey- Sen bu yaylalari yayliyamazsun Gülüm yayliyamazsun Derindir ırmaklari boyliyamazsun Ak ellerin kınalidur oyniyamazsun Anan var midur / Baban var midur Seni bağa methettiler / Asli var midur Dema nenene (4 Dersan beni nenene koyar kefene Hey – Açildum açildum açilamadum Gülüm açilamadum Ufak idi terazisi tartilamadum O domuzun kızina da sarilamadum Anan var midur ... Soğuk su başında kuzu kebabi Kuzu kebabi yavrim kuzu kebabi İner düz ovaya çeker şarabi Zalim uşağun yoktur imani",
+  "sozler_duz": "Hey- Sen bu yaylalari yayliyamazsun\n\nGülüm yayliyamazsun\n\nDerindir ırmaklari boyliyamazsun\n\nAk ellerin kınalidur oyniyamazsun\n\nAnan var midur / Baban var midur\n\nSeni bağa methettiler / Asli var midur\n\nDema nenene (4\n\nDersan beni nenene koyar kefene\n\nHey – Açildum açildum açilamadum\n\nGülüm açilamadum\n\nUfak idi terazisi tartilamadum\n\nO domuzun kızina da sarilamadum\n\nAnan var midur ...\n\nSoğuk su başında kuzu kebabi\n\nKuzu kebabi yavrim kuzu kebabi\n\nİner düz ovaya çeker şarabi\n\nZalim uşağun yoktur imani",
   "meta": {
     "yore": "TRABZON",
-    "turu": "1",
-    "turu2": "T",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "La",
-    "diger_bilgiler": "TRABZON",
-    "aciklama": ""
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 422,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T22:54:25.868Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
