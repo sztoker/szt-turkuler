@@ -2,25 +2,15 @@
   "id": "ayletme-beni",
   "baslik": "AYLETME BENİ",
   "sozler_html": "<p>Şu karşıki dağda</p>\n<p>Lambalar yanar {2</p>\n<p>Lambanın şavkına Fadimem</p>\n<p>Sevdiğim yazar {2</p>\n<p class=\"bos\"></p>\n<p><b>Ayletme beni söyletme beni (2</b></p>\n<p><b>Alçak yüksek tepede Fadimem </b></p>\n<p><b>Bekletme beni {2           </b></p>\n<p class=\"bos\"></p>\n<p>Şu karşıki dağda</p>\n<p>Kuzular meler</p>\n<p>Kuzu sesi değildir Fadimem</p>\n<p>Ömürler biter</p>\n<p class=\"bos\"></p>\n<p><b>Ayletme beni ...</b></p>",
-  "sozler_duz": "Şu karşıki dağda Lambalar yanar {2 Lambanın şavkına Fadimem Sevdiğim yazar {2 Ayletme beni söyletme beni (2 Alçak yüksek tepede Fadimem Bekletme beni {2 Şu karşıki dağda Kuzular meler Kuzu sesi değildir Fadimem Ömürler biter Ayletme beni ...",
+  "sozler_duz": "Şu karşıki dağda\n\nLambalar yanar {2\n\nLambanın şavkına Fadimem\n\nSevdiğim yazar {2\n\nAyletme beni söyletme beni (2\n\nAlçak yüksek tepede Fadimem\n\nBekletme beni {2\n\nŞu karşıki dağda\n\nKuzular meler\n\nKuzu sesi değildir Fadimem\n\nÖmürler biter\n\nAyletme beni ...",
   "meta": {
     "yore": "Rumeli",
-    "turu": "1",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "Re",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "karar": "Re"
   },
   "sistem": {
     "eski_id": 3252,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T23:06:42.507Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
