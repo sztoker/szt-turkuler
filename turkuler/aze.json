@@ -1,26 +1,15 @@
 {
   "id": "aze",
   "baslik": "AZE",
-  "sozler_html": "<p>Dağların eteğinden geldiler</p>\n<p>Aze’yi gelin almaya</p>\n<p>Aze’nin gece saçına * ak duvağı takmaya</p>\n<p>Düğün dernek kurulur * sofralar dizilir</p>\n<p>Aze’nin gece saçına * yıldızlar serpilir</p>\n<p>Aze’nin yüreğinde * bir başka sevda gizlidir</p>\n<p>Aze’nin gece saçına * yıldızlar serpilir</p>\n<p class=\"bos\"></p>\n<p>Aze bizim Aze * dağların kızı Aze</p>\n<p>Yüreği yiğit Aze * gözleri güleç Aze          {2</p>\n<p>Veremem veremem veremem * Azemi ellere     (2</p>\n<p class=\"bos\"></p>\n<p>Bir şahin uçur dağlara * Aze’nin sevdiği o insana</p>\n<p>Bir şahin kanadında * dağlara –hey</p>\n<p>Veremem veremem veremem * Azemi ellere     (2</p>\n<p>Aze bizim Aze...</p>",
-  "sozler_duz": "Dağların eteğinden geldiler Aze’yi gelin almaya Aze’nin gece saçına * ak duvağı takmaya Düğün dernek kurulur * sofralar dizilir Aze’nin gece saçına * yıldızlar serpilir Aze’nin yüreğinde * bir başka sevda gizlidir Aze’nin gece saçına * yıldızlar serpilir Aze bizim Aze * dağların kızı Aze Yüreği yiğit Aze * gözleri güleç Aze {2 Veremem veremem veremem * Azemi ellere (2 Bir şahin uçur dağlara * Aze’nin sevdiği o insana Bir şahin kanadında * dağlara –hey Veremem veremem veremem * Azemi ellere (2 Aze bizim Aze...",
+  "sozler_html": "<p>Dağların eteğinden geldiler</p>\n<p>Aze’yi gelin almaya</p>\n<p>Aze’nin gece saçına * ak duvağı takmaya</p>\n<p>Düğün dernek kurulur * sofralar dizilir</p>\n<p>Aze’nin gece saçına * yıldızlar serpilir</p>\n<p>Aze’nin yüreğinde * bir başka sevda gizlidir</p>\n<p>Aze’nin gece saçına * yıldızlar serpilir</p>\n<p class=\"bos\"></p>\n<p><b>Aze bizim Aze * dağların kızı Aze</b></p>\n<p><b>Yüreği yiğit Aze * gözleri güleç Aze          {2</b></p>\n<p><b>Veremem veremem veremem * Azemi ellere     (2</b></p>\n<p class=\"bos\"></p>\n<p>Bir şahin uçur dağlara * Aze’nin sevdiği o insana</p>\n<p>Bir şahin kanadında * dağlara –hey</p>\n<p>Veremem veremem veremem * Azemi ellere     (2</p><p><br></p>\n<p><b>Aze bizim Aze...</b></p>",
+  "sozler_duz": "Dağların eteğinden geldiler\n\nAze’yi gelin almaya\n\nAze’nin gece saçına * ak duvağı takmaya\n\nDüğün dernek kurulur * sofralar dizilir\n\nAze’nin gece saçına * yıldızlar serpilir\n\nAze’nin yüreğinde * bir başka sevda gizlidir\n\nAze’nin gece saçına * yıldızlar serpilir\n\nAze bizim Aze * dağların kızı Aze\n\nYüreği yiğit Aze * gözleri güleç Aze {2\n\nVeremem veremem veremem * Azemi ellere (2\n\nBir şahin uçur dağlara * Aze’nin sevdiği o insana\n\nBir şahin kanadında * dağlara –hey\n\nVeremem veremem veremem * Azemi ellere (2\n\nAze bizim Aze...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?     Y : İlkay Akkaya (Kızılırmak)",
-    "aciklama": ""
+    "diger_bilgiler": "?     Y : İlkay Akkaya (Kızılırmak)"
   },
   "sistem": {
     "eski_id": 481,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T15:40:57.390Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
