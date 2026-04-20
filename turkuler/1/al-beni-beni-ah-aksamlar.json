@@ -2,25 +2,16 @@
   "id": "al-beni-beni-ah-aksamlar",
   "baslik": "AL BENİ BENİ (Ah Akşamlar)",
   "sozler_html": "<p>Ah (Oy) akşamlar akşamlar</p>\n<p>Gene geldi akşamlar</p>\n<p>Evli evine gider – bağlar gazeli</p>\n<p>Garip nerde akşamlar -Avşar güzeli</p>\n<p class=\"bos\"></p>\n<p><b>Al beni beni-sar beni beni-yar değil misin</b></p>\n<p><b>Beni bu sevdaya salan sen değil misin</b></p>\n<p><b>Al beni beni-sar beni beni-yeşil yapraklar</b></p>\n<p><b>Saramazsam sarsın seni kara topraklar</b></p>\n<p class=\"bos\"></p>\n<p>Sevdi aldattı beni - güldü ağlattı beni</p>\n<p>Gittim kölesi oldum - bağlar gazeli</p>\n<p>Bir pula sattı beni - Avşar güzeli</p>\n<p class=\"bos\"></p>\n<p><b>Al beni beni ....</b></p>\n<p class=\"bos\"></p>\n<p>Akşamlar hüzün dolu - yolum gurbetin yolu</p>\n<p>Sevdiğimi alamazsam - bağlar gazeli</p>\n<p>Güler bana eloğlu - Avşar güzeli</p>\n<p class=\"bos\"></p>\n<p><b>Al beni beni...</b></p>",
-  "sozler_duz": "Ah (Oy) akşamlar akşamlar Gene geldi akşamlar Evli evine gider – bağlar gazeli Garip nerde akşamlar -Avşar güzeli Al beni beni-sar beni beni-yar değil misin Beni bu sevdaya salan sen değil misin Al beni beni-sar beni beni-yeşil yapraklar Saramazsam sarsın seni kara topraklar Sevdi aldattı beni - güldü ağlattı beni Gittim kölesi oldum - bağlar gazeli Bir pula sattı beni - Avşar güzeli Al beni beni .... Akşamlar hüzün dolu - yolum gurbetin yolu Sevdiğimi alamazsam - bağlar gazeli Güler bana eloğlu - Avşar güzeli Al beni beni...",
+  "sozler_duz": "Ah (Oy) akşamlar akşamlar\n\nGene geldi akşamlar\n\nEvli evine gider – bağlar gazeli\n\nGarip nerde akşamlar -Avşar güzeli\n\nAl beni beni-sar beni beni-yar değil misin\n\nBeni bu sevdaya salan sen değil misin\n\nAl beni beni-sar beni beni-yeşil yapraklar\n\nSaramazsam sarsın seni kara topraklar\n\nSevdi aldattı beni - güldü ağlattı beni\n\nGittim kölesi oldum - bağlar gazeli\n\nBir pula sattı beni - Avşar güzeli\n\nAl beni beni ....\n\nAkşamlar hüzün dolu - yolum gurbetin yolu\n\nSevdiğimi alamazsam - bağlar gazeli\n\nGüler bana eloğlu - Avşar güzeli\n\nAl beni beni...",
   "meta": {
     "yore": "ELAZIĞ",
-    "turu": "1",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
     "soyleyenler": "Hasan YÜKSELİR",
-    "repertuar": "2020_22",
-    "karar": "Re",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "karar": "Re"
   },
   "sistem": {
     "eski_id": 400,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T22:48:55.633Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
