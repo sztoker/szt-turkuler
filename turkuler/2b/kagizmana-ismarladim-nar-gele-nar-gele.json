@@ -1,26 +1,16 @@
 {
   "id": "kagizmana-ismarladim-nar-gele-nar-gele",
   "baslik": "Kağızman'a Ismarladım Nar Gele Nar Gele_",
-  "sozler_html": "<p>Kağızman'a Ismarladım Nar Gele Nar GeleGümüş Kemer İnce Bele Dar Gele Dar Gele VayDar Gele Dar Gele Vay Dar Gele Dar GeleBaharda Yayılır Kuzu Yan Yana Yan YanaBenim Yarim İnci Takar Gerdana Gerdana VayGerdana Gerdana Vay Gerdana GerdanaBenim Yarim Güzellerden Bir Daneİçlerinde Sarı Saçlı Güldane VayGüldane Güldane Vay Güldane Güldane</p>",
-  "sozler_duz": "Kağızman'a Ismarladım Nar Gele Nar GeleGümüş Kemer İnce Bele Dar Gele Dar Gele VayDar Gele Dar Gele Vay Dar Gele Dar GeleBaharda Yayılır Kuzu Yan Yana Yan YanaBenim Yarim İnci Takar Gerdana Gerdana VayGerdana Gerdana Vay Gerdana GerdanaBenim Yarim Güzellerden Bir Daneİçlerinde Sarı Saçlı Güldane VayGüldane Güldane Vay Güldane Güldane",
+  "sozler_html": "<p>Kağızman'a Ismarladım</p><p>Nar Gele Nar Gele</p><p>Gümüş Kemer İnce Bele&nbsp;</p><p><i>Dar Gele Dar Gele Vay</i></p><p><i>Dar Gele Dar Gele Vay&nbsp;</i></p><p><i>Dar Gele Dar Gele</i></p><p><br></p><p>Baharda Yayılır Kuzu&nbsp;</p><p>Yan Yana Yan Yana</p><p>Benim Yarim İnci Takar&nbsp;</p><p><i>Gerdana Gerdana Vay</i></p><p><i>Gerdana Gerdana Vay&nbsp;</i></p><p><i>Gerdana Gerdana</i></p><p><br></p><p>Benim Yarim Güzellerden&nbsp;</p><p>Bir Dane Bir Dane</p><p>İçlerinde Sarı Saçlı&nbsp;</p><p><i>Güldane Güldane vay</i></p><p><i>Güldane Güldane Vay&nbsp;</i></p><p><i>Güldane Güldane</i></p>",
+  "sozler_duz": "Kağızman'a Ismarladım\n\nNar Gele Nar Gele\n\nGümüş Kemer İnce Bele \n\nDar Gele Dar Gele Vay\n\nDar Gele Dar Gele Vay \n\nDar Gele Dar Gele\n\nBaharda Yayılır Kuzu \n\nYan Yana Yan Yana\n\nBenim Yarim İnci Takar \n\nGerdana Gerdana Vay\n\nGerdana Gerdana Vay \n\nGerdana Gerdana\n\nBenim Yarim Güzellerden \n\nBir Dane Bir Dane\n\nİçlerinde Sarı Saçlı \n\nGüldane Güldane vay\n\nGüldane Güldane Vay \n\nGüldane Güldane",
   "meta": {
     "yore": "Erzurum",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Muharrem Akkuş-Nida Tüfekçi",
-    "aciklama": ""
+    "diger_bilgiler": "Muharrem Akkuş-Nida Tüfekçi"
   },
   "sistem": {
     "eski_id": 5706,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T22:02:46.253Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
