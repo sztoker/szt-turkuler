@@ -2,25 +2,15 @@
   "id": "ayva-cicek-acmis",
   "baslik": "AYVA ÇİÇEK AÇMIŞ",
   "sozler_html": "<p>Ayva çiçek açmış yaz mı gelecek</p>\n<p>Gönül bu sevdadan vaz mı geçecek</p>\n<p>Bana ettiklerin az mı gelecek</p>\n<p class=\"bos\"></p>\n<p><b>Yandım Allah yandım yandırma beni</b></p>\n<p><b>Derin uykulardan kaldırma beni</b></p>\n<p><b>Seviyorum diyerek kandırma beni</b></p>\n<p class=\"bos\"></p>\n<p>Ayaş yollarını aştım da geldim</p>\n<p>Boyunu boyuma ölçtüm de geldim</p>\n<p>Güzeller içinden seçtim de geldim</p>\n<p class=\"bos\"></p>\n<p><b>Yandım ...</b></p>\n<p class=\"bos\"></p>\n<p>Ayaş yollarında kervanın mı var</p>\n<p>Beni öldürmeye fermanın mı var</p>\n<p>Ağlamaya sızlamaya dermanım mı var</p>\n<p class=\"bos\"></p>\n<p><b>Yandım ...</b></p>",
-  "sozler_duz": "Ayva çiçek açmış yaz mı gelecek Gönül bu sevdadan vaz mı geçecek Bana ettiklerin az mı gelecek Yandım Allah yandım yandırma beni Derin uykulardan kaldırma beni Seviyorum diyerek kandırma beni Ayaş yollarını aştım da geldim Boyunu boyuma ölçtüm de geldim Güzeller içinden seçtim de geldim Yandım ... Ayaş yollarında kervanın mı var Beni öldürmeye fermanın mı var Ağlamaya sızlamaya dermanım mı var Yandım ...",
+  "sozler_duz": "Ayva çiçek açmış yaz mı gelecek\n\nGönül bu sevdadan vaz mı geçecek\n\nBana ettiklerin az mı gelecek\n\nYandım Allah yandım yandırma beni\n\nDerin uykulardan kaldırma beni\n\nSeviyorum diyerek kandırma beni\n\nAyaş yollarını aştım da geldim\n\nBoyunu boyuma ölçtüm de geldim\n\nGüzeller içinden seçtim de geldim\n\nYandım ...\n\nAyaş yollarında kervanın mı var\n\nBeni öldürmeye fermanın mı var\n\nAğlamaya sızlamaya dermanım mı var\n\nYandım ...",
   "meta": {
     "yore": "ANKARA",
-    "turu": "",
-    "turu2": "F",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_22",
-    "karar": "",
-    "diger_bilgiler": "ANKARA               Uşşak / Nim Sofyan",
-    "aciklama": ""
+    "diger_bilgiler": "Uşşak / Nim Sofyan"
   },
   "sistem": {
     "eski_id": 479,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T23:09:16.924Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
