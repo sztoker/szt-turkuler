@@ -1,12 +1,12 @@
 {
   "id": "hel-hele-verin-geline",
-  "baslik": "HEL HELE VERİN GELİNE",
-  "sozler_html": "<p>Hel hele verin geline / Deste gül verin eline</p>\n<p class=\"bos\"></p>\n<p>Vay vay – Elinde terezi var / Cebinde cerezi var (2</p>\n<p>Alemlen onar güler (2 / Menimle garezi var -baba</p>\n<p>Hel hele verin geline / Deste gül verin eline</p>\n<p>Altun kemer bağlamış (2 / Gelinin cebeline / Hel hele ...</p>\n<p class=\"bos\"></p>\n<p>Vay vay - Kapıdan geçti yarim / Yaramı deşti yarim (2</p>\n<p>Uydu eller sözüne (2/ Menden vazgeçti yarim –baba</p>\n<p>Hel hele...</p>\n<p class=\"bos\"></p>\n<p>Kapının ayrığından / Tanıram yağlığından</p>\n<p>Günde yüz gelin geçer / Yüreğimyandığından</p>\n<p class=\"bos\"></p>\n<p>Baba bugün dağlar yeşil boyandı / Kim yattı kim uyandı</p>\n<p>Gözlerim alam kalbime ataş düştü / İçimde yar dayandı (2</p>\n<p>Aman aman-amman amman amman-aman aman aman elinden</p>\n<p>Di gel otur * o güzel boyuna ben de ölem</p>",
-  "sozler_duz": "Hel hele verin geline / Deste gül verin eline Vay vay – Elinde terezi var / Cebinde cerezi var (2 Alemlen onar güler (2 / Menimle garezi var -baba Hel hele verin geline / Deste gül verin eline Altun kemer bağlamış (2 / Gelinin cebeline / Hel hele ... Vay vay - Kapıdan geçti yarim / Yaramı deşti yarim (2 Uydu eller sözüne (2/ Menden vazgeçti yarim –baba Hel hele... Kapının ayrığından / Tanıram yağlığından Günde yüz gelin geçer / Yüreğimyandığından Baba bugün dağlar yeşil boyandı / Kim yattı kim uyandı Gözlerim alam kalbime ataş düştü / İçimde yar dayandı (2 Aman aman-amman amman amman-aman aman aman elinden Di gel otur * o güzel boyuna ben de ölem",
+  "baslik": "Hel Hele Verin Geline_",
+  "sozler_html": "<p>Hel Hele Verin Geline,Deste Gül Verin GelineAltın Kemer BağlamışGelin İnce BelineElinde Terazi VarCebinde Çerezi VarAlêmlen Oynar Güler,Benimle Garezi Var(Baba) Kapıdan Geçti Yarim,Yaramı Deşti YarimUydu Eller SözüneMenden Vazgeçti Yarim(Baba)   Kapının Ayrığından,Tanıram YağlığındanGünde Yüz Gelin Geçer,Yüreğim Yandığından.(Baba)</p>",
+  "sozler_duz": "Hel Hele Verin Geline,Deste Gül Verin GelineAltın Kemer BağlamışGelin İnce BelineElinde Terazi VarCebinde Çerezi VarAlêmlen Oynar Güler,Benimle Garezi Var(Baba) Kapıdan Geçti Yarim,Yaramı Deşti YarimUydu Eller SözüneMenden Vazgeçti Yarim(Baba) Kapının Ayrığından,Tanıram YağlığındanGünde Yüz Gelin Geçer,Yüreğim Yandığından.(Baba)",
   "meta": {
-    "yore": "KERKÜK",
+    "yore": "Kerkük",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "KERKÜK          K: Abdülvahit Kuzecioğlu",
+    "diger_bilgiler": "Abdülvahit Kuzecioğlu-Nida Tüfekçi",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 913,
+    "eski_id": 5585,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

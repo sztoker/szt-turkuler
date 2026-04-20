@@ -1,12 +1,12 @@
 {
   "id": "giresunun-icinde",
-  "baslik": "GİRESUN’UN İÇİNDE",
-  "sozler_html": "<p>Giresun’un içinde / İki sokak arası</p>\n<p>Altı kurşun attılar / Bir de bıçak yarası</p>\n<p>Vuruldum düştüm yere / Gidemedim uzağa</p>\n<p>Ne edelim Feridem / Düşürdüler tuzağa</p>\n<p class=\"bos\"></p>\n<p>Giresun’un içinde / Yeşil fındık bahçası</p>\n<p>Vurdular Feridemi / Yere düştü bohçası / Vuruldum ...</p>",
-  "sozler_duz": "Giresun’un içinde / İki sokak arası Altı kurşun attılar / Bir de bıçak yarası Vuruldum düştüm yere / Gidemedim uzağa Ne edelim Feridem / Düşürdüler tuzağa Giresun’un içinde / Yeşil fındık bahçası Vurdular Feridemi / Yere düştü bohçası / Vuruldum ...",
+  "baslik": "Giresun'un İçinde_",
+  "sozler_html": "<p>Giresun'un İçindeİki Sokak ArasıAltı Kurşun AttılarÜç De Piçak YarasıVuruldum Düştüm YereGidemedum UzağaNe Edelum SevduğumDüşürdüler TuzağaGiresun'un İçindeYeşil Fındık TarlasıVurdular Sevduğumi (Feride'mi)Yere Düştü KopçasıVuruldum Düştüm Yere Gidemedum Uzağa Ne Edelum Sevduğum Düşürdüler TuzağaVuruldum SevduçeğumKanar Yüreğum KanarAlamadum Ben SeniYanar Yüreğum YanarVuruldum Düştüm Yere Gidemedum Uzağa Ne Edelum Sevduğum Düşürdüler Tuzağa</p>",
+  "sozler_duz": "Giresun'un İçindeİki Sokak ArasıAltı Kurşun AttılarÜç De Piçak YarasıVuruldum Düştüm YereGidemedum UzağaNe Edelum SevduğumDüşürdüler TuzağaGiresun'un İçindeYeşil Fındık TarlasıVurdular Sevduğumi (Feride'mi)Yere Düştü KopçasıVuruldum Düştüm Yere Gidemedum Uzağa Ne Edelum Sevduğum Düşürdüler TuzağaVuruldum SevduçeğumKanar Yüreğum KanarAlamadum Ben SeniYanar Yüreğum YanarVuruldum Düştüm Yere Gidemedum Uzağa Ne Edelum Sevduğum Düşürdüler Tuzağa",
   "meta": {
-    "yore": "GİRESUN",
+    "yore": "Giresun",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "GİRESUN",
+    "diger_bilgiler": "Ali O. Özyakupoğlu-Azize Gürses",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 841,
+    "eski_id": 5443,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

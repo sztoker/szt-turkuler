@@ -1,12 +1,12 @@
 {
   "id": "ellerini-cekip-benden",
-  "baslik": "ELLERİNİ ÇEKİP BENDEN ",
-  "sozler_html": "<p>Ellerini çekip benden / Yarim bu gün gider oldu</p>\n<p>Hem sever hem sevilirdik / Bu ayrılık neden oldu</p>\n<p class=\"bos\"></p>\n<p>Yar aşkıyla yana yana / Ayrı düştüm ellere ben</p>\n<p>Ama senden ayrı gezen / Yürek değil beden oldu</p>\n<p class=\"bos\"></p>\n<p>Yandı yürek kebab oldu / Gül bahçemde hazan oldu</p>\n<p>Ben ki senden ayrılmazdım / Bu ayrılık neden oldu</p>",
-  "sozler_duz": "Ellerini çekip benden / Yarim bu gün gider oldu Hem sever hem sevilirdik / Bu ayrılık neden oldu Yar aşkıyla yana yana / Ayrı düştüm ellere ben Ama senden ayrı gezen / Yürek değil beden oldu Yandı yürek kebab oldu / Gül bahçemde hazan oldu Ben ki senden ayrılmazdım / Bu ayrılık neden oldu",
+  "baslik": "Ellerini Çekip Benden  _",
+  "sozler_html": "<p>Ellerini Çekip Benden Yarim Bugün Gider OlduHem Sever Hem Sevilirdi Bu Ayrılık Neden OlduYar Aşkıyla Yana Yana Ayrı Düştüm Ellere BenAma Senden Ayrı Gezen Yürek Değil Beden OlduYandı Yürek Kebap Oldu Gül Bahçemde Hazan OlduBen Ki Senden Ayrılmazdım Bu Ayrılık Neden OlduYar Aşkıyla Yana Yana Ayrı Düştüm Ellere BenAma Senden Ayrı Gezen Yürek Değil Beden Oldu</p>",
+  "sozler_duz": "Ellerini Çekip Benden Yarim Bugün Gider OlduHem Sever Hem Sevilirdi Bu Ayrılık Neden OlduYar Aşkıyla Yana Yana Ayrı Düştüm Ellere BenAma Senden Ayrı Gezen Yürek Değil Beden OlduYandı Yürek Kebap Oldu Gül Bahçemde Hazan OlduBen Ki Senden Ayrılmazdım Bu Ayrılık Neden OlduYar Aşkıyla Yana Yana Ayrı Düştüm Ellere BenAma Senden Ayrı Gezen Yürek Değil Beden Oldu",
   "meta": {
-    "yore": "",
+    "yore": "?",
     "turu": "",
-    "turu2": "",
+    "turu2": "S",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "",
+    "diger_bilgiler": "?",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 723,
+    "eski_id": 5222,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

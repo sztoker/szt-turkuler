@@ -1,12 +1,12 @@
 {
   "id": "elmalarin-yongasi",
-  "baslik": "ELMALARIN YONGASI",
-  "sozler_html": "<p>Derelerde saz olur –aslanım aman aman aman hey</p>\n<p>Gül açılır yaz olur –yaz olur aman aman</p>\n<p>Gül açılır yaz olur –yaz olur vay vay</p>\n<p>Güzellere göz etme –aslanım aman aman aman hey</p>\n<p>Her güzelde naz olur –naz olur aman aman</p>\n<p>Her güzelde naz olur –naz olur vay vay</p>\n<p>(Hop) kara leyli -leyli leyli- ellerine</p>\n<p>Sarılaydım yarin ince bellerine</p>\n<p class=\"bos\"></p>\n<p>İnim inim inlesin / Gözlerini süzersin</p>\n<p>O yar bana varacak / Cümle alem dinlesin</p>",
-  "sozler_duz": "Derelerde saz olur –aslanım aman aman aman hey Gül açılır yaz olur –yaz olur aman aman Gül açılır yaz olur –yaz olur vay vay Güzellere göz etme –aslanım aman aman aman hey Her güzelde naz olur –naz olur aman aman Her güzelde naz olur –naz olur vay vay (Hop) kara leyli -leyli leyli- ellerine Sarılaydım yarin ince bellerine İnim inim inlesin / Gözlerini süzersin O yar bana varacak / Cümle alem dinlesin",
+  "baslik": "Elmaların Yongası_",
+  "sozler_html": "<p>Elmaların Yongası   ( Aslanım Aman Aman Aman Ey )Haydi Sağ Cebinde Aynası ( Aman Aman Aman )Aman Sağ Cebinde Aynası ( Vay Vay )İki Duvar Arası   ( Aslanım Aman Aman Aman Ey )Haydi Hovardalar Yaylası ( Aman Aman Aman )Aman Haydi Hovardalar Yaylası  ( Vay Vay )Hop Tara Leyli Leyli EllerineSarılaydım O İncecik Bellerine  ( Vay Vay )Elmaların İncesi   ( Aslanım Aman Aman Aman Ey )Haydi Dibindedir Goncası (Aman Aman Aman )Aman Dibindedir Goncası  (Vay Vay)Diz Dize Otururken  ( Aslanım Aman Aman Aman Ey )Haydi Çıkageldi Amcası (Aman Aman Aman )Aman Haydi Çıkageldi Amcası (Vay Vay)Hop Tara Leyli Leyli EllerineSarılaydım O İncecik Bellerine  (Vay Vay)</p>",
+  "sozler_duz": "Elmaların Yongası ( Aslanım Aman Aman Aman Ey )Haydi Sağ Cebinde Aynası ( Aman Aman Aman )Aman Sağ Cebinde Aynası ( Vay Vay )İki Duvar Arası ( Aslanım Aman Aman Aman Ey )Haydi Hovardalar Yaylası ( Aman Aman Aman )Aman Haydi Hovardalar Yaylası ( Vay Vay )Hop Tara Leyli Leyli EllerineSarılaydım O İncecik Bellerine ( Vay Vay )Elmaların İncesi ( Aslanım Aman Aman Aman Ey )Haydi Dibindedir Goncası (Aman Aman Aman )Aman Dibindedir Goncası (Vay Vay)Diz Dize Otururken ( Aslanım Aman Aman Aman Ey )Haydi Çıkageldi Amcası (Aman Aman Aman )Aman Haydi Çıkageldi Amcası (Vay Vay)Hop Tara Leyli Leyli EllerineSarılaydım O İncecik Bellerine (Vay Vay)",
   "meta": {
-    "yore": "ORTA ANADOLU",
+    "yore": "Konya",
     "turu": "",
-    "turu2": "",
+    "turu2": "S",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "ORTA ANADOLU  ?",
+    "diger_bilgiler": "Ahmet Özdemir-Yücel Paşmakçı",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 724,
+    "eski_id": 5225,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

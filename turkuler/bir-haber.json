@@ -1,0 +1,28 @@
+{
+  "id": "bir-haber",
+  "baslik": "Bir Haber_",
+  "sozler_html": "<p>Yüce Dağbaşına Kara GideyimYokmu Sevdiğimden Bana Bir HaberDağlar Geçit Vermez Yare GideyimYokmu Sevdiğimden Bana Bir HaberYüce Dağbaşının Karı DeğilimHas Bahçanın Gülü Harı DeğilimBen O Nazlı Yarden Razı DeğilimYokmu Sevdiğimden Bana Bir Haber</p>",
+  "sozler_duz": "Yüce Dağbaşına Kara GideyimYokmu Sevdiğimden Bana Bir HaberDağlar Geçit Vermez Yare GideyimYokmu Sevdiğimden Bana Bir HaberYüce Dağbaşının Karı DeğilimHas Bahçanın Gülü Harı DeğilimBen O Nazlı Yarden Razı DeğilimYokmu Sevdiğimden Bana Bir Haber",
+  "meta": {
+    "yore": "?",
+    "turu": "",
+    "turu2": "S",
+    "derleyen": "",
+    "kaynak_kisi": "",
+    "soz": "",
+    "muzik": "",
+    "soyleyenler": "",
+    "repertuar": "",
+    "karar": "",
+    "diger_bilgiler": "İsmail Özden",
+    "aciklama": ""
+  },
+  "sistem": {
+    "eski_id": 3539,
+    "olusturma": "2026-04-20",
+    "son_degisiklik": "2026-04-20",
+    "versiyon": 1,
+    "yayinlanabilir": true,
+    "kontrol_edildi": false
+  }
+}

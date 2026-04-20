@@ -1,12 +1,12 @@
 {
   "id": "istanbuldan-uskudara-yol-gider",
-  "baslik": "İSTANBUL’DAN ÜSKÜDAR’A YOL GİDER",
-  "sozler_html": "<p>İstanbul’dan Üsküdar’a yol gider –yol gider çavuş yol gider</p>\n<p>Hanımlara deste deste gül gider –gül gider çavuş gül gider</p>\n<p>Yandım çavuş yandım senin elinden –elinden çavuş ...</p>\n<p>Çok sallanma kasatura da fırlar belinden –belinden çavuş</p>\n<p class=\"bos\"></p>\n<p>İstanbul’la Üsküdar’ın arası / Yaktı beni kaşlarının karası</p>\n<p>Yandım çavuş ...</p>",
-  "sozler_duz": "İstanbul’dan Üsküdar’a yol gider –yol gider çavuş yol gider Hanımlara deste deste gül gider –gül gider çavuş gül gider Yandım çavuş yandım senin elinden –elinden çavuş ... Çok sallanma kasatura da fırlar belinden –belinden çavuş İstanbul’la Üsküdar’ın arası / Yaktı beni kaşlarının karası Yandım çavuş ...",
+  "baslik": "İstanbul'dan Üsküdara Yol Gider_",
+  "sozler_html": "<p>İstanbuldan Üsküdara Yol GiderYol Gider Çavuş Yol GiderHanımlara Deste Deste Gül GiderGül Gider Çavuş Gül GiderYandım Çavuş Yandım Senin ElindenElinden Çavuş ElindenÇok Sallanma Kasatura Da Fırlar BelindenBelinden Çavuş Belindenİstanbulla Üsküdarın ArasıArası Çavuş ArasıYaktı Beni Kaşlarının KarasıKarası Çavuş Karasıİstanbuldan Üç Mum Aldım YakmağaYakmağa Çavuş YakmağaYakıp Yakıp Yar Yüzüne BakmağaBakmağa Çavuş Bakmağa</p>",
+  "sozler_duz": "İstanbuldan Üsküdara Yol GiderYol Gider Çavuş Yol GiderHanımlara Deste Deste Gül GiderGül Gider Çavuş Gül GiderYandım Çavuş Yandım Senin ElindenElinden Çavuş ElindenÇok Sallanma Kasatura Da Fırlar BelindenBelinden Çavuş Belindenİstanbulla Üsküdarın ArasıArası Çavuş ArasıYaktı Beni Kaşlarının KarasıKarası Çavuş Karasıİstanbuldan Üç Mum Aldım YakmağaYakmağa Çavuş YakmağaYakıp Yakıp Yar Yüzüne BakmağaBakmağa Çavuş Bakmağa",
   "meta": {
-    "yore": "İSTANBUL",
+    "yore": "İstanbul",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "İSTANBUL           Muhayyer / Raks Aksağı",
+    "diger_bilgiler": "Yöre ekibi-Muzaffer Sarısözen",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 951,
+    "eski_id": 5686,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

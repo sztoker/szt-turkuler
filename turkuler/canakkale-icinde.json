@@ -1,12 +1,12 @@
 {
   "id": "canakkale-icinde",
-  "baslik": "ÇANAKKALE İÇİNDE",
-  "sozler_html": "<p>Çanakkale içinde vurdular beni</p>\n<p>Ölmeden mezara koydular beni</p>\n<p>–of gençliğim eyvah</p>\n<p class=\"bos\"></p>\n<p>Çanakkale içinde aynalı çarşı</p>\n<p>Ana ben gidiyom düşmana karşı</p>\n<p class=\"bos\"></p>\n<p>Çanakkale içinde bir uzun selvi</p>\n<p>Kimimiz nişanlı kimimiz evli</p>\n<p class=\"bos\"></p>\n<p>Çanakkale üstünü duman bürüdü</p>\n<p>On üçüncü fırka harbe yürüdü</p>\n<p class=\"bos\"></p>\n<p>Çanakkale içinde bir dolu testi</p>\n<p>Analar babalar mektubu kesti</p>",
-  "sozler_duz": "Çanakkale içinde vurdular beni Ölmeden mezara koydular beni –of gençliğim eyvah Çanakkale içinde aynalı çarşı Ana ben gidiyom düşmana karşı Çanakkale içinde bir uzun selvi Kimimiz nişanlı kimimiz evli Çanakkale üstünü duman bürüdü On üçüncü fırka harbe yürüdü Çanakkale içinde bir dolu testi Analar babalar mektubu kesti",
+  "baslik": "Çanakkale İçinde_",
+  "sozler_html": "<p>Çanakkale İçinde Aynalı Çarsı,Ana Ben Gidiyom Düşmana Karsı.Of Gençliğim Eyvah.Çanakkale İçinde Bir Uzun Selvi,Kimimiz Nişanlı Kimimiz EvliOf Gençliğim EyvahÇanakkale Üstünü Duman Bürüdü,On Üçüncü Fırka Yürüdü.Of Gençliğim Eyvah.Çanakkale İçinde Bir Dolu Testi,Analar Babalar Mektubu KestiOf Gençliğim Eyvah</p>",
+  "sozler_duz": "Çanakkale İçinde Aynalı Çarsı,Ana Ben Gidiyom Düşmana Karsı.Of Gençliğim Eyvah.Çanakkale İçinde Bir Uzun Selvi,Kimimiz Nişanlı Kimimiz EvliOf Gençliğim EyvahÇanakkale Üstünü Duman Bürüdü,On Üçüncü Fırka Yürüdü.Of Gençliğim Eyvah.Çanakkale İçinde Bir Dolu Testi,Analar Babalar Mektubu KestiOf Gençliğim Eyvah",
   "meta": {
-    "yore": "KASTAMONU",
+    "yore": "Kastamonu",
     "turu": "",
-    "turu2": "",
+    "turu2": "S",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "KASTAMONU",
+    "diger_bilgiler": "İhsan Ozanoğlu-Muzaffer Sarısözen",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 64,
+    "eski_id": 3689,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

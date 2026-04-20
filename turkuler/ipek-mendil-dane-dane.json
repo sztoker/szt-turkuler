@@ -1,12 +1,12 @@
 {
   "id": "ipek-mendil-dane-dane",
-  "baslik": "İPEK MENDİL DANE DANE",
-  "sozler_html": "<p>İpek mendil dane dane / Yudular serdiler güne</p>\n<p>Benim yavrumu yudular / Başucunda döne döne</p>\n<p>Gülüm oy oy yavrum oy oy</p>\n<p class=\"bos\"></p>\n<p>Evlerinin önü arpa / Kır at gelir kırpa kırpa</p>\n<p>Benim yavrum hastalanmış</p>\n<p>Kuru yerde (2-mapuslarda) yata yata / Gülüm ...</p>\n<p class=\"bos\"></p>\n<p>Ellerinde var makine / Derdimizi diyek kime</p>\n<p>Benim yavrum hastalanmış / Götürmemişler hekime</p>\n<p class=\"bos\"></p>\n<p>Nasıl edek nereye gidek / Derdimizi kime diyek</p>\n<p>Suçu yalnız insan sevmek / Gülüm oy ...</p>",
-  "sozler_duz": "İpek mendil dane dane / Yudular serdiler güne Benim yavrumu yudular / Başucunda döne döne Gülüm oy oy yavrum oy oy Evlerinin önü arpa / Kır at gelir kırpa kırpa Benim yavrum hastalanmış Kuru yerde (2-mapuslarda) yata yata / Gülüm ... Ellerinde var makine / Derdimizi diyek kime Benim yavrum hastalanmış / Götürmemişler hekime Nasıl edek nereye gidek / Derdimizi kime diyek Suçu yalnız insan sevmek / Gülüm oy ...",
+  "baslik": "İpek Mendil Dane Dane_",
+  "sozler_html": "<p>İpek Mendil Dane DaneYudular Serdiler GüneAna Celal'i VurdularBaş Ucunda Döne Döne (Celal Oy Oy)Evlerinin Önü YoncaYonca Kalkmış Dam BoyuncaBu Yoncayı Kim BiçecekCelal Oğlan Olmayınca (Celal Oy Oy)Evlerin Önü KareSelam Söylen Celal YareNişanlısın Eller AlmışBulunmaz Mı Buna Çare (Celal Oy Oy)</p>",
+  "sozler_duz": "İpek Mendil Dane DaneYudular Serdiler GüneAna Celal'i VurdularBaş Ucunda Döne Döne (Celal Oy Oy)Evlerinin Önü YoncaYonca Kalkmış Dam BoyuncaBu Yoncayı Kim BiçecekCelal Oğlan Olmayınca (Celal Oy Oy)Evlerin Önü KareSelam Söylen Celal YareNişanlısın Eller AlmışBulunmaz Mı Buna Çare (Celal Oy Oy)",
   "meta": {
-    "yore": "SİVAS",
+    "yore": "Sivas",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "SİVAS",
+    "diger_bilgiler": "Nuri Üstünses-Muzaffer Sarısözen",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 176,
+    "eski_id": 5675,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

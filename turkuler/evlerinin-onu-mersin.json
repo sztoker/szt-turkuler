@@ -1,12 +1,12 @@
 {
   "id": "evlerinin-onu-mersin",
-  "baslik": "EVLERİNİN ÖNÜ MERSİN",
-  "sozler_html": "<p>Evlerin önü mersin</p>\n<p>Ah sular akmaz -kadınım- tersin tersin</p>\n<p>Mevlam seni bana versin</p>\n<p>Al hançeri -kadınım- vur ben öleyim</p>\n<p>Ah kapınızda -bidanem- kul ben oleyim</p>\n<p class=\"bos\"></p>\n<p>Evlerinin önü susam</p>\n<p>Ah su bulsam da -kadınım- çevremi yuğsam</p>\n<p>Açsam yüzün(ü) baksam dursam / Al hançeri ...</p>",
-  "sozler_duz": "Evlerin önü mersin Ah sular akmaz -kadınım- tersin tersin Mevlam seni bana versin Al hançeri -kadınım- vur ben öleyim Ah kapınızda -bidanem- kul ben oleyim Evlerinin önü susam Ah su bulsam da -kadınım- çevremi yuğsam Açsam yüzün(ü) baksam dursam / Al hançeri ...",
+  "baslik": "Evlerinin Önü Mersin_",
+  "sozler_html": "<p>Evlerinin Önü MersinAh Sular İçmem Gadınım Tersin TersinMevlâ’m Seni Bana Versin. Al Hançerini Kadınım Vur Ben Öleyim Ah Kapınızda Bi Danem, Kul Ben OlayımEvlerinin Önü SusamAh Su Bulsam Da Gadınım Çevremi YuğsamAçsam Yüzünü Baksam Dursam Al Hançerini Kadınım Vur Ben Öleyim Ah Kapınızda Bi Danem, Kul Ben Olayım.</p>",
+  "sozler_duz": "Evlerinin Önü MersinAh Sular İçmem Gadınım Tersin TersinMevlâ’m Seni Bana Versin. Al Hançerini Kadınım Vur Ben Öleyim Ah Kapınızda Bi Danem, Kul Ben OlayımEvlerinin Önü SusamAh Su Bulsam Da Gadınım Çevremi YuğsamAçsam Yüzünü Baksam Dursam Al Hançerini Kadınım Vur Ben Öleyim Ah Kapınızda Bi Danem, Kul Ben Olayım.",
   "meta": {
-    "yore": "ISPARTA",
+    "yore": "Isparta",
     "turu": "",
-    "turu2": "",
+    "turu2": "S",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "ISPARTA          K: Gönen’li Kadir Acar",
+    "diger_bilgiler": "Kadir Acar-Muzaffer Sarısözen",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 750,
+    "eski_id": 5285,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

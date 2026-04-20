@@ -1,12 +1,12 @@
 {
   "id": "kar-etmez-ahim",
-  "baslik": "KAR ETMEZ AHIM",
-  "sozler_html": "<p>Kar etmez ahım sen gülü zare</p>\n<p>Onulmaz işler güzelim dilde bu yare</p>\n<p>Olsam da geçmem bin pare pare</p>\n<p>Sevmiş bulundum güzelim gayrı ne çare</p>\n<p class=\"bos\"></p>\n<p>Ko aksın yaşım billahi silmem</p>\n<p>Mecnunun oldum güzelim terk edebilmem</p>\n<p>Kessen de başım senden ayrılmam</p>\n<p>Sevmiş bulundum güzelim gayrı ne çare</p>\n<p class=\"bos\"></p>\n<p>Vur beni akmaz billahi kanım</p>\n<p>Mecnuna döndüm güzelim yok mu imanın</p>\n<p>Sabra mecalin varsa dayanım</p>\n<p>Sevmiş bulundum güzelim gayrı ne çare</p>",
-  "sozler_duz": "Kar etmez ahım sen gülü zare Onulmaz işler güzelim dilde bu yare Olsam da geçmem bin pare pare Sevmiş bulundum güzelim gayrı ne çare Ko aksın yaşım billahi silmem Mecnunun oldum güzelim terk edebilmem Kessen de başım senden ayrılmam Sevmiş bulundum güzelim gayrı ne çare Vur beni akmaz billahi kanım Mecnuna döndüm güzelim yok mu imanın Sabra mecalin varsa dayanım Sevmiş bulundum güzelim gayrı ne çare",
+  "baslik": "Kar Etmez Ahım_",
+  "sozler_html": "<p>Kar Etmez Ahim, Sen GülizareOnulmaz İsler Güzelim, Dilde Bu YareOlsam Da Geçmem, Bin Pare PareSevmiş Bulundum Güzelim, Gayri Ne ÇareOy Aksın Yaşım Billahi Sinmem.Mecnun Oldum Güzelim, Terkedebilmem.Kessen De Başım, Senden AyrılmamSevmiş Bulundum Güzelim Gayri Ne Çare.</p>",
+  "sozler_duz": "Kar Etmez Ahim, Sen GülizareOnulmaz İsler Güzelim, Dilde Bu YareOlsam Da Geçmem, Bin Pare PareSevmiş Bulundum Güzelim, Gayri Ne ÇareOy Aksın Yaşım Billahi Sinmem.Mecnun Oldum Güzelim, Terkedebilmem.Kessen De Başım, Senden AyrılmamSevmiş Bulundum Güzelim Gayri Ne Çare.",
   "meta": {
-    "yore": "KERKÜK",
+    "yore": "Kerkük",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "KERKÜK",
+    "diger_bilgiler": "Abdülvahit Küzecioğlu-Nida Tüfekçi",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 14,
+    "eski_id": 5742,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

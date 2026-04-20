@@ -1,12 +1,12 @@
 {
   "id": "yesil-ordek-gibi-daldim-gollere",
-  "baslik": "YEŞİL ÖRDEK GİBİ DALDIM GÖLLERE",
-  "sozler_html": "<p>Yeşil ördek gibi daldım göllere</p>\n<p>Sen düşürdün beni dilden dillere</p>\n<p>Başım alıp gidem gurbet illere</p>\n<p>Ne sen beni unut ne de ben seni</p>\n<p class=\"bos\"></p>\n<p>Sevdiğim semanın güneşi mahı</p>\n<p>Seni seven aşık çekmez mi ahı</p>\n<p>Getir el basayım kelamullahı / Ne sen beni unut ...</p>\n<p class=\"bos\"></p>\n<p>Gel seninle bir ahd uman kuralım</p>\n<p>Bağlanalım bir karara varalım</p>\n<p>Verdiğimiz sözde heman duralım / Ne sen beni unut ...</p>",
-  "sozler_duz": "Yeşil ördek gibi daldım göllere Sen düşürdün beni dilden dillere Başım alıp gidem gurbet illere Ne sen beni unut ne de ben seni Sevdiğim semanın güneşi mahı Seni seven aşık çekmez mi ahı Getir el basayım kelamullahı / Ne sen beni unut ... Gel seninle bir ahd uman kuralım Bağlanalım bir karara varalım Verdiğimiz sözde heman duralım / Ne sen beni unut ...",
+  "baslik": "Yeşil Ördek Gibi Daldım Göllere_",
+  "sozler_html": "<p>Yeşil Ördek Gibi Daldım GöllereSen Düşürdün Beni Dilden DillereBaşım Alıp Gidem Gurbet EllereNe Sen Beni Unut Ne De Ben SeniSevdiğim Cemalim Güneşim MahımSeni Seven Aşık Çeker EzvahınGetir El Basayım KelamullahınNe Sen Beni Unut Ne De Ben SeniGel Seninle Bir Ahduman KuralımBağlanalım Bir Karara VaralımVerdiğimiz Sözde Hemen DuralımNe Sen Beni Unut Ne De Ben Seni</p>",
+  "sozler_duz": "Yeşil Ördek Gibi Daldım GöllereSen Düşürdün Beni Dilden DillereBaşım Alıp Gidem Gurbet EllereNe Sen Beni Unut Ne De Ben SeniSevdiğim Cemalim Güneşim MahımSeni Seven Aşık Çeker EzvahınGetir El Basayım KelamullahınNe Sen Beni Unut Ne De Ben SeniGel Seninle Bir Ahduman KuralımBağlanalım Bir Karara VaralımVerdiğimiz Sözde Hemen DuralımNe Sen Beni Unut Ne De Ben Seni",
   "meta": {
-    "yore": "ZARA / SİVAS",
+    "yore": "Sivas",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "ZARA / SİVAS",
+    "diger_bilgiler": "Bahattin Alpaslan-Osman Özdenkçi",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 217,
+    "eski_id": 6666,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

@@ -1,12 +1,12 @@
 {
   "id": "degirmenin-bendine",
-  "baslik": "DEĞİRMENİN BENDİNE",
-  "sozler_html": "<p>Değirmenin bendine / Taş dönmüyor dönmüyor</p>\n<p>Döner kendi kendine  /  Hazal gelin arabadan inmiyor</p>\n<p class=\"bos\"></p>\n<p>Değirmene taş koydum  /  Taş dönmüyor dönmüyor</p>\n<p>Gül yastığa baş koydum  /  Hazal gelin arabadan inmiyor</p>",
-  "sozler_duz": "Değirmenin bendine / Taş dönmüyor dönmüyor Döner kendi kendine / Hazal gelin arabadan inmiyor Değirmene taş koydum / Taş dönmüyor dönmüyor Gül yastığa baş koydum / Hazal gelin arabadan inmiyor",
+  "baslik": "Değirmenin Bendine_",
+  "sozler_html": "<p>Değirmenin BendineTaş Dönmüyor DönmüyorDöner Kendi KendineAcar Gelin Arabadan İnmiyorDeğirmene Taş KoydumTaş Dönmüyor DönmüyorBir Yastığa Baş KoydumAcar Gelin Arabadan İnmiyor</p>",
+  "sozler_duz": "Değirmenin BendineTaş Dönmüyor DönmüyorDöner Kendi KendineAcar Gelin Arabadan İnmiyorDeğirmene Taş KoydumTaş Dönmüyor DönmüyorBir Yastığa Baş KoydumAcar Gelin Arabadan İnmiyor",
   "meta": {
-    "yore": "KESKİN",
+    "yore": "Keskin",
     "turu": "",
-    "turu2": "",
+    "turu2": "S",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "KESKİN",
+    "diger_bilgiler": "Selman Çoker/Hacı Taşan-Muzaffer Sarısözen",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 656,
+    "eski_id": 3773,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

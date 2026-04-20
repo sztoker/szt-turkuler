@@ -1,12 +1,12 @@
 {
   "id": "seherde-bir-baga-girdim",
-  "baslik": "SEHERDE BİR BAĞA GİRDİM",
-  "sozler_html": "<p>Seherde bir bağa girdim  /  Ne bağ duydu ne bağbancı</p>\n<p>El sundum güllerin derdim / Ne bağ duydu ne bağbancı</p>\n<p class=\"bos\"></p>\n<p>Bağın kapısını açtım  /  Sayın ki cennete düştüm</p>\n<p>Yar ile tenha buluştum  /  Ne bağ duydu ...</p>\n<p class=\"bos\"></p>\n<p>Seherin bülbülü öttü  /  Öttü de murada yetti</p>\n<p>Teslim Abdal yükün tuttu  /  Ne bağ duydu ...</p>",
-  "sozler_duz": "Seherde bir bağa girdim / Ne bağ duydu ne bağbancı El sundum güllerin derdim / Ne bağ duydu ne bağbancı Bağın kapısını açtım / Sayın ki cennete düştüm Yar ile tenha buluştum / Ne bağ duydu ... Seherin bülbülü öttü / Öttü de murada yetti Teslim Abdal yükün tuttu / Ne bağ duydu ...",
+  "baslik": "Seherde Bir Bağa Girdim_",
+  "sozler_html": "<p>Seherde Bir Bağa GirdimNe Bağ Duydu Ne BağbancıEl Vurup Güllerin DerdimNe Bağ Duydu Ne BağbancıBağın Kapusunu AçtımSayın Ki Cennete DüştümYar İle Tenha BuluştumNe Bağ Duydu Ne BağbancıSeherin Bülbülü ÖttüÖttü De Murada YettiTeslim Abdal Yükün TuttuNe Bağ Duydu Ne Bağbancı</p>",
+  "sozler_duz": "Seherde Bir Bağa GirdimNe Bağ Duydu Ne BağbancıEl Vurup Güllerin DerdimNe Bağ Duydu Ne BağbancıBağın Kapusunu AçtımSayın Ki Cennete DüştümYar İle Tenha BuluştumNe Bağ Duydu Ne BağbancıSeherin Bülbülü ÖttüÖttü De Murada YettiTeslim Abdal Yükün TuttuNe Bağ Duydu Ne Bağbancı",
   "meta": {
-    "yore": "TERCAN / ERZİNCAN",
+    "yore": "Erzincan/Tercan",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "TERCAN / ERZİNCAN",
+    "diger_bilgiler": "Aşık Daimi-Nida Tüfekçi",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 5,
+    "eski_id": 6246,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

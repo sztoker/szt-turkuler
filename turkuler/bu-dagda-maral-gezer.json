@@ -1,12 +1,12 @@
 {
   "id": "bu-dagda-maral-gezer",
-  "baslik": "BU DAĞDA MARAL GEZER",
-  "sozler_html": "<p>Bu dağda maral gezer</p>\n<p>Zülfünü tarar gezer</p>\n<p>Men yarime neyledim ay ceylan</p>\n<p>Yar menden kenar gezer</p>\n<p class=\"bos\"></p>\n<p>Bu dağın karı menem</p>\n<p>Gün vurur erimezem</p>\n<p>El bilir alem bilir ay gülüm</p>\n<p>Men senden vazgeçmezem</p>\n<p class=\"bos\"></p>\n<p>Dağlarda çiçek -ay güle batım</p>\n<p>Ha burdan göçek -ay güle batım</p>\n<p>Doldur ver içek -ay güle batım - hey</p>\n<p class=\"bos\"></p>\n<p>Ezizim gözlerine</p>\n<p>Sürme çek gözlerine</p>\n<p>Özüm özüne gurban ay ceylan</p>\n<p>Gözlerim gözlerine</p>\n<p class=\"bos\"></p>\n<p>Ak kuzum (Papruzum) yana yana</p>\n<p>Od düştü şirin cana</p>\n<p>Korkaram koyup gidem ay ceylan</p>\n<p>Kalasan yana yana</p>\n<p class=\"bos\"></p>\n<p>Ezizim od yandırmaz</p>\n<p>Yar seni od yandırmaz</p>\n<p>Ele ki sen yandırdın</p>\n<p>Heç meni od yandırmaz</p>",
-  "sozler_duz": "Bu dağda maral gezer Zülfünü tarar gezer Men yarime neyledim ay ceylan Yar menden kenar gezer Bu dağın karı menem Gün vurur erimezem El bilir alem bilir ay gülüm Men senden vazgeçmezem Dağlarda çiçek -ay güle batım Ha burdan göçek -ay güle batım Doldur ver içek -ay güle batım - hey Ezizim gözlerine Sürme çek gözlerine Özüm özüne gurban ay ceylan Gözlerim gözlerine Ak kuzum (Papruzum) yana yana Od düştü şirin cana Korkaram koyup gidem ay ceylan Kalasan yana yana Ezizim od yandırmaz Yar seni od yandırmaz Ele ki sen yandırdın Heç meni od yandırmaz",
+  "baslik": "Bu Dağda Maral Gezer_",
+  "sozler_html": "<p>Bu Dağda Maral GezerZülfünü Tarar GezerMen Yarime Neylerim Ay Ceylan,Yar Menden Kenar GezerBu Dağın Karı MenemGün Vurur ErimezemEl Bilir Alem Bilir Ay GülümMen Senden VazgeçmezemDağlarda Çiçek Ay Güle Bakın,Avludan Geçek Ay Güle Bakın,Doldur Ver İçek Ay Güle Bakın, Hey..Ezizin Gözlerine Sürme Çek GözlerineÖzün Özüme Gurban Ay Ceylan, Gözlerim GözlerineNakarat..Bak Uzun Yana Yana, Od Düştü Şirin CanaKor Karan Koyup Gidem Ay Ceylan, Kalasan Yana Yana.Nakarat..</p>",
+  "sozler_duz": "Bu Dağda Maral GezerZülfünü Tarar GezerMen Yarime Neylerim Ay Ceylan,Yar Menden Kenar GezerBu Dağın Karı MenemGün Vurur ErimezemEl Bilir Alem Bilir Ay GülümMen Senden VazgeçmezemDağlarda Çiçek Ay Güle Bakın,Avludan Geçek Ay Güle Bakın,Doldur Ver İçek Ay Güle Bakın, Hey..Ezizin Gözlerine Sürme Çek GözlerineÖzün Özüme Gurban Ay Ceylan, Gözlerim GözlerineNakarat..Bak Uzun Yana Yana, Od Düştü Şirin CanaKor Karan Koyup Gidem Ay Ceylan, Kalasan Yana Yana.Nakarat..",
   "meta": {
-    "yore": "AZERİ",
+    "yore": "Azerbaycan",
     "turu": "",
-    "turu2": "",
+    "turu2": "S",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "AZERİ",
+    "diger_bilgiler": "İbrahim Yıldırım Arşivi",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 574,
+    "eski_id": 3575,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

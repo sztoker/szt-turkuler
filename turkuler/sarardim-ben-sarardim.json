@@ -1,12 +1,12 @@
 {
   "id": "sarardim-ben-sarardim",
-  "baslik": "SARARDIM BEN SARARDIM",
-  "sozler_html": "<p>Sarardım ben sarardım / Senin için sarardım</p>\n<p>Baş yastıkta göz yolda / Her geçene sorardım</p>\n<p>Al dağlar yeşil bağlar / Gurbette yarim ağlar</p>\n<p>Açtı m’ola şu Sivas’ın gülü yaprağı</p>\n<p>Çekti de bizi bu ellerin (yerlerin) suyu toprağı</p>\n<p class=\"bos\"></p>\n<p>Kayalardan kayarım / Bulamadım ayarım</p>\n<p>Ben bu dertten ölürsem /Kaderime sayarım/ Al dağlar ...</p>\n<p class=\"bos\"></p>\n<p>Armut dalda dal yerde / Bülbül ötmez her yerde</p>\n<p>Felek bizi ayırdı / Her birimiz bir yerde / Al dağlar ...</p>",
-  "sozler_duz": "Sarardım ben sarardım / Senin için sarardım Baş yastıkta göz yolda / Her geçene sorardım Al dağlar yeşil bağlar / Gurbette yarim ağlar Açtı m’ola şu Sivas’ın gülü yaprağı Çekti de bizi bu ellerin (yerlerin) suyu toprağı Kayalardan kayarım / Bulamadım ayarım Ben bu dertten ölürsem /Kaderime sayarım/ Al dağlar ... Armut dalda dal yerde / Bülbül ötmez her yerde Felek bizi ayırdı / Her birimiz bir yerde / Al dağlar ...",
+  "baslik": "Sarardım Ben Sarardım_",
+  "sozler_html": "<p>Sarardım Ben Sarardım, Senin İçin SarardımBaş Yastıkta Göz Yolda, Her Gelenden SorardımOy Dağlar Yeşil Dağlar,  Gurbette Yarim AğlarAçtı M’ ola şu Sivas’ın Gülü Yaprağı,Çekti Bizi Gurbet Elin Suyu ToprağıKayalardan Kayarım, Bulamadım AyarımBen Bu Dertten Ölürsem, Kaderime SayarımAl Dağlar Yeşil Dağlar,  Gurbette Yarim AğlarAçtı M’ ola Su Sivas’ın Gülü Yaprağı,Çekti Bizi Gurbet Elin Suyu Toprağı.</p>",
+  "sozler_duz": "Sarardım Ben Sarardım, Senin İçin SarardımBaş Yastıkta Göz Yolda, Her Gelenden SorardımOy Dağlar Yeşil Dağlar, Gurbette Yarim AğlarAçtı M’ ola şu Sivas’ın Gülü Yaprağı,Çekti Bizi Gurbet Elin Suyu ToprağıKayalardan Kayarım, Bulamadım AyarımBen Bu Dertten Ölürsem, Kaderime SayarımAl Dağlar Yeşil Dağlar, Gurbette Yarim AğlarAçtı M’ ola Su Sivas’ın Gülü Yaprağı,Çekti Bizi Gurbet Elin Suyu Toprağı.",
   "meta": {
-    "yore": "SİVAS",
+    "yore": "Sivas",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "SİVAS (M.Sarısözen’den)                 Hüseyni /",
+    "diger_bilgiler": "Muzaffer Sarısözen-Muzaffer Sarısözen",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 1129,
+    "eski_id": 6222,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

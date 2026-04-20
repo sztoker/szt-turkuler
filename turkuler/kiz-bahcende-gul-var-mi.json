@@ -1,12 +1,12 @@
 {
   "id": "kiz-bahcende-gul-var-mi",
-  "baslik": "KIZ BAHÇENDE GÜL VAR MI",
-  "sozler_html": "<p>Kız bahçende gül var mı / Dalında bülbül var mı  -2</p>\n<p>Bu akşam geleceğim / Tenhalarda yer var mı -2</p>\n<p class=\"bos\"></p>\n<p>Haydindi saray çeşmesine</p>\n<p>Ben yandım badem ezmesine          (2</p>\n<p class=\"bos\"></p>\n<p>Kız bahçende mor meni / Verem ettin sen beni</p>\n<p>Nasıl verem olmayım / Eller sarıyor seni / Haydindi...</p>",
-  "sozler_duz": "Kız bahçende gül var mı / Dalında bülbül var mı -2 Bu akşam geleceğim / Tenhalarda yer var mı -2 Haydindi saray çeşmesine Ben yandım badem ezmesine (2 Kız bahçende mor meni / Verem ettin sen beni Nasıl verem olmayım / Eller sarıyor seni / Haydindi...",
+  "baslik": "Kız Bahçende Gül Var Mı_",
+  "sozler_html": "<p>Kız Bahçende Gül Var MıDalında Bülbül Var MıBu Akşam GeleceğimTenhalarda Yer Var MıHaydindi Saray ÇeşmesineBen Yandım Badem EzmesineKız Bahçende Mor MeniVerem Ettin Sen BeniNasıl Verem OlmayımEller Sarıyor SeniHaydindi Saray ÇeşmesineBen Yandım Badem Ezmesine</p>",
+  "sozler_duz": "Kız Bahçende Gül Var MıDalında Bülbül Var MıBu Akşam GeleceğimTenhalarda Yer Var MıHaydindi Saray ÇeşmesineBen Yandım Badem EzmesineKız Bahçende Mor MeniVerem Ettin Sen BeniNasıl Verem OlmayımEller Sarıyor SeniHaydindi Saray ÇeşmesineBen Yandım Badem Ezmesine",
   "meta": {
-    "yore": "KASTAMONU",
+    "yore": "Kastamonu",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "KASTAMONU     Yılmaz Arsoy",
+    "diger_bilgiler": "Yılmaz Arsoy-Adnan Ataman",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 1011,
+    "eski_id": 5854,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

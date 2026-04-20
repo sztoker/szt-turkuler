@@ -1,12 +1,12 @@
 {
   "id": "niye-cattin-kaslarini",
-  "baslik": "NİYE ÇATTIN KAŞLARINI",
-  "sozler_html": "<p>Niye çattın kaşlarını  /  Bilmiyom yar suçlarımı</p>\n<p>Ben ölürsem saçlarını / Yolma gayrı yolma leyli leyli-4 yar</p>\n<p class=\"bos\"></p>\n<p>Ben yandım aşkın narına  /  Meyletmem dünya malına</p>\n<p>Ben ölürsem mezarıma / Gelme gayrı geme leyli leyli-4 yar</p>\n<p class=\"bos\"></p>\n<p>Bir garibim düştüm dile / Gerçeklerde olmaz hile</p>\n<p>Zalimler elinden bile / Alma gayrı alma leyli leyli-4 yar</p>",
-  "sozler_duz": "Niye çattın kaşlarını / Bilmiyom yar suçlarımı Ben ölürsem saçlarını / Yolma gayrı yolma leyli leyli-4 yar Ben yandım aşkın narına / Meyletmem dünya malına Ben ölürsem mezarıma / Gelme gayrı geme leyli leyli-4 yar Bir garibim düştüm dile / Gerçeklerde olmaz hile Zalimler elinden bile / Alma gayrı alma leyli leyli-4 yar",
+  "baslik": "Niye Çattın Kaşlarını_",
+  "sozler_html": "<p>Niye Çattın KaşlarınıBilmiyom Yar SuçlarımıBen Ölürsem SaçlarınıYolma Gayrı Yolma Leyli LeyliBen Yandım Aşkın NarınaMeyletmem Dünya MalınaBen Ölürsem MezarımaGelme Gayrı Gelme Leyli Leyli</p>",
+  "sozler_duz": "Niye Çattın KaşlarınıBilmiyom Yar SuçlarımıBen Ölürsem SaçlarınıYolma Gayrı Yolma Leyli LeyliBen Yandım Aşkın NarınaMeyletmem Dünya MalınaBen Ölürsem MezarımaGelme Gayrı Gelme Leyli Leyli",
   "meta": {
-    "yore": "",
+    "yore": "?",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "",
+    "diger_bilgiler": "?",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 90,
+    "eski_id": 6052,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

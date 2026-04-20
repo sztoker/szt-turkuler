@@ -1,12 +1,12 @@
 {
   "id": "uca-daglarin-basinda",
-  "baslik": "UCA DAĞLARIN BAŞINDA",
-  "sozler_html": "<p>Uca dağların başında  /  Karlı dağların başında</p>\n<p>Tek atlı gezdiğin var mı  /  Le le-5 can le can</p>\n<p class=\"bos\"></p>\n<p>Her taraftan üç beş kelle  / Terkiye bastığın var mı</p>\n<p>Kargının ucunu salla  /  Etme düşmana eyvallah</p>\n<p class=\"bos\"></p>\n<p>Köroğlu söyler şanından  /  Kuş uçurmaz meydanından</p>\n<p>Le le-5 can le can</p>",
-  "sozler_duz": "Uca dağların başında / Karlı dağların başında Tek atlı gezdiğin var mı / Le le-5 can le can Her taraftan üç beş kelle / Terkiye bastığın var mı Kargının ucunu salla / Etme düşmana eyvallah Köroğlu söyler şanından / Kuş uçurmaz meydanından Le le-5 can le can",
+  "baslik": "Uca Dağların Başında_",
+  "sozler_html": "<p>Her Taraftan Üç Beş KelleTerkiye Astığın Var MıKargının Ucunu SallaEtme Düşmene EyvallaKöroğlu Söyler ŞanındanKuş Uçurmaz Meydanından</p>",
+  "sozler_duz": "Her Taraftan Üç Beş KelleTerkiye Astığın Var MıKargının Ucunu SallaEtme Düşmene EyvallaKöroğlu Söyler ŞanındanKuş Uçurmaz Meydanından",
   "meta": {
-    "yore": "ERZURUM",
+    "yore": "Erzurum",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "(KÖROĞLU SOLAĞI)     ERZURUM",
+    "diger_bilgiler": "Abdurrahman Yörüktümen",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 1242,
+    "eski_id": 6483,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

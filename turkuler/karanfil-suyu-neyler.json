@@ -1,12 +1,12 @@
 {
   "id": "karanfil-suyu-neyler",
-  "baslik": "KARANFİL SUYU NEYLER",
-  "sozler_html": "<p>Karanfil suyu neyler / Güzel kokuyu neyler</p>\n<p>İki baş bir yastıkta  /  O göz uykuyu neyler</p>\n<p class=\"bos\"></p>\n<p>Karanfilim susuzum  /  Kaç gündür uykusuzum</p>\n<p>Varsam yarin yanına  /  Dilim durmaz huysuzum</p>",
-  "sozler_duz": "Karanfil suyu neyler / Güzel kokuyu neyler İki baş bir yastıkta / O göz uykuyu neyler Karanfilim susuzum / Kaç gündür uykusuzum Varsam yarin yanına / Dilim durmaz huysuzum",
+  "baslik": "Karanfil Suyu Neyler_",
+  "sozler_html": "<p>Karanfil Suyu NeylerGüzel Kokuyu Neylerİki Baş Bir YastıktaO Göz Uykuyu NeylerKaranfilim SusuzumKaç Gündür UykusuzumVarsam Yarin YanınaDilim Durmaz Huysuzum</p>",
+  "sozler_duz": "Karanfil Suyu NeylerGüzel Kokuyu Neylerİki Baş Bir YastıktaO Göz Uykuyu NeylerKaranfilim SusuzumKaç Gündür UykusuzumVarsam Yarin YanınaDilim Durmaz Huysuzum",
   "meta": {
-    "yore": "KIRŞEHİR",
+    "yore": "Kırşehir",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "KIRŞEHİR",
+    "diger_bilgiler": "Muharrem Ertaş-Nida Tüfekçi",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 83,
+    "eski_id": 5780,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

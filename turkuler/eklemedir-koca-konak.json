@@ -1,12 +1,12 @@
 {
   "id": "eklemedir-koca-konak",
-  "baslik": "EKLEMEDİR KOCA KONAK",
-  "sozler_html": "<p>Eklemedir koca konak ekleme -aman aman</p>\n<p>Nazlı da yarim yine yine düştü aklıma</p>\n<p>Nasıl ede(yi)m başımdaki sevdayı -aman aman</p>\n<p>Aman aman dostlar yoldan geldim yorgunum</p>\n<p>Orta da boylu bir güzele vurgunum</p>\n<p class=\"bos\"></p>\n<p>Bizim bağın menevşesi mor olur</p>\n<p>Çatal yürek yiğitleri bol olur (Eller de sorar yüreğime derd'olur)</p>\n<p>Sevip sevip ayrılması güç (zor) olur / Aman aman dostlar</p>\n<p class=\"bos\"></p>\n<p>Bizim bağa gideriken serhaya</p>\n<p>Çektiler kolumdan da beni tenhaya</p>\n<p>Nasıl edem başımdaki sevdaya</p>\n<p>Aman aman dostlar kabir de bana dar gelir</p>\n<p>Bu gençlikte ölüm bana zor gelir</p>\n<p class=\"bos\"></p>\n<p>Bizim bağın menevşesi al olur</p>\n<p>Alem de sevdiğine yanar kül olur</p>\n<p>Sevdiğini alamayan del'olur</p>\n<p>Haydi haydi gidelim Aynalı Kavağa üçümüz</p>\n<p>Taze şeftalidir bizim yükümüz</p>",
-  "sozler_duz": "Eklemedir koca konak ekleme -aman aman Nazlı da yarim yine yine düştü aklıma Nasıl ede(yi)m başımdaki sevdayı -aman aman Aman aman dostlar yoldan geldim yorgunum Orta da boylu bir güzele vurgunum Bizim bağın menevşesi mor olur Çatal yürek yiğitleri bol olur (Eller de sorar yüreğime derd'olur) Sevip sevip ayrılması güç (zor) olur / Aman aman dostlar Bizim bağa gideriken serhaya Çektiler kolumdan da beni tenhaya Nasıl edem başımdaki sevdaya Aman aman dostlar kabir de bana dar gelir Bu gençlikte ölüm bana zor gelir Bizim bağın menevşesi al olur Alem de sevdiğine yanar kül olur Sevdiğini alamayan del'olur Haydi haydi gidelim Aynalı Kavağa üçümüz Taze şeftalidir bizim yükümüz",
+  "baslik": "Eklemedir Koca Konak_",
+  "sozler_html": "<p>Eklemedir Koca Konak Ekleme Aman AmanNazlı Da Yarim Yine Yine Geldi AklımaNasıl Edeyim Başımdaki Sevdaya Aman AmanAman Aman Dostlar Yoldan Geldim YorgunumOrta Da Boylu Bir Güzele Vurgunum.Bizim Bağın Menekşesi Al Olur Aman Aman,Âlem De Sevdiğine De Yanar Kul OlurSevdiğini Alamayan Del Olur Aman Aman,Haydi Haydi Gidelim Aynalı Konağa ÜçümüzTaze De Şeftalidir Bizim YükümüzBizim Bağa Giderken SerhayaÇektiler Kolumdan Da Beni TenhayaNasıl Edeyim Başımdaki SevdayaAman Aman Dostlar Kabir Bile Dar GelirBu Gençlikte Ölüm Bile Bana Zor Gelir</p>",
+  "sozler_duz": "Eklemedir Koca Konak Ekleme Aman AmanNazlı Da Yarim Yine Yine Geldi AklımaNasıl Edeyim Başımdaki Sevdaya Aman AmanAman Aman Dostlar Yoldan Geldim YorgunumOrta Da Boylu Bir Güzele Vurgunum.Bizim Bağın Menekşesi Al Olur Aman Aman,Âlem De Sevdiğine De Yanar Kul OlurSevdiğini Alamayan Del Olur Aman Aman,Haydi Haydi Gidelim Aynalı Konağa ÜçümüzTaze De Şeftalidir Bizim YükümüzBizim Bağa Giderken SerhayaÇektiler Kolumdan Da Beni TenhayaNasıl Edeyim Başımdaki SevdayaAman Aman Dostlar Kabir Bile Dar GelirBu Gençlikte Ölüm Bile Bana Zor Gelir",
   "meta": {
-    "yore": "AYDIN ? KÜTAHYA",
+    "yore": "Aydın",
     "turu": "",
-    "turu2": "",
+    "turu2": "S",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "AYDIN ? KÜTAHYA        Hisarlı Ahmet (Ahmet Yamacı",
+    "diger_bilgiler": "Kemal Kazdağlı-Ahmet Yamacı",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 709,
+    "eski_id": 5206,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

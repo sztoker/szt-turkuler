@@ -1,12 +1,12 @@
 {
   "id": "mayis-ayi-gelende",
-  "baslik": "MAYIS AYI GELENDE",
-  "sozler_html": "<p>Mayıs ayı gelende – yar yar / yar yar da uy aman</p>\n<p>Dağlarda kar olur mi –uy aman gelin aman</p>\n<p>Sevdum da alamadum – yar ...</p>\n<p>Böyle sevda olur mi – uy aman ...</p>\n<p class=\"bos\"></p>\n<p>Yaz gelir çiçek açar / Yeşiller yapraklari</p>\n<p>Sevduğum senun için / Döktüğum gözyaşlari</p>\n<p class=\"bos\"></p>\n<p>Bahçelerde kerez var / Kerezi asma sarar</p>\n<p>Sevduğumi görunce / Erur yüreğum yanar</p>\n<p class=\"bos\"></p>\n<p>Türkü söylerum türkü / Sevduğum senin için</p>\n<p>Biraz daha diyeyim / Seni sevduğum için</p>",
-  "sozler_duz": "Mayıs ayı gelende – yar yar / yar yar da uy aman Dağlarda kar olur mi –uy aman gelin aman Sevdum da alamadum – yar ... Böyle sevda olur mi – uy aman ... Yaz gelir çiçek açar / Yeşiller yapraklari Sevduğum senun için / Döktüğum gözyaşlari Bahçelerde kerez var / Kerezi asma sarar Sevduğumi görunce / Erur yüreğum yanar Türkü söylerum türkü / Sevduğum senin için Biraz daha diyeyim / Seni sevduğum için",
+  "baslik": "Mayıs Ayı Gelende_",
+  "sozler_html": "<p>Mayıs Ayı Gelende (Yar Yar Yar Yar Da Uy Aman)Dağlarda Kar Olur Mi (Uy Aman Gelin Aman)Sevdumda Alamadımyar (Yar Yar Yar Yar Da Uy Aman)Böyle Sevda Olur Mi (Uy Aman Gelin Aman)Yaz Gelir Çiçek Açar (Yar Yar Yar Yar Da Uy Aman)Yeşiller Yaprakları (Uy Aman Gelin Aman)Sevduğum Senin İçin (Yar Yar Yar Yar Da Uy Aman)Töktüğüm Göz Yaşları (Uy Aman Gelin Aman)Bahçelerde Kerez Var (Yar Yar Yar Yar Da Uy Aman)Kerezi Asma Sarar (Uy Aman Gelin Aman)Sevduğumi Görünceyar (Yar Yar Yar Yar Da Uy Aman)Erur Yüreğim Yanar (Uy Aman Gelin Aman)Turki Söylerum Turki (Yar Yar Yar Yar Da Uy Aman)Sevduğum Senun İçin (Uy Aman Gelin Aman)Biraz Daha Diyeyim (Yar Yar Yar Yar Da Uy Aman)Seni Sevduğum İçin (Uy Aman Gelin Aman)</p>",
+  "sozler_duz": "Mayıs Ayı Gelende (Yar Yar Yar Yar Da Uy Aman)Dağlarda Kar Olur Mi (Uy Aman Gelin Aman)Sevdumda Alamadımyar (Yar Yar Yar Yar Da Uy Aman)Böyle Sevda Olur Mi (Uy Aman Gelin Aman)Yaz Gelir Çiçek Açar (Yar Yar Yar Yar Da Uy Aman)Yeşiller Yaprakları (Uy Aman Gelin Aman)Sevduğum Senin İçin (Yar Yar Yar Yar Da Uy Aman)Töktüğüm Göz Yaşları (Uy Aman Gelin Aman)Bahçelerde Kerez Var (Yar Yar Yar Yar Da Uy Aman)Kerezi Asma Sarar (Uy Aman Gelin Aman)Sevduğumi Görünceyar (Yar Yar Yar Yar Da Uy Aman)Erur Yüreğim Yanar (Uy Aman Gelin Aman)Turki Söylerum Turki (Yar Yar Yar Yar Da Uy Aman)Sevduğum Senun İçin (Uy Aman Gelin Aman)Biraz Daha Diyeyim (Yar Yar Yar Yar Da Uy Aman)Seni Sevduğum İçin (Uy Aman Gelin Aman)",
   "meta": {
-    "yore": "TRABZON",
+    "yore": "Trabzon",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "TRABZON",
+    "diger_bilgiler": "Hüseyin Dilevar-Ahmet Yamacı",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 1031,
+    "eski_id": 5949,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

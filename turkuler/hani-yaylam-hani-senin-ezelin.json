@@ -1,12 +1,12 @@
 {
   "id": "hani-yaylam-hani-senin-ezelin",
-  "baslik": "HANİ YAYLAM HANİ SENİN EZELİN",
-  "sozler_html": "<p>Hani yaylam hani senin –ey * ezelin –ey ezelin</p>\n<p>Güz gelende döker bağlar –ey * gazelin</p>\n<p>- ey * gazelin hey – gazelin hey ey</p>\n<p>Yaylam senin hiç gelmez mi güzelin –ey *  güzelin</p>\n<p>Hani yaylam hani senin -ey- ezelin</p>\n<p>–ey * ezelin ey * ezelin hey  ey</p>\n<p class=\"bos\"></p>\n<p>Yaz gelende yayla seni gezmeli –ey gezmeli</p>\n<p>Kalem alıp kaşın gözün –ey- yazmalı</p>\n<p>–ey * yazmalı ey -  yazmalı h ey ey</p>\n<p>Ne hoş olur o yaylanın güzeli –ey güzeli</p>\n<p>Hani yaylam...</p>",
-  "sozler_duz": "Hani yaylam hani senin –ey * ezelin –ey ezelin Güz gelende döker bağlar –ey * gazelin - ey * gazelin hey – gazelin hey ey Yaylam senin hiç gelmez mi güzelin –ey * güzelin Hani yaylam hani senin -ey- ezelin –ey * ezelin ey * ezelin hey ey Yaz gelende yayla seni gezmeli –ey gezmeli Kalem alıp kaşın gözün –ey- yazmalı –ey * yazmalı ey - yazmalı h ey ey Ne hoş olur o yaylanın güzeli –ey güzeli Hani yaylam...",
+  "baslik": "Hani Yaylam Hani Senin Ezelin_",
+  "sozler_html": "<p>Hani Yaylam Hani Senin Ezelin (Ey Ezelin)Güz Gelende Döker Bağlar (Ey) Gazelin (Ey Gazelin)Yayla Senin Heç Gelmez Mi Gözelin (Ey Gözelin)Hani Yaylam Hani Senin Ezelin (Ey Ezelin Ey Ezelin Ey Ey)Yaz Olanda Yayla Yayla Otlanır (Ey Otlanır)Arap Atlar Topuğundan Etlenir (Ey Etlenir)O Yaylada Goyun Guzi Beslenir (Ey Beslenir)Hani Yaylam Hani Senin Ezelin (Ey Ezelin Ey Ezelin Ey Ey)Yaz Gelende Yaya Seni Gezmeli (Ey Gezmeli)Kalem Alıp Kaşın Gözün Yazmalı (Ey Yazmalı)Ne Hoş Olur O Yaylanın Gözeli (Ey Gözeli)Hani Yaylam Hani Senin Ezelin (Ey Ezelin Ey Ezelin Ey Ey)</p>",
+  "sozler_duz": "Hani Yaylam Hani Senin Ezelin (Ey Ezelin)Güz Gelende Döker Bağlar (Ey) Gazelin (Ey Gazelin)Yayla Senin Heç Gelmez Mi Gözelin (Ey Gözelin)Hani Yaylam Hani Senin Ezelin (Ey Ezelin Ey Ezelin Ey Ey)Yaz Olanda Yayla Yayla Otlanır (Ey Otlanır)Arap Atlar Topuğundan Etlenir (Ey Etlenir)O Yaylada Goyun Guzi Beslenir (Ey Beslenir)Hani Yaylam Hani Senin Ezelin (Ey Ezelin Ey Ezelin Ey Ey)Yaz Gelende Yaya Seni Gezmeli (Ey Gezmeli)Kalem Alıp Kaşın Gözün Yazmalı (Ey Yazmalı)Ne Hoş Olur O Yaylanın Gözeli (Ey Gözeli)Hani Yaylam Hani Senin Ezelin (Ey Ezelin Ey Ezelin Ey Ey)",
   "meta": {
     "yore": "Erzurum",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "Erzurum",
+    "diger_bilgiler": "Raci Alkır-TRT Erzurum Radyosu Thm Md",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 73,
+    "eski_id": 5548,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

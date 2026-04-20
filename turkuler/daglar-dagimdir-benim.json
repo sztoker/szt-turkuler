@@ -1,12 +1,12 @@
 {
   "id": "daglar-dagimdir-benim",
-  "baslik": "DAĞLAR DAĞIMDIR BENİM",
-  "sozler_html": "<p>Dağlar dağımdır benim (2 / Gam ortağımdır benim (2</p>\n<p>Söyletme çok ağlaram (2 / Dertli (yaman)çağımdır benim</p>\n<p class=\"bos\"></p>\n<p>Oy dağlar dağlar dağlar</p>\n<p>Başı dumanlı dağlar  /  Göğsü çimenli dağlar</p>\n<p>Yol verin yarim gele / Dinsiz imansız dağlar</p>\n<p>(Ben derdimi söylesem  /  Yel durur bulut ağlar)</p>\n<p class=\"bos\"></p>\n<p>Dağları dağlasınlar / Görenler (koyverin) ağlasınlar</p>\n<p>O yarin zülfü ile  / Yaramı bağlasınlar / Oy dağlar ...</p>",
-  "sozler_duz": "Dağlar dağımdır benim (2 / Gam ortağımdır benim (2 Söyletme çok ağlaram (2 / Dertli (yaman)çağımdır benim Oy dağlar dağlar dağlar Başı dumanlı dağlar / Göğsü çimenli dağlar Yol verin yarim gele / Dinsiz imansız dağlar (Ben derdimi söylesem / Yel durur bulut ağlar) Dağları dağlasınlar / Görenler (koyverin) ağlasınlar O yarin zülfü ile / Yaramı bağlasınlar / Oy dağlar ...",
+  "baslik": "Dağlar Dağımdır Benim_",
+  "sozler_html": "<p>Dağlar Dağımdır BenimGam Ortağımdır BenimSöyletme Çok AğlarımYaman Çağımdır BenimOy Dağlar Dağlar DağlarBaşı Dumanlı DağlarGöğsü Çimenli DağlarYol Verin Yarim GeleDinsiz İmansız DağlarDağları DağlasınlarGoy Beni AğlasınlarO Yarin Çevresiyle Yaremi BağlasınlarOy Dağlar Dağlar DağlarBaşı Dumanlı DağlarGöğsü Çimenli DağlarBen Derdimi SöylesemGün Durur Bulut Ağlar</p>",
+  "sozler_duz": "Dağlar Dağımdır BenimGam Ortağımdır BenimSöyletme Çok AğlarımYaman Çağımdır BenimOy Dağlar Dağlar DağlarBaşı Dumanlı DağlarGöğsü Çimenli DağlarYol Verin Yarim GeleDinsiz İmansız DağlarDağları DağlasınlarGoy Beni AğlasınlarO Yarin Çevresiyle Yaremi BağlasınlarOy Dağlar Dağlar DağlarBaşı Dumanlı DağlarGöğsü Çimenli DağlarBen Derdimi SöylesemGün Durur Bulut Ağlar",
   "meta": {
-    "yore": "ELAZIĞ",
+    "yore": "Elazığ",
     "turu": "",
-    "turu2": "",
+    "turu2": "S",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "ELAZIĞ",
+    "diger_bilgiler": "Mustafa Demirci-Muzaffer Sarısözen",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 636,
+    "eski_id": 3739,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

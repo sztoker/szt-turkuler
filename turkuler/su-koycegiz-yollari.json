@@ -1,12 +1,12 @@
 {
   "id": "su-koycegiz-yollari",
-  "baslik": "ŞU KÖYCEĞİZ YOLLARI",
-  "sozler_html": "<p>Şu Köyceğiz yolları / Kaldır Ayşem kolları</p>\n<p>Bizim için yapılmış / Şu Muğla'nın damları</p>\n<p class=\"bos\"></p>\n<p><b>Oldu mu Ayşem oldu mu </b></p>\n<p><b>Enişten camızları da buldu mu</b></p>\n<p><b>Bir kerecik öpmeynen </b></p>\n<p><b>Gül benizin Ayşem soldu mu</b></p>\n<p class=\"bos\"></p>\n<p>Ay akşamdır varamam / Dillere destan olamam</p>\n<p>Ay buluta girince/Bağlasalar-Ayşem-duramam</p>\n<p class=\"bos\"></p>\n<p><b>Oldu mu Ayşem oldu mu / Benim ilen kara yeller doldu mu</b></p>\n<p><b>Bir kerecik ...</b></p>\n<p class=\"bos\"></p>\n<p>Ay doğar aşmak ister / Boy sürer yaşmak ister</p>\n<p>( Su gelir akmak ister / Top zülüf yaşmak ister)</p>\n<p>Şu benim deli gönlüm / Yare kavuşmak ister</p>\n<p class=\"bos\"></p>\n<p><b>Oldu mu Ayşem oldu mu / Bu nazlar yakışık aldı mı</b></p>\n<p><b>Bir kerecik ...</b></p>\n<p class=\"bos\"></p>\n<p>Olamam ben olamam / Ben Ayşemsiz olamam</p>\n<p>Ay buluta girince / Bağlasalar duramam</p>",
-  "sozler_duz": "Şu Köyceğiz yolları / Kaldır Ayşem kolları Bizim için yapılmış / Şu Muğla'nın damları Oldu mu Ayşem oldu mu Enişten camızları da buldu mu Bir kerecik öpmeynen Gül benizin Ayşem soldu mu Ay akşamdır varamam / Dillere destan olamam Ay buluta girince/Bağlasalar-Ayşem-duramam Oldu mu Ayşem oldu mu / Benim ilen kara yeller doldu mu Bir kerecik ... Ay doğar aşmak ister / Boy sürer yaşmak ister ( Su gelir akmak ister / Top zülüf yaşmak ister) Şu benim deli gönlüm / Yare kavuşmak ister Oldu mu Ayşem oldu mu / Bu nazlar yakışık aldı mı Bir kerecik ... Olamam ben olamam / Ben Ayşemsiz olamam Ay buluta girince / Bağlasalar duramam",
+  "baslik": "Şu Köyceğiz Yolları_",
+  "sozler_html": "<p>Şu Köyceğiz YollarıKaldır Ayşem KollarıBizim İçin YapılmışŞu Muğlanın YollarıOldu Mu Ayşem Oldu MuEnişten Camızlarını Buldu MuBir Kerecik ÖpmeynenGül Benzin Ayşem Soldu MuAy Doğar Aşmak İsterTop Zülüf Yaşmak İsterŞu Benim Deli GönlümYare Kavuşmak İster</p>",
+  "sozler_duz": "Şu Köyceğiz YollarıKaldır Ayşem KollarıBizim İçin YapılmışŞu Muğlanın YollarıOldu Mu Ayşem Oldu MuEnişten Camızlarını Buldu MuBir Kerecik ÖpmeynenGül Benzin Ayşem Soldu MuAy Doğar Aşmak İsterTop Zülüf Yaşmak İsterŞu Benim Deli GönlümYare Kavuşmak İster",
   "meta": {
-    "yore": "MUĞLA",
+    "yore": "Muğla",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "MUĞLA",
+    "diger_bilgiler": "Zehra Bayatoğlu/Ahmet Batyatoğlu-Hamdi Özbay",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 1212,
+    "eski_id": 6399,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

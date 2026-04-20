@@ -1,12 +1,12 @@
 {
   "id": "bir-dalda-iki-kiraz",
-  "baslik": "BİR DALDA İKİ KİRAZ",
-  "sozler_html": "<p>Bir dalda iki kiraz / Birin al birin beyaz</p>\n<p>Ben buradan gidersem / Mektubunu sıkça yaz</p>\n<p>Sallasana sallasana mendilini</p>\n<p>Göstersene göstersene sevdiğini</p>\n<p class=\"bos\"></p>\n<p>Bir dalda iki elma / Birin al birin alma</p>\n<p>Alnına yazılmışım / İster al ister alma</p>\n<p class=\"bos\"></p>\n<p>Bir dalda iki ceviz / Aramız derya deniz</p>\n<p>Sen orada ben burda / Ne bet kaldı ne beniz</p>",
-  "sozler_duz": "Bir dalda iki kiraz / Birin al birin beyaz Ben buradan gidersem / Mektubunu sıkça yaz Sallasana sallasana mendilini Göstersene göstersene sevdiğini Bir dalda iki elma / Birin al birin alma Alnına yazılmışım / İster al ister alma Bir dalda iki ceviz / Aramız derya deniz Sen orada ben burda / Ne bet kaldı ne beniz",
+  "baslik": "Bir Dalda İki Kiraz_",
+  "sozler_html": "<p>Bir Dalda İki KirazBiri Al, Biri BeyazEğer Beni SeversenMektubunu Sıkça YazSallasana, Sallasana MendiliniAkşam Oldu Göndersene SevdiğimiSallasana, Sallasana SaçlarınıAkşam Olsun Söyleyeyim SuçlarınıBir Dalda İki CevizAramız Derya DenizSen Orada Ben BurdaNe Bed Kaldı Ne BenizSallasana, Sallasana MendiliniAkşam Oldu Göndersene SevdiğimiSallasana, Sallasana SaçlarınıAkşam Olsun Söyleyeyim SuçlarınıBir Dalda İki ElmaBirin Al Birin AlmaKurban Olduğum AllahCanım Al Yarim AlmaSallasana, Sallasana MendiliniAkşam Oldu Göndersene SevdiğimiSallasana, Sallasana SaçlarınıAkşam Olsun Söyleyeyim Suçlarını</p>",
+  "sozler_duz": "Bir Dalda İki KirazBiri Al, Biri BeyazEğer Beni SeversenMektubunu Sıkça YazSallasana, Sallasana MendiliniAkşam Oldu Göndersene SevdiğimiSallasana, Sallasana SaçlarınıAkşam Olsun Söyleyeyim SuçlarınıBir Dalda İki CevizAramız Derya DenizSen Orada Ben BurdaNe Bed Kaldı Ne BenizSallasana, Sallasana MendiliniAkşam Oldu Göndersene SevdiğimiSallasana, Sallasana SaçlarınıAkşam Olsun Söyleyeyim SuçlarınıBir Dalda İki ElmaBirin Al Birin AlmaKurban Olduğum AllahCanım Al Yarim AlmaSallasana, Sallasana MendiliniAkşam Oldu Göndersene SevdiğimiSallasana, Sallasana SaçlarınıAkşam Olsun Söyleyeyim Suçlarını",
   "meta": {
-    "yore": "",
+    "yore": "İstanbul",
     "turu": "",
-    "turu2": "",
+    "turu2": "S",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "",
+    "diger_bilgiler": "Ahmet Yamacı",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 538,
+    "eski_id": 3531,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

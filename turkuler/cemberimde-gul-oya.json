@@ -1,12 +1,12 @@
 {
   "id": "cemberimde-gul-oya",
-  "baslik": "ÇEMBERİMDE GÜL OYA",
-  "sozler_html": "<p>Çemberimde gül oya /Gülmedim doya doya (2</p>\n<p>Dertlere kalıyorum  /  Günleri saya saya</p>\n<p class=\"bos\"></p>\n<p><b>Al beni kıyamam seni (...2</b></p>\n<p class=\"bos\"></p>\n<p>Köşe başı beklerim / Vay benim emeklerim</p>\n<p>Dümbeleği çala çala / Yoruldu bileklerim</p>\n<p class=\"bos\"></p>\n<p><b>Al beni ...</b></p>\n<p class=\"bos\"></p>\n<p>Pembe gül idim soldum / Ak güle ibret oldum</p>\n<p>Karşı karşı dururken / Yüzüne hasret kaldım</p>\n<p class=\"bos\"></p>\n<p><b>Al beni ...</b></p>\n<p class=\"bos\"></p>\n<p>Yar yolunu beklerim  /  Vay benim emeklerim</p>\n<p>Sen git yarim gurbete  /  Ben sılayı beklerim</p>\n<p class=\"bos\"></p>\n<p><b>Al beni ... </b></p>",
-  "sozler_duz": "Çemberimde gül oya /Gülmedim doya doya (2 Dertlere kalıyorum / Günleri saya saya Al beni kıyamam seni (...2 Köşe başı beklerim / Vay benim emeklerim Dümbeleği çala çala / Yoruldu bileklerim Al beni ... Pembe gül idim soldum / Ak güle ibret oldum Karşı karşı dururken / Yüzüne hasret kaldım Al beni ... Yar yolunu beklerim / Vay benim emeklerim Sen git yarim gurbete / Ben sılayı beklerim Al beni ...",
+  "baslik": "Çemberimde Gül Oya_",
+  "sozler_html": "<p>Çemberimde Gül OyaGülmedim Doya DoyaDertlere KarıyorumGünleri Saya Saya.Al Beni Kıyamam SeniPembe Gül İdim Soldum,Ak Güle İbret OldumKarşı Karşı DururkenYüzüne Hasret Kaldım.Al Beni Kıyamam Seni.Avlu Dibi Beklerim,Vay Benim Emeklerim.Dümbeleği Çala ÇalaYoruldu BileklerimAl Beni Kıyamam Seni</p>",
+  "sozler_duz": "Çemberimde Gül OyaGülmedim Doya DoyaDertlere KarıyorumGünleri Saya Saya.Al Beni Kıyamam SeniPembe Gül İdim Soldum,Ak Güle İbret OldumKarşı Karşı DururkenYüzüne Hasret Kaldım.Al Beni Kıyamam Seni.Avlu Dibi Beklerim,Vay Benim Emeklerim.Dümbeleği Çala ÇalaYoruldu BileklerimAl Beni Kıyamam Seni",
   "meta": {
-    "yore": "ÇANAKKALE",
+    "yore": "Çanakkale/Biga",
     "turu": "",
-    "turu2": "",
+    "turu2": "S",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "ÇANAKKALE",
+    "diger_bilgiler": "Kamil Nizam Bilgili-Ahmet Yamacı",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 623,
+    "eski_id": 3709,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

@@ -1,12 +1,12 @@
 {
   "id": "su-uzun-gecenin-gecesi-olsam",
-  "baslik": "ŞU UZUN GECENİN GECESİ OLSAM",
-  "sozler_html": "<p>Şu uzun gecenin gecesi olsam</p>\n<p>Sılada bir evin bacası olsam / aman  -aman aman</p>\n<p>Dediler ki nazlı yarin pek hasta</p>\n<p>Başında okuyan hocası olsam / aman –aman aman</p>\n<p class=\"bos\"></p>\n<p>Katipler oturmuş yazıya bakmaz</p>\n<p>Herkes sevdiğini dilden bırakmaz</p>\n<p>Hey Allah’tan korkmaz kuldan utanmaz</p>\n<p>Gönül defterinden sildin mi beni</p>\n<p class=\"bos\"></p>\n<p>Evlerinin önü üç ağaç çınar</p>\n<p>Dillerim tutulur yüreğim yanar</p>\n<p>Eşinden ayrılan böyle mi yanar</p>\n<p>Anam anam hangi derdime yanam</p>",
-  "sozler_duz": "Şu uzun gecenin gecesi olsam Sılada bir evin bacası olsam / aman -aman aman Dediler ki nazlı yarin pek hasta Başında okuyan hocası olsam / aman –aman aman Katipler oturmuş yazıya bakmaz Herkes sevdiğini dilden bırakmaz Hey Allah’tan korkmaz kuldan utanmaz Gönül defterinden sildin mi beni Evlerinin önü üç ağaç çınar Dillerim tutulur yüreğim yanar Eşinden ayrılan böyle mi yanar Anam anam hangi derdime yanam",
+  "baslik": "Şu Uzun Gecenin Gecesi Olsam_",
+  "sozler_html": "<p>Şu Uzun Gecenin Gecesi OlsamSılada Bir Evin Bacası Olsam (Anan Anam Anam)Dediler Ki Nazlı Yarin Pek HastaBaşında Okuyan Hocası Olsam (Anan Anam Anam)Evlerinin Önü Üç Ağaç ÇınarDillerim Tutuşur Yüreğim Yanar (Anan Anam Anam)Eşinden Ayrılan Böyle Mi YanarAnam Anam Hangi Derdime Yanam (Anan Anam Anam)Kâtipler Oturmuş Yazıya BakmazHerkes Sevdiğini Dilden Bırakmaz (Anan Anam Anam)Hey Allah'tan Korkmaz, Kuldan UtanmazGönül Defterinden Sildin Mi Beni (Anan Anam Anam)</p>",
+  "sozler_duz": "Şu Uzun Gecenin Gecesi OlsamSılada Bir Evin Bacası Olsam (Anan Anam Anam)Dediler Ki Nazlı Yarin Pek HastaBaşında Okuyan Hocası Olsam (Anan Anam Anam)Evlerinin Önü Üç Ağaç ÇınarDillerim Tutuşur Yüreğim Yanar (Anan Anam Anam)Eşinden Ayrılan Böyle Mi YanarAnam Anam Hangi Derdime Yanam (Anan Anam Anam)Kâtipler Oturmuş Yazıya BakmazHerkes Sevdiğini Dilden Bırakmaz (Anan Anam Anam)Hey Allah'tan Korkmaz, Kuldan UtanmazGönül Defterinden Sildin Mi Beni (Anan Anam Anam)",
   "meta": {
-    "yore": "ÇORUM",
+    "yore": "Çorum",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "ÇORUM",
+    "diger_bilgiler": "Niyazi Biçerel-Muzaffer Sarısözen",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 60,
+    "eski_id": 6404,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

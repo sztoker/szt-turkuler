@@ -1,12 +1,12 @@
 {
   "id": "gokte-yildiz-ay-misun",
-  "baslik": "GÖKTE YILDIZ AY MİSUN",
-  "sozler_html": "<p>Gökte yıldız ay misun da * kemençeme yay misun</p>\n<p>Alsam seni elime –hişt hişt kiş kiş - baksam çalayi misun</p>\n<p class=\"bos\"></p>\n<p>Kemençe sesi misun da * cin misun peri misun</p>\n<p>Çok bakayisun bağa * beni yiyece misun</p>\n<p class=\"bos\"></p>\n<p>Kemençeme tel misun da * derdimi bilur misun</p>\n<p>Hayde gidelum desem * benimla gelir misun</p>\n<p class=\"bos\"></p>\n<p>Kil olsa çubuk olsa da * kemençeme yay olsa</p>\n<p>Sarsak birbirumizi * kimseler uyanmasa</p>",
-  "sozler_duz": "Gökte yıldız ay misun da * kemençeme yay misun Alsam seni elime –hişt hişt kiş kiş - baksam çalayi misun Kemençe sesi misun da * cin misun peri misun Çok bakayisun bağa * beni yiyece misun Kemençeme tel misun da * derdimi bilur misun Hayde gidelum desem * benimla gelir misun Kil olsa çubuk olsa da * kemençeme yay olsa Sarsak birbirumizi * kimseler uyanmasa",
+  "baslik": "Gökte Yıldız Ay Misun_",
+  "sozler_html": "<p>Gökte Yıldız Ay Misun DaKemençeme Yay Misun.Alsam Seni Elime Ssst SsstBaksam Çalayi Misun.Kemençeme Tel Misun DaDerdimi Bilir Misun.Hayda Gidelim Desem Ssst SsstBenimle Gelir MisunKemençeme Tel Misun DaSen Benim Neyim İsun,Çok Bakayusun Bana Ssst SsstBeni Yiyecek MisunKil Olsa Çubuk Olsa Da,Kemençeme Yay OlsaSarsak Birbirimizi Ssst SsstKimseler Uyanmasa.</p>",
+  "sozler_duz": "Gökte Yıldız Ay Misun DaKemençeme Yay Misun.Alsam Seni Elime Ssst SsstBaksam Çalayi Misun.Kemençeme Tel Misun DaDerdimi Bilir Misun.Hayda Gidelim Desem Ssst SsstBenimle Gelir MisunKemençeme Tel Misun DaSen Benim Neyim İsun,Çok Bakayusun Bana Ssst SsstBeni Yiyecek MisunKil Olsa Çubuk Olsa Da,Kemençeme Yay OlsaSarsak Birbirimizi Ssst SsstKimseler Uyanmasa.",
   "meta": {
-    "yore": "RİZE",
+    "yore": "Rize",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "RİZE",
+    "diger_bilgiler": "Hasan Sözeri-Cemile Cevher",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 846,
+    "eski_id": 5460,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

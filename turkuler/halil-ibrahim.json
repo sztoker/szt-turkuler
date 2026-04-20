@@ -1,12 +1,12 @@
 {
   "id": "halil-ibrahim",
-  "baslik": "HALİL İBRAHİM",
-  "sozler_html": "<p>Dağda kızıl ot biter / İçinde keklik öter</p>\n<p>Eşkiyadan da beter / Uslan be Halil İbrahim</p>\n<p class=\"bos\"></p>\n<p>Kıvırcık saçlarına / Kar düşmüş uçlarına</p>\n<p>Dağın yamaçlarına / Yaslan be Halil İbrahim</p>\n<p class=\"bos\"></p>\n<p>Derede su durulur / Daldan köprü (2-Dal köprüler ) kurulur</p>\n<p>Yeri yerine vurulur / Aslan be Halil İbrahim / Kıvırcık ...</p>\n<p class=\"bos\"></p>\n<p>Müfreze dağı sarar / Dağda kaçaklar arar</p>\n<p>Geçit vermez kayalar / Hızlan be Halil İbrahim / Kıvırcık .</p>",
-  "sozler_duz": "Dağda kızıl ot biter / İçinde keklik öter Eşkiyadan da beter / Uslan be Halil İbrahim Kıvırcık saçlarına / Kar düşmüş uçlarına Dağın yamaçlarına / Yaslan be Halil İbrahim Derede su durulur / Daldan köprü (2-Dal köprüler ) kurulur Yeri yerine vurulur / Aslan be Halil İbrahim / Kıvırcık ... Müfreze dağı sarar / Dağda kaçaklar arar Geçit vermez kayalar / Hızlan be Halil İbrahim / Kıvırcık .",
+  "baslik": "Halil İbrahim_",
+  "sozler_html": "<p>Dağda Kızıl Ot Biterİçinde Keklik ÖterEşkıyadan Da BeterUslan Be Halil İbrahimKıvırcık SaçlarınaKar Düşmüş UçlarınaDağın YamaçlarınaYaslan Be Halil İbrahimDerede Su DurulurDaldan Köprü Kurulur(Dal Köprüler Kurulur)El Yerine VurulurAslan Be Halil İbrahimKıvırcık SaçlarınaKar Düşmüş UçlarınaDağın YamaçlarınaYaslan Be Halil İbrahimMüfreze Dağı SararDağda Kaçaklar ArarGeçit Vermez KayalarHızlan Be Halil İbrahimKıvırcık SaçlarınaKar Düşmüş UçlarınaDağın YamaçlarınaYaslan Be Halil İbrahim</p>",
+  "sozler_duz": "Dağda Kızıl Ot Biterİçinde Keklik ÖterEşkıyadan Da BeterUslan Be Halil İbrahimKıvırcık SaçlarınaKar Düşmüş UçlarınaDağın YamaçlarınaYaslan Be Halil İbrahimDerede Su DurulurDaldan Köprü Kurulur(Dal Köprüler Kurulur)El Yerine VurulurAslan Be Halil İbrahimKıvırcık SaçlarınaKar Düşmüş UçlarınaDağın YamaçlarınaYaslan Be Halil İbrahimMüfreze Dağı SararDağda Kaçaklar ArarGeçit Vermez KayalarHızlan Be Halil İbrahimKıvırcık SaçlarınaKar Düşmüş UçlarınaDağın YamaçlarınaYaslan Be Halil İbrahim",
   "meta": {
-    "yore": "",
+    "yore": "Dursunali Akınet",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "",
+    "diger_bilgiler": "Selahattin Aygün",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 259,
+    "eski_id": 5535,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

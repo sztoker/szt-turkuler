@@ -1,12 +1,12 @@
 {
   "id": "tasa-basma-iz-olur",
-  "baslik": "TAŞA BASMA İZ OLUR",
-  "sozler_html": "<p>Taşa basma iz olur / aman -Kız kunduran toz olur -amman</p>\n<p>Gel buradan gidelim / aman- Eller duyar söz olur -amman</p>\n<p>A benim de kınalı da kekliğim amman</p>\n<p>Yollarını nerelerde bekleyim amman</p>\n<p class=\"bos\"></p>\n<p>Taşa basma tanırlar / Seni yolcu sanırlar</p>\n<p>Gel buradan gidelim / Seni benden alırlar / A benim de ...</p>",
-  "sozler_duz": "Taşa basma iz olur / aman -Kız kunduran toz olur -amman Gel buradan gidelim / aman- Eller duyar söz olur -amman A benim de kınalı da kekliğim amman Yollarını nerelerde bekleyim amman Taşa basma tanırlar / Seni yolcu sanırlar Gel buradan gidelim / Seni benden alırlar / A benim de ...",
+  "baslik": "Taşa Basma İz Olur_",
+  "sozler_html": "<p>Taşa Basma İz Olur(Aman) Kız Kunduran Toz Olur (Aman)Gel Buradan Gidelim(Aman) Eller Duyar Söz Olur (Aman)A Benim De Kınalı Da Kekliğim (Aman)Yollarını Nerelerde Bekleyim (Aman)Taşa Basma Tanırlar(Aman) Seni Yolcu Sanırlar (Aman)Gel Buradan Gidelim(Aman) Seni Benden Alırlar (Aman)A Benim De Kınalı Da Kekliğim (Aman)Yollarını Nerelerde Bekleyim (Aman)</p>",
+  "sozler_duz": "Taşa Basma İz Olur(Aman) Kız Kunduran Toz Olur (Aman)Gel Buradan Gidelim(Aman) Eller Duyar Söz Olur (Aman)A Benim De Kınalı Da Kekliğim (Aman)Yollarını Nerelerde Bekleyim (Aman)Taşa Basma Tanırlar(Aman) Seni Yolcu Sanırlar (Aman)Gel Buradan Gidelim(Aman) Seni Benden Alırlar (Aman)A Benim De Kınalı Da Kekliğim (Aman)Yollarını Nerelerde Bekleyim (Aman)",
   "meta": {
-    "yore": "NEVŞEHİR",
+    "yore": "Kayseri",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "NEVŞEHİR",
+    "diger_bilgiler": "Ahmet Gazi Ayhan-Trt İzmir Rad. Thm Müd",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 1224,
+    "eski_id": 6429,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

@@ -1,12 +1,12 @@
 {
   "id": "sokak-basi-meyhane",
-  "baslik": "SOKAK BAŞI MEYHANE",
-  "sozler_html": "<p>Sokak başı meyhane      (2 / Asmadandır kapısı</p>\n<p>Ben gözüme aldırdım      (2 / On beş sene mapusu</p>\n<p class=\"bos\"></p>\n<p>Kara koç boyanır mı / Öpsem yar uyanır mı</p>\n<p>İkimiz de sevdalı / Buna can dayanır mı</p>\n<p class=\"bos\"></p>\n<p>Alçacık beden yarim / Sallanıp giden yarim</p>\n<p>Seviştikte ayrıldık / Sebebi neden yarim</p>",
-  "sozler_duz": "Sokak başı meyhane (2 / Asmadandır kapısı Ben gözüme aldırdım (2 / On beş sene mapusu Kara koç boyanır mı / Öpsem yar uyanır mı İkimiz de sevdalı / Buna can dayanır mı Alçacık beden yarim / Sallanıp giden yarim Seviştikte ayrıldık / Sebebi neden yarim",
+  "baslik": "Sokak Başı Meyhane_",
+  "sozler_html": "<p>Sokak Başı MeyhaneAsmadandır KapısıBen Gözüme AldırdımOn Beş Sene MapisiHanım Oynasın OynasınSor Cezveler GaynasınHanimi Da Saran DoymasınSaranda Murad AlmasınKara Koç Boyanır MıÖpsem Var Uyanır Mıİkimiz De SevdalıBuna Can Dayanır MıHanım Oynasın OynasınSor Cezveler GaynasınHanimi Da Saran DoymasınSaranda Murad AlmasınKale Bayırı DüzüDevriye Sardı BiziHep Beraber OlalımVermiyelim Şu GızıHanım Oynasın OynasınSor Cezveler GaynasınHanimi Da Saran DoymasınSaranda Murad AlmasınAlçacık Beden YarimSallanıp Giden YarimSeviştik De AyrıldıkSebebi Neden YarimHanım Oynasın OynasınSor Cezveler GaynasınHanimi Da Saran DoymasınSaranda Murad Almasın</p>",
+  "sozler_duz": "Sokak Başı MeyhaneAsmadandır KapısıBen Gözüme AldırdımOn Beş Sene MapisiHanım Oynasın OynasınSor Cezveler GaynasınHanimi Da Saran DoymasınSaranda Murad AlmasınKara Koç Boyanır MıÖpsem Var Uyanır Mıİkimiz De SevdalıBuna Can Dayanır MıHanım Oynasın OynasınSor Cezveler GaynasınHanimi Da Saran DoymasınSaranda Murad AlmasınKale Bayırı DüzüDevriye Sardı BiziHep Beraber OlalımVermiyelim Şu GızıHanım Oynasın OynasınSor Cezveler GaynasınHanimi Da Saran DoymasınSaranda Murad AlmasınAlçacık Beden YarimSallanıp Giden YarimSeviştik De AyrıldıkSebebi Neden YarimHanım Oynasın OynasınSor Cezveler GaynasınHanimi Da Saran DoymasınSaranda Murad Almasın",
   "meta": {
-    "yore": "",
+    "yore": "Giresun",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "",
+    "diger_bilgiler": "Cemil Uzel-Ümit Tokcan",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 1180,
+    "eski_id": 6318,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

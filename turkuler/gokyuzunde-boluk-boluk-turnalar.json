@@ -1,12 +1,12 @@
 {
   "id": "gokyuzunde-boluk-boluk-turnalar",
-  "baslik": "GÖKYÜZÜNDE BÖLÜK BÖLÜK TURNALAR",
-  "sozler_html": "<p>Gökyüzünde bölük bölük turnalar –leyli leyli turnalar-Turnalar hey 3</p>\n<p>Nerededir meskeniniz eliniz -eliniz eliniz</p>\n<p>Bir nağme yazayım yare götürün –leyli leyli götürün-Götürün hey-3 * Uğrar m’ola dost eline yolunuz –yolunuz yolunuz</p>\n<p class=\"bos\"></p>\n<p>Telli turnam gökyüzünün gülüdür</p>\n<p>Aşıp kondukça Bağdat elidir</p>\n<p>Gözüm yaşım anam ağlar çürütür</p>\n<p>Aşamazsan telli turnam dön geri</p>",
-  "sozler_duz": "Gökyüzünde bölük bölük turnalar –leyli leyli turnalar-Turnalar hey 3 Nerededir meskeniniz eliniz -eliniz eliniz Bir nağme yazayım yare götürün –leyli leyli götürün-Götürün hey-3 * Uğrar m’ola dost eline yolunuz –yolunuz yolunuz Telli turnam gökyüzünün gülüdür Aşıp kondukça Bağdat elidir Gözüm yaşım anam ağlar çürütür Aşamazsan telli turnam dön geri",
+  "baslik": "Gökyüzünde Bölük Bölük Turnalar_",
+  "sozler_html": "<p>Gökyüzünde Bölük Bölük Turnalar (Leyli Leyli Durnalar Ey)Nerededir Meskeniniz Eliniz (Eliniz Eliniz)Bir Name Yazayım Yare Götürün (Leyli Leyli Götürün Ey)Dost Eline Uğrar M'ola Yolunuz (Yolunuz Yolunuz)Telli Turnam Gökyüzünün Gülüdür (Leyli Leyli Durnalar Ey)Esip Konducağın Bağdat Elidir (Elidir Elidir)Gözüm Yaşı Mahramalar Çürüdür (Leyli Leyli Götürün Ey)Aşamazsan Telli Turnam Dön Geri (Dön Geri)</p>",
+  "sozler_duz": "Gökyüzünde Bölük Bölük Turnalar (Leyli Leyli Durnalar Ey)Nerededir Meskeniniz Eliniz (Eliniz Eliniz)Bir Name Yazayım Yare Götürün (Leyli Leyli Götürün Ey)Dost Eline Uğrar M'ola Yolunuz (Yolunuz Yolunuz)Telli Turnam Gökyüzünün Gülüdür (Leyli Leyli Durnalar Ey)Esip Konducağın Bağdat Elidir (Elidir Elidir)Gözüm Yaşı Mahramalar Çürüdür (Leyli Leyli Götürün Ey)Aşamazsan Telli Turnam Dön Geri (Dön Geri)",
   "meta": {
-    "yore": "",
+    "yore": "Amasya",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "",
+    "diger_bilgiler": "Aşık Musa Aslan-Muzaffer Sarısözen",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 849,
+    "eski_id": 5467,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

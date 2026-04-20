@@ -1,12 +1,12 @@
 {
   "id": "karanfilin-moruna",
-  "baslik": "KARANFİLİN MORUNA",
-  "sozler_html": "<p>Karanfilin moruna –aman aman / Ölüyorum yoluna</p>\n<p>Çifte kurban adadım –aman aman / Sevdiğimin uğruna (2</p>\n<p class=\"bos\"></p>\n<p>Karanfilsin tarçınsın / Neden böyle hırçınsın</p>\n<p>Ne küçüksün ne büyük / Tamam benim harcımsın        (2</p>",
-  "sozler_duz": "Karanfilin moruna –aman aman / Ölüyorum yoluna Çifte kurban adadım –aman aman / Sevdiğimin uğruna (2 Karanfilsin tarçınsın / Neden böyle hırçınsın Ne küçüksün ne büyük / Tamam benim harcımsın (2",
+  "baslik": "Karanfilin Moruna_",
+  "sozler_html": "<p>Karanfilin MorunaÖlüyorum Yoluna.Çifte Kurban AdadımSevdiğimin YolunaKaranfilim Süt Beyaz,Ayrı Düştük Biz Bu Yaz.Hediyeni İstemem,Mektubunu Sıkça Yaz.Karanfilsin TarçınsınNeden Böyle HırçınsınNe Küçüksün Ne Büyük,Tamam Benim Harcımsın</p>",
+  "sozler_duz": "Karanfilin MorunaÖlüyorum Yoluna.Çifte Kurban AdadımSevdiğimin YolunaKaranfilim Süt Beyaz,Ayrı Düştük Biz Bu Yaz.Hediyeni İstemem,Mektubunu Sıkça Yaz.Karanfilsin TarçınsınNeden Böyle HırçınsınNe Küçüksün Ne Büyük,Tamam Benim Harcımsın",
   "meta": {
-    "yore": "ÇANAKKALE",
+    "yore": "Çanakkale",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "ÇANAKKALE               K : Refia Berkant     D :",
+    "diger_bilgiler": "Refika Berkant-Saniye Can",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 985,
+    "eski_id": 5785,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

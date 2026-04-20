@@ -1,12 +1,12 @@
 {
   "id": "su-kislanin-kapisina",
-  "baslik": "ŞU KIŞLANIN KAPISINA",
-  "sozler_html": "<p>Şu kışlanın kapısına * mail oldum yapısına</p>\n<p>Telli kurban bağlayayım * asker yarin kapısına</p>\n<p>Yüce (karlı) dağlar olmasaydı * laleri solmasaydı</p>\n<p>Ölüm allahın emri de * şu ayrılılık olmasaydı</p>\n<p class=\"bos\"></p>\n<p>Kara kazan kaynamasın * atım cirit oynamasın</p>\n<p>İki sene asker oldum * nazlı yarim ağlamasın / Yüce ...</p>",
-  "sozler_duz": "Şu kışlanın kapısına * mail oldum yapısına Telli kurban bağlayayım * asker yarin kapısına Yüce (karlı) dağlar olmasaydı * laleri solmasaydı Ölüm allahın emri de * şu ayrılılık olmasaydı Kara kazan kaynamasın * atım cirit oynamasın İki sene asker oldum * nazlı yarim ağlamasın / Yüce ...",
+  "baslik": "Şu Kışlanın Kapısına_",
+  "sozler_html": "<p>Şu Kışlanın KapısınaMail Oldum YapısınaTelli Kurban BağlayayımAsker Yarin KapısınaYüce Dağlar OlmasaydıLaleleri SolmasaydıÖlüm Allah'ın Emri DeŞu Ayrılık OlmasaydıKara Kazan KaynamasınAltım Cirit Oynamasınİki Sene Asker OldumNazlı Yarim AğlamasınYüce Dağlar OlmasaydıLaleleri SolmasaydıÖlüm Allah'ın Emri DeŞu Ayrılık OlmasaydıKıratımın Beli İnceÖlürüm Yar GörmeyinceTelli Yatak SerdirememAsker Yarim GelmeyinceYüce Dağlar OlmasaydıLaleleri SolmasaydıÖlüm Allah'ın Emri DeŞu Ayrılık Olmasaydı</p>",
+  "sozler_duz": "Şu Kışlanın KapısınaMail Oldum YapısınaTelli Kurban BağlayayımAsker Yarin KapısınaYüce Dağlar OlmasaydıLaleleri SolmasaydıÖlüm Allah'ın Emri DeŞu Ayrılık OlmasaydıKara Kazan KaynamasınAltım Cirit Oynamasınİki Sene Asker OldumNazlı Yarim AğlamasınYüce Dağlar OlmasaydıLaleleri SolmasaydıÖlüm Allah'ın Emri DeŞu Ayrılık OlmasaydıKıratımın Beli İnceÖlürüm Yar GörmeyinceTelli Yatak SerdirememAsker Yarim GelmeyinceYüce Dağlar OlmasaydıLaleleri SolmasaydıÖlüm Allah'ın Emri DeŞu Ayrılık Olmasaydı",
   "meta": {
-    "yore": "",
+    "yore": "Adana",
     "turu": "",
-    "turu2": "",
+    "turu2": "s",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "",
+    "diger_bilgiler": "Yöre Ekibi-Durmuş Yazıcıoğlu",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 74,
+    "eski_id": 6398,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

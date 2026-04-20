@@ -1,12 +1,12 @@
 {
   "id": "evlerinin-onu-bulgur-kazani",
-  "baslik": "EVLERİNİN ÖNÜ BULGUR KAZANI",
-  "sozler_html": "<p>Evlerinin önü bulgur kazanı -oğlan kazanı</p>\n<p>Herkes sever okuyanı yazanı -oğlan yazanı</p>\n<p>Kimse sevmez meyhanede gezeni -oğlan gezeni</p>\n<p>Armut dalda kız bahçede sallanır -oğlan sallanır</p>\n<p>Yere düşer şekerlenir ballanir -oğlan ballanir</p>\n<p class=\"bos\"></p>\n<p>Denizli'nin adım adım yolları</p>\n<p>Açılıp sarmıyor yarin kolları</p>\n<p>Bülbül gibi şakır gider dilleri / Armut dalda ...</p>\n<p class=\"bos\"></p>\n<p>Evlerine varamadım yalınız</p>\n<p>Mendilimi alıkoydu çalınız</p>\n<p>Tenhalarda söz atmıştı oğlunuz  / Armut dalda ...</p>",
-  "sozler_duz": "Evlerinin önü bulgur kazanı -oğlan kazanı Herkes sever okuyanı yazanı -oğlan yazanı Kimse sevmez meyhanede gezeni -oğlan gezeni Armut dalda kız bahçede sallanır -oğlan sallanır Yere düşer şekerlenir ballanir -oğlan ballanir Denizli'nin adım adım yolları Açılıp sarmıyor yarin kolları Bülbül gibi şakır gider dilleri / Armut dalda ... Evlerine varamadım yalınız Mendilimi alıkoydu çalınız Tenhalarda söz atmıştı oğlunuz / Armut dalda ...",
+  "baslik": "Evlerinin Önü Bulgur Kazanı_",
+  "sozler_html": "<p>Evlerinin Önü Bulgur Kazanı (Oğlan Kazanı),Herkes Sever Okuyanı Yazanı (Oğlan Yazanı)Kimse Sevmez Meyhanede Gezeni (Oğlan Gezeni)Armut Dalda Kız Bahçede Sallanır (Oğlan Sallanır)Yere Düşer Şekerlenir Ballanir (Oğlan Ballanir).Denizli'nin Adım Adım Yolları (Oğlan Yolları),Açılıp Sarmıyor Yarin Kolları (Oğlan Kolları)Bülbül Gibi Şakır Gider Dilleri (Oğlan Dilleri).Armut Dalda Kız Bahçede Sallanır (Oğlan Sallanır)Yere Düşer Şekerlenir Ballanır (Oğlan Ballanir)Evlerine Varamadım Yalınız (Oğlan Yalınız),Mendilimi Alıkoydu Çalınız (Oğlan Çalınız)Tenhalarda Söz Atmıştı Oğlunuz (Oglan Kızınız).Armut Dalda Kız Bahçede Sallanır (Oğlan Sallanır),Yere Düşer Şekerlenir Ballanir (Oğlan Ballanır).</p>",
+  "sozler_duz": "Evlerinin Önü Bulgur Kazanı (Oğlan Kazanı),Herkes Sever Okuyanı Yazanı (Oğlan Yazanı)Kimse Sevmez Meyhanede Gezeni (Oğlan Gezeni)Armut Dalda Kız Bahçede Sallanır (Oğlan Sallanır)Yere Düşer Şekerlenir Ballanir (Oğlan Ballanir).Denizli'nin Adım Adım Yolları (Oğlan Yolları),Açılıp Sarmıyor Yarin Kolları (Oğlan Kolları)Bülbül Gibi Şakır Gider Dilleri (Oğlan Dilleri).Armut Dalda Kız Bahçede Sallanır (Oğlan Sallanır)Yere Düşer Şekerlenir Ballanır (Oğlan Ballanir)Evlerine Varamadım Yalınız (Oğlan Yalınız),Mendilimi Alıkoydu Çalınız (Oğlan Çalınız)Tenhalarda Söz Atmıştı Oğlunuz (Oglan Kızınız).Armut Dalda Kız Bahçede Sallanır (Oğlan Sallanır),Yere Düşer Şekerlenir Ballanir (Oğlan Ballanır).",
   "meta": {
-    "yore": "DENİZLİ",
+    "yore": "Denizli",
     "turu": "",
-    "turu2": "",
+    "turu2": "S",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "DENİZLİ",
+    "diger_bilgiler": "Özay Gönlüm-Ahmet Yamacı",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 749,
+    "eski_id": 5283,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,

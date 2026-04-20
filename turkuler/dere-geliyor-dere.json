@@ -1,12 +1,12 @@
 {
   "id": "dere-geliyor-dere",
-  "baslik": "DERE GELİYOR DERE",
-  "sozler_html": "<p>Dere geliyor dere – yalelel yalelel</p>\n<p>Kumunu sere sere – yalelelim</p>\n<p>Al beni götür dere – yalelel yalelel</p>\n<p>Yarin olduğu yere – yalelelim</p>\n<p class=\"bos\"></p>\n<p>Amanın aman aman / Zamanın zaman zaman</p>\n<p>Bizim düğün ne zaman - yalelelim</p>\n<p class=\"bos\"></p>\n<p>Ben armudu dişledim / Sapını gümüşledim</p>\n<p>Sevdiğimin ismini / Mendilime işledim</p>",
-  "sozler_duz": "Dere geliyor dere – yalelel yalelel Kumunu sere sere – yalelelim Al beni götür dere – yalelel yalelel Yarin olduğu yere – yalelelim Amanın aman aman / Zamanın zaman zaman Bizim düğün ne zaman - yalelelim Ben armudu dişledim / Sapını gümüşledim Sevdiğimin ismini / Mendilime işledim",
+  "baslik": "Dere Geliyor Dere_",
+  "sozler_html": "<p>Dere Geliyor Dere Yalelel YalelelKumunu Sere Sere YalelellimAl Beni Götür Dere Yalelel Yalelel,Yarin Olduğu Yere Yalelellim.Amanın Aman Aman,Zamanın Zaman Zaman,Bizim Düğün Ne Zaman YalelellimBen Armudu Dişlerim Yalelel YalelelSapını Gümüşlerim YalelellimSevdiğimin İsmini Yalelel YalelelMendilime İslerim Yalelellim.Amanın Aman AmanZamanın Zaman Zaman,Bizim Düğün Ne Zaman Yalelellim.Armut Dalda Bir İki Yalelel YalelelSayın Bakın On İki YalelellimOn İkinin İçinde Yalelel Yalelel,Birincisi Benimki Yalelellim.Amanın Aman Aman,Zamanın Zaman Zaman,Bizim Düğün Ne Zaman Yalelellim.</p>",
+  "sozler_duz": "Dere Geliyor Dere Yalelel YalelelKumunu Sere Sere YalelellimAl Beni Götür Dere Yalelel Yalelel,Yarin Olduğu Yere Yalelellim.Amanın Aman Aman,Zamanın Zaman Zaman,Bizim Düğün Ne Zaman YalelellimBen Armudu Dişlerim Yalelel YalelelSapını Gümüşlerim YalelellimSevdiğimin İsmini Yalelel YalelelMendilime İslerim Yalelellim.Amanın Aman AmanZamanın Zaman Zaman,Bizim Düğün Ne Zaman Yalelellim.Armut Dalda Bir İki Yalelel YalelelSayın Bakın On İki YalelellimOn İkinin İçinde Yalelel Yalelel,Birincisi Benimki Yalelellim.Amanın Aman Aman,Zamanın Zaman Zaman,Bizim Düğün Ne Zaman Yalelellim.",
   "meta": {
-    "yore": "",
+    "yore": "Lüleburgaz",
     "turu": "",
-    "turu2": "",
+    "turu2": "S",
     "derleyen": "",
     "kaynak_kisi": "",
     "soz": "",
@@ -14,11 +14,11 @@
     "soyleyenler": "",
     "repertuar": "",
     "karar": "",
-    "diger_bilgiler": "Türkan Ebcioğlu",
+    "diger_bilgiler": "Türkan Ebcioğlu-Muzaffer Sarısözen",
     "aciklama": ""
   },
   "sistem": {
-    "eski_id": 672,
+    "eski_id": 3791,
     "olusturma": "2026-04-20",
     "son_degisiklik": "2026-04-20",
     "versiyon": 1,
