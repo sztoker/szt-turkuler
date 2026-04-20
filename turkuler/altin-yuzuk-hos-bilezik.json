@@ -1,26 +1,19 @@
 {
   "id": "altin-yuzuk-hos-bilezik",
   "baslik": "ALTIN YÜZÜK HOŞ BİLEZİK",
-  "sozler_html": "<p>İbrişim örmüyorlar –oy oy (2</p>\n<p>Sevmişim vermiyorlar –dayanamam ben (2</p>\n<p>Tanrının zalimleri –oy oy (2</p>\n<p>Münasip görmüyorlar –dayanamam ben (2</p>\n<p class=\"bos\"></p>\n<p><b>Altın yüzük hoş bilezik kollar nazik –oy oy</b></p>\n<p><b>Ben yarimden ayrılmışım sabredemem ben</b></p>\n<p><b>Ben yarimden ayrılmışım dayanamam ben </b></p>\n<p><b>(  2- bana da yazık –oy)</b></p>\n<p class=\"bos\"></p>\n<p>Kara dut parmak gibi /Kız yüzün kaymak gibi</p>\n<p>Beni yardan ayıran / Kurusun yaprak gibi <b>Altın ...</b></p>\n<p class=\"bos\"></p>\n<p>Kaleden indim yancak / Elimde yeşil sancak</p>\n<p>Ne kız oldum ne gelin / Ateşe yandım ancak<b> Altın ...</b></p>",
-  "sozler_duz": "İbrişim örmüyorlar –oy oy (2 Sevmişim vermiyorlar –dayanamam ben (2 Tanrının zalimleri –oy oy (2 Münasip görmüyorlar –dayanamam ben (2 Altın yüzük hoş bilezik kollar nazik –oy oy Ben yarimden ayrılmışım sabredemem ben Ben yarimden ayrılmışım dayanamam ben ( 2- bana da yazık –oy) Kara dut parmak gibi /Kız yüzün kaymak gibi Beni yardan ayıran / Kurusun yaprak gibi Altın ... Kaleden indim yancak / Elimde yeşil sancak Ne kız oldum ne gelin / Ateşe yandım ancak Altın ...",
+  "sozler_html": "<p>İbrişim örmüyorlar –oy oy (2</p>\n<p>Sevmişim vermiyorlar –dayanamam ben (2</p>\n<p>Tanrının zalimleri –oy oy (2</p>\n<p>Münasip görmüyorlar –dayanamam ben (2</p>\n<p class=\"bos\"></p>\n<p><b>Altın yüzük hoş bilezik kollar nazik –oy oy</b></p>\n<p><b>Ben yarimden ayrılmışım sabredemem ben</b></p>\n<p><b>Ben yarimden ayrılmışım dayanamam ben </b></p>\n<p><b>(  2- bana da yazık –oy)</b></p>\n<p class=\"bos\"></p>\n<p>Kara dut parmak gibi /Kız yüzün kaymak gibi</p>\n<p>Beni yardan ayıran / Kurusun yaprak gibi&nbsp;</p><p><b><br></b></p><p><b>Altın yüzük...</b></p>\n<p class=\"bos\"></p>\n<p>Kaleden indim yancak / Elimde yeşil sancak</p>\n<p>Ne kız oldum ne gelin / Ateşe yandım ancak<b>&nbsp;</b></p><p><b><br></b></p><p><b>Altın yüzük...</b></p>",
+  "sozler_duz": "İbrişim örmüyorlar –oy oy (2\n\nSevmişim vermiyorlar –dayanamam ben (2\n\nTanrının zalimleri –oy oy (2\n\nMünasip görmüyorlar –dayanamam ben (2\n\nAltın yüzük hoş bilezik kollar nazik –oy oy\n\nBen yarimden ayrılmışım sabredemem ben\n\nBen yarimden ayrılmışım dayanamam ben\n\n( 2- bana da yazık –oy)\n\nKara dut parmak gibi /Kız yüzün kaymak gibi\n\nBeni yardan ayıran / Kurusun yaprak gibi \n\nAltın yüzük...\n\nKaleden indim yancak / Elimde yeşil sancak\n\nNe kız oldum ne gelin / Ateşe yandım ancak \n\nAltın yüzük...",
   "meta": {
     "yore": "Adana",
     "turu": "1",
-    "turu2": "",
     "derleyen": "Ahmet Yamacı",
     "kaynak_kisi": "Aziz Şenses",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "Do",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "karar": "Do"
   },
   "sistem": {
     "eski_id": 414,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T15:34:46.739Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false

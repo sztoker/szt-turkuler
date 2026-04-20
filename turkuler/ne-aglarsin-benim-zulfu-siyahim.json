@@ -1,26 +1,17 @@
 {
   "id": "ne-aglarsin-benim-zulfu-siyahim",
-  "baslik": "Ne Ağlarsın Benim Zülfü Siyahım_",
-  "sozler_html": "<p>Ne Ağlarsın Benim Zülfü SiyahimBu Da Gelir Bu Da Geçer AğlamaGöklere Erişti Figânım Ahım,Bu Da Gelir Bu Da Geçer AğlamaBir Gülün Çevresi Dikendir Hardır,Bülbül Har Elinde Ah İle ZardırNe Olsa Da Kışın Sonu BahardırBu Da Gelir Bu Da Geçer AğlamaDaimi'yem Her Can Ermez Bu SırraGerçek Aşık Olan Erer O Nûra.Yusuf Sabır İle Vardı Mısır’aBu Da Gelir Bu Da Geçer Ağlama</p>",
-  "sozler_duz": "Ne Ağlarsın Benim Zülfü SiyahimBu Da Gelir Bu Da Geçer AğlamaGöklere Erişti Figânım Ahım,Bu Da Gelir Bu Da Geçer AğlamaBir Gülün Çevresi Dikendir Hardır,Bülbül Har Elinde Ah İle ZardırNe Olsa Da Kışın Sonu BahardırBu Da Gelir Bu Da Geçer AğlamaDaimi'yem Her Can Ermez Bu SırraGerçek Aşık Olan Erer O Nûra.Yusuf Sabır İle Vardı Mısır’aBu Da Gelir Bu Da Geçer Ağlama",
+  "baslik": "NE AĞLARSIN BENİM ZÜLFÜ SİYAHIM",
+  "sozler_html": "<p>Ne ağlarsın benim zülfü siyahım</p>\n<p>Bu da gelir bu da geçer ağlama</p>\n<p>Göklere erişti figanım ahım</p>\n<p><b>Bu da gelir bu da geçer ağlama</b></p>\n<p class=\"bos\"></p>\n<p>Bir gülün çevresi dikendir hardır</p>\n<p>Bülbül har elinden ah ile zardır</p>\n<p>Ne de olsa kışın sonu bahardır&nbsp;</p><p><b>Bu da gelir ...</b></p>\n<p class=\"bos\"></p>\n<p>Daimi'yem her can ermez bu sırra</p>\n<p>Gerçek aşık olan  erer o nura</p>\n<p>Yusuf sabır ile vardı Mısır'a</p><p><b>Bu da gelir ...</b></p>",
+  "sozler_duz": "Ne ağlarsın benim zülfü siyahım\n\nBu da gelir bu da geçer ağlama\n\nGöklere erişti figanım ahım\n\nBu da gelir bu da geçer ağlama\n\nBir gülün çevresi dikendir hardır\n\nBülbül har elinden ah ile zardır\n\nNe de olsa kışın sonu bahardır \n\nBu da gelir ...\n\nDaimi'yem her can ermez bu sırra\n\nGerçek aşık olan erer o nura\n\nYusuf sabır ile vardı Mısır'a\n\nBu da gelir ...",
   "meta": {
-    "yore": "Erzincan",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aşık İsmail Daimi-Mine Yalçın",
-    "aciklama": ""
+    "yore": "ERZİNCAN",
+    "kaynak_kisi": "Aşık Daimi",
+    "diger_bilgiler": "ERZİNCAN"
   },
   "sistem": {
-    "eski_id": 6019,
+    "eski_id": 3,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T15:30:39.814Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false

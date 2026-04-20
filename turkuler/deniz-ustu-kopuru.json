@@ -1,26 +1,17 @@
 {
   "id": "deniz-ustu-kopuru",
-  "baslik": "Deniz Üstü Köpürü_",
-  "sozler_html": "<p>Deniz Üstü Köpürür Ah Yarim Rinna Nay Rinna Rinna NayGemilere Binsem Götürür Ah Yarim AhBenim Sana Yandığım Ah Yarim Rinna Nay Rinna Rinna NayBir Güzelden Ötürü Ah Yarim AhDiz Üstüne Diz Koydum Ah Yarim Rinna Nay Rinna Rinna NayGül Yastığa Baş Koydum Ah Yarim AhSeni Gelecek Diye Ah Yarim Rinna Nay Rinna Rinna NaySol Yanıma Boş Koydum Ah Yarim Ah</p>",
-  "sozler_duz": "Deniz Üstü Köpürür Ah Yarim Rinna Nay Rinna Rinna NayGemilere Binsem Götürür Ah Yarim AhBenim Sana Yandığım Ah Yarim Rinna Nay Rinna Rinna NayBir Güzelden Ötürü Ah Yarim AhDiz Üstüne Diz Koydum Ah Yarim Rinna Nay Rinna Rinna NayGül Yastığa Baş Koydum Ah Yarim AhSeni Gelecek Diye Ah Yarim Rinna Nay Rinna Rinna NaySol Yanıma Boş Koydum Ah Yarim Ah",
+  "baslik": "DENİZ ÜSTÜ KÖPÜRÜ",
+  "sozler_html": "<p>Deniz üstü köpürü</p><p><b>Hey canım rinna nay rinna rinna nay</b></p><p>Kayığa da binsem götürü</p><p><b>Hey canım hey</b></p><p>Benim de şu Ula’ya gelişim</p><p><b>Hey canım rinna nay rinna rinna nay</b></p><p>Bir güzelden ötürü&nbsp;</p><p><b>Hey canım hey</b></p><p><b><br></b></p>\n<p>Taş üstüne taş koydum</p>\n<p>Gül yastığa baş koydum</p>\n<p>Seni de gelecek diye</p>\n<p>Sol yanımı boş koydum</p><p><br></p>\n<p>Karıncanın katarı</p>\n<p>Sol yanımda batarı</p>\n<p>Benim de bu Ula’ya geldiğim</p>\n<p>Bir güzelin hatırı</p>\n<p class=\"bos\"></p>\n<p>Şu derenin kütüğü</p>\n<p>Sel gelirse götürü</p>\n<p>Benim sana yandığım</p>\n<p>Kaşlarından ötürü</p><p><br></p>\n<p>Denizin ortasında</p>\n<p>Mum yanar sofrasında</p>\n<p>Benim şu dünyadan gidişim</p>\n<p>Bir güzel sevdasında</p>",
+  "sozler_duz": "Deniz üstü köpürü\n\nHey canım rinna nay rinna rinna nay\n\nKayığa da binsem götürü\n\nHey canım hey\n\nBenim de şu Ula’ya gelişim\n\nHey canım rinna nay rinna rinna nay\n\nBir güzelden ötürü \n\nHey canım hey\n\nTaş üstüne taş koydum\n\nGül yastığa baş koydum\n\nSeni de gelecek diye\n\nSol yanımı boş koydum\n\nKarıncanın katarı\n\nSol yanımda batarı\n\nBenim de bu Ula’ya geldiğim\n\nBir güzelin hatırı\n\nŞu derenin kütüğü\n\nSel gelirse götürü\n\nBenim sana yandığım\n\nKaşlarından ötürü\n\nDenizin ortasında\n\nMum yanar sofrasında\n\nBenim şu dünyadan gidişim\n\nBir güzel sevdasında",
   "meta": {
-    "yore": "Muğla/Ula",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Şerafettin Civelek-Şerafettin Civelek",
-    "aciklama": ""
+    "yore": "ULA / MUĞLA",
+    "turu": "1",
+    "karar": "Re"
   },
   "sistem": {
-    "eski_id": 3784,
+    "eski_id": 5203,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T18:36:30.057Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false

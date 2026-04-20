@@ -1,28 +1,15 @@
 {
   "id": "bu-dunyanin-devranina",
-  "baslik": "Bu Dünyanın Devranına_",
-  "sozler_html": "<p>Bu Dünyanın DevranınaAldanma Gönül AldanmaZilli Çanlı KervanınaAldanma Gönül AldanmaGüldürür Yüze DevranıBir Gün Okutur FermanıBulaman Derde DermanıAldanma Gönül AldanmaBilir Misin Neden NesinBir Gün Kesilecek SesinÇürür Cisminle KafesinAldanma Gönül AldanmaEvden Barktan GeçeceksinEcel Tasın İçeceksinNe Ektinse BiçeceksinAldanma Gönül AldanmaGelmemişken Ölüm CanaAğla Yalvar Yana YanaHaktan Yardımı Olsun SanaAldanma Gönül AldanmaCafer Sözünü Kısa KesKemalata Eyle HevesMenzil Almaz Tamah NekesAldanma Gönül Aldanma</p>",
-  "sozler_duz": "Bu Dünyanın DevranınaAldanma Gönül AldanmaZilli Çanlı KervanınaAldanma Gönül AldanmaGüldürür Yüze DevranıBir Gün Okutur FermanıBulaman Derde DermanıAldanma Gönül AldanmaBilir Misin Neden NesinBir Gün Kesilecek SesinÇürür Cisminle KafesinAldanma Gönül AldanmaEvden Barktan GeçeceksinEcel Tasın İçeceksinNe Ektinse BiçeceksinAldanma Gönül AldanmaGelmemişken Ölüm CanaAğla Yalvar Yana YanaHaktan Yardımı Olsun SanaAldanma Gönül AldanmaCafer Sözünü Kısa KesKemalata Eyle HevesMenzil Almaz Tamah NekesAldanma Gönül Aldanma",
+  "baslik": "BU DÜNYANIN DEVRANINA",
+  "sozler_html": "<p>Bu dünyanın devranına</p><p>Aldanma gönül aldanma</p><p>Zilli çanlı kervanına</p><p>Aldanma gönül aldanma</p><p><br></p><p>Güldürür yüze devranı</p><p>Birgün okutur fermanı</p><p>Bulaman derde dermanı</p><p>Aldanma gönül aldanma</p><p><br></p><p>Bilir misin neden nesin</p><p>Birgün kesilecek sesin</p><p>Çürür cisminle kafesin</p><p>Aldanma gönül aldanma</p><p><br></p><p>Evden barktan geçeceksin</p><p>Ecel tasın içeceksin</p><p>Ne ektinse biçeceksin</p><p>Aldanma gönül aldanma</p><p><br></p><p>Gelmemişken ölüm cana</p><p>Ağla yalvar yana yana</p><p>Haktan yardım olsun sana</p><p>Aldanma gönül aldanma</p><p><br></p><p>Cafer sözünü kısa kes</p><p>Kemalata eyle heves</p><p>Menzil almaz tamah nekes</p><p>Aldanma gönül aldanma</p>",
+  "sozler_duz": "Bu dünyanın devranına\n\nAldanma gönül aldanma\n\nZilli çanlı kervanına\n\nAldanma gönül aldanma\n\nGüldürür yüze devranı\n\nBirgün okutur fermanı\n\nBulaman derde dermanı\n\nAldanma gönül aldanma\n\nBilir misin neden nesin\n\nBirgün kesilecek sesin\n\nÇürür cisminle kafesin\n\nAldanma gönül aldanma\n\nEvden barktan geçeceksin\n\nEcel tasın içeceksin\n\nNe ektinse biçeceksin\n\nAldanma gönül aldanma\n\nGelmemişken ölüm cana\n\nAğla yalvar yana yana\n\nHaktan yardım olsun sana\n\nAldanma gönül aldanma\n\nCafer sözünü kısa kes\n\nKemalata eyle heves\n\nMenzil almaz tamah nekes\n\nAldanma gönül aldanma",
   "meta": {
-    "yore": "Tuncel",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Cafer Baba-Nesimi Çimen",
-    "aciklama": ""
+    "yore": "Tunceli",
+    "derleyen": "Aşık Nesimi Çimen",
+    "kaynak_kisi": "Cafer Baba",
+    "diger_bilgiler": "Notaya alan: Yavuz Top"
   },
   "sistem": {
-    "eski_id": 3576,
-    "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
-    "versiyon": 1,
-    "yayinlanabilir": true,
-    "kontrol_edildi": false
+    "son_degisiklik": "2026-04-20T18:51:22.938Z"
   }
 }
