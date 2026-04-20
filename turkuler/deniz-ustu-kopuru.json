@@ -1,26 +1,17 @@
 {
   "id": "deniz-ustu-kopuru",
   "baslik": "DENİZ ÜSTÜ KÖPÜRÜ",
-  "sozler_html": "<p>Deniz üstü köpürü</p>\n<p class=\"bos\"></p>\n<p><b>Hey canım rinna nay rinna rinna nay</b></p>\n<p class=\"bos\"></p>\n<p>Kayığa da binsem götürü</p>\n<p class=\"bos\"></p>\n<p><b>Hey canım hey</b></p>\n<p class=\"bos\"></p>\n<p>Benim de şu Ula’ya gelişim</p>\n<p class=\"bos\"></p>\n<p><b>Hey canım rinna nay rinna rinna nay</b></p>\n<p class=\"bos\"></p>\n<p>Bir güzelden ötürü  <b>Hey canım hey</b></p>\n<p>Taş üstüne taş koydum</p>\n<p>Gül yastığa baş koydum</p>\n<p>Seni de gelecek diye</p>\n<p>Sol yanımı boş koydum</p>\n<p>Karıncanın katarı</p>\n<p>Sol yanımda batarı</p>\n<p>Benim de bu Ula’ya geldiğim</p>\n<p>Bir güzelin hatırı</p>\n<p class=\"bos\"></p>\n<p>Şu derenin kütüğü</p>\n<p>Sel gelirse götürü</p>\n<p>Benim sana yandığım</p>\n<p>Kaşlarından ötürü</p>\n<p>Denizin ortasında</p>\n<p>Mum yanar sofrasında</p>\n<p>Benim şu dünyadan gidişim</p>\n<p>Bir güzel sevdasında</p>",
-  "sozler_duz": "Deniz üstü köpürü Hey canım rinna nay rinna rinna nay Kayığa da binsem götürü Hey canım hey Benim de şu Ula’ya gelişim Hey canım rinna nay rinna rinna nay Bir güzelden ötürü Hey canım hey Taş üstüne taş koydum Gül yastığa baş koydum Seni de gelecek diye Sol yanımı boş koydum Karıncanın katarı Sol yanımda batarı Benim de bu Ula’ya geldiğim Bir güzelin hatırı Şu derenin kütüğü Sel gelirse götürü Benim sana yandığım Kaşlarından ötürü Denizin ortasında Mum yanar sofrasında Benim şu dünyadan gidişim Bir güzel sevdasında",
+  "sozler_html": "<p>Deniz üstü köpürü</p><p><b>Hey canım rinna nay rinna rinna nay</b></p><p>Kayığa da binsem götürü</p><p><b>Hey canım hey</b></p><p>Benim de şu Ula’ya gelişim</p><p><b>Hey canım rinna nay rinna rinna nay</b></p><p>Bir güzelden ötürü&nbsp;</p><p><b>Hey canım hey</b></p><p><b><br></b></p>\n<p>Taş üstüne taş koydum</p>\n<p>Gül yastığa baş koydum</p>\n<p>Seni de gelecek diye</p>\n<p>Sol yanımı boş koydum</p><p><br></p>\n<p>Karıncanın katarı</p>\n<p>Sol yanımda batarı</p>\n<p>Benim de bu Ula’ya geldiğim</p>\n<p>Bir güzelin hatırı</p>\n<p class=\"bos\"></p>\n<p>Şu derenin kütüğü</p>\n<p>Sel gelirse götürü</p>\n<p>Benim sana yandığım</p>\n<p>Kaşlarından ötürü</p><p><br></p>\n<p>Denizin ortasında</p>\n<p>Mum yanar sofrasında</p>\n<p>Benim şu dünyadan gidişim</p>\n<p>Bir güzel sevdasında</p>",
+  "sozler_duz": "Deniz üstü köpürü\n\nHey canım rinna nay rinna rinna nay\n\nKayığa da binsem götürü\n\nHey canım hey\n\nBenim de şu Ula’ya gelişim\n\nHey canım rinna nay rinna rinna nay\n\nBir güzelden ötürü \n\nHey canım hey\n\nTaş üstüne taş koydum\n\nGül yastığa baş koydum\n\nSeni de gelecek diye\n\nSol yanımı boş koydum\n\nKarıncanın katarı\n\nSol yanımda batarı\n\nBenim de bu Ula’ya geldiğim\n\nBir güzelin hatırı\n\nŞu derenin kütüğü\n\nSel gelirse götürü\n\nBenim sana yandığım\n\nKaşlarından ötürü\n\nDenizin ortasında\n\nMum yanar sofrasında\n\nBenim şu dünyadan gidişim\n\nBir güzel sevdasında",
   "meta": {
     "yore": "ULA / MUĞLA",
     "turu": "1",
-    "turu2": "T",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "Re",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "karar": "Re"
   },
   "sistem": {
     "eski_id": 5203,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T18:36:30.057Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
