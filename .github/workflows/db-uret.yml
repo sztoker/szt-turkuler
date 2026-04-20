@@ -8,7 +8,8 @@ on:
         description: 'Sürüm numarası (örn: v1.2.0)'
         required: true
         default: 'v1.0.0'
-
+permissions:
+  contents: write
 jobs:
   db-uret:
     runs-on: ubuntu-latest
