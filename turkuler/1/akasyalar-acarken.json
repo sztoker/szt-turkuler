@@ -1,26 +1,17 @@
 {
   "id": "akasyalar-acarken",
   "baslik": "AKASYALAR AÇARKEN",
-  "sozler_html": "<p>Yar yolunu kolladım</p>\n<p>B eyaz mendil salladım</p>\n<p>Ona (sana) çiçek yolladım</p>\n<p>A kasyalar açarken</p>\n<p class=\"bos\"></p>\n<p>Yarim gelir yanıma</p>\n<p>K anı kaynar kanıma</p>\n<p>Neşe katar canıma</p>\n<p>A kasyalar açarken</p>\n<p class=\"bos\"></p>\n<p>Yarimle ben biz bize (yüz yüze)</p>\n<p>O tururuz diz dize</p>\n<p>Sevişiriz göz göze</p>\n<p>A kasyalar açarken</p>",
-  "sozler_duz": "Yar yolunu kolladım B eyaz mendil salladım Ona (sana) çiçek yolladım A kasyalar açarken Yarim gelir yanıma K anı kaynar kanıma Neşe katar canıma A kasyalar açarken Yarimle ben biz bize (yüz yüze) O tururuz diz dize Sevişiriz göz göze A kasyalar açarken",
+  "sozler_html": "<p>Yar yolunu kolladım</p>\n<p>Beyaz mendil salladım</p>\n<p>Ona (sana) çiçek yolladım</p>\n<p>Akasyalar açarken</p>\n<p class=\"bos\"></p>\n<p>Yarim gelir yanıma</p>\n<p>Kanı kaynar kanıma</p>\n<p>Neşe katar canıma</p>\n<p>A kasyalar açarken</p>\n<p class=\"bos\"></p>\n<p>Yarimle ben biz bize (yüz yüze)</p>\n<p>Otururuz diz dize</p>\n<p>Sevişiriz göz göze</p>\n<p>Akasyalar açarken</p>",
+  "sozler_duz": "Yar yolunu kolladım\n\nBeyaz mendil salladım\n\nOna (sana) çiçek yolladım\n\nAkasyalar açarken\n\nYarim gelir yanıma\n\nKanı kaynar kanıma\n\nNeşe katar canıma\n\nA kasyalar açarken\n\nYarimle ben biz bize (yüz yüze)\n\nOtururuz diz dize\n\nSevişiriz göz göze\n\nAkasyalar açarken",
   "meta": {
-    "yore": "",
     "turu": "TSM",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
     "muzik": "Yesari Asım Arsoy",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Hüzzam / Düyek",
-    "aciklama": ""
+    "diger_bilgiler": "Hüzzam / Düyek"
   },
   "sistem": {
     "eski_id": 398,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-20T22:48:07.346Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
