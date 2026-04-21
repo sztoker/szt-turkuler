@@ -2,25 +2,14 @@
   "id": "bahcelere-geldi-bahar",
   "baslik": "BAHÇELERE GELDİ BAHAR",
   "sozler_html": "<p>Bahçelere geldi bahar  /  Yeşil halı serdi bahar</p>\n<p>Gel dedim gelmedin yar gelmedin yar</p>\n<p class=\"bos\"></p>\n<p>Beni yada salsana yar  /  Şu halimi sorsana yar</p>\n<p>A ceylan sevdiğim  /  Mehriban sevdiğim</p>\n<p>Sırrımı bilmedin  /  Bilmedin yar</p>\n<p class=\"bos\"></p>\n<p>Bahçelerden güllü çiçek  /  Güllü çemen güllü çiçek</p>\n<p>Gül dedim gülmedin yar gülmedin yar / Beni yada ...</p>\n<p class=\"bos\"></p>\n<p>Şirin şirin sözle beni  /  Özüm dedim özle beni</p>\n<p>Gözledim gelmedin yar gelmedin yar / Beni yada ...</p>",
-  "sozler_duz": "Bahçelere geldi bahar / Yeşil halı serdi bahar Gel dedim gelmedin yar gelmedin yar Beni yada salsana yar / Şu halimi sorsana yar A ceylan sevdiğim / Mehriban sevdiğim Sırrımı bilmedin / Bilmedin yar Bahçelerden güllü çiçek / Güllü çemen güllü çiçek Gül dedim gülmedin yar gülmedin yar / Beni yada ... Şirin şirin sözle beni / Özüm dedim özle beni Gözledim gelmedin yar gelmedin yar / Beni yada ...",
+  "sozler_duz": "Bahçelere geldi bahar / Yeşil halı serdi bahar\n\nGel dedim gelmedin yar gelmedin yar\n\nBeni yada salsana yar / Şu halimi sorsana yar\n\nA ceylan sevdiğim / Mehriban sevdiğim\n\nSırrımı bilmedin / Bilmedin yar\n\nBahçelerden güllü çiçek / Güllü çemen güllü çiçek\n\nGül dedim gülmedin yar gülmedin yar / Beni yada ...\n\nŞirin şirin sözle beni / Özüm dedim özle beni\n\nGözledim gelmedin yar gelmedin yar / Beni yada ...",
   "meta": {
-    "yore": "KARS",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "KARS",
-    "aciklama": ""
+    "yore": "KARS"
   },
   "sistem": {
     "eski_id": 490,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T15:45:57.833Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
