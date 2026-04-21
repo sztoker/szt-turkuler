@@ -1,26 +1,17 @@
 {
   "id": "ben-kendimi-gulun-dibinde-buldum",
   "baslik": "BEN KENDİMİ GÜLÜN DİBİNDE BULDUM",
-  "sozler_html": "<p>Ben kendimi- aman aman-gülün dibinde buldum  - ey</p>\n<p>Kuru kuru sevdayımış sarardım soldum –ey</p>\n<p>Aşk bir rüyayımış kendime yordum –ey</p>\n<p class=\"bos\"></p>\n<p><b>Ay karanlık gece vurdular beni</b></p>\n<p><b>Yarin çevresine sardılar beni –ey</b></p>\n<p class=\"bos\"></p>\n<p>Değirmen de r esi bölük –kadınım- bölüktür</p>\n<p>İçerde çiğerim delik –kadınım- deliktir</p>\n<p>Dünya dedikleri bir gölgeliktir</p>\n<p class=\"bos\"></p>\n<p><b>Ay karanlık ...</b></p>",
-  "sozler_duz": "Ben kendimi- aman aman-gülün dibinde buldum - ey Kuru kuru sevdayımış sarardım soldum –ey Aşk bir rüyayımış kendime yordum –ey Ay karanlık gece vurdular beni Yarin çevresine sardılar beni –ey Değirmen de r esi bölük –kadınım- bölüktür İçerde çiğerim delik –kadınım- deliktir Dünya dedikleri bir gölgeliktir Ay karanlık ...",
+  "sozler_html": "<p>Ben kendimi<i>- aman aman-</i>gülün dibinde buldum  <i>- ey</i></p>\n<p>Kuru kuru sevdayımış sarardım soldum <i>- ey</i></p>\n<p>Aşk bir rüyayımış kendime yordum<i> - ey</i></p>\n<p class=\"bos\"></p>\n<p><b>Ay karanlık gece vurdular beni</b></p>\n<p><b>Yarin çevresine sardılar beni <i>- ey</i></b></p>\n<p class=\"bos\"></p>\n<p>Değirmen deresi bölük <i>-kadınım-</i> bölüktür</p>\n<p>İçerde çiğerim delik <i>-kadınım- </i>deliktir</p>\n<p>Dünya dedikleri bir gölgeliktir</p>\n<p class=\"bos\"></p>\n<p><b>Ay karanlık ...</b></p>",
+  "sozler_duz": "Ben kendimi- aman aman-gülün dibinde buldum - ey\n\nKuru kuru sevdayımış sarardım soldum - ey\n\nAşk bir rüyayımış kendime yordum - ey\n\nAy karanlık gece vurdular beni\n\nYarin çevresine sardılar beni - ey\n\nDeğirmen deresi bölük -kadınım- bölüktür\n\nİçerde çiğerim delik -kadınım- deliktir\n\nDünya dedikleri bir gölgeliktir\n\nAy karanlık ...",
   "meta": {
     "yore": "KÜTAHYA",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Hisarlı Ahmet-Yücel Paşmakçı",
-    "aciklama": ""
+    "derleyen": "Yücel Paşmakçı",
+    "kaynak_kisi": "Hisarlı Ahmet"
   },
   "sistem": {
     "eski_id": 512,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T16:42:07.977Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
