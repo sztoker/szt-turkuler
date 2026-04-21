@@ -6,14 +6,14 @@
   "meta": {
     "yore": "ACIPAYAM/DENİZLİ",
     "turu": "1",
+    "derleyen": "Özay Gönlüm",
     "kaynak_kisi": "Hüseyin Aktekin",
-    "karar": "La",
-    "diger_bilgiler": "ACIPAYAM/DENİZLİ K:, D:Özay Gönlüm"
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 814,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T00:35:35.312Z",
+    "son_degisiklik": "2026-04-21T00:35:49.942Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
