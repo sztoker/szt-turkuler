@@ -1,26 +1,16 @@
 {
   "id": "beri-gel-a-yarim",
   "baslik": "BERİ GEL A YARİM",
-  "sozler_html": "<p>Aşağıdan gelen de hanım oynasın</p>\n<p>Keklik kebabını da yiyen doymasın</p>\n<p>Beni yardan ayıranlar olmasın</p>\n<p>Beri gel a yarim beri gel ben adam yemem</p>\n<p>Ellerin yarine de yarim ol demem</p>\n<p>Sekiver a yarim de sekiver kaba minder üstüne</p>\n<p>Mavili yazma mor kadifenin üstüne</p>\n<p class=\"bos\"></p>\n<p>Yoğurdum var yeşil de meşil çanakta</p>\n<p>Benleri var ak gerdanda yanakta</p>\n<p>Benim yarim şu karşıki konakta / Beri gel .....</p>",
-  "sozler_duz": "Aşağıdan gelen de hanım oynasın Keklik kebabını da yiyen doymasın Beni yardan ayıranlar olmasın Beri gel a yarim beri gel ben adam yemem Ellerin yarine de yarim ol demem Sekiver a yarim de sekiver kaba minder üstüne Mavili yazma mor kadifenin üstüne Yoğurdum var yeşil de meşil çanakta Benleri var ak gerdanda yanakta Benim yarim şu karşıki konakta / Beri gel .....",
+  "sozler_html": "<p>Aşağıdan gelen de hanım oynasın</p>\n<p>Keklik kebabını da yiyen doymasın</p>\n<p>Beni yardan ayıranlar olmasın</p><p><br></p>\n<p><b>Beri gel a yarim beri gel ben adam yemem</b></p>\n<p><b>Ellerin yarine de yarim ol demem</b></p>\n<p><b>Sekiver a yarim de sekiver kaba minder üstüne</b></p>\n<p><b>Mavili yazma mor kadifenin üstüne</b></p>\n<p class=\"bos\"></p>\n<p>Yoğurdum var yeşil de meşil çanakta</p>\n<p>Benleri var ak gerdanda yanakta</p>\n<p>Benim yarim şu karşıki konakta&nbsp;</p><p><br></p><p><b>Beri gel a yarim...</b></p>",
+  "sozler_duz": "Aşağıdan gelen de hanım oynasın\n\nKeklik kebabını da yiyen doymasın\n\nBeni yardan ayıranlar olmasın\n\nBeri gel a yarim beri gel ben adam yemem\n\nEllerin yarine de yarim ol demem\n\nSekiver a yarim de sekiver kaba minder üstüne\n\nMavili yazma mor kadifenin üstüne\n\nYoğurdum var yeşil de meşil çanakta\n\nBenleri var ak gerdanda yanakta\n\nBenim yarim şu karşıki konakta \n\nBeri gel a yarim...",
   "meta": {
     "yore": "BİLECİK",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "BİLECİK",
-    "aciklama": ""
+    "diger_bilgiler": "BİLECİK"
   },
   "sistem": {
     "eski_id": 525,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T19:08:41.031Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
