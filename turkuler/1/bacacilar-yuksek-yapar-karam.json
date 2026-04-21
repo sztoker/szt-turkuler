@@ -2,25 +2,15 @@
   "id": "bacacilar-yuksek-yapar-karam",
   "baslik": "BACACILAR YÜKSEK YAPAR (Karam)",
   "sozler_html": "<p>(E Hey) Bacacılar Yüksek Yapar Bacayı</p>\n<p>Şimdiki Kızlar Kendisi Bulur Kocayı (Da)</p>\n<p>Karam Altın Dişli (Karam)</p>\n<p>Sırma Saçlı (Karam)</p>\n<p>Rakı İçtim Anam Dalgaya Düştüm (Karam)</p>\n<p class=\"bos\"></p>\n<p>Havuzun Başına Gelmesin Eller</p>\n<p>Bugün Efkarlıyım Açmasın Güller (Karam)</p>\n<p>Aman Ne Güzelsin (Karam)</p>\n<p>Altın Dişli Karam Sırma Saçlı (Karam)</p>\n<p>Ben Sana Yandım (Anam)</p>\n<p>Sen Kime Yandın (Karam)</p>\n<p class=\"bos\"></p>\n<p>(E Hey) Ayaklar Altının Turabıyım Ben</p>\n<p>Pişmiş Ciğerlerin Kebabıyım Ben</p>\n<p>Karam Altın Dişli (Karam)</p>\n<p>Sırma Saçlı (Karam)</p>\n<p>Ne Güzelsin (Karam)</p>\n<p>Hoppah Demeye Geldim</p>\n<p>Peynir Yemeye Geldim</p>\n<p>Gız Seni Görmeye Geldim (De)</p>\n<p class=\"bos\"></p>\n<p>(E Hey) Evleri Olsa Da Engin Olmasa</p>\n<p>Babası Olsa Da Zengin Olmasa (Da Karam)</p>\n<p>O Var Benim Olsa Dengim Olmasa</p>\n<p>Boşa Cilvelenme Ben Almam Seni (De Karam)</p>",
-  "sozler_duz": "(E Hey) Bacacılar Yüksek Yapar Bacayı Şimdiki Kızlar Kendisi Bulur Kocayı (Da) Karam Altın Dişli (Karam) Sırma Saçlı (Karam) Rakı İçtim Anam Dalgaya Düştüm (Karam) Havuzun Başına Gelmesin Eller Bugün Efkarlıyım Açmasın Güller (Karam) Aman Ne Güzelsin (Karam) Altın Dişli Karam Sırma Saçlı (Karam) Ben Sana Yandım (Anam) Sen Kime Yandın (Karam) (E Hey) Ayaklar Altının Turabıyım Ben Pişmiş Ciğerlerin Kebabıyım Ben Karam Altın Dişli (Karam) Sırma Saçlı (Karam) Ne Güzelsin (Karam) Hoppah Demeye Geldim Peynir Yemeye Geldim Gız Seni Görmeye Geldim (De) (E Hey) Evleri Olsa Da Engin Olmasa Babası Olsa Da Zengin Olmasa (Da Karam) O Var Benim Olsa Dengim Olmasa Boşa Cilvelenme Ben Almam Seni (De Karam)",
+  "sozler_duz": "(E Hey) Bacacılar Yüksek Yapar Bacayı\n\nŞimdiki Kızlar Kendisi Bulur Kocayı (Da)\n\nKaram Altın Dişli (Karam)\n\nSırma Saçlı (Karam)\n\nRakı İçtim Anam Dalgaya Düştüm (Karam)\n\nHavuzun Başına Gelmesin Eller\n\nBugün Efkarlıyım Açmasın Güller (Karam)\n\nAman Ne Güzelsin (Karam)\n\nAltın Dişli Karam Sırma Saçlı (Karam)\n\nBen Sana Yandım (Anam)\n\nSen Kime Yandın (Karam)\n\n(E Hey) Ayaklar Altının Turabıyım Ben\n\nPişmiş Ciğerlerin Kebabıyım Ben\n\nKaram Altın Dişli (Karam)\n\nSırma Saçlı (Karam)\n\nNe Güzelsin (Karam)\n\nHoppah Demeye Geldim\n\nPeynir Yemeye Geldim\n\nGız Seni Görmeye Geldim (De)\n\n(E Hey) Evleri Olsa Da Engin Olmasa\n\nBabası Olsa Da Zengin Olmasa (Da Karam)\n\nO Var Benim Olsa Dengim Olmasa\n\nBoşa Cilvelenme Ben Almam Seni (De Karam)",
   "meta": {
     "yore": "Orta Anadolu",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Refik Başaran- Plaktan Yazıldı",
-    "aciklama": ""
+    "kaynak_kisi": "Refik Başaran"
   },
   "sistem": {
     "eski_id": 3431,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T15:11:41.747Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
