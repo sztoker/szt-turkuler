@@ -1,26 +1,16 @@
 {
   "id": "bir-ay-dogar-ilk-aksamdan",
   "baslik": "BİR AY DOĞAR İLK AKŞAMDAN",
-  "sozler_html": "<p>Bir ay doğar ilk akşamdan geceden</p>\n<p>–neydem (2 geceden</p>\n<p>Şavkı vurur pencereden bacadan</p>\n<p class=\"bos\"></p>\n<p><b>Dağlar kışımış yolcum üşümüş -perişanım ben</b></p>\n<p class=\"bos\"></p>\n<p>Uykusuz mu kaldın dünkü geceden</p>\n<p>-neydem neydem geceden</p>\n<p>Uyan uyan yar sinene sar beni</p>\n<p class=\"bos\"></p>\n<p><b>Dağlar harami açma yaramı –nasıl edem ben</b></p>\n<p class=\"bos\"></p>\n<p>Aşılmaz dağlardan (yüce dağ başından)aşırdın beni</p>\n<p>Ey’olmaz  (tükenmez) dertlere düşürdün beni</p>\n<p class=\"bos\"></p>\n<p><b>Dağlar kışımış yolcum üşümüş -perişanım ben</b></p>\n<p class=\"bos\"></p>\n<p>Madem soysuz  bende gönlün yoğudu</p>\n<p>–neydem (2 yoğudu</p>\n<p>Niye doğru yoldan şaşırdın beni</p>\n<p class=\"bos\"></p>\n<p><b>Dağlar harami açma yaramı –nasıl edem ben</b></p>\n<p class=\"bos\"></p>\n<p>Aşağıdan gelir eli boş değil</p>\n<p>Söylerim söylemez gönlüm boş değil</p>\n<p>Bir güzeli bir çirkine vermişler</p>\n<p>Baş yastığı kendisine eş değil</p>\n<p class=\"bos\"></p>\n<p><b>Dağlar harami açma yaramı –nasıl edem ben</b></p>",
-  "sozler_duz": "Bir ay doğar ilk akşamdan geceden –neydem (2 geceden Şavkı vurur pencereden bacadan Dağlar kışımış yolcum üşümüş -perişanım ben Uykusuz mu kaldın dünkü geceden -neydem neydem geceden Uyan uyan yar sinene sar beni Dağlar harami açma yaramı –nasıl edem ben Aşılmaz dağlardan (yüce dağ başından)aşırdın beni Ey’olmaz (tükenmez) dertlere düşürdün beni Dağlar kışımış yolcum üşümüş -perişanım ben Madem soysuz bende gönlün yoğudu –neydem (2 yoğudu Niye doğru yoldan şaşırdın beni Dağlar harami açma yaramı –nasıl edem ben Aşağıdan gelir eli boş değil Söylerim söylemez gönlüm boş değil Bir güzeli bir çirkine vermişler Baş yastığı kendisine eş değil Dağlar harami açma yaramı –nasıl edem ben",
+  "sozler_html": "<p>Bir ay doğar ilk akşamdan geceden</p>\n<p><i>-neydem neydem geceden</i></p>\n<p>Şavkı vurur pencereden bacadan</p>\n<p class=\"bos\"><b>Dağlar kışımış yolcum üşümüş -perişanım ben</b></p><p class=\"bos\"><b><br></b></p>\n<p class=\"bos\"></p>\n<p>Uykusuz mu kaldın dünkü geceden</p>\n<p><i>-neydem neydem geceden</i></p>\n<p>Uyan uyan yar sinene sar beni</p>\n<p class=\"bos\"><b>Dağlar harami açma yaramı –nasıl edem ben</b></p><p class=\"bos\"><b><br></b></p>\n<p class=\"bos\"></p>\n<p>Aşılmaz dağlardan (yüce dağ başından)aşırdın beni</p>\n<p>Ey’olmaz  (tükenmez) dertlere düşürdün beni</p>\n<p class=\"bos\"><b>Dağlar kışımış yolcum üşümüş -perişanım ben</b></p><p class=\"bos\"><b><br></b></p>\n<p class=\"bos\"></p>\n<p>Madem soysuz  bende gönlün yoğudu</p>\n<p>Niye doğru yoldan şaşırdın beni</p>\n<p class=\"bos\"><b>Dağlar harami açma yaramı –nasıl edem ben</b></p><p class=\"bos\"><b><br></b></p>\n<p class=\"bos\"></p>\n<p>Aşağıdan gelir eli boş değil</p>\n<p>Söylerim söylemez gönlüm boş değil</p><p class=\"bos\">Dağlar kışımış yolcum üşümüş -perişanım ben</p><span style=\"color: rgb(106, 58, 26); font-weight: 600;\"><br></span>\n<p>Bir güzeli bir çirkine vermişler</p>\n<p>Baş yastığı kendisine eş değil</p>\n<p class=\"bos\"><b>Dağlar harami açma yaramı –nasıl edem ben</b></p>",
+  "sozler_duz": "Bir ay doğar ilk akşamdan geceden\n\n-neydem neydem geceden\n\nŞavkı vurur pencereden bacadan\n\nDağlar kışımış yolcum üşümüş -perişanım ben\n\nUykusuz mu kaldın dünkü geceden\n\n-neydem neydem geceden\n\nUyan uyan yar sinene sar beni\n\nDağlar harami açma yaramı –nasıl edem ben\n\nAşılmaz dağlardan (yüce dağ başından)aşırdın beni\n\nEy’olmaz (tükenmez) dertlere düşürdün beni\n\nDağlar kışımış yolcum üşümüş -perişanım ben\n\nMadem soysuz bende gönlün yoğudu\n\nNiye doğru yoldan şaşırdın beni\n\nDağlar harami açma yaramı –nasıl edem ben\n\nAşağıdan gelir eli boş değil\n\nSöylerim söylemez gönlüm boş değil\n\nDağlar kışımış yolcum üşümüş -perişanım ben\n\nBir güzeli bir çirkine vermişler\n\nBaş yastığı kendisine eş değil\n\nDağlar harami açma yaramı –nasıl edem ben",
   "meta": {
     "yore": "ARGUVAN-MALATYA",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "Hasan Durak",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ARGUVAN-MALATYA",
-    "aciklama": ""
+    "kaynak_kisi": "Hasan Durak"
   },
   "sistem": {
     "eski_id": 285,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T19:14:51.592Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
