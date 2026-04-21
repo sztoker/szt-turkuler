@@ -1,26 +1,15 @@
 {
   "id": "bilmem-su-felegin",
-  "baslik": "BİLMEM ŞU FELEĞİN ",
+  "baslik": "BİLMEM ŞU FELEĞİN",
   "sozler_html": "<p>Bilmem şu feleğin bende nesi var</p>\n<p>Her gittiğim yerde yar ister benden</p>\n<p>Sanki benim mor sümbüllü bağım var</p>\n<p>Zemheri ayında -canım- gül ister benden</p>\n<p class=\"bos\"></p>\n<p>Evlerinin önü zeytin ağacı</p>\n<p>Dökülmüş yaprağı kalmış siğeci</p>\n<p>Eğer senin gönlün bende yok ise</p>\n<p>Sen bana kardeş de -canım- ben sana bacı</p>\n<p class=\"bos\"></p>\n<p>Yoruldum da yol üstüne oturdum</p>\n<p>Güzeller başıma derilsin diye</p>\n<p>Gittim padişahtan ferman getirdim</p>\n<p>Herkes sevdiğine -canım- sarılsın diye</p>",
-  "sozler_duz": "Bilmem şu feleğin bende nesi var Her gittiğim yerde yar ister benden Sanki benim mor sümbüllü bağım var Zemheri ayında -canım- gül ister benden Evlerinin önü zeytin ağacı Dökülmüş yaprağı kalmış siğeci Eğer senin gönlün bende yok ise Sen bana kardeş de -canım- ben sana bacı Yoruldum da yol üstüne oturdum Güzeller başıma derilsin diye Gittim padişahtan ferman getirdim Herkes sevdiğine -canım- sarılsın diye",
+  "sozler_duz": "Bilmem şu feleğin bende nesi var\n\nHer gittiğim yerde yar ister benden\n\nSanki benim mor sümbüllü bağım var\n\nZemheri ayında -canım- gül ister benden\n\nEvlerinin önü zeytin ağacı\n\nDökülmüş yaprağı kalmış siğeci\n\nEğer senin gönlün bende yok ise\n\nSen bana kardeş de -canım- ben sana bacı\n\nYoruldum da yol üstüne oturdum\n\nGüzeller başıma derilsin diye\n\nGittim padişahtan ferman getirdim\n\nHerkes sevdiğine -canım- sarılsın diye",
   "meta": {
-    "yore": "ERZİNCAN",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ERZİNCAN",
-    "aciklama": ""
+    "yore": "ERZİNCAN"
   },
   "sistem": {
     "eski_id": 533,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T19:00:59.904Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
