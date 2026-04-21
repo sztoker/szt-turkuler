@@ -1,8 +1,8 @@
 {
   "id": "benden-selam-olsun-bolu-beyine",
   "baslik": "Benden  Selam Olsun Bolu Beyine_",
-  "sozler_html": "<p>Benden Selam Olsun Bolu Beyi'neÇıkıp Su Dağlara YaslanmalıdırOk Gıcırtısından Kalkan SesindenDağlar Seda Verip SeslenmelidirDüşman Geldi Bölük Bölük DizildiAlnımıza Kara Yazı YazıldıDelikli Demir Çıktı [Tüfek İcat Oldu] Mertlik BozulduEğri Kılıç Kında PaslanmalıdırKöroğlu Düşer Mi Hele ŞanındanÇoğunu Ayırır Er MeydanındanKırat Köpüğünden Düşman KanındanÇevrem Dolup Şalvar Islanmalıdır</p>",
-  "sozler_duz": "Benden Selam Olsun Bolu Beyi'neÇıkıp Su Dağlara YaslanmalıdırOk Gıcırtısından Kalkan SesindenDağlar Seda Verip SeslenmelidirDüşman Geldi Bölük Bölük DizildiAlnımıza Kara Yazı YazıldıDelikli Demir Çıktı [Tüfek İcat Oldu] Mertlik BozulduEğri Kılıç Kında PaslanmalıdırKöroğlu Düşer Mi Hele ŞanındanÇoğunu Ayırır Er MeydanındanKırat Köpüğünden Düşman KanındanÇevrem Dolup Şalvar Islanmalıdır",
+  "sozler_html": "<p>Benden Selam Olsun Bolu Beyi'ne</p><p>Çıkıp Su Dağlara Yaslanmalıdır</p><p>Ok Gıcırtısından Kalkan Sesinden</p><p>Dağlar Seda Verip Seslenmelidir</p><p><br></p><p>Düşman Geldi Bölük Bölük Dizildi</p><p>Alnımıza Kara Yazı Yazıldı</p><p>Delikli Demir Çıktı [Tüfek İcat Oldu] Mertlik Bozuldu</p><p>Eğri Kılıç Kında Paslanmalıdır</p><p><br></p><p>Köroğlu Düşer Mi Hele Şanından</p><p>Çoğunu Ayırır Er Meydanından</p><p>Kırat Köpüğünden Düşman Kanından</p><p>Çevrem Dolup Şalvar Islanmalıdır</p>",
+  "sozler_duz": "Benden Selam Olsun Bolu Beyi'ne\n\nÇıkıp Su Dağlara Yaslanmalıdır\n\nOk Gıcırtısından Kalkan Sesinden\n\nDağlar Seda Verip Seslenmelidir\n\nDüşman Geldi Bölük Bölük Dizildi\n\nAlnımıza Kara Yazı Yazıldı\n\nDelikli Demir Çıktı [Tüfek İcat Oldu] Mertlik Bozuldu\n\nEğri Kılıç Kında Paslanmalıdır\n\nKöroğlu Düşer Mi Hele Şanından\n\nÇoğunu Ayırır Er Meydanından\n\nKırat Köpüğünden Düşman Kanından\n\nÇevrem Dolup Şalvar Islanmalıdır",
   "meta": {
     "yore": "Kastamonu",
     "derleyen": "Muzaffer Sarısözen",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 3504,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T19:04:32.545Z",
+    "son_degisiklik": "2026-04-21T19:05:23.278Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
