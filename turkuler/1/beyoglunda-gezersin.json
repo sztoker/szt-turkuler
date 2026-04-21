@@ -2,25 +2,15 @@
   "id": "beyoglunda-gezersin",
   "baslik": "BEYOĞLUNDA GEZERSİN",
   "sozler_html": "<p>Beyoğlunda gezersin</p>\n<p>Gözlerini süzersin -ah</p>\n<p>Sevdiceğim yavrucağım</p>\n<p>Niçin niçin beni üzersin</p>\n<p class=\"bos\"></p>\n<p><b>Ah.. ah.. fıkır fıkır fıkırdama </b></p>\n<p><b>G el bana gel</b></p>\n<p><b>Ah.. ah.. şıkır şıkır şıkırdama</b></p>\n<p><b>G el bana gel</b></p>\n<p class=\"bos\"></p>\n<p>Mavi boncuk takarsın</p>\n<p>Çok canları yakarsın -ah</p>\n<p>Sevdiceğim yavrucağım</p>\n<p>Niçin niçin benden kaçarsın</p>\n<p class=\"bos\"></p>\n<p><b>Ah.. ah.. fıkır fıkır ...</b></p>",
-  "sozler_duz": "Beyoğlunda gezersin Gözlerini süzersin -ah Sevdiceğim yavrucağım Niçin niçin beni üzersin Ah.. ah.. fıkır fıkır fıkırdama G el bana gel Ah.. ah.. şıkır şıkır şıkırdama G el bana gel Mavi boncuk takarsın Çok canları yakarsın -ah Sevdiceğim yavrucağım Niçin niçin benden kaçarsın Ah.. ah.. fıkır fıkır ...",
+  "sozler_duz": "Beyoğlunda gezersin\n\nGözlerini süzersin -ah\n\nSevdiceğim yavrucağım\n\nNiçin niçin beni üzersin\n\nAh.. ah.. fıkır fıkır fıkırdama\n\nG el bana gel\n\nAh.. ah.. şıkır şıkır şıkırdama\n\nG el bana gel\n\nMavi boncuk takarsın\n\nÇok canları yakarsın -ah\n\nSevdiceğim yavrucağım\n\nNiçin niçin benden kaçarsın\n\nAh.. ah.. fıkır fıkır ...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "BB",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "",
-    "diger_bilgiler": "Rıza Efendi                  Mahur / Sofyan",
-    "aciklama": ""
+    "kaynak_kisi": "Rıza Efendi",
+    "diger_bilgiler": "Mahur / Sofyan"
   },
   "sistem": {
     "eski_id": 529,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T19:02:40.123Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
