@@ -1,26 +1,16 @@
 {
   "id": "bahcalarda-mor-meni",
   "baslik": "Bahçalarda Mor Meni_",
-  "sozler_html": "<p>Bahçalarda Mor MeniVerem Ettin Sen BeniNasıl Verem OlmayımEller Sarıyor SeniBen Sana Yandım GelinYanağı Allı GelinGaziantep YolundaÖldürdün Beni GelinBahçalarda MelemeYar Göğsün DüğmelemeÖlürsem Kanlım SensinGözlerin SürmelemeBen Sana Yandım GelinYanağı Allı GelinGaziantep YolundaÖldürdün Beni GelinBahçalarda Saz OlurGül Açılır Yaz OlurBen Yarime Gül DememGülün Ömrü Az OlurBen Sana Yandım GelinYanağı Allı GelinGaziantep YolundaÖldürdün Beni Gelin</p>",
-  "sozler_duz": "Bahçalarda Mor MeniVerem Ettin Sen BeniNasıl Verem OlmayımEller Sarıyor SeniBen Sana Yandım GelinYanağı Allı GelinGaziantep YolundaÖldürdün Beni GelinBahçalarda MelemeYar Göğsün DüğmelemeÖlürsem Kanlım SensinGözlerin SürmelemeBen Sana Yandım GelinYanağı Allı GelinGaziantep YolundaÖldürdün Beni GelinBahçalarda Saz OlurGül Açılır Yaz OlurBen Yarime Gül DememGülün Ömrü Az OlurBen Sana Yandım GelinYanağı Allı GelinGaziantep YolundaÖldürdün Beni Gelin",
+  "sozler_html": "<p>Bahçalarda\nmor meni</p><p>Verem ettin sen beni</p><p>Nasıl verem olmayım</p><p>Eller sarıyor seni</p><p>&nbsp;</p><p><b>Ben sana yandım gelin</b></p><p><b>Yanağı allı gelin</b></p><p><b>Gaziantep yolunda</b></p><p><b>Öldürdün beni gelin</b></p><p>&nbsp;</p><p>Bahçalarda melemeyar&nbsp;</p><p>Göğsün düğmeleme</p><p>Ölürsem kanlım sensin</p><p>Gözlerin sürmeleme</p><p>&nbsp;</p><p><b>Ben sana yandım...</b></p><p>&nbsp;</p><p>Bahçalarda saz olur</p><p>Gül açılır yaz olur</p><p>Ben yarime gül demem</p><p>Gülün ömrü az olur</p><p>&nbsp;</p><p><b>Ben sana yandım...</b></p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>&nbsp;</p>",
+  "sozler_duz": "Bahçalarda mor meni\n\nVerem ettin sen beni\n\nNasıl verem olmayım\n\nEller sarıyor seni\n\n \n\nBen sana yandım gelin\n\nYanağı allı gelin\n\nGaziantep yolunda\n\nÖldürdün beni gelin\n\n \n\nBahçalarda melemeyar \n\nGöğsün düğmeleme\n\nÖlürsem kanlım sensin\n\nGözlerin sürmeleme\n\n \n\nBen sana yandım...\n\n \n\nBahçalarda saz olur\n\nGül açılır yaz olur\n\nBen yarime gül demem\n\nGülün ömrü az olur\n\n \n\nBen sana yandım...",
   "meta": {
     "yore": "Gaziantep",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Yöre Ekibi-Ahmet Yamacı",
-    "aciklama": ""
+    "diger_bilgiler": "Yöre Ekibi-Ahmet Yamacı"
   },
   "sistem": {
     "eski_id": 3449,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T15:37:20.827Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
