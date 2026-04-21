@@ -1,26 +1,16 @@
 {
   "id": "bir-dalda-iki-kiraz",
   "baslik": "Bir Dalda İki Kiraz_",
-  "sozler_html": "<p>Bir Dalda İki KirazBiri Al, Biri BeyazEğer Beni SeversenMektubunu Sıkça YazSallasana, Sallasana MendiliniAkşam Oldu Göndersene SevdiğimiSallasana, Sallasana SaçlarınıAkşam Olsun Söyleyeyim SuçlarınıBir Dalda İki CevizAramız Derya DenizSen Orada Ben BurdaNe Bed Kaldı Ne BenizSallasana, Sallasana MendiliniAkşam Oldu Göndersene SevdiğimiSallasana, Sallasana SaçlarınıAkşam Olsun Söyleyeyim SuçlarınıBir Dalda İki ElmaBirin Al Birin AlmaKurban Olduğum AllahCanım Al Yarim AlmaSallasana, Sallasana MendiliniAkşam Oldu Göndersene SevdiğimiSallasana, Sallasana SaçlarınıAkşam Olsun Söyleyeyim Suçlarını</p>",
-  "sozler_duz": "Bir Dalda İki KirazBiri Al, Biri BeyazEğer Beni SeversenMektubunu Sıkça YazSallasana, Sallasana MendiliniAkşam Oldu Göndersene SevdiğimiSallasana, Sallasana SaçlarınıAkşam Olsun Söyleyeyim SuçlarınıBir Dalda İki CevizAramız Derya DenizSen Orada Ben BurdaNe Bed Kaldı Ne BenizSallasana, Sallasana MendiliniAkşam Oldu Göndersene SevdiğimiSallasana, Sallasana SaçlarınıAkşam Olsun Söyleyeyim SuçlarınıBir Dalda İki ElmaBirin Al Birin AlmaKurban Olduğum AllahCanım Al Yarim AlmaSallasana, Sallasana MendiliniAkşam Oldu Göndersene SevdiğimiSallasana, Sallasana SaçlarınıAkşam Olsun Söyleyeyim Suçlarını",
+  "sozler_html": "<p>Bir Dalda İki Kiraz</p><p>Biri Al, Biri Beyaz</p><p>Eğer Beni Seversen</p><p>Mektubunu Sıkça Yaz</p><p><br></p><p><b>Sallasana, Sallasana Mendilini</b></p><p><b>Akşam Oldu Göndersene Sevdiğimi</b></p><p><b>Sallasana, Sallasana Saçlarını</b></p><p><b>Akşam Olsun Söyleyeyim Suçlarını</b></p><p><br></p><p>Bir Dalda İki Ceviz</p><p>Aramız Derya Deniz</p><p>Sen Orada Ben Burda</p><p>Ne Bed Kaldı Ne Beniz</p><p><br></p><p><b>Sallasana, Sallasana...</b></p><p><br></p><p>Bir Dalda İki Elma</p><p>Birin Al Birin Alma</p><p>Kurban Olduğum Allah</p><p>Canım Al Yarim Alma</p><p><br></p><p>Sallasana, Sallasana...</p>",
+  "sozler_duz": "Bir Dalda İki Kiraz\n\nBiri Al, Biri Beyaz\n\nEğer Beni Seversen\n\nMektubunu Sıkça Yaz\n\nSallasana, Sallasana Mendilini\n\nAkşam Oldu Göndersene Sevdiğimi\n\nSallasana, Sallasana Saçlarını\n\nAkşam Olsun Söyleyeyim Suçlarını\n\nBir Dalda İki Ceviz\n\nAramız Derya Deniz\n\nSen Orada Ben Burda\n\nNe Bed Kaldı Ne Beniz\n\nSallasana, Sallasana...\n\nBir Dalda İki Elma\n\nBirin Al Birin Alma\n\nKurban Olduğum Allah\n\nCanım Al Yarim Alma\n\nSallasana, Sallasana...",
   "meta": {
     "yore": "İstanbul",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ahmet Yamacı",
-    "aciklama": ""
+    "derleyen": "Ahmet Yamacı"
   },
   "sistem": {
     "eski_id": 3531,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T19:19:01.210Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
