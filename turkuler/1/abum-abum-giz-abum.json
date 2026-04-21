@@ -2,25 +2,15 @@
   "id": "abum-abum-giz-abum",
   "baslik": "ABUM ABUM GIZ ABUM",
   "sozler_html": "<p>Sevdiğime varamadım</p>\n<p>İpek çorap giyemedim</p>\n<p>Muradıma eremedim</p>\n<p class=\"bos\"></p>\n<p><b>Abum abum gız abum</b></p>\n<p><b>Sebebim sensin abum</b></p>\n<p><b>Muradım olsun abum</b></p>\n<p class=\"bos\"></p>\n<p>Beni çoban ettiniz</p>\n<p>On binimi yediniz</p>\n<p>Günahıma girdiniz</p>\n<p class=\"bos\"></p>\n<p><b>Abum abum...</b></p>\n<p class=\"bos\"></p>\n<p>Şu niksar’a varsalar</p>\n<p>Sevdiğimi bulsalar</p>\n<p>Su halimi sorsalar</p>\n<p class=\"bos\"></p>\n<p><b>Abum abum...</b></p>",
-  "sozler_duz": "Sevdiğime varamadım İpek çorap giyemedim Muradıma eremedim Abum abum gız abum Sebebim sensin abum Muradım olsun abum Beni çoban ettiniz On binimi yediniz Günahıma girdiniz Abum abum... Şu niksar’a varsalar Sevdiğimi bulsalar Su halimi sorsalar Abum abum...",
+  "sozler_duz": "Sevdiğime varamadım\n\nİpek çorap giyemedim\n\nMuradıma eremedim\n\nAbum abum gız abum\n\nSebebim sensin abum\n\nMuradım olsun abum\n\nBeni çoban ettiniz\n\nOn binimi yediniz\n\nGünahıma girdiniz\n\nAbum abum...\n\nŞu niksar’a varsalar\n\nSevdiğimi bulsalar\n\nSu halimi sorsalar\n\nAbum abum...",
   "meta": {
     "yore": "Ordu/Aybastı",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ramadan Çetin-Tuğrul Şan",
-    "aciklama": ""
+    "kaynak_kisi": "Ramadan Çetin-Tuğrul Şan"
   },
   "sistem": {
     "eski_id": 4739,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T19:32:17.945Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
