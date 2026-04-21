@@ -1,26 +1,16 @@
 {
   "id": "baglamam-perde-perde",
   "baslik": "BAĞLAMAM PERDE PERDE",
-  "sozler_html": "<p>Bağlamam perde perde / Düşürdün beni derde</p>\n<p>Ayak üstü duramam / Seni gördüğüm yerde</p>\n<p class=\"bos\"></p>\n<p>Oy Giresun Bulancak / Bu iş nasıl olacak</p>\n<p>Ben hakime danıştım / O yar benim olacak</p>",
-  "sozler_duz": "Bağlamam perde perde / Düşürdün beni derde Ayak üstü duramam / Seni gördüğüm yerde Oy Giresun Bulancak / Bu iş nasıl olacak Ben hakime danıştım / O yar benim olacak",
+  "sozler_html": "<p>Bağlamam perde perde&nbsp;</p><p>Düşürdün beni derde</p>\n<p>Ayak üstü duramam&nbsp;</p><p>Seni gördüğüm yerde</p>\n<p class=\"bos\"></p>\n<p>Oy Giresun Bulancak&nbsp;</p><p>Bu iş nasıl olacak</p>\n<p>Ben hakime danıştım&nbsp;</p><p>O yar benim olacak</p>",
+  "sozler_duz": "Bağlamam perde perde \n\nDüşürdün beni derde\n\nAyak üstü duramam \n\nSeni gördüğüm yerde\n\nOy Giresun Bulancak \n\nBu iş nasıl olacak\n\nBen hakime danıştım \n\nO yar benim olacak",
   "meta": {
     "yore": "GİRESUN",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "GİRESUN KARŞILAMASI",
-    "aciklama": ""
+    "diger_bilgiler": "GİRESUN KARŞILAMASI"
   },
   "sistem": {
     "eski_id": 485,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T15:14:27.705Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
