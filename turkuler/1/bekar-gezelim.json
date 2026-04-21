@@ -1,26 +1,13 @@
 {
   "id": "bekar-gezelim",
   "baslik": "BEKAR GEZELİM",
-  "sozler_html": "<p>Yaylı geliyor yaylı / Bizi de alsa bari</p>\n<p>Ayşe saraya çıkmış / Doğru söylese bari</p>\n<p>Haydi güzelim şeker ezelim</p>\n<p>Bu sene de bekar gezelim</p>\n<p class=\"bos\"></p>\n<p>Girdim mapushaneye / Ahbaplarım çok imiş</p>\n<p>Ayşe kızın yanında / Vasiyeti yok imiş / Haydi güzelim ...</p>",
-  "sozler_duz": "Yaylı geliyor yaylı / Bizi de alsa bari Ayşe saraya çıkmış / Doğru söylese bari Haydi güzelim şeker ezelim Bu sene de bekar gezelim Girdim mapushaneye / Ahbaplarım çok imiş Ayşe kızın yanında / Vasiyeti yok imiş / Haydi güzelim ...",
-  "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Yaylı geliyor yaylı&nbsp;</p><p>Bizi de alsa bari</p>\n<p>Ayşe saraya çıkmış&nbsp;</p><p>Doğru söylese bari</p><p><br></p>\n<p><b>Haydi güzelim şeker ezelim</b></p>\n<p><b>Bu sene de bekar gezelim</b></p>\n<p class=\"bos\"></p>\n<p>Girdim mapushaneye&nbsp;</p><p>Ahbaplarım çok imiş</p>\n<p>Ayşe kızın yanında&nbsp;</p><p>Vasiyeti yok imiş&nbsp;</p><p><br></p><p><b>Haydi güzelim ...</b></p>",
+  "sozler_duz": "Yaylı geliyor yaylı \n\nBizi de alsa bari\n\nAyşe saraya çıkmış \n\nDoğru söylese bari\n\nHaydi güzelim şeker ezelim\n\nBu sene de bekar gezelim\n\nGirdim mapushaneye \n\nAhbaplarım çok imiş\n\nAyşe kızın yanında \n\nVasiyeti yok imiş \n\nHaydi güzelim ...",
+  "meta": {},
   "sistem": {
     "eski_id": 499,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T16:29:27.320Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
