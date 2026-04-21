@@ -1,26 +1,15 @@
 {
   "id": "babuba",
   "baslik": "BABUBA",
-  "sozler_html": "<p>Sevdiğim iki gözüm ellere yar oldu Babuba</p>\n<p>Kara tren aramıza kara duman ekti de</p>\n<p>Göz göre göre yazık Eyuba{2</p>\n<p>Buraları sevemedim gönül arada</p>\n<p>Yanıyorum tuz biber yarada</p>\n<p>Deli gönül eremedi eyvah murada</p>\n<p>Ölüyorum toz biber yarada</p>\n<p class=\"bos\"></p>\n<p>Gözlerimin karesi kırmızı har oldu Babuba</p>\n<p>Meriç’in azgın suyu aramıza girdi de</p>\n<p>Göz göre göre...</p>",
-  "sozler_duz": "Sevdiğim iki gözüm ellere yar oldu Babuba Kara tren aramıza kara duman ekti de Göz göre göre yazık Eyuba{2 Buraları sevemedim gönül arada Yanıyorum tuz biber yarada Deli gönül eremedi eyvah murada Ölüyorum toz biber yarada Gözlerimin karesi kırmızı har oldu Babuba Meriç’in azgın suyu aramıza girdi de Göz göre göre...",
+  "sozler_html": "<p>Sevdiğim iki gözüm ellere yar oldu Babuba</p>\n<p>Kara tren aramıza kara duman ekti de</p><p><br></p>\n<p><b>Göz göre göre yazık Eyuba{2</b></p>\n<p><b>Buraları sevemedim gönül arada</b></p>\n<p><b>Yanıyorum tuz biber yarada</b></p>\n<p><b>Deli gönül eremedi eyvah murada</b></p>\n<p><b>Ölüyorum toz biber yarada</b></p>\n<p class=\"bos\"></p>\n<p>Gözlerimin karesi kırmızı har oldu Babuba</p>\n<p>Meriç’in azgın suyu aramıza girdi de</p><p><br></p>\n<p><b>Göz göre göre...</b></p>",
+  "sozler_duz": "Sevdiğim iki gözüm ellere yar oldu Babuba\n\nKara tren aramıza kara duman ekti de\n\nGöz göre göre yazık Eyuba{2\n\nBuraları sevemedim gönül arada\n\nYanıyorum tuz biber yarada\n\nDeli gönül eremedi eyvah murada\n\nÖlüyorum toz biber yarada\n\nGözlerimin karesi kırmızı har oldu Babuba\n\nMeriç’in azgın suyu aramıza girdi de\n\nGöz göre göre...",
   "meta": {
-    "yore": "? EDİRNE",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "? EDİRNE",
-    "aciklama": ""
+    "yore": "? EDİRNE"
   },
   "sistem": {
     "eski_id": 155,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T15:10:40.778Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
