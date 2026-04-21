@@ -2,25 +2,16 @@
   "id": "havada-turna-sesi-gelir",
   "baslik": "HAVADA TURNA SESİ GELİR",
   "sozler_html": "<p>Havada turna * sesi gelir * ganedi gırma</p>\n<p>Agzı dolu yem getir * şeker ile hurma</p>\n<p>Git güzel garşımda –bidanem * ağlanıp durma</p>\n<p>Aç kapuyu nazlı yarim * ben geliyorum -2</p>\n<p class=\"bos\"></p>\n<p>Burma da burma * duman tüter * dağın belinden</p>\n<p>Okunmadık fermanım var * duşman elinden -2</p>\n<p>Buna da yazan yanlış yazmış * serhoş haliynen</p>\n<p>Gönder -a beyim- ben yazayım * zülfün teliynen -2</p>",
-  "sozler_duz": "Havada turna * sesi gelir * ganedi gırma Agzı dolu yem getir * şeker ile hurma Git güzel garşımda –bidanem * ağlanıp durma Aç kapuyu nazlı yarim * ben geliyorum -2 Burma da burma * duman tüter * dağın belinden Okunmadık fermanım var * duşman elinden -2 Buna da yazan yanlış yazmış * serhoş haliynen Gönder -a beyim- ben yazayım * zülfün teliynen -2",
+  "sozler_duz": "Havada turna * sesi gelir * ganedi gırma\n\nAgzı dolu yem getir * şeker ile hurma\n\nGit güzel garşımda –bidanem * ağlanıp durma\n\nAç kapuyu nazlı yarim * ben geliyorum -2\n\nBurma da burma * duman tüter * dağın belinden\n\nOkunmadık fermanım var * duşman elinden -2\n\nBuna da yazan yanlış yazmış * serhoş haliynen\n\nGönder -a beyim- ben yazayım * zülfün teliynen -2",
   "meta": {
     "yore": "KÜTAHYA",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "KÜTAHYA",
-    "aciklama": ""
+    "derleyen": "Yücel Paşmakçı",
+    "kaynak_kisi": "Ahmet İnegöllüoğlu (Hisarlı)"
   },
   "sistem": {
     "eski_id": 903,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T11:57:36.440Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
