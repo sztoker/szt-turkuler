@@ -2,25 +2,15 @@
   "id": "bir-pur-cefa",
   "baslik": "BİR PÜR CEFA",
   "sozler_html": "<p>Bir pür cefa hoş dilberdir / Müptelayım hayli demdir</p>\n<p>Elbet gönül arzu eyler / Gül yanağı her şeb terdir</p>\n<p>Görebilsem sevebilsem –yar yar aman aman</p>\n<p>Gül yanağı her şeb terdir</p>\n<p class=\"bos\"></p>\n<p>Yalvardıkça inat eder / İnsaf eyle gayrı yeter</p>\n<p>Üzerine pek varamam / Korkarım ki kaçar gider</p>\n<p>Görebilsem sevebilsem –yar yar aman aman</p>\n<p>Gül yanağı her şeb terdir</p>",
-  "sozler_duz": "Bir pür cefa hoş dilberdir / Müptelayım hayli demdir Elbet gönül arzu eyler / Gül yanağı her şeb terdir Görebilsem sevebilsem –yar yar aman aman Gül yanağı her şeb terdir Yalvardıkça inat eder / İnsaf eyle gayrı yeter Üzerine pek varamam / Korkarım ki kaçar gider Görebilsem sevebilsem –yar yar aman aman Gül yanağı her şeb terdir",
+  "sozler_duz": "Bir pür cefa hoş dilberdir / Müptelayım hayli demdir\n\nElbet gönül arzu eyler / Gül yanağı her şeb terdir\n\nGörebilsem sevebilsem –yar yar aman aman\n\nGül yanağı her şeb terdir\n\nYalvardıkça inat eder / İnsaf eyle gayrı yeter\n\nÜzerine pek varamam / Korkarım ki kaçar gider\n\nGörebilsem sevebilsem –yar yar aman aman\n\nGül yanağı her şeb terdir",
   "meta": {
-    "yore": "",
     "turu": "TSM",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "III. Selim (İlhami)                    Puselik / A",
-    "aciklama": ""
+    "soz": "III. Selim (İlhami)"
   },
   "sistem": {
     "eski_id": 548,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T20:19:03.114Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
