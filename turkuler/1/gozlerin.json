@@ -2,25 +2,17 @@
   "id": "gozlerin",
   "baslik": "GÖZLERİN",
   "sozler_html": "<p>Düşlerin parlayıp söndüğü yerde</p>\n<p>Buluşmak seninle bir akşam üstü</p>\n<p>Umarsız şarkılar dudağımda bir yarım ezgi</p>\n<p>Sığınmak gözlerine / Sığınmak bir akşam üstü</p>\n<p class=\"bos\"></p>\n<p><b>Gözlerin bir çığlık / Bir yaralı haykırış</b></p>\n<p><b>Gözlerin bu gece/Çok uzaktan geçen bir gemi</b></p>\n<p class=\"bos\"></p>\n<p>Bir orman bir gece kar altındayken</p>\n<p>Çocuksu uçarı koşmak seninle</p>\n<p>Elini avcumda bulup yitirmek yitirmek</p>\n<p>Sığınmak ellerine / Sığınmak bir gece vakti</p>\n<p class=\"bos\"></p>\n<p><b>Ellerin bir martı / Telaşlı ve ürkek</b></p>\n<p><b>Ellerin fırtınada çırpınan bir beyaz yelken</b></p>\n<p class=\"bos\"></p>\n<p>Bir kenti böylece bırakıp gitmek</p>\n<p>İçinde bin kaygı bin bir soruyla</p>\n<p>Bitmemiş bir şarkı / Dudağında bir yarım ezgi</p>\n<p>Sığınmak şarkılara / Sığınmak bir ömürboyu</p>\n<p class=\"bos\"></p>\n<p><b>Gözlerin bir çığlık / Bir yaralı haykırış</b></p>\n<p><b>Gözlerin bu gece/Çok uzaktan geçen bir gemi</b></p>\n<p class=\"bos\"></p>\n<p><b>Ellerin bir martı / Telaşlı ve ürkek</b></p>\n<p><b>Ellerin fırtınada çırpınan bir beyaz yelken</b></p>",
-  "sozler_duz": "Düşlerin parlayıp söndüğü yerde Buluşmak seninle bir akşam üstü Umarsız şarkılar dudağımda bir yarım ezgi Sığınmak gözlerine / Sığınmak bir akşam üstü Gözlerin bir çığlık / Bir yaralı haykırış Gözlerin bu gece/Çok uzaktan geçen bir gemi Bir orman bir gece kar altındayken Çocuksu uçarı koşmak seninle Elini avcumda bulup yitirmek yitirmek Sığınmak ellerine / Sığınmak bir gece vakti Ellerin bir martı / Telaşlı ve ürkek Ellerin fırtınada çırpınan bir beyaz yelken Bir kenti böylece bırakıp gitmek İçinde bin kaygı bin bir soruyla Bitmemiş bir şarkı / Dudağında bir yarım ezgi Sığınmak şarkılara / Sığınmak bir ömürboyu Gözlerin bir çığlık / Bir yaralı haykırış Gözlerin bu gece/Çok uzaktan geçen bir gemi Ellerin bir martı / Telaşlı ve ürkek Ellerin fırtınada çırpınan bir beyaz yelken",
+  "sozler_duz": "Düşlerin parlayıp söndüğü yerde\n\nBuluşmak seninle bir akşam üstü\n\nUmarsız şarkılar dudağımda bir yarım ezgi\n\nSığınmak gözlerine / Sığınmak bir akşam üstü\n\nGözlerin bir çığlık / Bir yaralı haykırış\n\nGözlerin bu gece/Çok uzaktan geçen bir gemi\n\nBir orman bir gece kar altındayken\n\nÇocuksu uçarı koşmak seninle\n\nElini avcumda bulup yitirmek yitirmek\n\nSığınmak ellerine / Sığınmak bir gece vakti\n\nEllerin bir martı / Telaşlı ve ürkek\n\nEllerin fırtınada çırpınan bir beyaz yelken\n\nBir kenti böylece bırakıp gitmek\n\nİçinde bin kaygı bin bir soruyla\n\nBitmemiş bir şarkı / Dudağında bir yarım ezgi\n\nSığınmak şarkılara / Sığınmak bir ömürboyu\n\nGözlerin bir çığlık / Bir yaralı haykırış\n\nGözlerin bu gece/Çok uzaktan geçen bir gemi\n\nEllerin bir martı / Telaşlı ve ürkek\n\nEllerin fırtınada çırpınan bir beyaz yelken",
   "meta": {
-    "yore": "",
-    "turu": "1",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Zülfü Livaneli",
     "muzik": "Zülfü Livaneli",
-    "soyleyenler": "",
-    "repertuar": "1",
     "karar": "Re - La",
-    "diger_bilgiler": "(Yılanı Öldürseler)",
-    "aciklama": ""
+    "diger_bilgiler": "(Yılanı Öldürseler)"
   },
   "sistem": {
     "eski_id": 5207,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T11:50:16.286Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
