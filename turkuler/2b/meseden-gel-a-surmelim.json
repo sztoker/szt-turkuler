@@ -1,26 +1,17 @@
 {
   "id": "meseden-gel-a-surmelim",
-  "baslik": "MEŞEDEN GEL A SÜRMELİM ",
+  "baslik": "MEŞEDEN GEL A SÜRMELİM",
   "sozler_html": "<p>Meşeden gel a sürmelim meşeden-haydi suna boylum - eşim amanDolan da gel dam ardını köşedenYar ben seni saramadım neşeden-haydi suna boylum - eşim amanOynaşır balıkları Karadeniz dalgalıBu yıl güzellerin başı sevdalıHarman olsam düz ovada savrulsamKahve olsam tavalarda kavrulsamKemer olsam yar beline sarılsam / Oynaşır ...</p>",
   "sozler_duz": "Meşeden gel a sürmelim meşeden-haydi suna boylum - eşim amanDolan da gel dam ardını köşedenYar ben seni saramadım neşeden-haydi suna boylum - eşim amanOynaşır balıkları Karadeniz dalgalıBu yıl güzellerin başı sevdalıHarman olsam düz ovada savrulsamKahve olsam tavalarda kavrulsamKemer olsam yar beline sarılsam / Oynaşır ...",
   "meta": {
     "yore": "KÜTAHYA",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "KÜTAHYA",
-    "aciklama": ""
+    "derleyen": "Nida Tüfekçi",
+    "kaynak_kisi": "Ahmet İnegöllüoğlu (Hisarlı Ahmet)"
   },
   "sistem": {
     "eski_id": 5979,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T12:26:58.104Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
