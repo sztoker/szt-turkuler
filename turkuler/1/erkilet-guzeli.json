@@ -1,15 +1,15 @@
 {
   "id": "erkilet-guzeli",
   "baslik": "ERKİLET GÜZELİ",
-  "sozler_html": "<p>Erkilet güzeli bağlar bozuyor</p>\n<p>-amanın aman ben yandım aman</p>\n<p>Kirpikleri kalem olmuş yazıyor -canım canım</p>\n<p>Tek tek basaraktan / Bade süzerekten</p>\n<p>İnci dizerekten / Gel canım gel amman</p>\n<p class=\"bos\"></p>\n<p>Cevizin yaprağı dal arasında</p>\n<p>Severler güzeli bağ arasında</p>",
-  "sozler_duz": "Erkilet güzeli bağlar bozuyor\n\n-amanın aman ben yandım aman\n\nKirpikleri kalem olmuş yazıyor -canım canım\n\nTek tek basaraktan / Bade süzerekten\n\nİnci dizerekten / Gel canım gel amman\n\nCevizin yaprağı dal arasında\n\nSeverler güzeli bağ arasında",
+  "sozler_html": "<p>Erkilet güzeli bağlar bozuyor</p>\n<p>-amanın aman ben yandım aman</p>\n<p>Kirpikleri kalem olmuş yazıyor -canım canım</p>\n<p><b>Tek tek basaraktan / Bade süzerekten</b></p>\n<p><b>İnci dizerekten / Gel canım gel amman</b></p>\n<p class=\"bos\"></p>\n<p>Cevizin yaprağı dal arasında</p>\n<p>Severler güzeli bağ arasında</p><p>Tek tek basaraktan...</p>",
+  "sozler_duz": "Erkilet güzeli bağlar bozuyor\n\n-amanın aman ben yandım aman\n\nKirpikleri kalem olmuş yazıyor -canım canım\n\nTek tek basaraktan / Bade süzerekten\n\nİnci dizerekten / Gel canım gel amman\n\nCevizin yaprağı dal arasında\n\nSeverler güzeli bağ arasında\n\nTek tek basaraktan...",
   "meta": {
     "yore": "KAYSERİ"
   },
   "sistem": {
     "eski_id": 734,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T01:01:03.469Z",
+    "son_degisiklik": "2026-04-21T01:01:43.295Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
