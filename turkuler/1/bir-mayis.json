@@ -2,25 +2,15 @@
   "id": "bir-mayis",
   "baslik": "BİR MAYIS",
   "sozler_html": "<p>Günlerin bugün getirdiği / Baskı zulüm ve kandır</p>\n<p>Ancak bu böyle gitmez / Sömürü devam etmez</p>\n<p>Yepyeni bir hayat gelir / Bizde ve ülkelerde</p>\n<p>Bir Mayıs Bir Mayıs / İşçinin emekçinin bayramı</p>\n<p>Devrimin şanlı yolunda / İlerleyen halkların bayramı</p>\n<p class=\"bos\"></p>\n<p>Yepyeni bir güneş doğar / Dağların doruklarında</p>\n<p>Mutlu bir hayat filizlenir / Kavganın ufuklarında</p>\n<p>Yurdumun mutlu günleri /Mutlak gelen gündedir</p>\n<p>Bir Mayıs ...</p>\n<p class=\"bos\"></p>\n<p>Ulusların gürleyen sesi / Yeri göğü sarsıyor</p>\n<p>Halkların nasırlı  yumruğu / Balyoz gibi patlıyor</p>\n<p>Devrimin şanlı dalgası / Dünyamızı kaplıyor</p>\n<p>Gün gelir gün gelir / Zorbalar kalmaz gider</p>\n<p>Devrimin şanlı yolunda / Kül gibi savrulur gider</p>\n<p class=\"bos\"></p>\n<p>Vermeyin insana izin / Kanması ve susması için</p>\n<p>Hakkını alması için / Kitleyi bilinçlendirin</p>\n<p>Bizlerin ellerindedir / Gelen ışıklı günler / Bir Mayıs ...</p>",
-  "sozler_duz": "Günlerin bugün getirdiği / Baskı zulüm ve kandır Ancak bu böyle gitmez / Sömürü devam etmez Yepyeni bir hayat gelir / Bizde ve ülkelerde Bir Mayıs Bir Mayıs / İşçinin emekçinin bayramı Devrimin şanlı yolunda / İlerleyen halkların bayramı Yepyeni bir güneş doğar / Dağların doruklarında Mutlu bir hayat filizlenir / Kavganın ufuklarında Yurdumun mutlu günleri /Mutlak gelen gündedir Bir Mayıs ... Ulusların gürleyen sesi / Yeri göğü sarsıyor Halkların nasırlı yumruğu / Balyoz gibi patlıyor Devrimin şanlı dalgası / Dünyamızı kaplıyor Gün gelir gün gelir / Zorbalar kalmaz gider Devrimin şanlı yolunda / Kül gibi savrulur gider Vermeyin insana izin / Kanması ve susması için Hakkını alması için / Kitleyi bilinçlendirin Bizlerin ellerindedir / Gelen ışıklı günler / Bir Mayıs ...",
+  "sozler_duz": "Günlerin bugün getirdiği / Baskı zulüm ve kandır\n\nAncak bu böyle gitmez / Sömürü devam etmez\n\nYepyeni bir hayat gelir / Bizde ve ülkelerde\n\nBir Mayıs Bir Mayıs / İşçinin emekçinin bayramı\n\nDevrimin şanlı yolunda / İlerleyen halkların bayramı\n\nYepyeni bir güneş doğar / Dağların doruklarında\n\nMutlu bir hayat filizlenir / Kavganın ufuklarında\n\nYurdumun mutlu günleri /Mutlak gelen gündedir\n\nBir Mayıs ...\n\nUlusların gürleyen sesi / Yeri göğü sarsıyor\n\nHalkların nasırlı yumruğu / Balyoz gibi patlıyor\n\nDevrimin şanlı dalgası / Dünyamızı kaplıyor\n\nGün gelir gün gelir / Zorbalar kalmaz gider\n\nDevrimin şanlı yolunda / Kül gibi savrulur gider\n\nVermeyin insana izin / Kanması ve susması için\n\nHakkını alması için / Kitleyi bilinçlendirin\n\nBizlerin ellerindedir / Gelen ışıklı günler / Bir Mayıs ...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "soz": "Sarper Özsan",
+    "muzik": "Sarper Özsan"
   },
   "sistem": {
     "eski_id": 547,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T20:16:35.149Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
