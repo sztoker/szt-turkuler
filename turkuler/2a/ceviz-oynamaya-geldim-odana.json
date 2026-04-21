@@ -1,13 +1,13 @@
 {
   "id": "ceviz-oynamaya-geldim-odana",
   "baslik": "CEVİZ OYNAMAYA GELDİM ODANA",
-  "sozler_html": "<p>Ceviz oynamaya geldim odana</p><p>Nişanlın da bu mu derler adama</p><p>Dayanamam seni kara sevdana –ah aman</p><p><br></p><p><b>Aman aman olmuyor * eş eşini bulmuyor</b></p><p><b>Karayağız genç oğlan * niye gönlün olmuyor     2</b></p><p><br></p><p>Asker bayrağını burca diktiler&nbsp;</p><p>Küçücük yarimi asker ettiler</p><p>Ben doymadan o yari de alıp gittiler&nbsp;</p><p><br></p><p><b>Aman aman olmuyor...</b></p>",
-  "sozler_duz": "Ceviz oynamaya geldim odana\n\nNişanlın da bu mu derler adama\n\nDayanamam seni kara sevdana –ah aman\n\nAman aman olmuyor * eş eşini bulmuyor\n\nKarayağız genç oğlan * niye gönlün olmuyor 2\n\nAsker bayrağını burca diktiler \n\nKüçücük yarimi asker ettiler\n\nBen doymadan o yari de alıp gittiler \n\nAman aman olmuyor...",
+  "sozler_html": "<p>Ceviz oynamaya geldim odana</p><p>Nişanlın da bu mu derler adama</p><p>Dayanamam seni kara sevdana –ah aman</p><p><br></p><p><b>Aman aman olmuyor&nbsp;</b></p><p><b>Eş eşini bulmuyor</b></p><p><b>Karayağız genç oğlan&nbsp;</b></p><p><b>Niye gönlün olmuyor     2</b></p><p><br></p><p>Asker bayrağını burca diktiler&nbsp;</p><p>Küçücük yarimi asker ettiler</p><p>Ben doymadan o yari de alıp gittiler&nbsp;</p><p><br></p><p><b>Aman aman olmuyor...</b></p>",
+  "sozler_duz": "Ceviz oynamaya geldim odana\n\nNişanlın da bu mu derler adama\n\nDayanamam seni kara sevdana –ah aman\n\nAman aman olmuyor \n\nEş eşini bulmuyor\n\nKarayağız genç oğlan \n\nNiye gönlün olmuyor 2\n\nAsker bayrağını burca diktiler \n\nKüçücük yarimi asker ettiler\n\nBen doymadan o yari de alıp gittiler \n\nAman aman olmuyor...",
   "meta": {},
   "sistem": {
     "eski_id": 603,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T13:34:58.608Z",
+    "son_degisiklik": "2026-04-21T13:35:50.338Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
