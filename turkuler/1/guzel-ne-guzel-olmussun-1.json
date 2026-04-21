@@ -2,25 +2,16 @@
   "id": "guzel-ne-guzel-olmussun-1",
   "baslik": "GÜZEL NE GÜZEL OLMUŞSUN-1",
   "sozler_html": "<p>Güzel ne güzel olmuşsun / Görülmeyi görülmeyi</p>\n<p>Siyah zülfün halkalanmış / Örülmeyi örülmeyi</p>\n<p class=\"bos\"></p>\n<p>Benim yarim bana küsmüş / Gayrı sözün benden kesmiş</p>\n<p>Zülüflerin göze dökmüş / Sevilmeyi sevilmeyi</p>\n<p class=\"bos\"></p>\n<p>Seyirttim ardından yettim / Eğildim yüzünden öptüm</p>\n<p>Adın bilirdim unuttum / Çağırmayı çağırmayı</p>\n<p class=\"bos\"></p>\n<p>Güzel ne güzel olmuşsun ...</p>",
-  "sozler_duz": "Güzel ne güzel olmuşsun / Görülmeyi görülmeyi Siyah zülfün halkalanmış / Örülmeyi örülmeyi Benim yarim bana küsmüş / Gayrı sözün benden kesmiş Zülüflerin göze dökmüş / Sevilmeyi sevilmeyi Seyirttim ardından yettim / Eğildim yüzünden öptüm Adın bilirdim unuttum / Çağırmayı çağırmayı Güzel ne güzel olmuşsun ...",
+  "sozler_duz": "Güzel ne güzel olmuşsun / Görülmeyi görülmeyi\n\nSiyah zülfün halkalanmış / Örülmeyi örülmeyi\n\nBenim yarim bana küsmüş / Gayrı sözün benden kesmiş\n\nZülüflerin göze dökmüş / Sevilmeyi sevilmeyi\n\nSeyirttim ardından yettim / Eğildim yüzünden öptüm\n\nAdın bilirdim unuttum / Çağırmayı çağırmayı\n\nGüzel ne güzel olmuşsun ...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
+    "yore": "Kahramanmaraş",
     "soz": "Karacaoğlan",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Karacaoğlan          M: Fikret Kızılok",
-    "aciklama": ""
+    "diger_bilgiler": "Fikret Kızılok"
   },
   "sistem": {
     "eski_id": 3246,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T11:53:28.153Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
