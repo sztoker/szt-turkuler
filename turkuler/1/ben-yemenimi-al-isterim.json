@@ -1,26 +1,16 @@
 {
   "id": "ben-yemenimi-al-isterim",
   "baslik": "BEN YEMENİMİ AL İSTERİM",
-  "sozler_html": "<p>Ben yemenimi –aman aman- al isterim</p>\n<p>Ortasında –a canım da- dal isterim</p>\n<p>Bir güzelce –aman aman- yar isterim</p>\n<p>Al gel aman a canım mor çiçeği</p>\n<p>Bul gel aman a canım mor çiçeği</p>\n<p class=\"bos\"></p>\n<p>Ben yemenimi –aman aman- çaldım taşa</p>\n<p>Taş yarıldı –a canım- baştan başa</p>\n<p>Yazılanlar –aman aman – gelir başa / Al gel ...</p>",
-  "sozler_duz": "Ben yemenimi –aman aman- al isterim Ortasında –a canım da- dal isterim Bir güzelce –aman aman- yar isterim Al gel aman a canım mor çiçeği Bul gel aman a canım mor çiçeği Ben yemenimi –aman aman- çaldım taşa Taş yarıldı –a canım- baştan başa Yazılanlar –aman aman – gelir başa / Al gel ...",
+  "sozler_html": "<p>Ben yemenimi –aman aman- al isterim</p>\n<p>Ortasında –a canım da- dal isterim</p>\n<p>Bir güzelce –aman aman- yar isterim</p><p><br></p>\n<p><b>Al gel aman a canım mor çiçeği</b></p>\n<p><b>Bul gel aman a canım mor çiçeği</b></p>\n<p class=\"bos\"></p>\n<p>Ben yemenimi –aman aman- çaldım taşa</p>\n<p>Taş yarıldı –a canım- baştan başa</p>\n<p>Yazılanlar –aman aman – gelir başa&nbsp;</p><p><br></p><p><b>Al gel aman...</b></p>",
+  "sozler_duz": "Ben yemenimi –aman aman- al isterim\n\nOrtasında –a canım da- dal isterim\n\nBir güzelce –aman aman- yar isterim\n\nAl gel aman a canım mor çiçeği\n\nBul gel aman a canım mor çiçeği\n\nBen yemenimi –aman aman- çaldım taşa\n\nTaş yarıldı –a canım- baştan başa\n\nYazılanlar –aman aman – gelir başa \n\nAl gel aman...",
   "meta": {
     "yore": "BURSA",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "BURSA",
-    "aciklama": ""
+    "diger_bilgiler": "BURSA"
   },
   "sistem": {
     "eski_id": 518,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T16:46:02.911Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
