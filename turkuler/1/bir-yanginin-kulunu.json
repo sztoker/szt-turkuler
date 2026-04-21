@@ -1,26 +1,17 @@
 {
   "id": "bir-yanginin-kulunu",
   "baslik": "BİR YANGININ KÜLÜNÜ",
-  "sozler_html": "<p>Gönül penceresinden ansızın bakıp geçtinBir yangının külünü yeniden yakıp geçtinMadem ki son şarkının kırık bir bestesiydimNiçin yarım bıraktın neden bırakıp gittinBir yangının külünü yeniden yakıp geçtinNe çok sevmiştim seni ne çok hatırlar mısınAşiyan yollarından seslensem duyar mısınHala beni düşünür ve hala ağlar mısınBir bahar seli gibi yolumdan akıp geçtinBir yangının külünü yeniden yakıp geçtin</p>",
-  "sozler_duz": "Gönül penceresinden ansızın bakıp geçtinBir yangının külünü yeniden yakıp geçtinMadem ki son şarkının kırık bir bestesiydimNiçin yarım bıraktın neden bırakıp gittinBir yangının külünü yeniden yakıp geçtinNe çok sevmiştim seni ne çok hatırlar mısınAşiyan yollarından seslensem duyar mısınHala beni düşünür ve hala ağlar mısınBir bahar seli gibi yolumdan akıp geçtinBir yangının külünü yeniden yakıp geçtin",
+  "sozler_html": "<p>Gönül penceresinden ansızın bakıp geçtin</p><p>Bir yangının külünü yeniden yakıp geçtin</p><p>Madem ki son şarkının kırık bir bestesiydim</p><p>Niçin yarım bıraktın neden bırakıp gittin</p><p><br></p><p><b>Bir yangının külünü yeniden yakıp geçtin 4</b></p><p><br></p><p>Ne çok sevmiştim seni ne çok hatırlar mısın</p><p>Aşiyan yollarından seslensem duyar mısın</p><p>Hala beni düşünür ve hala ağlar mısın</p><p>Bir bahar seli gibi yolumdan akıp geçtin</p><p><br></p><p><b>Bir yangının külünü yeniden yakıp geçtin 4</b></p>",
+  "sozler_duz": "Gönül penceresinden ansızın bakıp geçtin\n\nBir yangının külünü yeniden yakıp geçtin\n\nMadem ki son şarkının kırık bir bestesiydim\n\nNiçin yarım bıraktın neden bırakıp gittin\n\nBir yangının külünü yeniden yakıp geçtin 4\n\nNe çok sevmiştim seni ne çok hatırlar mısın\n\nAşiyan yollarından seslensem duyar mısın\n\nHala beni düşünür ve hala ağlar mısın\n\nBir bahar seli gibi yolumdan akıp geçtin\n\nBir yangının külünü yeniden yakıp geçtin 4",
   "meta": {
-    "yore": "Muzaffer İlkar / Şemsi Belli         Hicaz / Nim S",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Muzaffer İlkar / Şemsi Belli         Hicaz / Nim S",
-    "aciklama": ""
+    "soz": "Şemsi Belli",
+    "muzik": "Muzaffer İlkar",
+    "diger_bilgiler": "Hicaz / Nim Sofyan"
   },
   "sistem": {
     "eski_id": 555,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T20:33:33.760Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
