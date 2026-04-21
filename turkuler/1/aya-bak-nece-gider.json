@@ -2,25 +2,16 @@
   "id": "aya-bak-nece-gider",
   "baslik": "AYA BAK NECE GİDER",
   "sozler_html": "<p>Aya Bak Nece Gider</p>\n<p>Ay Dolanır Gece Gider</p>\n<p>İki Kaşın Arası</p>\n<p>Bir Yol Var Hac'a Gider</p>\n<p class=\"bos\"></p>\n<p><b>Lemide Hayranın Olim</b></p>\n<p><b>Kara Kız Kurbanın Olim</b></p>\n<p class=\"bos\"></p>\n<p>Aya Bak Yıldıza Bak</p>\n<p>Suya Giden Kıza Bak</p>\n<p>Kız Allah'ı Seversen</p>\n<p>Dön De Bir Yol Bize Bak</p>\n<p class=\"bos\"></p>\n<p><b>Lemide...</b></p>\n<p class=\"bos\"></p>\n<p>Ay Akşamdan Geridir</p>\n<p>Buralar Nerden Geridir</p>\n<p>Kalkın Gidin A Dostlar</p>\n<p>Buralar Eyvan Yeridir</p>\n<p class=\"bos\"></p>\n<p><b>Lemide...</b></p>",
-  "sozler_duz": "Aya Bak Nece Gider Ay Dolanır Gece Gider İki Kaşın Arası Bir Yol Var Hac'a Gider Lemide Hayranın Olim Kara Kız Kurbanın Olim Aya Bak Yıldıza Bak Suya Giden Kıza Bak Kız Allah'ı Seversen Dön De Bir Yol Bize Bak Lemide... Ay Akşamdan Geridir Buralar Nerden Geridir Kalkın Gidin A Dostlar Buralar Eyvan Yeridir Lemide...",
+  "sozler_duz": "Aya Bak Nece Gider\n\nAy Dolanır Gece Gider\n\nİki Kaşın Arası\n\nBir Yol Var Hac'a Gider\n\nLemide Hayranın Olim\n\nKara Kız Kurbanın Olim\n\nAya Bak Yıldıza Bak\n\nSuya Giden Kıza Bak\n\nKız Allah'ı Seversen\n\nDön De Bir Yol Bize Bak\n\nLemide...\n\nAy Akşamdan Geridir\n\nBuralar Nerden Geridir\n\nKalkın Gidin A Dostlar\n\nBuralar Eyvan Yeridir\n\nLemide...",
   "meta": {
     "yore": "Erzurum",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_22",
-    "karar": "Re",
-    "diger_bilgiler": "Raci Alkır/Muharrem Akkuş-Alaattin Seçgel",
-    "aciklama": ""
+    "kaynak_kisi": "Raci Alkır/Muharrem Akkuş-Alaattin Seçgel",
+    "karar": "Re"
   },
   "sistem": {
     "eski_id": 3410,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T18:29:50.808Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
