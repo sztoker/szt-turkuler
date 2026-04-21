@@ -2,25 +2,15 @@
   "id": "bu-gala-dasli-gala",
   "baslik": "BU GALA DAŞLI GALA",
   "sozler_html": "<p>Dağlara çen düşende</p>\n<p>Bülbüle gem düşende</p>\n<p>Ruhum bedende oynar</p>\n<p>Yadıma sen düşende</p>\n<p class=\"bos\"></p>\n<p><b>Bu gala daşlı gala  </b></p>\n<p><b>Cıngıllı daşlı gala</b></p>\n<p><b>Korkirem yar gelmeye</b></p>\n<p><b>Gözlerim yaşlı gala</b></p>\n<p class=\"bos\"></p>\n<p>Kızıl gül olmayaydı</p>\n<p>Sararıp solmayaydı</p>\n<p>Bir ayrılık bir ölüm</p>\n<p>Heç biri olmayaydı</p>\n<p class=\"bos\"></p>\n<p><b>Bu gala ...</b></p>\n<p class=\"bos\"></p>\n<p>Bulak başı toz olar  /  Üstü dolu gız olar</p>\n<p>Eğil desmalın götür  / Ben götürsem söz olar</p>\n<p class=\"bos\"></p>\n<p><b>Bu gala...</b></p>\n<p class=\"bos\"></p>\n<p>Gökte yıldız ellidir / Ellisi de bellidir</p>\n<p>Eşkibaz olanların / Gözlerinden bellidir</p>\n<p class=\"bos\"></p>\n<p><b>Bu gala ...</b></p>",
-  "sozler_duz": "Dağlara çen düşende Bülbüle gem düşende Ruhum bedende oynar Yadıma sen düşende Bu gala daşlı gala Cıngıllı daşlı gala Korkirem yar gelmeye Gözlerim yaşlı gala Kızıl gül olmayaydı Sararıp solmayaydı Bir ayrılık bir ölüm Heç biri olmayaydı Bu gala ... Bulak başı toz olar / Üstü dolu gız olar Eğil desmalın götür / Ben götürsem söz olar Bu gala... Gökte yıldız ellidir / Ellisi de bellidir Eşkibaz olanların / Gözlerinden bellidir Bu gala ...",
+  "sozler_duz": "Dağlara çen düşende\n\nBülbüle gem düşende\n\nRuhum bedende oynar\n\nYadıma sen düşende\n\nBu gala daşlı gala\n\nCıngıllı daşlı gala\n\nKorkirem yar gelmeye\n\nGözlerim yaşlı gala\n\nKızıl gül olmayaydı\n\nSararıp solmayaydı\n\nBir ayrılık bir ölüm\n\nHeç biri olmayaydı\n\nBu gala ...\n\nBulak başı toz olar / Üstü dolu gız olar\n\nEğil desmalın götür / Ben götürsem söz olar\n\nBu gala...\n\nGökte yıldız ellidir / Ellisi de bellidir\n\nEşkibaz olanların / Gözlerinden bellidir\n\nBu gala ...",
   "meta": {
     "yore": "AZERİ",
-    "turu": "",
-    "turu2": "T",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "Re - La",
-    "diger_bilgiler": "AZERİ",
-    "aciklama": ""
+    "karar": "Re - La"
   },
   "sistem": {
     "eski_id": 575,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T00:21:06.699Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
