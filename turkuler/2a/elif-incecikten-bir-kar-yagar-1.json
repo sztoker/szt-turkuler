@@ -4,23 +4,14 @@
   "sozler_html": "<p>İncecikten bir kar yağar / Tozar Elif Elif diyeDeli gönül hayran olmuş / Gezer Elif Elif diyeYar sana hayran - can sana kurbanDerdime derman bulamam / Aşktan el amanElif kaşlarını çatar / Gamzesi sineme batarAk elleri kalem tutar / Yazar Elif Elif diye / Yar sana ...Karac’oğlan eymelerin / Gönül vermez değmelerinİliklenmiş düğmelerin / Çözer Elif Elif diye / Yar sana ...</p>",
   "sozler_duz": "İncecikten bir kar yağar / Tozar Elif Elif diyeDeli gönül hayran olmuş / Gezer Elif Elif diyeYar sana hayran - can sana kurbanDerdime derman bulamam / Aşktan el amanElif kaşlarını çatar / Gamzesi sineme batarAk elleri kalem tutar / Yazar Elif Elif diye / Yar sana ...Karac’oğlan eymelerin / Gönül vermez değmelerinİliklenmiş düğmelerin / Çözer Elif Elif diye / Yar sana ...",
   "meta": {
-    "yore": "Karacaoğlan / Saadettin Kaynak    Segah / Curcuna",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Karacaoğlan / Saadettin Kaynak    Segah / Curcuna",
-    "aciklama": ""
+    "soz": "Karacaoğlan",
+    "muzik": "Saadettin Kaynak",
+    "diger_bilgiler": "Segah / Curcuna"
   },
   "sistem": {
     "eski_id": 5175,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T00:57:11.978Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
