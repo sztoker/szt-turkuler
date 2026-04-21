@@ -2,25 +2,16 @@
   "id": "beyaz-giyme-toz-olur",
   "baslik": "BEYAZ GİYME TOZ OLUR",
   "sozler_html": "<p>Beyaz giyme toz olur</p>\n<p>Siyah giyme söz olur</p>\n<p>Gel beraber gezelim</p>\n<p>Muradımız tez olur</p>\n<p class=\"bos\"></p>\n<p><b>Salına da salına da gel</b></p>\n<p><b>Hadi yavrum </b></p>\n<p><b>Dön dolaş yine bana gel</b></p>\n<p class=\"bos\"></p>\n<p>Beyaz giyme tanırlar</p>\n<p>Seni yolcu sanırlar</p>\n<p>Zaten bende talih yok</p>\n<p>Seni benden alırlar</p>\n<p class=\"bos\"></p>\n<p><b>Salına da...</b></p>\n<p class=\"bos\"></p>\n<p>Alçak ceviz dalları</p>\n<p>Sıva beyaz kolları</p>\n<p>Yar nereden geleyim</p>\n<p>Hep sarmışlar yolları</p>\n<p class=\"bos\"></p>\n<p><b>Salına da...</b></p>",
-  "sozler_duz": "Beyaz giyme toz olur Siyah giyme söz olur Gel beraber gezelim Muradımız tez olur Salına da salına da gel Hadi yavrum Dön dolaş yine bana gel Beyaz giyme tanırlar Seni yolcu sanırlar Zaten bende talih yok Seni benden alırlar Salına da... Alçak ceviz dalları Sıva beyaz kolları Yar nereden geleyim Hep sarmışlar yolları Salına da...",
+  "sozler_duz": "Beyaz giyme toz olur\n\nSiyah giyme söz olur\n\nGel beraber gezelim\n\nMuradımız tez olur\n\nSalına da salına da gel\n\nHadi yavrum\n\nDön dolaş yine bana gel\n\nBeyaz giyme tanırlar\n\nSeni yolcu sanırlar\n\nZaten bende talih yok\n\nSeni benden alırlar\n\nSalına da...\n\nAlçak ceviz dalları\n\nSıva beyaz kolları\n\nYar nereden geleyim\n\nHep sarmışlar yolları\n\nSalına da...",
   "meta": {
     "yore": "BOLU",
-    "turu": "",
-    "turu2": "T",
     "derleyen": "Emin Aldemir",
-    "kaynak_kisi": "Ahmet Sevinç",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "",
-    "diger_bilgiler": "BOLU",
-    "aciklama": ""
+    "kaynak_kisi": "Ahmet Sevinç"
   },
   "sistem": {
     "eski_id": 76,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T01:21:43.318Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
