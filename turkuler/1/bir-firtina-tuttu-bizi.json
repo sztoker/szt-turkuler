@@ -6,13 +6,12 @@
   "meta": {
     "yore": "SELANİK",
     "derleyen": "Yücel Paşmakçı",
-    "kaynak_kisi": "Fatma Çil",
-    "diger_bilgiler": "SELANİK"
+    "kaynak_kisi": "Fatma Çil"
   },
   "sistem": {
     "eski_id": 157,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T20:03:15.669Z",
+    "son_degisiklik": "2026-04-21T20:03:25.995Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
