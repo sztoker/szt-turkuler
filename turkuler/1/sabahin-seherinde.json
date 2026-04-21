@@ -2,25 +2,17 @@
   "id": "sabahin-seherinde",
   "baslik": "SABAHIN SEHERİNDE",
   "sozler_html": "<p>Sabahın seherinde ötüyor kuşlar</p>\n<p>Balınan yoğrulmuş o sırma saçlar</p>\n<p>Kudretten çekilmiş karadır kaşlar</p>\n<p>İşte bu gönlümün cananı geldi</p>\n<p class=\"bos\"></p>\n<p>Seher vakti keklik çıkar kabana</p>\n<p>Sallandıkça püskül değer tabana</p>\n<p>Korkarım sevdiğim vara yabana</p>\n<p>İşte bu gönlümün cananı geldi</p>\n<p class=\"bos\"></p>\n<p>Yarim yine şekerlendi ballandı</p>\n<p>Alınan yeşili giydi sallandı</p>\n<p>Kırılsın kollarım ne tez çullandı</p>\n<p>Aç gözlerini aç cananım geld i</p>",
-  "sozler_duz": "Sabahın seherinde ötüyor kuşlar Balınan yoğrulmuş o sırma saçlar Kudretten çekilmiş karadır kaşlar İşte bu gönlümün cananı geldi Seher vakti keklik çıkar kabana Sallandıkça püskül değer tabana Korkarım sevdiğim vara yabana İşte bu gönlümün cananı geldi Yarim yine şekerlendi ballandı Alınan yeşili giydi sallandı Kırılsın kollarım ne tez çullandı Aç gözlerini aç cananım geld i",
+  "sozler_duz": "Sabahın seherinde ötüyor kuşlar\n\nBalınan yoğrulmuş o sırma saçlar\n\nKudretten çekilmiş karadır kaşlar\n\nİşte bu gönlümün cananı geldi\n\nSeher vakti keklik çıkar kabana\n\nSallandıkça püskül değer tabana\n\nKorkarım sevdiğim vara yabana\n\nİşte bu gönlümün cananı geldi\n\nYarim yine şekerlendi ballandı\n\nAlınan yeşili giydi sallandı\n\nKırılsın kollarım ne tez çullandı\n\nAç gözlerini aç cananım geld i",
   "meta": {
     "yore": "TOKAT",
-    "turu": "1",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "La",
-    "diger_bilgiler": "TOKAT",
-    "aciklama": ""
+    "derleyen": "Mehmet Erenler",
+    "kaynak_kisi": "Yöre Ekibi",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 34,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T01:24:30.193Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
