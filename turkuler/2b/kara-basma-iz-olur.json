@@ -4,23 +4,12 @@
   "sozler_html": "<p>Kara basma iz olur / Güzellerde naz olurGündüz gelme gece gel / Eller duyar söz olurHop ninnayı ninnayı / Gel oynayı oynayıKara basma kayarsın / Sen benimle ayarsınAsker olduğum zaman / Günlerimi sayarsınKar üstüne kan damlar / Dayanmaz buna canlarNe zaman düğünümüz / Sayılmıyor bu ylar</p>",
   "sozler_duz": "Kara basma iz olur / Güzellerde naz olurGündüz gelme gece gel / Eller duyar söz olurHop ninnayı ninnayı / Gel oynayı oynayıKara basma kayarsın / Sen benimle ayarsınAsker olduğum zaman / Günlerimi sayarsınKar üstüne kan damlar / Dayanmaz buna canlarNe zaman düğünümüz / Sayılmıyor bu ylar",
   "meta": {
-    "yore": "BAYBURT",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "BAYBURT",
-    "aciklama": ""
+    "yore": "BAYBURT"
   },
   "sistem": {
     "eski_id": 5746,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T23:44:56.377Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
