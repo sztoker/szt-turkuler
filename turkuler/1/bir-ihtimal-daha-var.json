@@ -1,26 +1,17 @@
 {
   "id": "bir-ihtimal-daha-var",
   "baslik": "BİR İHTİMAL DAHA VAR",
-  "sozler_html": "<p>Bir ihtimal daha var * o da ölmek mi dersin</p>\n<p>Söyle canım ne dersin * o da ölmek mi dersin</p>\n<p>Vuslatın başka alem * sen bir ömre bedelsin</p>\n<p>Sukut etme nazlı yar  * beni Mecnun edersin</p>\n<p>Vuslatın başka alem * sen bir ömre bedelsin</p>",
-  "sozler_duz": "Bir ihtimal daha var * o da ölmek mi dersin Söyle canım ne dersin * o da ölmek mi dersin Vuslatın başka alem * sen bir ömre bedelsin Sukut etme nazlı yar * beni Mecnun edersin Vuslatın başka alem * sen bir ömre bedelsin",
+  "sozler_html": "<p>Bir ihtimal daha var&nbsp;</p><p>O da ölmek mi dersin</p>\n<p>Söyle canım ne dersin&nbsp;</p><p><br></p>\n<p><b>Vuslatın başka alem&nbsp;</b></p><p><b>Sen bir ömre bedelsin 2</b></p>\n<p><br></p><p>Sukut etme nazlı yar&nbsp;</p><p>Beni Mecnun edersin</p><p>Beni Mecnun edersin</p><p><br></p>\n<p><b>Vuslatın başka alem&nbsp;</b></p><p><b>Sen bir ömre bedelsin 2</b></p>",
+  "sozler_duz": "Bir ihtimal daha var \n\nO da ölmek mi dersin\n\nSöyle canım ne dersin \n\nVuslatın başka alem \n\nSen bir ömre bedelsin 2\n\nSukut etme nazlı yar \n\nBeni Mecnun edersin\n\nBeni Mecnun edersin\n\nVuslatın başka alem \n\nSen bir ömre bedelsin 2",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Osman Nihat Akın                Nihavent / Düyek",
-    "aciklama": ""
+    "soz": "Ali Lidar",
+    "muzik": "Osman Nihat Akın",
+    "diger_bilgiler": "Nihavent / Düyek"
   },
   "sistem": {
     "eski_id": 544,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T20:12:33.613Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
