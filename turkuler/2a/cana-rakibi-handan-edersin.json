@@ -1,26 +1,16 @@
 {
   "id": "cana-rakibi-handan-edersin",
   "baslik": "CANA RAKİBİ HANDAN EDERSİN",
-  "sozler_html": "<p>Cana rakibi handan edersin/Ben binevayı giryan edersinBiganelerle ünsiyet etme / Bana cihanı zindan edersin</p>",
-  "sozler_duz": "Cana rakibi handan edersin/Ben binevayı giryan edersinBiganelerle ünsiyet etme / Bana cihanı zindan edersin",
+  "sozler_html": "<p>Cana rakibi handan edersin/Ben binevayı giryan edersin</p><p>Biganelerle ünsiyet etme / Bana cihanı zindan edersin</p>",
+  "sozler_duz": "Cana rakibi handan edersin/Ben binevayı giryan edersin\n\nBiganelerle ünsiyet etme / Bana cihanı zindan edersin",
   "meta": {
     "yore": "Griftzen Asım Bey                     Uşşak / Curc",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Griftzen Asım Bey                     Uşşak / Curc",
-    "aciklama": ""
+    "diger_bilgiler": "Griftzen Asım Bey                     Uşşak / Curc"
   },
   "sistem": {
     "eski_id": 597,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T18:37:23.107Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
