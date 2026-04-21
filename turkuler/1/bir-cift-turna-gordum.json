@@ -2,25 +2,14 @@
   "id": "bir-cift-turna-gordum",
   "baslik": "BİR ÇİFT TURNA GÖRDÜM",
   "sozler_html": "<p>Bir çift turna gördüm durur dallarda</p>\n<p>Seversen mevlayı kalma yollarda</p>\n<p>Sizi bekleyen var bizim ellerde</p>\n<p>Bizim ele doğru gidin turnalar</p>\n<p class=\"bos\"></p>\n<p>Turnam dertli öttün derdimi deştin</p>\n<p>El vurup yaremin başını açtın</p>\n<p>Eşinden m'ayrıldın yolun mu şaştın</p>\n<p>Doğru bir katerde gidin turnalar</p>\n<p class=\"bos\"></p>\n<p>Fazla gitmen bizim ele varınca</p>\n<p>Selam söylen eşe dosta sorunca</p>\n<p>Sağ selamet menziline varınca</p>\n<p>Benden yare selam edin turnalar</p>",
-  "sozler_duz": "Bir çift turna gördüm durur dallarda Seversen mevlayı kalma yollarda Sizi bekleyen var bizim ellerde Bizim ele doğru gidin turnalar Turnam dertli öttün derdimi deştin El vurup yaremin başını açtın Eşinden m'ayrıldın yolun mu şaştın Doğru bir katerde gidin turnalar Fazla gitmen bizim ele varınca Selam söylen eşe dosta sorunca Sağ selamet menziline varınca Benden yare selam edin turnalar",
+  "sozler_duz": "Bir çift turna gördüm durur dallarda\n\nSeversen mevlayı kalma yollarda\n\nSizi bekleyen var bizim ellerde\n\nBizim ele doğru gidin turnalar\n\nTurnam dertli öttün derdimi deştin\n\nEl vurup yaremin başını açtın\n\nEşinden m'ayrıldın yolun mu şaştın\n\nDoğru bir katerde gidin turnalar\n\nFazla gitmen bizim ele varınca\n\nSelam söylen eşe dosta sorunca\n\nSağ selamet menziline varınca\n\nBenden yare selam edin turnalar",
   "meta": {
-    "yore": "YOZGAT",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "YOZGAT",
-    "aciklama": ""
+    "yore": "YOZGAT"
   },
   "sistem": {
     "eski_id": 21,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T19:17:05.292Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
