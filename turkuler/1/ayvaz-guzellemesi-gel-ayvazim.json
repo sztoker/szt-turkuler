@@ -1,15 +1,17 @@
 {
   "id": "ayvaz-guzellemesi-gel-ayvazim",
   "baslik": "AYVAZ GÜZELLEMESİ (Gel Ayvazım)",
-  "sozler_html": "<p>Siyah kakülleri dökmüş, kızıl güllere(2)</p>\n<p>Ala gözlerini dikmiş, tozlu yollara (2)  (2)</p>\n<p class=\"bos\"></p>\n<p><b>Gel ayvazım dolaşalım  (2</b></p>\n<p class=\"bos\"></p>\n<p>Çamlıbellere bellere     (2</p>\n<p class=\"bos\"></p>\n<p>Aşıklara vardır meylim</p>\n<p>Riyazet eylemiş(etmiştir) gönlüm(haylim)</p>\n<p>Ben mecnun ola(yı)m sen leylim</p>\n<p>Düşüp çöllere(2)        }2</p>\n<p class=\"bos\"></p>\n<p><b>Gel ayvazım...</b></p>",
+  "sozler_html": "<p>Siyah kakülleri dökmüş, kızıl güllere(2)</p>\n<p>Ala gözlerini dikmiş, tozlu yollara (2)  (2)</p>\n<p class=\"bos\"></p>\n<p><b>Gel ayvazım dolaşalım  (2</b></p>\n<p><b>Çamlıbellere bellere     (2</b></p>\n<p class=\"bos\"></p>\n<p>Aşıklara vardır meylim</p>\n<p>Riyazet eylemiş(etmiştir) gönlüm(haylim)</p>\n<p>Ben mecnun ola(yı)m sen leylim</p>\n<p>Düşüp çöllere(2)        }2</p>\n<p class=\"bos\"></p>\n<p><b>Gel ayvazım...</b></p>",
   "sozler_duz": "Siyah kakülleri dökmüş, kızıl güllere(2)\n\nAla gözlerini dikmiş, tozlu yollara (2) (2)\n\nGel ayvazım dolaşalım (2\n\nÇamlıbellere bellere (2\n\nAşıklara vardır meylim\n\nRiyazet eylemiş(etmiştir) gönlüm(haylim)\n\nBen mecnun ola(yı)m sen leylim\n\nDüşüp çöllere(2) }2\n\nGel ayvazım...",
   "meta": {
+    "soz": "Köroğlu",
+    "muzik": "Ahmet Okyay",
     "karar": "Re"
   },
   "sistem": {
     "eski_id": 4456,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20T23:10:06.592Z",
+    "son_degisiklik": "2026-04-21T15:35:54.671Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
