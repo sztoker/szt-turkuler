@@ -1,26 +1,15 @@
 {
   "id": "bir-evler-yaptirdim-mori-ramizem",
   "baslik": "BİR EVLER YAPTIRDIM MORİ RAMİZEM",
-  "sozler_html": "<p>Bir evler yaptırdım –mori Ramizem-</p>\n<p>sazdan samandan –aman aman sazdan samandan</p>\n<p>İçine girilmez –mori Ramizem-</p>\n<p>tozdan dumandan –aman aman tozdan dumandan</p>\n<p class=\"bos\"></p>\n<p>Bir evler yaptırdım kaleye karşı</p>\n<p>Nasıl çıkacaksın babana karşı</p>",
-  "sozler_duz": "Bir evler yaptırdım –mori Ramizem- sazdan samandan –aman aman sazdan samandan İçine girilmez –mori Ramizem- tozdan dumandan –aman aman tozdan dumandan Bir evler yaptırdım kaleye karşı Nasıl çıkacaksın babana karşı",
+  "sozler_html": "<p>Bir evler yaptırdım <i>–mori Ramizem-</i></p>\n<p>sazdan samandan <i>–aman aman sazdan samandan</i></p>\n<p>İçine girilmez <i>–mori Ramizem-</i></p>\n<p>tozdan dumandan <i>–aman aman tozdan dumandan</i></p>\n<p class=\"bos\"></p>\n<p>Bir evler yaptırdım kaleye karşı</p>\n<p>Nasıl çıkacaksın babana karşı</p>",
+  "sozler_duz": "Bir evler yaptırdım –mori Ramizem-\n\nsazdan samandan –aman aman sazdan samandan\n\nİçine girilmez –mori Ramizem-\n\ntozdan dumandan –aman aman tozdan dumandan\n\nBir evler yaptırdım kaleye karşı\n\nNasıl çıkacaksın babana karşı",
   "meta": {
-    "yore": "RUMELİ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "RUMELİ",
-    "aciklama": ""
+    "yore": "RUMELİ"
   },
   "sistem": {
     "eski_id": 151,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T19:25:47.294Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
