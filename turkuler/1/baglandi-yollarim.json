@@ -1,26 +1,16 @@
 {
   "id": "baglandi-yollarim",
   "baslik": "Bağlandı Yollarım_",
-  "sozler_html": "<p>Bağlandı Yollarım Kaldım ÇaresizGayrı Dünya Bana Garalandı Gel Derildi Defterim Arsız AmansızÜst Üste Dizildi Sıralandı Gel GelYari Görse İdim Haftada AydaSevip Ayrılmaktan Ne Buldum FaydaAzrail Göğsümde Canım Hay HaydaCiğerimin Başı Yaralandı GelKaracaoğlan Der Ki Başa YazıldıGözüm Yaşı Sel Sel Oldu SüzüldüKefenim Biçildi Kabrim KazıldıMezarımın Üstü Karalandı Gel Gel</p>",
-  "sozler_duz": "Bağlandı Yollarım Kaldım ÇaresizGayrı Dünya Bana Garalandı Gel Derildi Defterim Arsız AmansızÜst Üste Dizildi Sıralandı Gel GelYari Görse İdim Haftada AydaSevip Ayrılmaktan Ne Buldum FaydaAzrail Göğsümde Canım Hay HaydaCiğerimin Başı Yaralandı GelKaracaoğlan Der Ki Başa YazıldıGözüm Yaşı Sel Sel Oldu SüzüldüKefenim Biçildi Kabrim KazıldıMezarımın Üstü Karalandı Gel Gel",
+  "sozler_html": "<p>Bağlandı\nyollarım kaldım çaresiz</p><p>Gayrı dünya bana garalandı gel&nbsp;</p><p>Derildi defterim arsız amansız</p><p>Üst üste dizildi sıralandı gel gel</p><p>&nbsp;</p><p>Yari görse idim haftada ayda</p><p>Sevip ayrılmaktan ne buldum fayda</p><p>Azrail göğsümde canım hay hayda</p><p>Ciğerimin başı yaralandı gel</p><p>&nbsp;</p><p>Karacaoğlan der ki başa yazıldı</p><p>Gözüm yaşı sel sel oldu süzüldü</p><p>Kefenim biçildi kabrim kazıldı</p><p>Mezarımın üstü karalandı gel gel</p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>&nbsp;</p>",
+  "sozler_duz": "Bağlandı yollarım kaldım çaresiz\n\nGayrı dünya bana garalandı gel \n\nDerildi defterim arsız amansız\n\nÜst üste dizildi sıralandı gel gel\n\n \n\nYari görse idim haftada ayda\n\nSevip ayrılmaktan ne buldum fayda\n\nAzrail göğsümde canım hay hayda\n\nCiğerimin başı yaralandı gel\n\n \n\nKaracaoğlan der ki başa yazıldı\n\nGözüm yaşı sel sel oldu süzüldü\n\nKefenim biçildi kabrim kazıldı\n\nMezarımın üstü karalandı gel gel",
   "meta": {
     "yore": "Sivas/Yıldızeli",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ali Sultan-Nida Tüfekçi",
-    "aciklama": ""
+    "diger_bilgiler": "Ali Sultan-Nida Tüfekçi"
   },
   "sistem": {
     "eski_id": 3443,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T15:18:02.178Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
