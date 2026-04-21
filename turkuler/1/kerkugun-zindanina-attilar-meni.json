@@ -2,25 +2,14 @@
   "id": "kerkugun-zindanina-attilar-meni",
   "baslik": "KERKÜĞÜN ZİNDANINA ATTILAR MENİ",
   "sozler_html": "<p>Kerküğün zindanına attılar beni</p>\n<p>Mazlumlar sürüsüne kattılar beni</p>\n<p>Bir yanım dağladılar ateşle annem</p>\n<p>Ne dostum ne düşmanım yaktılar beni</p>\n<p class=\"bos\"></p>\n<p>Türkmen obalarında yiten anneler</p>\n<p>Ne yuvaları kalmış ne de haneler</p>\n<p>Gökkubbeyi sarsar mazlum feryadım</p>\n<p>Elbette bir gün güler bize de seneler</p>",
-  "sozler_duz": "Kerküğün zindanına attılar beni Mazlumlar sürüsüne kattılar beni Bir yanım dağladılar ateşle annem Ne dostum ne düşmanım yaktılar beni Türkmen obalarında yiten anneler Ne yuvaları kalmış ne de haneler Gökkubbeyi sarsar mazlum feryadım Elbette bir gün güler bize de seneler",
+  "sozler_duz": "Kerküğün zindanına attılar beni\n\nMazlumlar sürüsüne kattılar beni\n\nBir yanım dağladılar ateşle annem\n\nNe dostum ne düşmanım yaktılar beni\n\nTürkmen obalarında yiten anneler\n\nNe yuvaları kalmış ne de haneler\n\nGökkubbeyi sarsar mazlum feryadım\n\nElbette bir gün güler bize de seneler",
   "meta": {
-    "yore": "",
-    "turu": "1",
-    "turu2": "mk",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "La",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5224,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T12:11:37.859Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
