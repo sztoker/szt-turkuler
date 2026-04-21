@@ -1,15 +1,15 @@
 {
   "id": "ben-yarali-ceylanim",
   "baslik": "BEN YARALI CEYLANIM",
-  "sozler_html": "<p>Ben yaralı ceylanım -yaralı ceylan</p>\n<p>Beni bir avcı vurdu buralı ceylan</p>\n<p>Kaşı gözü sürmeli -yaralı ceylan</p>\n<p>Beni bir avcı vurdu buralı ceylan</p>\n<p class=\"bos\"></p>\n<p>Şu dağların maralı  garip ceylanım</p>\n<p>Senin gibi avcıya fedadır canım</p>\n<p>Yeter ki sen benim ol dökülsün kanım / Beni bir ...</p>",
-  "sozler_duz": "Ben yaralı ceylanım -yaralı ceylan\n\nBeni bir avcı vurdu buralı ceylan\n\nKaşı gözü sürmeli -yaralı ceylan\n\nBeni bir avcı vurdu buralı ceylan\n\nŞu dağların maralı garip ceylanım\n\nSenin gibi avcıya fedadır canım\n\nYeter ki sen benim ol dökülsün kanım / Beni bir ...",
+  "sozler_html": "<p>Ben yaralı ceylanım -yaralı ceylan</p>\n<p>Beni bir avcı vurdu buralı ceylan</p>\n<p>Kaşı gözü sürmeli -yaralı ceylan</p>\n<p><b>Beni bir avcı vurdu buralı ceylan</b></p>\n<p class=\"bos\"></p>\n<p>Şu dağların maralı  garip ceylanım</p>\n<p>Senin gibi avcıya fedadır canım</p>\n<p>Yeter ki sen benim ol dökülsün kanım&nbsp;</p><p><b>Beni bir ...</b></p>",
+  "sozler_duz": "Ben yaralı ceylanım -yaralı ceylan\n\nBeni bir avcı vurdu buralı ceylan\n\nKaşı gözü sürmeli -yaralı ceylan\n\nBeni bir avcı vurdu buralı ceylan\n\nŞu dağların maralı garip ceylanım\n\nSenin gibi avcıya fedadır canım\n\nYeter ki sen benim ol dökülsün kanım \n\nBeni bir ...",
   "meta": {
     "yore": "AZERİ"
   },
   "sistem": {
     "eski_id": 517,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T16:44:36.386Z",
+    "son_degisiklik": "2026-04-21T16:45:23.213Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
