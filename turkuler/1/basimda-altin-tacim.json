@@ -1,26 +1,17 @@
 {
   "id": "basimda-altin-tacim",
   "baslik": "BAŞIMDA ALTIN TACIM",
-  "sozler_html": "<p>Başımda Altın Tacım Aman</p>\n<p>Hem Susuzum Hem Acım</p>\n<p>Yarimi Bana Verin</p>\n<p>Gerisi Anam Bacım Aman</p>\n<p class=\"bos\"></p>\n<p>Gidiyom Elinizden Gülüm</p>\n<p>Kurtulam Dilinizden</p>\n<p>Yeşil Baş Ördek Olsam</p>\n<p>Su İçmem Gölünüzden</p>\n<p class=\"bos\"></p>\n<p><b><i>Hoplatma Kısmı </i></b></p>\n<p class=\"bos\"></p>\n<p><b><i></b></i>(Vay Gülüm) Deniz Dalgasız Olmaz</p>\n<p class=\"bos\"></p>\n<p>(Vay Gülüm) Güzel Sevdasız Olmaz</p>\n<p>(Vay Gülüm) Yiğit Olan Yiğidin</p>\n<p>(Vay Gülüm) Başı Sevdasız Olmaz</p>\n<p class=\"bos\"></p>\n<p>Vay Gülüm Sen Nerdesin Nerdesin</p>\n<p>Vay Gülüm Kaldır Camın Perdesin</p>\n<p>Vay Gurban Alacağım Ben Seni</p>\n<p>Vay Gülüm Galabalık Yerdesin</p>\n<p>(Deli Deli Deli...)</p>\n<p>Galabalık Yerdesin</p>\n<p class=\"bos\"></p>\n<p>(Vay Gülüm) Denize Dalayım Mı</p>\n<p>(Vay Gülüm) Bir Balık Alayım Mı</p>\n<p>(Vay Gülüm) Ay Doğdu Şafak Attı</p>\n<p>(Vay Gülüm) Daha Yalvarayım Mı</p>\n<p class=\"bos\"></p>\n<p>Vay Gülüm Sen Nerdesin ...</p>",
-  "sozler_duz": "Başımda Altın Tacım Aman Hem Susuzum Hem Acım Yarimi Bana Verin Gerisi Anam Bacım Aman Gidiyom Elinizden Gülüm Kurtulam Dilinizden Yeşil Baş Ördek Olsam Su İçmem Gölünüzden Hoplatma Kısmı (Vay Gülüm) Deniz Dalgasız Olmaz (Vay Gülüm) Güzel Sevdasız Olmaz (Vay Gülüm) Yiğit Olan Yiğidin (Vay Gülüm) Başı Sevdasız Olmaz Vay Gülüm Sen Nerdesin Nerdesin Vay Gülüm Kaldır Camın Perdesin Vay Gurban Alacağım Ben Seni Vay Gülüm Galabalık Yerdesin (Deli Deli Deli...) Galabalık Yerdesin (Vay Gülüm) Denize Dalayım Mı (Vay Gülüm) Bir Balık Alayım Mı (Vay Gülüm) Ay Doğdu Şafak Attı (Vay Gülüm) Daha Yalvarayım Mı Vay Gülüm Sen Nerdesin ...",
+  "sozler_html": "<p>Başımda Altın Tacım Aman</p>\n<p>Hem Susuzum Hem Acım</p>\n<p>Yarimi Bana Verin</p>\n<p>Gerisi Anam Bacım Aman</p>\n<p class=\"bos\"></p>\n<p>Gidiyom Elinizden Gülüm</p>\n<p>Kurtulam Dilinizden</p>\n<p>Yeşil Baş Ördek Olsam</p>\n<p>Su İçmem Gölünüzden</p>\n<p class=\"bos\"></p>\n<p><b><i>Hoplatma Kısmı </i></b></p>\n<p class=\"bos\"></p>\n<p><i><b></b>(Vay Gülüm) Deniz Dalgasız Olmaz</i></p>\n<p><i>(Vay Gülüm) Güzel Sevdasız Olmaz</i></p>\n<p><i>(Vay Gülüm) Yiğit Olan Yiğidin</i></p>\n<p><i>(Vay Gülüm) Başı Sevdasız Olmaz</i></p>\n<p class=\"bos\"></p>\n<p><i>Vay Gülüm Sen Nerdesin Nerdesin</i></p>\n<p><i>Vay Gülüm Kaldır Camın Perdesin</i></p>\n<p><i>Vay Gurban Alacağım Ben Seni</i></p>\n<p><i>Vay Gülüm Galabalık Yerdesin</i></p>\n<p><i>(Deli Deli Deli...)</i></p>\n<p><i>Galabalık Yerdesin</i></p>\n<p class=\"bos\"></p>\n<p><i>(Vay Gülüm) Denize Dalayım Mı</i></p>\n<p><i>(Vay Gülüm) Bir Balık Alayım Mı</i></p>\n<p><i>(Vay Gülüm) Ay Doğdu Şafak Attı</i></p>\n<p><i>(Vay Gülüm) Daha Yalvarayım Mı</i></p>\n<p class=\"bos\"></p>\n<p><i>Vay Gülüm Sen Nerdesin ...</i></p>",
+  "sozler_duz": "Başımda Altın Tacım Aman\n\nHem Susuzum Hem Acım\n\nYarimi Bana Verin\n\nGerisi Anam Bacım Aman\n\nGidiyom Elinizden Gülüm\n\nKurtulam Dilinizden\n\nYeşil Baş Ördek Olsam\n\nSu İçmem Gölünüzden\n\nHoplatma Kısmı\n\n(Vay Gülüm) Deniz Dalgasız Olmaz\n\n(Vay Gülüm) Güzel Sevdasız Olmaz\n\n(Vay Gülüm) Yiğit Olan Yiğidin\n\n(Vay Gülüm) Başı Sevdasız Olmaz\n\nVay Gülüm Sen Nerdesin Nerdesin\n\nVay Gülüm Kaldır Camın Perdesin\n\nVay Gurban Alacağım Ben Seni\n\nVay Gülüm Galabalık Yerdesin\n\n(Deli Deli Deli...)\n\nGalabalık Yerdesin\n\n(Vay Gülüm) Denize Dalayım Mı\n\n(Vay Gülüm) Bir Balık Alayım Mı\n\n(Vay Gülüm) Ay Doğdu Şafak Attı\n\n(Vay Gülüm) Daha Yalvarayım Mı\n\nVay Gülüm Sen Nerdesin ...",
   "meta": {
     "yore": "Kırşehir",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Muharrem Ertaş-Nida Tüfekçi",
-    "aciklama": ""
+    "derleyen": "Nida Tüfekçi",
+    "kaynak_kisi": "Muharrem Ertaş"
   },
   "sistem": {
     "eski_id": 3465,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T16:25:34.110Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
