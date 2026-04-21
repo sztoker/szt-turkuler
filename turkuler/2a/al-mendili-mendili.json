@@ -1,26 +1,17 @@
 {
   "id": "al-mendili-mendili",
   "baslik": "Al Mendili Mendili",
-  "sozler_html": "<p>Erkekler</p>\n<p>Karanfil Katar Oldu</p>\n<p>Hasretlik Yeter Oldu</p>\n<p>Nazlı Yarin Kokusu</p>\n<p>Burnumda Tüter Oldu</p>\n<p class=\"bos\"></p>\n<p>Al Mendili Mendili</p>\n<p>Kız Sever Karanfili</p>\n<p class=\"bos\"></p>\n<p>Kadınlar</p>\n<p>Mendil Bağlarım Yandan</p>\n<p>Seni Severim Candan</p>\n<p>İki Yerde Yar Olmaz</p>\n<p>Ya Benden Geç Ya Ondan</p>\n<p class=\"bos\"></p>\n<p>Al Mendili Mendili</p>\n<p>Kız Sever Karanfili</p>",
-  "sozler_duz": "Erkekler Karanfil Katar Oldu Hasretlik Yeter Oldu Nazlı Yarin Kokusu Burnumda Tüter Oldu Al Mendili Mendili Kız Sever Karanfili Kadınlar Mendil Bağlarım Yandan Seni Severim Candan İki Yerde Yar Olmaz Ya Benden Geç Ya Ondan Al Mendili Mendili Kız Sever Karanfili",
+  "sozler_html": "<p><b>Erkekler</b></p>\n<p>Karanfil Katar Oldu</p>\n<p>Hasretlik Yeter Oldu</p>\n<p>Nazlı Yarin Kokusu</p>\n<p>Burnumda Tüter Oldu</p>\n<p class=\"bos\"></p>\n<p>Al Mendili Mendili</p>\n<p>Kız Sever Karanfili</p>\n<p class=\"bos\"></p>\n<p><b>Kadınlar</b></p>\n<p>Mendil Bağlarım Yandan</p>\n<p>Seni Severim Candan</p>\n<p>İki Yerde Yar Olmaz</p>\n<p>Ya Benden Geç Ya Ondan</p>\n<p class=\"bos\"></p>\n<p>Al Mendili Mendili</p>\n<p>Kız Sever Karanfili</p>",
+  "sozler_duz": "Erkekler\n\nKaranfil Katar Oldu\n\nHasretlik Yeter Oldu\n\nNazlı Yarin Kokusu\n\nBurnumda Tüter Oldu\n\nAl Mendili Mendili\n\nKız Sever Karanfili\n\nKadınlar\n\nMendil Bağlarım Yandan\n\nSeni Severim Candan\n\nİki Yerde Yar Olmaz\n\nYa Benden Geç Ya Ondan\n\nAl Mendili Mendili\n\nKız Sever Karanfili",
   "meta": {
     "yore": "Hatay/Antakya/Şenköy",
-    "turu": "",
-    "turu2": "s",
     "derleyen": "Muzaffer Sarısözen",
-    "kaynak_kisi": "Yöre Ekibi",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Yöre Ekibi"
   },
   "sistem": {
     "eski_id": 3315,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T23:43:57.327Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
