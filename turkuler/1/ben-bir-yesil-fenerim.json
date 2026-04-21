@@ -1,26 +1,13 @@
 {
   "id": "ben-bir-yesil-fenerim",
   "baslik": "BEN BİR YEŞİL FENERİM",
-  "sozler_html": "<p>Ben bir yeşil fenerim –aman yele yele lom</p>\n<p>Hem yanar hem sönerim –haydi yele yele lom</p>\n<p>Ben nişanlı değilim –aman yele yele lom</p>\n<p>Kime olsa dönerim –haydi yele yele lom</p>\n<p class=\"bos\"></p>\n<p>Aman benim ipeğim / Derdimi kimlere dökeyim</p>\n<p>Al yanağın dururken / Yar nerenden öpeyim</p>\n<p class=\"bos\"></p>\n<p>Kabağın kökeniyim / Sapının bükeniyim</p>\n<p>Güzeli alacağım / Çirkine tövbeliyim</p>",
-  "sozler_duz": "Ben bir yeşil fenerim –aman yele yele lom Hem yanar hem sönerim –haydi yele yele lom Ben nişanlı değilim –aman yele yele lom Kime olsa dönerim –haydi yele yele lom Aman benim ipeğim / Derdimi kimlere dökeyim Al yanağın dururken / Yar nerenden öpeyim Kabağın kökeniyim / Sapının bükeniyim Güzeli alacağım / Çirkine tövbeliyim",
-  "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Ben bir yeşil fenerim <i>–aman yele yele lom</i></p>\n<p>Hem yanar hem sönerim <i>–haydi yele yele lom</i></p>\n<p>Ben nişanlı değilim<i> –aman yele yele lom</i></p>\n<p>Kime olsa dönerim <i>–haydi yele yele lom</i></p>\n<p class=\"bos\"></p>\n<p>Aman benim ipeğim / Derdimi kimlere dökeyim</p>\n<p>Al yanağın dururken / Yar nerenden öpeyim</p>\n<p class=\"bos\"></p>\n<p>Kabağın kökeniyim / Sapının bükeniyim</p>\n<p>Güzeli alacağım / Çirkine tövbeliyim</p>",
+  "sozler_duz": "Ben bir yeşil fenerim –aman yele yele lom\n\nHem yanar hem sönerim –haydi yele yele lom\n\nBen nişanlı değilim –aman yele yele lom\n\nKime olsa dönerim –haydi yele yele lom\n\nAman benim ipeğim / Derdimi kimlere dökeyim\n\nAl yanağın dururken / Yar nerenden öpeyim\n\nKabağın kökeniyim / Sapının bükeniyim\n\nGüzeli alacağım / Çirkine tövbeliyim",
+  "meta": {},
   "sistem": {
     "eski_id": 505,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T16:36:18.941Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
