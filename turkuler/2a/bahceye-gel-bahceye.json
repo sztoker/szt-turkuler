@@ -1,15 +1,15 @@
 {
   "id": "bahceye-gel-bahceye",
   "baslik": "BAHÇEYE GEL BAHÇEYE",
-  "sozler_html": "<p>Bahçeye gel bahçeye (2 / Kuru fındık bulursun (2Alacaksan al beni (2 / Sonra pişman olursun (2Haydi yavrum oymaktan / Yar gelir oynamaktanParmakları ağrımış / Zil çalıp oynamaktan     2Boztepe’ye çıkmalı / Şu Ordu’ya bakmalıBöyle güzel kızları / Saz çalıp oynatmalı / Haydi Yavrum...</p>",
-  "sozler_duz": "Bahçeye gel bahçeye (2 / Kuru fındık bulursun (2Alacaksan al beni (2 / Sonra pişman olursun (2Haydi yavrum oymaktan / Yar gelir oynamaktanParmakları ağrımış / Zil çalıp oynamaktan 2Boztepe’ye çıkmalı / Şu Ordu’ya bakmalıBöyle güzel kızları / Saz çalıp oynatmalı / Haydi Yavrum...",
+  "sozler_html": "<p>Bahçeye gel bahçeye (2 / Kuru fındık bulursun (2</p><p>Alacaksan al beni (2 / Sonra pişman olursun (2Haydi yavrum oymaktan / Yar gelir oynamaktanParmakları ağrımış / Zil çalıp oynamaktan     2Boztepe’ye çıkmalı / Şu Ordu’ya bakmalıBöyle güzel kızları / Saz çalıp oynatmalı / Haydi Yavrum...</p>",
+  "sozler_duz": "Bahçeye gel bahçeye (2 / Kuru fındık bulursun (2\n\nAlacaksan al beni (2 / Sonra pişman olursun (2Haydi yavrum oymaktan / Yar gelir oynamaktanParmakları ağrımış / Zil çalıp oynamaktan 2Boztepe’ye çıkmalı / Şu Ordu’ya bakmalıBöyle güzel kızları / Saz çalıp oynatmalı / Haydi Yavrum...",
   "meta": {
     "yore": "ORDU"
   },
   "sistem": {
     "eski_id": 491,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T18:34:19.921Z",
+    "son_degisiklik": "2026-04-21T18:34:36.149Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
