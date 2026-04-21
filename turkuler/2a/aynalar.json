@@ -2,25 +2,14 @@
   "id": "aynalar",
   "baslik": "AYNALAR",
   "sozler_html": "<p>Harmanım ben harmanım / Kırk satırlık fermanım</p>\n<p>Yok dizimde dermanım</p>\n<p>Eyletmen beni * söyletmen beni * ağlatman beni</p>\n<p>Aynalar - aynalar</p>\n<p class=\"bos\"></p>\n<p>Hüznüm size görünür / Saçım beyaz örülür</p>\n<p>Yaşarken de ölünür / Eyletmen beni ...</p>\n<p class=\"bos\"></p>\n<p>Yüzümde hep çizgiler / İçimde hep ezgiler</p>\n<p>Uçtu gitti seneler / Eyletmen beni ...</p>",
-  "sozler_duz": "Harmanım ben harmanım / Kırk satırlık fermanım Yok dizimde dermanım Eyletmen beni * söyletmen beni * ağlatman beni Aynalar - aynalar Hüznüm size görünür / Saçım beyaz örülür Yaşarken de ölünür / Eyletmen beni ... Yüzümde hep çizgiler / İçimde hep ezgiler Uçtu gitti seneler / Eyletmen beni ...",
+  "sozler_duz": "Harmanım ben harmanım / Kırk satırlık fermanım\n\nYok dizimde dermanım\n\nEyletmen beni * söyletmen beni * ağlatman beni\n\nAynalar - aynalar\n\nHüznüm size görünür / Saçım beyaz örülür\n\nYaşarken de ölünür / Eyletmen beni ...\n\nYüzümde hep çizgiler / İçimde hep ezgiler\n\nUçtu gitti seneler / Eyletmen beni ...",
   "meta": {
-    "yore": "Salim Dündar",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Salim Dündar",
-    "aciklama": ""
+    "diger_bilgiler": "Salim Dündar"
   },
   "sistem": {
     "eski_id": 471,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-21T18:15:47.696Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
