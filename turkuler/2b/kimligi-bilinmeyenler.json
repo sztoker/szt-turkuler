@@ -1,26 +1,17 @@
 {
   "id": "kimligi-bilinmeyenler",
   "baslik": "KİMLİĞİ BİLİNMEYENLER",
-  "sozler_html": "<p>Ne gören var ne de duyan kimliği bilinmeyenlerKarabasan bir düş gibi kimliği bilinmeyenlerYok ettiler insanlığı aklı kurşuna dizdilerÇocukların çığlığında kimliği bilinmeyenlerÖzü özden ayıranlar ipeği kozasındanKimlikleri ayan beyan kimliği bilinmeyenler</p>",
-  "sozler_duz": "Ne gören var ne de duyan kimliği bilinmeyenlerKarabasan bir düş gibi kimliği bilinmeyenlerYok ettiler insanlığı aklı kurşuna dizdilerÇocukların çığlığında kimliği bilinmeyenlerÖzü özden ayıranlar ipeği kozasındanKimlikleri ayan beyan kimliği bilinmeyenler",
+  "sozler_html": "<p>Ne gören var ne de duyan&nbsp;</p><p>Kimliği bilinmeyenler</p><p>Karabasan bir düş gibi&nbsp;</p><p>Kimliği bilinmeyenler</p><p><br></p><p>Yok ettiler insanlığı&nbsp;</p><p>Aklı kurşuna dizdiler</p><p>Çocukların çığlığında&nbsp;</p><p>Kimliği bilinmeyenler</p><p><br></p><p>Özü özden ayıranlar&nbsp;</p><p>İpeği kozasından</p><p>Kimlikleri ayan beyan&nbsp;</p><p>Kimliği bilinmeyenler</p>",
+  "sozler_duz": "Ne gören var ne de duyan \n\nKimliği bilinmeyenler\n\nKarabasan bir düş gibi \n\nKimliği bilinmeyenler\n\nYok ettiler insanlığı \n\nAklı kurşuna dizdiler\n\nÇocukların çığlığında \n\nKimliği bilinmeyenler\n\nÖzü özden ayıranlar \n\nİpeği kozasından\n\nKimlikleri ayan beyan \n\nKimliği bilinmeyenler",
   "meta": {
-    "yore": "?               Y: Zülfü Livaneli",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?               Y: Zülfü Livaneli",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Zülfü Livaneli",
+    "muzik": "Zülfü Livaneli"
   },
   "sistem": {
     "eski_id": 5866,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T16:32:52.443Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
