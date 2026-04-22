@@ -7,12 +7,13 @@
     "yore": "Adana-Gaziantep",
     "turu": "THM",
     "derleyen": "MUZAFFER SARISÖZEN",
-    "kaynak_kisi": "Aziz Şenses"
+    "kaynak_kisi": "Aziz Şenses",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5879,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-22T18:15:52.209Z",
+    "son_degisiklik": "2026-04-22T18:26:16.469Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
