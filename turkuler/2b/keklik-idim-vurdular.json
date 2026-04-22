@@ -1,26 +1,19 @@
 {
   "id": "keklik-idim-vurdular",
   "baslik": "KEKLİK İDİM VURDULAR",
-  "sozler_html": "<p>Keklik idim vurdular / Kanadımı kırdılarDaha ben ne idim ki / Anamdan ayırdılarGel gel yanıma keklik / Kastın canıma keklikAl kınalı parmakların / Batır kanıma keklikKeklik kumda eşinir / Eşinir de deşinirBenim sevdiğim dilber / Nerelerde düşünür / Gel gel ...Keklik kayalı yerde / Öter mayalı yerdeSevdiğimin kavalı / Kaldı dayalı yerde / Gel gel ...</p>",
-  "sozler_duz": "Keklik idim vurdular / Kanadımı kırdılarDaha ben ne idim ki / Anamdan ayırdılarGel gel yanıma keklik / Kastın canıma keklikAl kınalı parmakların / Batır kanıma keklikKeklik kumda eşinir / Eşinir de deşinirBenim sevdiğim dilber / Nerelerde düşünür / Gel gel ...Keklik kayalı yerde / Öter mayalı yerdeSevdiğimin kavalı / Kaldı dayalı yerde / Gel gel ...",
+  "sozler_html": "<p>Keklik idim vurdular&nbsp;</p><p>Kanadımı kırdılar</p><p>Daha ben ne idim ki&nbsp;</p><p>Anamdan ayırdılar</p><p><br></p><p><b>Gel gel yanıma keklik&nbsp;</b></p><p><b>Kastın canıma keklik</b></p><p><b>Al kınalı parmakların&nbsp;</b></p><p><b>Batır kanıma keklik</b></p><p><br></p><p>Keklik kumda eşinir&nbsp;</p><p>Eşinir de deşinir</p><p>Benim sevdiğim dilber&nbsp;</p><p>Nerelerde düşünür&nbsp;</p><p><br></p><p>&nbsp;<b>Gel gel ...</b></p><p><br></p><p>Keklik kayalı yerde&nbsp;</p><p>Öter mayalı yerde</p><p>Sevdiğimin kavalı&nbsp;</p><p>Kaldı dayalı yerde&nbsp;</p><p><br></p><p><b>Gel gel ...</b></p>",
+  "sozler_duz": "Keklik idim vurdular \n\nKanadımı kırdılar\n\nDaha ben ne idim ki \n\nAnamdan ayırdılar\n\nGel gel yanıma keklik \n\nKastın canıma keklik\n\nAl kınalı parmakların \n\nBatır kanıma keklik\n\nKeklik kumda eşinir \n\nEşinir de deşinir\n\nBenim sevdiğim dilber \n\nNerelerde düşünür \n\n Gel gel ...\n\nKeklik kayalı yerde \n\nÖter mayalı yerde\n\nSevdiğimin kavalı \n\nKaldı dayalı yerde \n\nGel gel ...",
   "meta": {
-    "yore": "ŞARKIŞLA (A.V.)",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ŞARKIŞLA (A.V.)",
-    "aciklama": ""
+    "yore": "Sivas/ŞARKIŞLA",
+    "turu": "THM",
+    "derleyen": "MUZAFFER SARISÖZEN",
+    "kaynak_kisi": "AŞIK VEYSEL ŞATIROĞLU",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5819,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T10:58:44.175Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
