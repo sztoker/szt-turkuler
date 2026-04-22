@@ -1,26 +1,16 @@
 {
   "id": "kalenin-bedenleri-beden-eski",
   "baslik": "KALENİN BEDENLERİ BEDEN ESKİ ...",
-  "sozler_html": "<p>Kalenin bedenleri – beden eski bedenÇevirin gidenleri – senin derdin nedenKaldır peçen göreyim – beden eski bedenYüzündeki benleri – senin derdin nedenKaleden indim bu gün / Elimde altın güğümBen öleyim sevdiğim / Ne dün gördüm ne bu günTeştte esvap yıkarsın / Alttan alttan bakarsınO kaş o göz sendedir / Çok canları yakarsın</p>",
-  "sozler_duz": "Kalenin bedenleri – beden eski bedenÇevirin gidenleri – senin derdin nedenKaldır peçen göreyim – beden eski bedenYüzündeki benleri – senin derdin nedenKaleden indim bu gün / Elimde altın güğümBen öleyim sevdiğim / Ne dün gördüm ne bu günTeştte esvap yıkarsın / Alttan alttan bakarsınO kaş o göz sendedir / Çok canları yakarsın",
+  "sozler_html": "<p>Galenin bedenleri – beden eski beden</p><p>Çevirin gidenleri – senin derdin neden</p><p>Kaldır peçen göreyim – beden eski beden</p><p>Yüzündeki benleri – senin derdin neden</p><p><br></p><p>Galeden indim bu gün– beden eski beden&nbsp;</p><p>Elimde altın güğüm– senin derdin neden</p><p>Ben öleyim sevdiğim – beden eski beden</p><p>Ne dün gördüm ne bu gün– senin derdin neden</p><p><br></p><p>Teştte esvap yıkarsın – beden eski beden</p><p>Alttan alttan bakarsın– senin derdin neden</p><p>O kaş o göz sendedir – beden eski beden</p><p>Çok canları yakarsın– senin derdin neden</p>",
+  "sozler_duz": "Galenin bedenleri – beden eski beden\n\nÇevirin gidenleri – senin derdin neden\n\nKaldır peçen göreyim – beden eski beden\n\nYüzündeki benleri – senin derdin neden\n\nGaleden indim bu gün– beden eski beden \n\nElimde altın güğüm– senin derdin neden\n\nBen öleyim sevdiğim – beden eski beden\n\nNe dün gördüm ne bu gün– senin derdin neden\n\nTeştte esvap yıkarsın – beden eski beden\n\nAlttan alttan bakarsın– senin derdin neden\n\nO kaş o göz sendedir – beden eski beden\n\nÇok canları yakarsın– senin derdin neden",
   "meta": {
     "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "diger_bilgiler": "?"
   },
   "sistem": {
     "eski_id": 5727,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T06:37:47.608Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
