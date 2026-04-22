@@ -1,26 +1,17 @@
 {
   "id": "kirlangic",
   "baslik": "KIRLANGIÇ",
-  "sozler_html": "<p>Yol yol yol yol yol olmuşta / Sarp kayalar yol olmuşDil dil dil dil dil olmuşta / Türkü söyler dil olmuşDal dal dal dal dal olmuşta / Zeytin olmuş dal olmuşBir kırlangıç gökyüzünde / Maviye kanat çalmışBir kırlangıç gökyüzünde / Sevincimin ortağıKanat çırpar mavilere / Sıyırıp gider dağıGül gül gül gül gül olmuşta / Tomurcuklar gül olmuşSel sel sel sel sel olmuşta / Bahar olmuş sel olmuşYel yel yel yel yel olmuşta / Seher olmuş yel olmuşBir kırlangıç ...</p>",
-  "sozler_duz": "Yol yol yol yol yol olmuşta / Sarp kayalar yol olmuşDil dil dil dil dil olmuşta / Türkü söyler dil olmuşDal dal dal dal dal olmuşta / Zeytin olmuş dal olmuşBir kırlangıç gökyüzünde / Maviye kanat çalmışBir kırlangıç gökyüzünde / Sevincimin ortağıKanat çırpar mavilere / Sıyırıp gider dağıGül gül gül gül gül olmuşta / Tomurcuklar gül olmuşSel sel sel sel sel olmuşta / Bahar olmuş sel olmuşYel yel yel yel yel olmuşta / Seher olmuş yel olmuşBir kırlangıç ...",
+  "sozler_html": "<p>Yol yol yol yol yol olmuş da&nbsp;</p><p>Sarp kayalar yol olmuş</p><p>Dil dil dil dil dil olmuş da&nbsp;</p><p>Türkü söyler dil olmuş</p><p><br></p><p>Dal dal dal dal dal olmuş da&nbsp;</p><p>Zeytin olmuş dal olmuş</p><p>Bir kırlangıç gökyüzünde&nbsp;</p><p>Maviye kanat çalmış</p><p><br></p><p>Bir kırlangıç gökyüzünde&nbsp;</p><p>Sevincimin ortağı</p><p>Kanat çırpar mavilere&nbsp;</p><p>Sıyırıp gider dağı</p><p><br></p><p>Gül gül gül gül gül olmuş da&nbsp;</p><p>Tomurcuklar gül olmuş</p><p>Sel sel sel sel sel olmuş da&nbsp;</p><p>Bahar olmuş sel olmuş</p><p><br></p><p>Yel yel yel yel yel olmuş da&nbsp;</p><p>Seher olmuş yel olmuş</p><p>Bir kırlangıç gökyüzünde&nbsp;</p><p>Maviye kanat çalmış</p>",
+  "sozler_duz": "Yol yol yol yol yol olmuş da \n\nSarp kayalar yol olmuş\n\nDil dil dil dil dil olmuş da \n\nTürkü söyler dil olmuş\n\nDal dal dal dal dal olmuş da \n\nZeytin olmuş dal olmuş\n\nBir kırlangıç gökyüzünde \n\nMaviye kanat çalmış\n\nBir kırlangıç gökyüzünde \n\nSevincimin ortağı\n\nKanat çırpar mavilere \n\nSıyırıp gider dağı\n\nGül gül gül gül gül olmuş da \n\nTomurcuklar gül olmuş\n\nSel sel sel sel sel olmuş da \n\nBahar olmuş sel olmuş\n\nYel yel yel yel yel olmuş da \n\nSeher olmuş yel olmuş\n\nBir kırlangıç gökyüzünde \n\nMaviye kanat çalmış",
   "meta": {
-    "yore": "Z. Livaneli",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Z. Livaneli",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Zülfü Livaneli",
+    "muzik": "Zülfü Livaneli"
   },
   "sistem": {
     "eski_id": 5842,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T17:12:46.777Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
