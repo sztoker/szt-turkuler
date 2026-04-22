@@ -1,8 +1,8 @@
 {
   "id": "kagizmana-ismarladim",
-  "baslik": "Kağızman'a Ismarladım",
-  "sozler_html": "<p>Kağızman'a Ismarladım</p><p>Nar Gele Nar Gele</p><p>Gümüş Kemer İnce Bele&nbsp;</p><p><i>Dar Gele Dar Gele Vay</i></p><p><i>Dar Gele Dar Gele Vay&nbsp;</i></p><p><i>Dar Gele Dar Gele</i></p><p><br></p><p>Baharda Yayılır Kuzu&nbsp;</p><p>Yan Yana Yan Yana</p><p>Benim Yarim İnci Takar&nbsp;</p><p><i>Gerdana Gerdana Vay</i></p><p><i>Gerdana Gerdana Vay&nbsp;</i></p><p><i>Gerdana Gerdana</i></p><p><br></p><p>Benim Yarim Güzellerden&nbsp;</p><p>Bir Dane Bir Dane</p><p>İçlerinde Sarı Saçlı&nbsp;</p><p><i>Güldane Güldane vay</i></p><p><i>Güldane Güldane Vay&nbsp;</i></p><p><i>Güldane Güldane</i></p>",
-  "sozler_duz": "Kağızman'a Ismarladım\n\nNar Gele Nar Gele\n\nGümüş Kemer İnce Bele \n\nDar Gele Dar Gele Vay\n\nDar Gele Dar Gele Vay \n\nDar Gele Dar Gele\n\nBaharda Yayılır Kuzu \n\nYan Yana Yan Yana\n\nBenim Yarim İnci Takar \n\nGerdana Gerdana Vay\n\nGerdana Gerdana Vay \n\nGerdana Gerdana\n\nBenim Yarim Güzellerden \n\nBir Dane Bir Dane\n\nİçlerinde Sarı Saçlı \n\nGüldane Güldane vay\n\nGüldane Güldane Vay \n\nGüldane Güldane",
+  "baslik": "KAĞIZMAN'A ISMARLADIM",
+  "sozler_html": "<p>Kağızman'a ısmarladım</p><p>Nar gele nar gele</p><p>Gümüş kemer ince bele&nbsp;</p><p><i>Dar gele dar gele vay</i></p><p><i>Dar gele dar gele vay&nbsp;</i></p><p><i>Dar gele dar gele</i></p><p><br></p><p>Baharda yayılır kuzu&nbsp;</p><p>Yan yana yan yana</p><p>Benim yarim inci takar&nbsp;</p><p><i>Gerdana gerdana vay</i></p><p><i>Gerdana gerdana vay&nbsp;</i></p><p><i>Gerdana gerdana</i></p><p><br></p><p>Benim yarim güzellerden&nbsp;</p><p>Bir dane bir dane</p><p>İçlerinde sarı saçlı&nbsp;</p><p><i>Güldane güldane vay</i></p><p><i>Güldane güldane vay&nbsp;</i></p><p><i>Güldane güldane</i></p>",
+  "sozler_duz": "Kağızman'a ısmarladım\n\nNar gele nar gele\n\nGümüş kemer ince bele \n\nDar gele dar gele vay\n\nDar gele dar gele vay \n\nDar gele dar gele\n\nBaharda yayılır kuzu \n\nYan yana yan yana\n\nBenim yarim inci takar \n\nGerdana gerdana vay\n\nGerdana gerdana vay \n\nGerdana gerdana\n\nBenim yarim güzellerden \n\nBir dane bir dane\n\nİçlerinde sarı saçlı \n\nGüldane güldane vay\n\nGüldane güldane vay \n\nGüldane güldane",
   "meta": {
     "yore": "Erzurum",
     "diger_bilgiler": "Muharrem Akkuş-Nida Tüfekçi"
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 5706,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20T22:03:05.417Z",
+    "son_degisiklik": "2026-04-22T05:28:15.261Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
