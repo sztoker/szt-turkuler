@@ -1,26 +1,20 @@
 {
   "id": "leyla-sevda-gitmiyor-serden",
   "baslik": "LEYLA ( SEVDA GİTMİYOR SERDEN )",
-  "sozler_html": "<p>Sevda gitmiyor serden de –amanın Leyla LeylaDüşürdün beni derde de –böyle yarim böyleZülüflerin dökülmüş de –amanın Leyla LeylaAl yanağına perde de –eyle yarim eyleGaribim böyle garip –amanın Leyla LeylaMerhamet eyle yarim –eyle yarim eyleSuçum nedir bilmiyom –amanın Leyla LeylaNeyse de söyle yarim –söyle yarim söyle</p>",
-  "sozler_duz": "Sevda gitmiyor serden de –amanın Leyla LeylaDüşürdün beni derde de –böyle yarim böyleZülüflerin dökülmüş de –amanın Leyla LeylaAl yanağına perde de –eyle yarim eyleGaribim böyle garip –amanın Leyla LeylaMerhamet eyle yarim –eyle yarim eyleSuçum nedir bilmiyom –amanın Leyla LeylaNeyse de söyle yarim –söyle yarim söyle",
+  "sozler_html": "<p>Sevda gitmiyor serden de –amanın Leyla Leyla</p><p>Düşürdün beni derde de –böyle yarim böyle</p><p>Zülüflerin dökülmüş de –amanın Leyla Leyla</p><p>Al yanağına perde de –eyle yarim eyle</p><p><br></p><p>Garibim böyle garip de –amanın Leyla Leyla</p><p>Merhamet eyle yarim de –eyle yarim eyle</p><p>Suçum nedir bilmiyom da –amanın Leyla Leyla</p><p>Ne ise söyle yarim de –söyle yarim söyle</p>",
+  "sozler_duz": "Sevda gitmiyor serden de –amanın Leyla Leyla\n\nDüşürdün beni derde de –böyle yarim böyle\n\nZülüflerin dökülmüş de –amanın Leyla Leyla\n\nAl yanağına perde de –eyle yarim eyle\n\nGaribim böyle garip de –amanın Leyla Leyla\n\nMerhamet eyle yarim de –eyle yarim eyle\n\nSuçum nedir bilmiyom da –amanın Leyla Leyla\n\nNe ise söyle yarim de –söyle yarim söyle",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "yore": "Kırşehir",
+    "turu": "THM",
+    "derleyen": "TRT istanbul Rad.",
+    "kaynak_kisi": "NEŞET ERTAŞ",
+    "karar": "La",
+    "diger_bilgiler": "Hicaz"
   },
   "sistem": {
     "eski_id": 5904,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T18:49:36.650Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
