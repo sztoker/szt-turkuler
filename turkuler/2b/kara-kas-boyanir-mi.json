@@ -1,26 +1,17 @@
 {
   "id": "kara-kas-boyanir-mi",
   "baslik": "KARA KAŞ BOYANIR MI",
-  "sozler_html": "<p>Kara kaş boyanır mı / Öpsem yar uyanır mıSen orada ben burda / Buna can dayanır mıHaydi sevdiğim haydi / Gözlerin beni baydıElin nazlı yarine / Nasıl diyeyim haydiKaranfil eker misin / Balınan şeker misinMeramın sevmek değil / Gözlerin beni baydı / Haydi ...Karşıdan gel göreyim / El uzat gül vereyimNe istersin sevdiğim / Bir canım var vereyim / Haydi ...</p>",
-  "sozler_duz": "Kara kaş boyanır mı / Öpsem yar uyanır mıSen orada ben burda / Buna can dayanır mıHaydi sevdiğim haydi / Gözlerin beni baydıElin nazlı yarine / Nasıl diyeyim haydiKaranfil eker misin / Balınan şeker misinMeramın sevmek değil / Gözlerin beni baydı / Haydi ...Karşıdan gel göreyim / El uzat gül vereyimNe istersin sevdiğim / Bir canım var vereyim / Haydi ...",
+  "sozler_html": "<p>Kara kaş boyanır mı</p><p>Öpsem yar uyanır mı</p><p>Sen orada ben burda&nbsp;</p><p>Buna can dayanır mı</p><p><br></p><p><b>Haydi sevdiğim haydi&nbsp;</b></p><p><b>Gözlerin beni baydı</b></p><p><b>Elin nazlı yarine&nbsp;</b></p><p><b>Nasıl diyeyim haydi</b></p><p><br></p><p>Karanfil eker misin&nbsp;</p><p>Balınan şeker misin</p><p>Meramın sevmek değil&nbsp;</p><p>Kuru dil döker misin&nbsp;</p><p><br></p><p><b>Haydi ...</b></p><p><br></p><p>Karşıdan gel göreyim&nbsp;</p><p>El uzat gül vereyim</p><p>Ne istersin sevdiğim&nbsp;</p><p>Bir canım var vereyim&nbsp;</p><p><br></p><p><b>Haydi ...</b></p>",
+  "sozler_duz": "Kara kaş boyanır mı\n\nÖpsem yar uyanır mı\n\nSen orada ben burda \n\nBuna can dayanır mı\n\nHaydi sevdiğim haydi \n\nGözlerin beni baydı\n\nElin nazlı yarine \n\nNasıl diyeyim haydi\n\nKaranfil eker misin \n\nBalınan şeker misin\n\nMeramın sevmek değil \n\nKuru dil döker misin \n\nHaydi ...\n\nKarşıdan gel göreyim \n\nEl uzat gül vereyim\n\nNe istersin sevdiğim \n\nBir canım var vereyim \n\nHaydi ...",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "yore": "Çorum?",
+    "turu": "THM",
+    "soyleyenler": "Hüseyin Turan"
   },
   "sistem": {
     "eski_id": 5752,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T08:27:12.946Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
