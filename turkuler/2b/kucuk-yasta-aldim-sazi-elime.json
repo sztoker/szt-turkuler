@@ -1,26 +1,20 @@
 {
   "id": "kucuk-yasta-aldim-sazi-elime",
   "baslik": "KÜÇÜK YAŞTA ALDIM SAZI ELİME",
-  "sozler_html": "<p>Küçük yaşta aldım sazı elime - elimeDertli dertli vurdum sazın teline - teline teline ammanUyma dedim uydun eller sözüne - sözüneCihan da bilir benim sana yandığım Ellerin köyünde garip kaldığım Suya gider su testisi elinde / Allar giymiş etekleri belindeSen düşürdün beni alem diline / Cihan da bilir ...</p>",
-  "sozler_duz": "Küçük yaşta aldım sazı elime - elimeDertli dertli vurdum sazın teline - teline teline ammanUyma dedim uydun eller sözüne - sözüneCihan da bilir benim sana yandığım Ellerin köyünde garip kaldığım Suya gider su testisi elinde / Allar giymiş etekleri belindeSen düşürdün beni alem diline / Cihan da bilir ...",
+  "sozler_html": "<p>Küçük yaşta aldım sazı elime - elime<o:p></o:p></p><p>Dertli dertli vurdum sazın teline - teline teline Uyma dedim uydun eller\nsözüne - sözüne<o:p></o:p></p><p>&nbsp;</p><p><b>Cihan da bilir benim sana yandığım&nbsp;</b><o:p></o:p></p><p><b>Ellerin köyünde garip kaldığım&nbsp;</b><o:p></o:p></p><p>&nbsp;</p><p>Suya\ngider su destisi doldurur<br>\nEve de gelir gül benzini soldurur<br>\nBu dert beni iflah etmez öldürür<o:p></o:p></p><p>&nbsp;</p><p><b>Cihan da bilir ...</b><o:p></o:p></p><p>&nbsp;</p><p>Suya gider su testisi elinde&nbsp;<o:p></o:p></p><p>Allar giymiş etekleri belinde<o:p></o:p></p><p>Beni yarim cümle alem dilinde&nbsp;<o:p></o:p></p><p>&nbsp;</p><p><b>Cihan da bilir ...</b><o:p></o:p></p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>&nbsp;</p>",
+  "sozler_duz": "Küçük yaşta aldım sazı elime - elime\n\nDertli dertli vurdum sazın teline - teline teline Uyma dedim uydun eller sözüne - sözüne\n\n \n\nCihan da bilir benim sana yandığım \n\nEllerin köyünde garip kaldığım \n\n \n\nSuya gider su destisi doldurur\nEve de gelir gül benzini soldurur\nBu dert beni iflah etmez öldürür\n\n \n\nCihan da bilir ...\n\n \n\nSuya gider su testisi elinde \n\nAllar giymiş etekleri belinde\n\nBeni yarim cümle alem dilinde \n\n \n\nCihan da bilir ...",
   "meta": {
-    "yore": "(T)          Hüzzam / Sofyan",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "(T)          Hüzzam / Sofyan",
-    "aciklama": ""
+    "yore": "Ortaanadolu",
+    "turu": "THM",
+    "derleyen": "AHMET YAMACI",
+    "kaynak_kisi": "ALİ ULVİ ERANDAÇ",
+    "karar": "Si",
+    "diger_bilgiler": "Hüzzam / Sofyan"
   },
   "sistem": {
     "eski_id": 5891,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T18:22:29.266Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
