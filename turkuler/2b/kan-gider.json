@@ -1,26 +1,16 @@
 {
   "id": "kan-gider",
-  "baslik": "Kan Gider_",
-  "sozler_html": "<p>Baba Kerpiç Evden Aldım ZulamıGurbet mi Burası Yoksa SılamıYitirdim Yollarda Göçek BalamıErir İçim Erir Erir Kül GiderDüşmüşem Ardına Günler BoyuncaSöylerim Sevdamı Diller BoyuncaElimde Kelepçe Kollar BoyuncaMapuslarda Yata Yata Gün GiderGiderim Giderim Yolum YokuşturBir Yanım Hasret Bir Yanım AteştirGenç İken Ölene Ölüm Zor İştirErir İçim Usul Usul Kan Gider</p>",
-  "sozler_duz": "Baba Kerpiç Evden Aldım ZulamıGurbet mi Burası Yoksa SılamıYitirdim Yollarda Göçek BalamıErir İçim Erir Erir Kül GiderDüşmüşem Ardına Günler BoyuncaSöylerim Sevdamı Diller BoyuncaElimde Kelepçe Kollar BoyuncaMapuslarda Yata Yata Gün GiderGiderim Giderim Yolum YokuşturBir Yanım Hasret Bir Yanım AteştirGenç İken Ölene Ölüm Zor İştirErir İçim Usul Usul Kan Gider",
+  "baslik": "KAN GİDER",
+  "sozler_html": "<p>Baba kerpiç evden aldım zulamı</p><p>Gurbet mi burası yoksa sılamı</p><p>Yitirdim yollarda göçek balamı</p><p>Erir içim erir erir kül gider</p><p><br></p><p>Düşmüşem ardına günler boyunca</p><p>Söylerim sevdamı diller boyunca</p><p>Elimde kelepçe kollar boyunca</p><p>Mapuslarda yata yata gün gider</p><p><br></p><p>Giderim giderim yolum yokuştur</p><p>Bir yanım hasret bir yanım ateştir</p><p>Genç iken ölene ölüm zor iştir</p><p>Erir içim usul usul kan gider</p>",
+  "sozler_duz": "Baba kerpiç evden aldım zulamı\n\nGurbet mi burası yoksa sılamı\n\nYitirdim yollarda göçek balamı\n\nErir içim erir erir kül gider\n\nDüşmüşem ardına günler boyunca\n\nSöylerim sevdamı diller boyunca\n\nElimde kelepçe kollar boyunca\n\nMapuslarda yata yata gün gider\n\nGiderim giderim yolum yokuştur\n\nBir yanım hasret bir yanım ateştir\n\nGenç iken ölene ölüm zor iştir\n\nErir içim usul usul kan gider",
   "meta": {
-    "yore": "Leyla Şahin",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Lütfü Gültekin",
-    "aciklama": ""
+    "soz": "(Leyla Şahin-Lütfü Gültekin)?",
+    "soyleyenler": "Suavi-Yılmaz Çelik"
   },
   "sistem": {
     "eski_id": 5735,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T07:08:44.704Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
