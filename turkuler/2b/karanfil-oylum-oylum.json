@@ -1,26 +1,19 @@
 {
   "id": "karanfil-oylum-oylum",
-  "baslik": "Karanfil Oylum Oylum_",
-  "sozler_html": "<p>Karanfil Oylum Oylum,Geliyor Fidan Boylum.Fidan Boylum Gelirse..Yandım HeySen Olur Benim GönlümKaranfil OlacaksınSararıp SolacaksınBen Hakime DanıştımSen Benim OlacaksınKaranfil Oymak OymakOlur Mu Yare Doymak.Yare Doydum Diyenin,Caizdir Boynun Vurmak</p>",
-  "sozler_duz": "Karanfil Oylum Oylum,Geliyor Fidan Boylum.Fidan Boylum Gelirse..Yandım HeySen Olur Benim GönlümKaranfil OlacaksınSararıp SolacaksınBen Hakime DanıştımSen Benim OlacaksınKaranfil Oymak OymakOlur Mu Yare Doymak.Yare Doydum Diyenin,Caizdir Boynun Vurmak",
+  "baslik": "KARANFİL OYLUM OYLUM",
+  "sozler_html": "<p>Karanfil oylum oylum,</p><p>Geliyor selvi boylum.</p><p>Selvi boylum gelince.</p><p>Sen olur benim gönlüm</p><p>&nbsp;</p><p><b>Vay benim efendim efendim servi\nbülendim</b></p><p>&nbsp;</p><p>Karanfil olacaksın&nbsp;</p><p>Sararıp solacaksın</p><p>Ben hakime danıştım</p><p>Sen benim olacaksın</p><p>&nbsp;</p><p>&nbsp;Vay benim...</p><p>&nbsp;</p><p>Karanfil oymak oymak</p><p>Olur mu yare doymak.</p><p>Yare doydum diyenin,</p><p>Caizdir boynun vurmak</p><p><br></p><p>Vay benim...</p><p><br></p><p><br></p><p><br></p>",
+  "sozler_duz": "Karanfil oylum oylum,\n\nGeliyor selvi boylum.\n\nSelvi boylum gelince.\n\nSen olur benim gönlüm\n\n \n\nVay benim efendim efendim servi bülendim\n\n \n\nKaranfil olacaksın \n\nSararıp solacaksın\n\nBen hakime danıştım\n\nSen benim olacaksın\n\n \n\n Vay benim...\n\n \n\nKaranfil oymak oymak\n\nOlur mu yare doymak.\n\nYare doydum diyenin,\n\nCaizdir boynun vurmak\n\nVay benim...",
   "meta": {
     "yore": "Konya",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ali Çalışkan-Muzaffer Sarısözen",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Anonim",
+    "kaynak_kisi": "Anonim",
+    "soyleyenler": "Ali Rıza Köprülüleroğlu-Seza Kırgız"
   },
   "sistem": {
     "eski_id": 5779,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T10:14:12.199Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
