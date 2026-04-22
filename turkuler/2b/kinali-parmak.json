@@ -1,26 +1,19 @@
 {
   "id": "kinali-parmak",
   "baslik": "KINALI PARMAK",
-  "sozler_html": "<p>Kınalı parmak cev tırnak altın oymak –oy oySenin tatlı diline olur mu toymak –oy oyAltın çekken terazime darasındanEm sarardım em soldum sevdalıktan</p>",
-  "sozler_duz": "Kınalı parmak cev tırnak altın oymak –oy oySenin tatlı diline olur mu toymak –oy oyAltın çekken terazime darasındanEm sarardım em soldum sevdalıktan",
+  "sozler_html": "<p>Kınalı parmak cez tırnak altın oymak –ah ah</p><p>Senin tatlı diline olur mu toymak –ah ah</p><p><br></p><p>Altın çekken terazime darasından–ah ah</p><p>Aylanayım gözünün karasından–ah ah</p><p><br></p><p>Pencereme kün vurmay meyvalıktan–ah ah</p><p>Em sarardım em soldum sevdalıktan–ah ah</p>",
+  "sozler_duz": "Kınalı parmak cez tırnak altın oymak –ah ah\n\nSenin tatlı diline olur mu toymak –ah ah\n\nAltın çekken terazime darasından–ah ah\n\nAylanayım gözünün karasından–ah ah\n\nPencereme kün vurmay meyvalıktan–ah ah\n\nEm sarardım em soldum sevdalıktan–ah ah",
   "meta": {
     "yore": "KIRIM",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "KIRIM",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "YILDIZ AYHAN",
+    "kaynak_kisi": "Eskişehir Kırım Türkleri",
+    "karar": "Sol"
   },
   "sistem": {
     "eski_id": 5836,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T16:45:07.182Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
