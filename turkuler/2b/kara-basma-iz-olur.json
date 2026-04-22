@@ -1,15 +1,19 @@
 {
   "id": "kara-basma-iz-olur",
   "baslik": "KARA BASMA İZ OLUR",
-  "sozler_html": "<p>Kara basma iz olur / Güzellerde naz olurGündüz gelme gece gel / Eller duyar söz olurHop ninnayı ninnayı / Gel oynayı oynayıKara basma kayarsın / Sen benimle ayarsınAsker olduğum zaman / Günlerimi sayarsınKar üstüne kan damlar / Dayanmaz buna canlarNe zaman düğünümüz / Sayılmıyor bu ylar</p>",
-  "sozler_duz": "Kara basma iz olur / Güzellerde naz olurGündüz gelme gece gel / Eller duyar söz olurHop ninnayı ninnayı / Gel oynayı oynayıKara basma kayarsın / Sen benimle ayarsınAsker olduğum zaman / Günlerimi sayarsınKar üstüne kan damlar / Dayanmaz buna canlarNe zaman düğünümüz / Sayılmıyor bu ylar",
+  "sozler_html": "<p>Kara basma iz olur&nbsp;</p><p>Güzellerde naz olur</p><p>Gündüz gelme gece gel&nbsp;</p><p>Eller duyar söz olur</p><p><br></p><p><b>Hop ninnayı ninnayı&nbsp;</b></p><p><b>Gel oynayı oynayı</b></p><p><br></p><p>Kara basma kayarsın&nbsp;</p><p>Sen benimle ayarsın</p><p>Asker olduğum zaman&nbsp;</p><p>Günlerimi sayarsın</p><p><br></p><p>Hop ninnayı...</p><p><br></p><p>Kar üstüne kan damlar&nbsp;</p><p>Dayanmaz buna canlar</p><p>Ne zaman düğünümüz&nbsp;</p><p>Sayılmıyor bu aylar</p><p><br></p><p>Hop ninnayı...</p>",
+  "sozler_duz": "Kara basma iz olur \n\nGüzellerde naz olur\n\nGündüz gelme gece gel \n\nEller duyar söz olur\n\nHop ninnayı ninnayı \n\nGel oynayı oynayı\n\nKara basma kayarsın \n\nSen benimle ayarsın\n\nAsker olduğum zaman \n\nGünlerimi sayarsın\n\nHop ninnayı...\n\nKar üstüne kan damlar \n\nDayanmaz buna canlar\n\nNe zaman düğünümüz \n\nSayılmıyor bu aylar\n\nHop ninnayı...",
   "meta": {
-    "yore": "BAYBURT"
+    "yore": "BAYBURT",
+    "turu": "THM",
+    "derleyen": "NİDA TÜFEKÇİ",
+    "kaynak_kisi": "MUSTAFA AHISKALI",
+    "karar": "Si"
   },
   "sistem": {
     "eski_id": 5746,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T23:44:56.377Z",
+    "son_degisiklik": "2026-04-22T08:16:37.585Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
