@@ -1,26 +1,18 @@
 {
   "id": "kapildim-gidiyorum",
   "baslik": "KAPILDIM GİDİYORUM",
-  "sozler_html": "<p>Kapıldım gidiyorum * bahtımın rüzgarınaEy ufuklar diyorum * yolculuk var yarına          (2Ayrılık görülmüşken * yar tutmuyor elimdenMisafirim bugün ben * gurbet akşamlarına</p>",
-  "sozler_duz": "Kapıldım gidiyorum * bahtımın rüzgarınaEy ufuklar diyorum * yolculuk var yarına (2Ayrılık görülmüşken * yar tutmuyor elimdenMisafirim bugün ben * gurbet akşamlarına",
+  "sozler_html": "<p>Kapıldım gidiyorum bahtımın rüzgarına</p><p>Ey ufuklar diyorum yolculuk var yarına          (2</p><p><br></p><p>Ayrılık görülmüşken yar tutmuyor elimden</p><p>Misafirim bugün ben gurbet akşamlarına</p>",
+  "sozler_duz": "Kapıldım gidiyorum bahtımın rüzgarına\n\nEy ufuklar diyorum yolculuk var yarına (2\n\nAyrılık görülmüşken yar tutmuyor elimden\n\nMisafirim bugün ben gurbet akşamlarına",
   "meta": {
-    "yore": "Kap. A.Rıza Bey/Ö.Bedrettin Uşaklı     Hicaz / Nim",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Kap. A.Rıza Bey/Ö.Bedrettin Uşaklı     Hicaz / Nim",
-    "aciklama": ""
+    "turu": "Hicaz / Nim",
+    "soz": "Kap. A.Rıza Bey",
+    "muzik": "Ö.Bedrettin Uşaklı",
+    "diger_bilgiler": "Kap. A.Rıza Bey/Ö.Bedrettin Uşaklı     Hicaz / Nim"
   },
   "sistem": {
     "eski_id": 5739,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T07:16:34.936Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
