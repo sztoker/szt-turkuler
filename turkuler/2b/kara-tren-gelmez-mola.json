@@ -1,26 +1,19 @@
 {
   "id": "kara-tren-gelmez-mola",
-  "baslik": "Kara Tren Gelmez M'ola_",
-  "sozler_html": "<p>Kara Tren Gelmez M’ olaDüdüğünü Çalmaz M’ olaGurbet Ele Yar Yolladım,Mektubunu Salmaz M’ olaAllı Gelin Al OlaydınSelvilere Dal OlaydınGelen Geçen Yolculara,Nazlı Yar Beni Soraydın.Aldım Çantamı ElimeDüştüm Gurbetin YolunaBöyle Bilseydim SevmezdimDüştüm El Âlem Diline.Allı Gelin Al OlaydınSelvilere Dal Olaydın.Gelen Geçen Yolculara,Nazlı Yar Beni SoraydınEvlerinin Önü TastanSen Çıkardın Beni BastanBen Seni Sevdim SeveliGözlerim Dinmiyor YastanAllı Gelin Al OlaydınSelvilere Dal OlaydınGelen Geçen Yolculara,Nazlı Yar Beni Soraydın.</p>",
-  "sozler_duz": "Kara Tren Gelmez M’ olaDüdüğünü Çalmaz M’ olaGurbet Ele Yar Yolladım,Mektubunu Salmaz M’ olaAllı Gelin Al OlaydınSelvilere Dal OlaydınGelen Geçen Yolculara,Nazlı Yar Beni Soraydın.Aldım Çantamı ElimeDüştüm Gurbetin YolunaBöyle Bilseydim SevmezdimDüştüm El Âlem Diline.Allı Gelin Al OlaydınSelvilere Dal Olaydın.Gelen Geçen Yolculara,Nazlı Yar Beni SoraydınEvlerinin Önü TastanSen Çıkardın Beni BastanBen Seni Sevdim SeveliGözlerim Dinmiyor YastanAllı Gelin Al OlaydınSelvilere Dal OlaydınGelen Geçen Yolculara,Nazlı Yar Beni Soraydın.",
+  "baslik": "KARA TREN GELMEZ M'OLA",
+  "sozler_html": "<p>Kara tren gelmez\nm’ ola<o:p></o:p></p><p>Düdüğünü çalmaz\nm’ ola<o:p></o:p></p><p>Gurbet ele\nyar yolladım,<o:p></o:p></p><p>Mektubumu almaz m’ ola<o:p></o:p></p><p>&nbsp;</p><p><b>Allı gelin\nal olaydın<o:p></o:p></b></p><p><b>Selvilere\ndal olaydın<o:p></o:p></b></p><p><b>Gelen\ngeçen yolculardan,<o:p></o:p></b></p><p><b>Nazlı yar\nbeni soraydı.</b><o:p></o:p></p><p>&nbsp;</p><p>Aldım\nçantamı elime<o:p></o:p></p><p>Düştüm (Çıktım) gurbetin yoluna<o:p></o:p></p><p>Böyle\nbilseydim sevmezdim<o:p></o:p></p><p>Düştüm alemin (el\nâlem) diline.<o:p></o:p></p><p>&nbsp;</p><p><b>Allı gelin...</b><o:p></o:p></p><p>&nbsp;</p><p>Evlerinin\nönü taştan<o:p></o:p></p><p>Sen\nçıkardın beni baştan<o:p></o:p></p><p>Ben seni\nsevdim seveli<o:p></o:p></p><p>Gözlerim\ndinmiyor yaştan<o:p></o:p></p><p>&nbsp;</p><p><b>Allı gelin\n...<o:p></o:p></b></p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>&nbsp;</p>",
+  "sozler_duz": "Kara tren gelmez m’ ola\n\nDüdüğünü çalmaz m’ ola\n\nGurbet ele yar yolladım,\n\nMektubumu almaz m’ ola\n\n \n\nAllı gelin al olaydın\n\nSelvilere dal olaydın\n\nGelen geçen yolculardan,\n\nNazlı yar beni soraydı.\n\n \n\nAldım çantamı elime\n\nDüştüm (Çıktım) gurbetin yoluna\n\nBöyle bilseydim sevmezdim\n\nDüştüm alemin (el âlem) diline.\n\n \n\nAllı gelin...\n\n \n\nEvlerinin önü taştan\n\nSen çıkardın beni baştan\n\nBen seni sevdim seveli\n\nGözlerim dinmiyor yaştan\n\n \n\nAllı gelin ...",
   "meta": {
     "yore": "Malatya",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Mustafa Özgül-Mustafa Özgül",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Mustafa Özgül",
+    "kaynak_kisi": "Mustafa Özgül",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5758,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T08:55:29.846Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
