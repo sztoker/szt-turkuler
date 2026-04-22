@@ -1,26 +1,18 @@
 {
   "id": "kiskanirim-seni-ben",
   "baslik": "KISKANIRIM SENİ BEN",
-  "sozler_html": "<p>Saçın yüzüne değse * tenini kıskanırımBirine söz söylesen * dilini kıskanırımKıskanırım seni ben * kıskanırım kendimdenBu nasıl aşk Allahım * öleceğim derdimdenDeli ediyor beni * Saçının her yeriniOkşadıkça tenini * tenini kıskanırım / Kıskanırım seni ben...</p>",
-  "sozler_duz": "Saçın yüzüne değse * tenini kıskanırımBirine söz söylesen * dilini kıskanırımKıskanırım seni ben * kıskanırım kendimdenBu nasıl aşk Allahım * öleceğim derdimdenDeli ediyor beni * Saçının her yeriniOkşadıkça tenini * tenini kıskanırım / Kıskanırım seni ben...",
+  "sozler_html": "<p>Saçın yüzüne değse tenini kıskanırım</p><p>Birine söz söylesen dilini kıskanırım</p><p><br></p><p><b>Kıskanırım seni ben kıskanırım kendimden</b></p><p><b>Bu nasıl aşk Allahım öleceğim derdimden</b></p><p><br></p><p>Deli ediyor beni saçının her yerini</p><p>Okşadıkça tenini tenini kıskanırım&nbsp;</p><p><br></p><p><b>Kıskanırım seni ...</b></p>",
+  "sozler_duz": "Saçın yüzüne değse tenini kıskanırım\n\nBirine söz söylesen dilini kıskanırım\n\nKıskanırım seni ben kıskanırım kendimden\n\nBu nasıl aşk Allahım öleceğim derdimden\n\nDeli ediyor beni saçının her yerini\n\nOkşadıkça tenini tenini kıskanırım \n\nKıskanırım seni ...",
   "meta": {
-    "yore": "TSM",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "TSM",
-    "aciklama": ""
+    "turu": "TSM",
+    "soz": "Hikmet Münir Ebcioğlu",
+    "muzik": "Teoman Alpay",
+    "diger_bilgiler": "Hüzzam"
   },
   "sistem": {
     "eski_id": 5850,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T17:28:58.404Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
