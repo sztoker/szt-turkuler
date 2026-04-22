@@ -1,26 +1,17 @@
 {
   "id": "kaybolmus-kentin-eskicisi",
   "baslik": "KAYBOLMUŞ KENTİN ESKİCİSİ",
-  "sozler_html": "<p>Kaybolmuş bir kentin eskicisiydiMakineleşmeye karşı duyguları topluyorduKaybolmuş bu kentin sokaklarındaTorbasında umut / Torbasında insana dair ne varsaYalnız değilsin eskici / Bir sabah güneş doğarSevgiden tuğlalarla / Yeniden kurarız bu kentiBu kent yorgun düşmüş bunca acıyaYeni bir güne başlıyor umarsızcaBir tek eskici düşmüş yollara Torbasında umut / Torbasında insana dair ne varsa</p>",
-  "sozler_duz": "Kaybolmuş bir kentin eskicisiydiMakineleşmeye karşı duyguları topluyorduKaybolmuş bu kentin sokaklarındaTorbasında umut / Torbasında insana dair ne varsaYalnız değilsin eskici / Bir sabah güneş doğarSevgiden tuğlalarla / Yeniden kurarız bu kentiBu kent yorgun düşmüş bunca acıyaYeni bir güne başlıyor umarsızcaBir tek eskici düşmüş yollara Torbasında umut / Torbasında insana dair ne varsa",
+  "sozler_html": "<p>Kaybolmuş bir kentin eskicisiydi</p><p>Makineleşmeye karşı duyguları topluyordu</p><p>Kaybolmuş bu kentin sokaklarında</p><p>Torbasında umut / Torbasında insana dair ne varsa</p><p>Yalnız değilsin eskici / Bir sabah güneş doğar</p><p>Sevgiden tuğlalarla / Yeniden kurarız bu kenti</p><p>Bu kent yorgun düşmüş bunca acıya</p><p>Yeni bir güne başlıyor umarsızca</p><p>Bir tek eskici düşmüş yollara&nbsp;</p><p>Torbasında umut / Torbasında insana dair ne varsa</p>",
+  "sozler_duz": "Kaybolmuş bir kentin eskicisiydi\n\nMakineleşmeye karşı duyguları topluyordu\n\nKaybolmuş bu kentin sokaklarında\n\nTorbasında umut / Torbasında insana dair ne varsa\n\nYalnız değilsin eskici / Bir sabah güneş doğar\n\nSevgiden tuğlalarla / Yeniden kurarız bu kenti\n\nBu kent yorgun düşmüş bunca acıya\n\nYeni bir güne başlıyor umarsızca\n\nBir tek eskici düşmüş yollara \n\nTorbasında umut / Torbasında insana dair ne varsa",
   "meta": {
-    "yore": "S: Metim Kahraman-Hüseyin Eroğlu     M: M.Kahraman",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S: Metim Kahraman-Hüseyin Eroğlu     M: M.Kahraman",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Metin Kahraman-Hüseyin Eroğlu",
+    "muzik": "Metin Kahraman"
   },
   "sistem": {
     "eski_id": 5812,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T10:46:26.823Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
