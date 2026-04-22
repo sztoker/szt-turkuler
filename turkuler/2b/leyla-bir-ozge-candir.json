@@ -1,26 +1,17 @@
 {
   "id": "leyla-bir-ozge-candir",
   "baslik": "LEYLA BİR ÖZGE CANDIR",
-  "sozler_html": "<p>Leyla bir özge candır * kara gözlü ceylandırDoyulmaz hüsn-ü andır / Kanılmaz bir içim su                Leyla Leyla –ah LeylaDillerde söylenen o *yollarda gözlenen o* yürekten özlenen o Her gönülde o arzu * Leyla Leyla – ah LeylaAşıklar levend olsa (2 / Sevdalar kemend olsa (2Birbirine bend olsa/ Ele geçmez o ahu *Leyla (2 –ah Leyla</p>",
-  "sozler_duz": "Leyla bir özge candır * kara gözlü ceylandırDoyulmaz hüsn-ü andır / Kanılmaz bir içim su Leyla Leyla –ah LeylaDillerde söylenen o *yollarda gözlenen o* yürekten özlenen o Her gönülde o arzu * Leyla Leyla – ah LeylaAşıklar levend olsa (2 / Sevdalar kemend olsa (2Birbirine bend olsa/ Ele geçmez o ahu *Leyla (2 –ah Leyla",
+  "sozler_html": "<p>Leyla bir özge candır&nbsp;</p><p>Kara gözlü ceylandır</p><p>Doyulmaz hüsn-ü andır&nbsp;</p><p>Kanılmaz bir içim su&nbsp;</p><p><b>Leyla Leyla –ah Leyla</b></p><p><br></p><p>Dillerde söylenen o&nbsp;</p><p>Yollarda gözlenen o</p><p>Yürekten özlenen o&nbsp;</p><p>Her gönülde o arzu&nbsp;</p><p><b>Leyla Leyla – ah Leyla</b></p><p><br></p><p><i>Aşıklar levend olsa (2&nbsp;</i></p><p><i>Sevdalar kemend olsa (2</i></p><p><i>Birbirine bend olsa</i></p><p><i>Ele geçmez o ahu</i>&nbsp;</p><p>Leyla Leyla – ah Leyla</p>",
+  "sozler_duz": "Leyla bir özge candır \n\nKara gözlü ceylandır\n\nDoyulmaz hüsn-ü andır \n\nKanılmaz bir içim su \n\nLeyla Leyla –ah Leyla\n\nDillerde söylenen o \n\nYollarda gözlenen o\n\nYürekten özlenen o \n\nHer gönülde o arzu \n\nLeyla Leyla – ah Leyla\n\nAşıklar levend olsa (2 \n\nSevdalar kemend olsa (2\n\nBirbirine bend olsa\n\nEle geçmez o ahu \n\nLeyla Leyla – ah Leyla",
   "meta": {
-    "yore": "Sadettin Kaynak / Vecdi Bingöl        Segah / Sofy",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Sadettin Kaynak / Vecdi Bingöl        Segah / Sofy",
-    "aciklama": ""
+    "soz": "Vecdi Bingöl",
+    "muzik": "Sadettin Kaynak",
+    "diger_bilgiler": "Segah / Sofy"
   },
   "sistem": {
     "eski_id": 5905,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T19:54:50.747Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
