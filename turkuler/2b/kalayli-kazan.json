@@ -1,26 +1,16 @@
 {
   "id": "kalayli-kazan",
   "baslik": "KALAYLI KAZAN",
-  "sozler_html": "<p>Kalaylı kazan içinde kaz balasıKızını baştan çıkargan ozanasıKalaylı kazan içinde kazetımızToyda cıyında oynagan adetimizBeline kuşak yaptırdım çevresi sırmaKavga mavga kozatıp boynum vurmaKızını baştan çıkargan ozanasıKızını baştan çıkargan  /  Kim o  /  Ozanası</p>",
-  "sozler_duz": "Kalaylı kazan içinde kaz balasıKızını baştan çıkargan ozanasıKalaylı kazan içinde kazetımızToyda cıyında oynagan adetimizBeline kuşak yaptırdım çevresi sırmaKavga mavga kozatıp boynum vurmaKızını baştan çıkargan ozanasıKızını baştan çıkargan / Kim o / Ozanası",
+  "sozler_html": "<p>Kalaylı kazan içinde kaz balası</p><p>Kızını baştan çıkargan oz anası</p><p>Kalaylı kazan içinde kaz etımız</p><p>Toyda cıyında oynagan adetimiz</p><p><br></p><p>Beline kuşak yaptırdım çevresi sırma</p><p>Kavga mavga koz atıp boynum vurma</p><p>Kızını baştan çıkargan ozanası</p><p>Kızını baştan çıkargan  /  Kim o  /  Ozanası</p>",
+  "sozler_duz": "Kalaylı kazan içinde kaz balası\n\nKızını baştan çıkargan oz anası\n\nKalaylı kazan içinde kaz etımız\n\nToyda cıyında oynagan adetimiz\n\nBeline kuşak yaptırdım çevresi sırma\n\nKavga mavga koz atıp boynum vurma\n\nKızını baştan çıkargan ozanası\n\nKızını baştan çıkargan / Kim o / Ozanası",
   "meta": {
     "yore": "KIRIM",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "KIRIM",
-    "aciklama": ""
+    "diger_bilgiler": "KIRIM"
   },
   "sistem": {
     "eski_id": 5718,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T05:59:14.862Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
