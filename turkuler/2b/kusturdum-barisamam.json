@@ -1,26 +1,19 @@
 {
   "id": "kusturdum-barisamam",
   "baslik": "KÜSTÜRDÜM BARIŞAMAM",
-  "sozler_html": "<p>Küstürdüm barışamam  /  Ayrıldım kavuşamamGöz açtım seni gördüm  /  Yadınan konuşamamDert bende kare bende (1x1) /  Eylenmez yare bendeYuvasız kuşlar gibi  /  Kalmışam parekendeBen garip eşim garip / Eşim yoldaşım garipÖldüğüme gam yemem / Mezarda taşım garipDert bende ...</p>",
-  "sozler_duz": "Küstürdüm barışamam / Ayrıldım kavuşamamGöz açtım seni gördüm / Yadınan konuşamamDert bende kare bende (1x1) / Eylenmez yare bendeYuvasız kuşlar gibi / Kalmışam parekendeBen garip eşim garip / Eşim yoldaşım garipÖldüğüme gam yemem / Mezarda taşım garipDert bende ...",
+  "sozler_html": "<p>Küstürdüm barışamam&nbsp;</p><p>Ayrıldım kavuşamam</p><p>Göz açtım seni gördüm&nbsp;</p><p>Yadınan konuşamam</p><p><br></p><p><b>Dert bende kare bende&nbsp;</b></p><p><b>Eylenmez yare bende</b></p><p><b>Yuvasız kuşlar gibi&nbsp;</b></p><p><b>Kalmışam parekende</b></p><p><br></p><p>Ben garip eşim garip&nbsp;</p><p>Eşim yoldaşım garip</p><p>Öldüğüme gam yemem&nbsp;</p><p>Mezarda taşım garip</p><p><br></p><p><b>Dert bende ...</b></p>",
+  "sozler_duz": "Küstürdüm barışamam \n\nAyrıldım kavuşamam\n\nGöz açtım seni gördüm \n\nYadınan konuşamam\n\nDert bende kare bende \n\nEylenmez yare bende\n\nYuvasız kuşlar gibi \n\nKalmışam parekende\n\nBen garip eşim garip \n\nEşim yoldaşım garip\n\nÖldüğüme gam yemem \n\nMezarda taşım garip\n\nDert bende ...",
   "meta": {
     "yore": "ERZİNCAN",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ERZİNCAN",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Plaktan-MEHMET ÖZBEK",
+    "kaynak_kisi": "HAFIZ ŞERİF TANINDI",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5894,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T18:36:26.698Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
