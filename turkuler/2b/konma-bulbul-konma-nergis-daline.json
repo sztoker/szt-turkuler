@@ -1,26 +1,20 @@
 {
   "id": "konma-bulbul-konma-nergis-daline",
-  "baslik": "Konma Bülbül Konma Nergis Daline_",
-  "sozler_html": "<p>Konma bülbül konma nergis dalineÖldürürler aman bir yar yolunaBen de kurban olam fidan boyunaDemeyin demeyin aman yarin vuruldiKanı duruldu Köye duyulduEleşkirt'ten çıktım yüküm eriktirAçmayın yaremi delik deşiktirBenim sevdiceğim taze feriktir</p>",
-  "sozler_duz": "Konma bülbül konma nergis dalineÖldürürler aman bir yar yolunaBen de kurban olam fidan boyunaDemeyin demeyin aman yarin vuruldiKanı duruldu Köye duyulduEleşkirt'ten çıktım yüküm eriktirAçmayın yaremi delik deşiktirBenim sevdiceğim taze feriktir",
+  "baslik": "KONMA BÜLBÜL KONMA NERGİS DALİNE",
+  "sozler_html": "<p>Konma bülbül konma nergis daline</p><p>Öldürürler aman bir yar yoluna</p><p>Ben de kurban olam fidan boyuna</p><p><br></p><p><b>Demeyin demeyin aman aman aman aman</b></p><p><b>Yarin vuruldi kanı duruldu köye duyuldu</b></p><p><br></p><p>Eleşkirt'ten çıktım yüküm eriktir</p><p>Açmayın yaremi delik deşiktir</p><p>Benim sevdiceğim taze feriktir</p><p><br></p><p>Demeyin demeyin...</p><p><br></p>",
+  "sozler_duz": "Konma bülbül konma nergis daline\n\nÖldürürler aman bir yar yoluna\n\nBen de kurban olam fidan boyuna\n\nDemeyin demeyin aman aman aman aman\n\nYarin vuruldi kanı duruldu köye duyuldu\n\nEleşkirt'ten çıktım yüküm eriktir\n\nAçmayın yaremi delik deşiktir\n\nBenim sevdiceğim taze feriktir\n\nDemeyin demeyin...",
   "meta": {
     "yore": "Ağrı/Eleşkirt",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "İsmet Koçkar-Muazaffer Sarısözen",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "İsmet Koçkar",
+    "soyleyenler": "Hüseyin Turan",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5876,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T18:05:55.225Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
