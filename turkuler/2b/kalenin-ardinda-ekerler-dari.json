@@ -1,26 +1,21 @@
 {
   "id": "kalenin-ardinda-ekerler-dari",
-  "baslik": "Kalenin Ardında Ekerler Darı _",
-  "sozler_html": "<p>Kalenin Ardında Ekerler Darı</p>\n<p>Ekerler Biçerler Ederler Karı</p>\n<p>Elinden Aldırmış Gül Yüzlü Yari</p>\n<p class=\"bos\"></p>\n<p>Yar Bana Yareler Açtı Nideyim</p>\n<p>Yolum Bir Yolsuza Düştü Nideyim</p>\n<p class=\"bos\"></p>\n<p>Kaleden Kaleye Şahin Uçurdum</p>\n<p>Yare Şeker Ezdim Şerbet İçirdim</p>\n<p>Ah İle Vah İle Ömür Geçirdim</p>\n<p class=\"bos\"></p>\n<p>Yar Bana Yareler Açtı Nideyim</p>\n<p>Yolum Bir Yolsuza Düştü Nideyim</p>",
-  "sozler_duz": "Kalenin Ardında Ekerler Darı Ekerler Biçerler Ederler Karı Elinden Aldırmış Gül Yüzlü Yari Yar Bana Yareler Açtı Nideyim Yolum Bir Yolsuza Düştü Nideyim Kaleden Kaleye Şahin Uçurdum Yare Şeker Ezdim Şerbet İçirdim Ah İle Vah İle Ömür Geçirdim Yar Bana Yareler Açtı Nideyim Yolum Bir Yolsuza Düştü Nideyim",
+  "baslik": "KALENİN ARDINDA EKERLER DARI",
+  "sozler_html": "<p>Kalenin önünde(ardında) ekerler darı</p>\n<p>Ekerler biçerler ederler karı</p>\n<p>Elinden aldırmış(Elimden aldırdım) gül yüzlü yarı</p>\n<p class=\"bos\"></p>\n<p><b>Yar bana yareler açtı neyleyim</b></p>\n<p><b>Yolum bir yolsuza düştü neyleyim</b></p>\n<p class=\"bos\"></p>\n<p>Kaleden kaleye şahin uçurdum</p>\n<p>Yare şeker ezdim şerbet İçirdim</p>\n<p>Ah ile vah ile ömür geçirdim</p>\n<p class=\"bos\"></p>\n<p><b>Yar bana ...</b></p><p><br></p><p>Kalenin önüne kuş yuva yapar</p><p>Yuvanın içine yılanlar akar</p><p>Herkes sevdiğine böyle mi yanar</p><p><br></p><p>Yar bana ...</p>",
+  "sozler_duz": "Kalenin önünde(ardında) ekerler darı\n\nEkerler biçerler ederler karı\n\nElinden aldırmış(Elimden aldırdım) gül yüzlü yarı\n\nYar bana yareler açtı neyleyim\n\nYolum bir yolsuza düştü neyleyim\n\nKaleden kaleye şahin uçurdum\n\nYare şeker ezdim şerbet İçirdim\n\nAh ile vah ile ömür geçirdim\n\nYar bana ...\n\nKalenin önüne kuş yuva yapar\n\nYuvanın içine yılanlar akar\n\nHerkes sevdiğine böyle mi yanar\n\nYar bana ...",
   "meta": {
     "yore": "Çankırı",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ahmet Altuner/Hüseyin Zevk-Muzaffer Sarısö",
-    "aciklama": ""
+    "turu": "Aşk/Sevda",
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Dobi Ahmet ALTUNER-Urgancı Hüseyin ZEVK",
+    "soyleyenler": "Trio Aksak",
+    "karar": "Sol",
+    "diger_bilgiler": "Ahmet Altuner/Hüseyin Zevk-Muzaffer Sarısözen"
   },
   "sistem": {
     "eski_id": 5726,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T06:33:21.843Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
