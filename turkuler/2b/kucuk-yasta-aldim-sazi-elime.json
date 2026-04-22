@@ -1,8 +1,8 @@
 {
   "id": "kucuk-yasta-aldim-sazi-elime",
   "baslik": "KÜÇÜK YAŞTA ALDIM SAZI ELİME",
-  "sozler_html": "<p>Küçük yaşta aldım sazı elime - elime<o:p></o:p></p><p>Dertli dertli vurdum sazın teline - teline teline Uyma dedim uydun eller\nsözüne - sözüne<o:p></o:p></p><p>&nbsp;</p><p><b>Cihan da bilir benim sana yandığım&nbsp;</b><o:p></o:p></p><p><b>Ellerin köyünde garip kaldığım&nbsp;</b><o:p></o:p></p><p>&nbsp;</p><p>Suya\ngider su destisi doldurur<br>\nEve de gelir gül benzini soldurur<br>\nBu dert beni iflah etmez öldürür<o:p></o:p></p><p>&nbsp;</p><p><b>Cihan da bilir ...</b><o:p></o:p></p><p>&nbsp;</p><p>Suya gider su testisi elinde&nbsp;<o:p></o:p></p><p>Allar giymiş etekleri belinde<o:p></o:p></p><p>Beni yarim cümle alem dilinde&nbsp;<o:p></o:p></p><p>&nbsp;</p><p><b>Cihan da bilir ...</b><o:p></o:p></p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>&nbsp;</p>",
-  "sozler_duz": "Küçük yaşta aldım sazı elime - elime\n\nDertli dertli vurdum sazın teline - teline teline Uyma dedim uydun eller sözüne - sözüne\n\n \n\nCihan da bilir benim sana yandığım \n\nEllerin köyünde garip kaldığım \n\n \n\nSuya gider su destisi doldurur\nEve de gelir gül benzini soldurur\nBu dert beni iflah etmez öldürür\n\n \n\nCihan da bilir ...\n\n \n\nSuya gider su testisi elinde \n\nAllar giymiş etekleri belinde\n\nBeni yarim cümle alem dilinde \n\n \n\nCihan da bilir ...",
+  "sozler_html": "<p>Küçük yaşta aldım sazı elime - elime<o:p></o:p></p><p>Dertli dertli vurdum sazın teline - teline teline Uyma dedim uydun eller\nsözüne - sözüne<o:p></o:p></p><p>&nbsp;</p><p><b>Cihan da bilir benim sana yandığım&nbsp;</b><o:p></o:p></p><p><b>Ellerin köyünde garip kaldığım&nbsp;</b><o:p></o:p></p><p>&nbsp;</p><p>Suya\ngider su destisi doldurur-doldurur<br>\nEve de gelir gül benzini soldurur-soldurur aman<br>\nBu dert beni iflah etmez öldürür-<o:p></o:p>öldürür</p><p>&nbsp;</p><p><b>Cihan da bilir ...</b><o:p></o:p></p><p>&nbsp;</p><p>Suya gider su testisi elinde-<o:p></o:p>elinde</p><p>Allar giymiş etekleri belinde-<o:p></o:p>belinde aman</p><p>Beni yarim cümle alem dilinde-<o:p></o:p>dilinde</p><p>&nbsp;</p><p><b>Cihan da bilir ...</b><o:p></o:p></p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>&nbsp;</p>",
+  "sozler_duz": "Küçük yaşta aldım sazı elime - elime\n\nDertli dertli vurdum sazın teline - teline teline Uyma dedim uydun eller sözüne - sözüne\n\n \n\nCihan da bilir benim sana yandığım \n\nEllerin köyünde garip kaldığım \n\n \n\nSuya gider su destisi doldurur-doldurur\nEve de gelir gül benzini soldurur-soldurur aman\nBu dert beni iflah etmez öldürür-öldürür\n\n \n\nCihan da bilir ...\n\n \n\nSuya gider su testisi elinde-elinde\n\nAllar giymiş etekleri belinde-belinde aman\n\nBeni yarim cümle alem dilinde-dilinde\n\n \n\nCihan da bilir ...",
   "meta": {
     "yore": "Ortaanadolu",
     "turu": "THM",
@@ -14,7 +14,7 @@
   "sistem": {
     "eski_id": 5891,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-22T18:22:29.266Z",
+    "son_degisiklik": "2026-04-22T18:25:34.515Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
