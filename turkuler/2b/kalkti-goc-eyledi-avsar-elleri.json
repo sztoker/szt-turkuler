@@ -1,26 +1,19 @@
 {
   "id": "kalkti-goc-eyledi-avsar-elleri",
-  "baslik": "Kalktı Göç Eyledi Avşar Elleri_",
-  "sozler_html": "<p>Kalktı Göç Eyledi Avşar ElleriAğır Ağır Giden Eller Bizimdir.Arap Atlar Yakın Eder ırağı,Yüce Dağdan Aşan Yollar BizimdirBelimizde Kılıcımız Kirmani,Taşı Deler Mızrağımın TemreniHakkımızda Devlet Etmiş FermanıFerman Padişahın,Dağlar BizimdirDadaloğlu'm Birgün Kavga Kurulur,Öter Tüfek Davlumbazlar VurulurNice Koçyiğitler Yere SerilirÖlen Ölür, Kalan Sağlar Bizimdir</p>",
-  "sozler_duz": "Kalktı Göç Eyledi Avşar ElleriAğır Ağır Giden Eller Bizimdir.Arap Atlar Yakın Eder ırağı,Yüce Dağdan Aşan Yollar BizimdirBelimizde Kılıcımız Kirmani,Taşı Deler Mızrağımın TemreniHakkımızda Devlet Etmiş FermanıFerman Padişahın,Dağlar BizimdirDadaloğlu'm Birgün Kavga Kurulur,Öter Tüfek Davlumbazlar VurulurNice Koçyiğitler Yere SerilirÖlen Ölür, Kalan Sağlar Bizimdir",
+  "baslik": "KALKTI GÖÇ EYLEDİ AVŞAR ELLERİ",
+  "sozler_html": "<p>Kalktı göç eyledi Avşar elleri</p><p>Ağır ağır giden eller bizimdir.</p><p>Arap atlar yakın eder ırağı,</p><p>Yüce dağdan aşan yollar bizimdir</p><p><br></p><p>Belimizde kılıcımız Kirmani,</p><p>Taşı deler mızrağımın temreni</p><p>Hakkımızda devlet etmiş fermanı</p><p>Ferman padişahın, dağlar bizimdir</p><p><br></p><p>Dadaloğlu'm birgün kavga kurulur,</p><p>Öter tüfek davlumbazlar vurulur</p><p>Nice koçyiğitler yere serilir</p><p>Ölen ölür, kalan sağlar bizimdir</p>",
+  "sozler_duz": "Kalktı göç eyledi Avşar elleri\n\nAğır ağır giden eller bizimdir.\n\nArap atlar yakın eder ırağı,\n\nYüce dağdan aşan yollar bizimdir\n\nBelimizde kılıcımız Kirmani,\n\nTaşı deler mızrağımın temreni\n\nHakkımızda devlet etmiş fermanı\n\nFerman padişahın, dağlar bizimdir\n\nDadaloğlu'm birgün kavga kurulur,\n\nÖter tüfek davlumbazlar vurulur\n\nNice koçyiğitler yere serilir\n\nÖlen ölür, kalan sağlar bizimdir",
   "meta": {
-    "yore": "Dadaloğlu",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Muharrem Ertaş",
-    "aciklama": ""
+    "yore": "Kırşehir",
+    "derleyen": "Muharrem ERTAŞ",
+    "soz": "Dadaloğlu",
+    "soyleyenler": "Muharrem ERTAŞ-Ruhi SU-Cem KARACA",
+    "diger_bilgiler": "Muharrem Ertaş"
   },
   "sistem": {
     "eski_id": 5731,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T06:50:40.284Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
