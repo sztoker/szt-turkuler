@@ -1,26 +1,17 @@
 {
   "id": "kol-dugmeleri",
   "baslik": "KOL DÜĞMELERİ",
-  "sozler_html": "<p>Hatırlarım bugün gibi / Sensiz geçen son geceyiBaşım öne eğik bir suçlu gibi / Bana verdiğin hediyeyiİki küçük kol düğmesi / Bütün bir aşk hikayesiİki düğme iki ayrı kolda / Bizim gibi ayrı yoldaAkşam olunca sustururum herkesi –herkesi her şeyiGelir kol düğmelerinin * birleşme saatiUsul usul çıkarır koyarım kutuya * yan yanaBitsin bu işkence kalsınlar bir aradaHeyhat sabah gün ışılar / Yalnız gece buluşanlarYaşlı gözlerle ayrılırlar / Düğmeler gibi * bizim gibiBizim gibi * ayrılırlar</p>",
-  "sozler_duz": "Hatırlarım bugün gibi / Sensiz geçen son geceyiBaşım öne eğik bir suçlu gibi / Bana verdiğin hediyeyiİki küçük kol düğmesi / Bütün bir aşk hikayesiİki düğme iki ayrı kolda / Bizim gibi ayrı yoldaAkşam olunca sustururum herkesi –herkesi her şeyiGelir kol düğmelerinin * birleşme saatiUsul usul çıkarır koyarım kutuya * yan yanaBitsin bu işkence kalsınlar bir aradaHeyhat sabah gün ışılar / Yalnız gece buluşanlarYaşlı gözlerle ayrılırlar / Düğmeler gibi * bizim gibiBizim gibi * ayrılırlar",
+  "sozler_html": "<p>Hatırlarım bugün gibi&nbsp;</p><p>Sensiz geçen son geceyi</p><p>Başım öne eğik bir suçlu gibi&nbsp;</p><p>Bana verdiğin hediyeyi</p><p>İki küçük kol düğmesi&nbsp;</p><p>Bütün bir aşk hikayesi</p><p>İki düğme iki ayrı kolda&nbsp;</p><p>Bizim gibi ayrı yolda</p><p>Akşam olunca sustururum herkesi –herkesi her şeyi</p><p>Gelir kol düğmelerinin birleşme saati</p><p>Usul usul çıkarır koyarım kutuya yan yana</p><p>Bitsin bu işkence kalsınlar bir arada</p><p>Heyhat sabah gün ışılar&nbsp;</p><p>Yalnız gece buluşanlar</p><p>Yaşlı gözlerle ayrılırlar&nbsp;</p><p>Düğmeler gibi bizim gibi</p><p>Bizim gibi ayrılırlar</p>",
+  "sozler_duz": "Hatırlarım bugün gibi \n\nSensiz geçen son geceyi\n\nBaşım öne eğik bir suçlu gibi \n\nBana verdiğin hediyeyi\n\nİki küçük kol düğmesi \n\nBütün bir aşk hikayesi\n\nİki düğme iki ayrı kolda \n\nBizim gibi ayrı yolda\n\nAkşam olunca sustururum herkesi –herkesi her şeyi\n\nGelir kol düğmelerinin birleşme saati\n\nUsul usul çıkarır koyarım kutuya yan yana\n\nBitsin bu işkence kalsınlar bir arada\n\nHeyhat sabah gün ışılar \n\nYalnız gece buluşanlar\n\nYaşlı gözlerle ayrılırlar \n\nDüğmeler gibi bizim gibi\n\nBizim gibi ayrılırlar",
   "meta": {
-    "yore": "Barış Manço",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Barış Manço",
-    "aciklama": ""
+    "turu": "POP",
+    "soz": "Barış Manço",
+    "muzik": "Barış Manço"
   },
   "sistem": {
     "eski_id": 5875,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-22T18:01:52.673Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
