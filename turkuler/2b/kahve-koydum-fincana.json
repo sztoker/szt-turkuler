@@ -1,17 +1,19 @@
 {
   "id": "kahve-koydum-fincana",
-  "baslik": "Kahve Koydum Fincana_",
-  "sozler_html": "<p>Kahve Koydum Fincana</p><p>Hele De Bakın Mican'a</p><p>Körolası Kel Seyit</p><p>Nasıl Da Kıydın O Cana</p><p><br></p><p><b>Vay Benim Canım Mican'ım</b></p><p><b>Dünyalarda Bir Canım</b></p><p><br></p><p>Martinimin Pulları</p><p>Gece De Geçtim Yolları</p><p>Aslan Mican Geliyor</p><p>Saymaz Karakolları</p><p><br></p><p><b>Vay Benim Canım...</b></p><p><br></p><p>Mican Sen Öleceksin</p><p>Kabire Gireceksin</p><p>Dokuz Tahta Altında</p><p>Ne Cevap Vereceksin</p><p><br></p><p><b>Vay Benim Canım...</b></p>",
-  "sozler_duz": "Kahve Koydum Fincana\n\nHele De Bakın Mican'a\n\nKörolası Kel Seyit\n\nNasıl Da Kıydın O Cana\n\nVay Benim Canım Mican'ım\n\nDünyalarda Bir Canım\n\nMartinimin Pulları\n\nGece De Geçtim Yolları\n\nAslan Mican Geliyor\n\nSaymaz Karakolları\n\nVay Benim Canım...\n\nMican Sen Öleceksin\n\nKabire Gireceksin\n\nDokuz Tahta Altında\n\nNe Cevap Vereceksin\n\nVay Benim Canım...",
+  "baslik": "KAHVE KOYDUM FİNCANA",
+  "sozler_html": "<p>Kahve koydum fincana</p><p>Hele bakın Mican'a</p><p>Körolası kel Seyit</p><p>Nasıl (da) kıydın bu cana</p><p><br></p><p><b>Oy benim canım Mican'ım</b></p><p><b>Dünyalarda bir canım</b></p><p><br></p><p>Martinimin kolları</p><p>Gece (de) geçtim yolları</p><p>Aslan Mican geliyor</p><p>Saymaz karakolları</p><p><br></p><p><b>Vay benim canım...</b></p><p><br></p><p>Mican sen öleceksin</p><p>Kabire gireceksin</p><p>Dokuz tahta altında</p><p>Ne cevap vereceksin</p><p><br></p><p><b>Vay benim canım...</b></p>",
+  "sozler_duz": "Kahve koydum fincana\n\nHele bakın Mican'a\n\nKörolası kel Seyit\n\nNasıl (da) kıydın bu cana\n\nOy benim canım Mican'ım\n\nDünyalarda bir canım\n\nMartinimin kolları\n\nGece (de) geçtim yolları\n\nAslan Mican geliyor\n\nSaymaz karakolları\n\nVay benim canım...\n\nMican sen öleceksin\n\nKabire gireceksin\n\nDokuz tahta altında\n\nNe cevap vereceksin\n\nVay benim canım...",
   "meta": {
     "yore": "Giresun",
+    "turu": "Ağıt",
     "derleyen": "Ahmet Yamacı",
-    "kaynak_kisi": "Halim Giresunluoğlu"
+    "kaynak_kisi": "Halim Giresunluoğlu",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5709,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20T22:06:29.333Z",
+    "son_degisiklik": "2026-04-22T05:40:13.299Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
