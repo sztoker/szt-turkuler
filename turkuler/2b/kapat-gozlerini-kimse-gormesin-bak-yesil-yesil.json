@@ -1,0 +1,21 @@
+{
+  "id": "kapat-gozlerini-kimse-gormesin-bak-yesil-yesil",
+  "baslik": "KAPAT GÖZLERİNİ KİMSE GÖRMESİN (Bak yeşil yeşil)",
+  "sozler_html": "<p>Kapat gözlerini kimse görmesin</p>\n<p>Yalnız benim için bak yeşil yeşil</p>\n<p>Gözlerin kimseye ümit vermesin</p>\n<p>Yalnız benim için bak yeşil yeşil</p>\n<p class=\"bos\"></p>\n<p>Seni öyle sevdim ölürcesine</p>\n<p>Tanrının yazdığı şiircesine</p>\n<p>İçimden geçeni bilircesine</p>\n<p>Yalnız benim için bak yeşil yeşil</p>",
+  "sozler_duz": "Kapat gözlerini kimse görmesin\n\nYalnız benim için bak yeşil yeşil\n\nGözlerin kimseye ümit vermesin\n\nYalnız benim için bak yeşil yeşil\n\nSeni öyle sevdim ölürcesine\n\nTanrının yazdığı şiircesine\n\nİçimden geçeni bilircesine\n\nYalnız benim için bak yeşil yeşil",
+  "meta": {
+    "turu": "TSM",
+    "soz": "Mustafa Seyran",
+    "muzik": "Mehmet Erbulan",
+    "karar": "La",
+    "diger_bilgiler": "Segah / Semai"
+  },
+  "sistem": {
+    "eski_id": 5737,
+    "olusturma": "2026-04-20",
+    "son_degisiklik": "2026-04-22T07:12:43.147Z",
+    "versiyon": 1,
+    "yayinlanabilir": true,
+    "kontrol_edildi": false
+  }
+}
