@@ -1,26 +1,19 @@
 {
   "id": "mavi-yelek-mor-dugme-agam-ben-nasil-edim",
   "baslik": "MAVİ YELEK MOR DÜĞME (Ağam ben nasıl edim)",
-  "sozler_html": "<p>Mavi yelek mor düğme / Yine düştün gönlümeHer gönlüme düşende / Kan damlar yüreğimeAğam ben nasıl edim / Saz getir fasıl edimÇok da güzel değilsen / Gönüldür nasıl edimGazel döktü güz oldu / Derdim biraz az olduAyağına kapandım / Yine dedi az oldu / Ağam...</p>",
-  "sozler_duz": "Mavi yelek mor düğme / Yine düştün gönlümeHer gönlüme düşende / Kan damlar yüreğimeAğam ben nasıl edim / Saz getir fasıl edimÇok da güzel değilsen / Gönüldür nasıl edimGazel döktü güz oldu / Derdim biraz az olduAyağına kapandım / Yine dedi az oldu / Ağam...",
+  "sozler_html": "<p>Mavi yelek mor düğme&nbsp;</p><p>Yine düştün gönlüme</p><p>Her gönlüme düşende&nbsp;</p><p>Kan damlar yüreğime</p><p><br></p><p><b>Ağam ben nasıl edim&nbsp;</b></p><p><b>Saz getir fasıl edim</b></p><p><b>Çok da güzel değilsen&nbsp;</b></p><p><b>Gönüldür nasıl edim</b></p><p><br></p><p>Gazel döktü güz oldu&nbsp;</p><p>Derdim biraz az oldu</p><p>Ayağına kapandım&nbsp;</p><p>Yine dedi az oldu&nbsp;</p><p><br></p><p><b>Ağam ben...</b></p>",
+  "sozler_duz": "Mavi yelek mor düğme \n\nYine düştün gönlüme\n\nHer gönlüme düşende \n\nKan damlar yüreğime\n\nAğam ben nasıl edim \n\nSaz getir fasıl edim\n\nÇok da güzel değilsen \n\nGönüldür nasıl edim\n\nGazel döktü güz oldu \n\nDerdim biraz az oldu\n\nAyağına kapandım \n\nYine dedi az oldu \n\nAğam ben...",
   "meta": {
     "yore": "ERZURUM",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ERZURUM",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "MUZAFFER SARISÖZEN",
+    "kaynak_kisi": "SEYFETTİN SIĞMAZ",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5946,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T07:07:19.002Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
