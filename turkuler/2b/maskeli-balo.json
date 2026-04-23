@@ -1,26 +1,18 @@
 {
   "id": "maskeli-balo",
   "baslik": "MASKELİ BALO",
-  "sozler_html": "<p>Yaredir sinede eski sevgili / Eski sevgili eski günlerHayata baksana takmıyor kimseyiHiçbir şey diriltmez artık geçmişi / Yaredir yine deYaktım gemilerimi dönüş yok artık geriTak etti canıma bu maskeli baloBu maskeli balo ve onun sahte yüzleriYaredir sinede eski sevgili / Ne yapsan kolay unutulmazAğlama geçmişe yaşadık bitti Anılar bizi yalnız bırakmaz / Yalnızız yine de</p>",
-  "sozler_duz": "Yaredir sinede eski sevgili / Eski sevgili eski günlerHayata baksana takmıyor kimseyiHiçbir şey diriltmez artık geçmişi / Yaredir yine deYaktım gemilerimi dönüş yok artık geriTak etti canıma bu maskeli baloBu maskeli balo ve onun sahte yüzleriYaredir sinede eski sevgili / Ne yapsan kolay unutulmazAğlama geçmişe yaşadık bitti Anılar bizi yalnız bırakmaz / Yalnızız yine de",
+  "sozler_html": "<p>Yaredir sinede eski sevgili&nbsp;</p><p>Eski sevgili eski günler</p><p>Hayata baksana takmıyor kimseyi</p><p>Hiçbir şey diriltmez artık geçmişi&nbsp;</p><p>Yaredir yine de</p><p><br></p><p><b>Yaktım gemilerimi&nbsp;</b></p><p><b>dönüş yok artık geri</b></p><p><b>Tak etti canıma bu maskeli balo</b></p><p><b>Bu maskeli balo ve onun sahte yüzleri</b></p><p><br></p><p>Yaredir sinede eski sevgili&nbsp;</p><p>Ne yapsan kolay unutulmaz</p><p>Ağlama geçmişe yaşadık bitti&nbsp;</p><p>Anılar bizi yalnız bırakmaz&nbsp;</p><p>Yalnızız yine de</p><p><br></p><p>Yaktım gemilerimi ...</p>",
+  "sozler_duz": "Yaredir sinede eski sevgili \n\nEski sevgili eski günler\n\nHayata baksana takmıyor kimseyi\n\nHiçbir şey diriltmez artık geçmişi \n\nYaredir yine de\n\nYaktım gemilerimi \n\ndönüş yok artık geri\n\nTak etti canıma bu maskeli balo\n\nBu maskeli balo ve onun sahte yüzleri\n\nYaredir sinede eski sevgili \n\nNe yapsan kolay unutulmaz\n\nAğlama geçmişe yaşadık bitti \n\nAnılar bizi yalnız bırakmaz \n\nYalnızız yine de\n\nYaktım gemilerimi ...",
   "meta": {
-    "yore": "YENİ YÜRKÜ",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "YENİ YÜRKÜ",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Murathan Mungan",
+    "muzik": "Manos Loizos",
+    "soyleyenler": "YENİ YÜRKÜ"
   },
   "sistem": {
     "eski_id": 5941,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T07:01:56.559Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
