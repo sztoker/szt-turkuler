@@ -1,26 +1,18 @@
 {
   "id": "makber-her-yer-karanlik",
   "baslik": "MAKBER ( Her yer karanlık )",
-  "sozler_html": "<p>Her yer karanlık pür-nur o mevkiMağrip mi yoksa makber mi ya RabYa habgah-ı dilber mi ya RabRüya değil bu ayniyle vakiKabri çiçekten bir türbe olmuşDönmüş o türbe bir haclegahaBir haclegaha dönmüşse türbenAç koynunu aç maşukanım ben</p>",
-  "sozler_duz": "Her yer karanlık pür-nur o mevkiMağrip mi yoksa makber mi ya RabYa habgah-ı dilber mi ya RabRüya değil bu ayniyle vakiKabri çiçekten bir türbe olmuşDönmüş o türbe bir haclegahaBir haclegaha dönmüşse türbenAç koynunu aç maşukanım ben",
+  "sozler_html": "<p>Her yer karanlık pür-nur o mevki</p><p>Mağrip mi yoksa makber mi ya Rab</p><p>Ya habgah-ı dilber mi ya Rab</p><p>Rüya değil bu ayniyle vaki</p><p><br></p><p>Kabri çiçekten bir türbe olmuş</p><p>Dönmüş o türbe bir haclegaha</p><p>Bir haclegaha dönmüşse türben</p><p>Aç koynunu aç maşukanım ben</p>",
+  "sozler_duz": "Her yer karanlık pür-nur o mevki\n\nMağrip mi yoksa makber mi ya Rab\n\nYa habgah-ı dilber mi ya Rab\n\nRüya değil bu ayniyle vaki\n\nKabri çiçekten bir türbe olmuş\n\nDönmüş o türbe bir haclegaha\n\nBir haclegaha dönmüşse türben\n\nAç koynunu aç maşukanım ben",
   "meta": {
-    "yore": "Mehmet Baha / Abdulhak Hamit Tarhan       Rast",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Mehmet Baha / Abdulhak Hamit Tarhan       Rast",
-    "aciklama": ""
+    "turu": "TSM",
+    "soz": "Abdulhak Hamit Tarhan",
+    "muzik": "Mehmet Baha",
+    "diger_bilgiler": "Rast"
   },
   "sistem": {
     "eski_id": 5928,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T06:46:47.593Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
