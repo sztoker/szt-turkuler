@@ -1,26 +1,18 @@
 {
   "id": "ogul-buyumeli-kiz-buyumeli",
   "baslik": "OĞUL BÜYÜMELİ KIZ BÜYÜMELİ",
-  "sozler_html": "<p>Oğul büyümeli kız büyümeliZeybek yeri dövende diz büyümeliSana ağlamak için göz büyümeliNasıl anlatsam seni söz büyümeliOğul büyümeli kız büyümeliİlkyaza ermek için güz büyümeliBasa basa gidelim iz büyümeliKara teller inlemiş saz büyümeliKuru ekmek içinde tuz büyümeliOğul büyümeli kız büyümeli</p>",
-  "sozler_duz": "Oğul büyümeli kız büyümeliZeybek yeri dövende diz büyümeliSana ağlamak için göz büyümeliNasıl anlatsam seni söz büyümeliOğul büyümeli kız büyümeliİlkyaza ermek için güz büyümeliBasa basa gidelim iz büyümeliKara teller inlemiş saz büyümeliKuru ekmek içinde tuz büyümeliOğul büyümeli kız büyümeli",
+  "sozler_html": "<p>Oğul büyümeli kız büyümeli</p><p>Zeybek yeri dövende diz büyümeli</p><p>Sana ağlamak için göz büyümeli</p><p>Nasıl anlatsam seni söz büyümeli</p><p>Oğul büyümeli kız büyümeli</p><p>İlkyaza ermek için güz büyümeli</p><p>Basa basa gidelim iz büyümeli</p><p>Kara teller inlemiş saz büyümeli</p><p>Kuru ekmek içinde tuz büyümeli</p><p>Oğul büyümeli kız büyümeli</p>",
+  "sozler_duz": "Oğul büyümeli kız büyümeli\n\nZeybek yeri dövende diz büyümeli\n\nSana ağlamak için göz büyümeli\n\nNasıl anlatsam seni söz büyümeli\n\nOğul büyümeli kız büyümeli\n\nİlkyaza ermek için güz büyümeli\n\nBasa basa gidelim iz büyümeli\n\nKara teller inlemiş saz büyümeli\n\nKuru ekmek içinde tuz büyümeli\n\nOğul büyümeli kız büyümeli",
   "meta": {
-    "yore": "S : Fazıl Hüsnü Dağlarca",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S : Fazıl Hüsnü Dağlarca",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Fazıl Hüsnü Dağlarca",
+    "muzik": "Sadık Gürbüz",
+    "soyleyenler": "Sadık Gürbüz-Edip Akbayram"
   },
   "sistem": {
     "eski_id": 6083,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T09:17:15.872Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
