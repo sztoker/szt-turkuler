@@ -1,26 +1,18 @@
 {
   "id": "menekse-lale-hanimeli",
   "baslik": "MENEKŞE LALE HANIMELİ",
-  "sozler_html": "<p>Yollarına gül döktüm / Gelir de geçer diyeGeçmedin boynum büktüm / Başka yer seçer diyeMenekşe lale hanımeli / Güzel huyun yoktur bedeliSana gönül verdim vereli / Sararıp soldum amanAşkı içtim elinle / Kalbim doldu seninleGeçti ömrüm eninle / Benden vazgeçer diyeSarardı gül benzim / Yıllar var ki sensizimŞimdi ben bir öksüzüm / Benden vazgeçer diye</p>",
-  "sozler_duz": "Yollarına gül döktüm / Gelir de geçer diyeGeçmedin boynum büktüm / Başka yer seçer diyeMenekşe lale hanımeli / Güzel huyun yoktur bedeliSana gönül verdim vereli / Sararıp soldum amanAşkı içtim elinle / Kalbim doldu seninleGeçti ömrüm eninle / Benden vazgeçer diyeSarardı gül benzim / Yıllar var ki sensizimŞimdi ben bir öksüzüm / Benden vazgeçer diye",
+  "sozler_html": "<p>Yollarına gül döktüm&nbsp;</p><p>Gelir de geçer diye</p><p>Geçmedin boynum büktüm&nbsp;</p><p>Başka yer seçer diye</p><p><br></p><p>Menekşe lale hanımeli&nbsp;</p><p>Güzel huyun yoktur bedeli</p><p>Sana gönül verdim vereli&nbsp;</p><p>Sararıp soldum aman</p><p><br></p><p>Aşkı içtim elinle&nbsp;</p><p>Kalbim doldu seninle</p><p>Geçti ömrüm eninle&nbsp;</p><p>Benden vazgeçer diye</p><p><br></p><p>Sarardı gül benzim&nbsp;</p><p>Yıllar var ki sensizim</p><p>Şimdi ben bir öksüzüm&nbsp;</p><p>Benden vazgeçer diye</p>",
+  "sozler_duz": "Yollarına gül döktüm \n\nGelir de geçer diye\n\nGeçmedin boynum büktüm \n\nBaşka yer seçer diye\n\nMenekşe lale hanımeli \n\nGüzel huyun yoktur bedeli\n\nSana gönül verdim vereli \n\nSararıp soldum aman\n\nAşkı içtim elinle \n\nKalbim doldu seninle\n\nGeçti ömrüm eninle \n\nBenden vazgeçer diye\n\nSarardı gül benzim \n\nYıllar var ki sensizim\n\nŞimdi ben bir öksüzüm \n\nBenden vazgeçer diye",
   "meta": {
-    "yore": "Sadettin Kaynak / ...                   Hicaz",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Sadettin Kaynak / ...                   Hicaz",
-    "aciklama": ""
+    "turu": "TSM",
+    "soz": "Sadettin Kaynak",
+    "muzik": "Sadettin Kaynak",
+    "diger_bilgiler": "Hicaz"
   },
   "sistem": {
     "eski_id": 5966,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T07:22:34.789Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
