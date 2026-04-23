@@ -8,13 +8,12 @@
     "turu": "THM",
     "derleyen": "TRT İstanbul Rad.",
     "kaynak_kisi": "Neşet Ertaş",
-    "karar": "La",
-    "diger_bilgiler": "-İst. rd. THM mdr"
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6061,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-23T09:00:46.867Z",
+    "son_degisiklik": "2026-04-23T09:00:57.825Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
