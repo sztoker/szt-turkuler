@@ -1,26 +1,19 @@
 {
   "id": "nar-agaci-narsiz-olur-mu",
-  "baslik": "Nar Ağacı Narsız Olur Mu_",
-  "sozler_html": "<p>Nar Ağacı Narsız Olur MuYiğid Olan Güzel Yarsız Olur MuDeli Gönlüm Sensiz Olur MuGülüm Gel Yarım Gel SalınaraktanBir Su Doldur Ver IrmaktanKurtulurum Belki Sana YalvarmaktanNar Ağacı Budam BudamYar Yitirdim Gülüm Nerede BulamYar Yitirdim Güzel Nerelerde BulamÜç Güzel İçinde Gözlerinden BilemGülüm Gel Yarım Gel SalınaraktanBir Su Doldur Ver IrmaktanKurtulurum Belki Sana Yalvarmaktan</p>",
-  "sozler_duz": "Nar Ağacı Narsız Olur MuYiğid Olan Güzel Yarsız Olur MuDeli Gönlüm Sensiz Olur MuGülüm Gel Yarım Gel SalınaraktanBir Su Doldur Ver IrmaktanKurtulurum Belki Sana YalvarmaktanNar Ağacı Budam BudamYar Yitirdim Gülüm Nerede BulamYar Yitirdim Güzel Nerelerde BulamÜç Güzel İçinde Gözlerinden BilemGülüm Gel Yarım Gel SalınaraktanBir Su Doldur Ver IrmaktanKurtulurum Belki Sana Yalvarmaktan",
+  "baslik": "NAR AĞACI NARSIZ OLUR MU",
+  "sozler_html": "<p>Nar ağacı narsız olur mu</p><p>Yiğid olan güzel yarsız olur mu</p><p>Deli gönlüm sensiz olur mu</p><p><br></p><p><b>Gülüm gel yarım gel salınaraktan</b></p><p><b>Bir su doldur ver ırmaktan</b></p><p><b>Kurtulurum belki sana\nyalvarmaktan</b></p><p><br></p><p>Nar ağacı budam budam</p><p>Yar yitirdim gülüm nerede bulam</p><p>Üç güzel içinde gözlerinden bilem</p><p><br></p><p><b>Gülüm gel</b>&nbsp;...</p>",
+  "sozler_duz": "Nar ağacı narsız olur mu\n\nYiğid olan güzel yarsız olur mu\n\nDeli gönlüm sensiz olur mu\n\nGülüm gel yarım gel salınaraktan\n\nBir su doldur ver ırmaktan\n\nKurtulurum belki sana yalvarmaktan\n\nNar ağacı budam budam\n\nYar yitirdim gülüm nerede bulam\n\nÜç güzel içinde gözlerinden bilem\n\nGülüm gel ...",
   "meta": {
     "yore": "Orta Anadolu",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Zekeriya Bozdağ",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Zekeriya Bozdağ",
+    "kaynak_kisi": "Zekeriya Bozdağ",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6011,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T08:33:48.758Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
