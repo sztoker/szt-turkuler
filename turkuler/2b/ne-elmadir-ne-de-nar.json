@@ -1,8 +1,8 @@
 {
   "id": "ne-elmadir-ne-de-nar",
   "baslik": "NE ELMADIR NE DE NAR",
-  "sozler_html": "<p>Ne Elmalıdır Ne De Nar (Ne De Nar)</p><p>Gönül Çeker Ah-U Zar (Ah-U Zar)</p><p>Her Derdin Çaresi Var (Nazlı Yar)</p><p>Benimki De Sensin Yar (Sensin Yar)</p><p><br></p><p>Yarim Zülfün Taranmış (Taranmış)</p><p>Benim Bahtım Karaymış (Nazlı Yar)</p><p>Hasta Mısın Sevdiğim (Nazlı Yar)</p><p>Neden Benzin Saranmış (Sevdiğim)</p>",
-  "sozler_duz": "Ne Elmalıdır Ne De Nar (Ne De Nar)\n\nGönül Çeker Ah-U Zar (Ah-U Zar)\n\nHer Derdin Çaresi Var (Nazlı Yar)\n\nBenimki De Sensin Yar (Sensin Yar)\n\nYarim Zülfün Taranmış (Taranmış)\n\nBenim Bahtım Karaymış (Nazlı Yar)\n\nHasta Mısın Sevdiğim (Nazlı Yar)\n\nNeden Benzin Saranmış (Sevdiğim)",
+  "sozler_html": "<p>Ne elmalıdır ne de nar (ne de\nnar)</p><p>Gönül çeker ah-u zar (ah-u zar)</p><p>Her derdin çaresi var (nazlı yar)</p><p>Benimki de sensin yar (sensin\nyar)</p><p>&nbsp;</p><p>Yarim zülfün taranmış (taranmış)</p><p>Benim bahtım karaymış (nazlı yar)</p><p>Hasta mısın sevdiğim (nazlı yar)</p><p>Neden benzin saranmış (sevdiğim)</p>",
+  "sozler_duz": "Ne elmalıdır ne de nar (ne de nar)\n\nGönül çeker ah-u zar (ah-u zar)\n\nHer derdin çaresi var (nazlı yar)\n\nBenimki de sensin yar (sensin yar)\n\n \n\nYarim zülfün taranmış (taranmış)\n\nBenim bahtım karaymış (nazlı yar)\n\nHasta mısın sevdiğim (nazlı yar)\n\nNeden benzin saranmış (sevdiğim)",
   "meta": {
     "yore": "Çorum",
     "turu": "THM",
@@ -13,7 +13,7 @@
   "sistem": {
     "eski_id": 6022,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-23T08:38:32.361Z",
+    "son_degisiklik": "2026-04-23T09:01:59.280Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
