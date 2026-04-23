@@ -1,26 +1,17 @@
 {
   "id": "mahsus-mahal",
   "baslik": "MAHSUS MAHAL",
-  "sozler_html": "<p>Mahsus mahal derler * kaldım zindandaKalırım kalırım * dostlar yandadırİk’ellerim kızıl * kandadır kandaAman- Ölürüm ölürüm –kardeş- aklım sendedirArtar eksilmeyiz * zindanlarındaKolay değil derdin * ucu derindeKumhan Irmağı’nda * Karaburun’daAman- Dururum dururum  -kardeş- öfkem kındadırDirliğim düzenim * dermanım canımSolum sol tarafım * imanım dinimBenim beyaz unum * ak güvercinimAman- Bilirim bilirim –kardeş- gelen gündedir</p>",
-  "sozler_duz": "Mahsus mahal derler * kaldım zindandaKalırım kalırım * dostlar yandadırİk’ellerim kızıl * kandadır kandaAman- Ölürüm ölürüm –kardeş- aklım sendedirArtar eksilmeyiz * zindanlarındaKolay değil derdin * ucu derindeKumhan Irmağı’nda * Karaburun’daAman- Dururum dururum -kardeş- öfkem kındadırDirliğim düzenim * dermanım canımSolum sol tarafım * imanım dinimBenim beyaz unum * ak güvercinimAman- Bilirim bilirim –kardeş- gelen gündedir",
+  "sozler_html": "<p>Mahsus mahal derler&nbsp; *kaldım zindanda</p><p>Kalırım kalırım * dostlar yandadır</p><p>İk’ellerim kızıl * kandadır kanda</p><p>Aman- Ölürüm ölürüm –kardeş- aklım sendedir</p><p><br></p><p>Artar eksilmeyiz * zindanlarında</p><p>Kolay değil derdin * ucu derinde</p><p>Kumhan Irmağı’nda * Karaburun’da</p><p>Aman- Dururum dururum  -kardeş- öfkem kındadır</p><p><br></p><p>Dirliğim düzenim * dermanım canım</p><p>Solum sol tarafım * imanım dinim</p><p>Benim beyaz unum * ak güvercinim</p><p>Aman- Bilirim bilirim –kardeş- gelen gündedir</p>",
+  "sozler_duz": "Mahsus mahal derler  *kaldım zindanda\n\nKalırım kalırım * dostlar yandadır\n\nİk’ellerim kızıl * kandadır kanda\n\nAman- Ölürüm ölürüm –kardeş- aklım sendedir\n\nArtar eksilmeyiz * zindanlarında\n\nKolay değil derdin * ucu derinde\n\nKumhan Irmağı’nda * Karaburun’da\n\nAman- Dururum dururum -kardeş- öfkem kındadır\n\nDirliğim düzenim * dermanım canım\n\nSolum sol tarafım * imanım dinim\n\nBenim beyaz unum * ak güvercinim\n\nAman- Bilirim bilirim –kardeş- gelen gündedir",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
+    "turu": "Özgün",
     "soz": "Ruhi Su",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "muzik": "Ruhi Su"
   },
   "sistem": {
     "eski_id": 5925,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T06:44:00.745Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
