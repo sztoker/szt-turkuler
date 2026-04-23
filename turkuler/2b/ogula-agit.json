@@ -1,16 +1,18 @@
 {
   "id": "ogula-agit",
   "baslik": "OĞULA  AĞIT",
-  "sozler_html": "<p>Bin bir çileyle büyüttüm oğlumuYemedim yedirdim bugüne getirdimCesurdu mertti kaya gibi serttiBir gün geldi ki - vay vay vay vay - vurdular onuBeni kınama arkamdan ağlamaNe yaptıysam bil ki halkım için derdiAslan gibiydi sözünün eriydi / Bir gün geldi ki ...Yaşlı gözlerle beklerdim yolunuOğlum gider de ya dönmezse diyeGözbebeğimdi benim her şeyimdi / Bir gün geldi ki ...Sabır taşından yaratılmış insanGüle güle oğlum kalanlar sağ olsunYaşı yirmiydi canımın içiydi / Bir gün geldi ki ...Kurşun değildi top tüfek değildiZulüm (faşist) yılanıydı vuran oğlumuBir can gitse de binler var gerideBir gün gelir ki - hey hey hey hey - ezerler onu</p>",
-  "sozler_duz": "Bin bir çileyle büyüttüm oğlumuYemedim yedirdim bugüne getirdimCesurdu mertti kaya gibi serttiBir gün geldi ki - vay vay vay vay - vurdular onuBeni kınama arkamdan ağlamaNe yaptıysam bil ki halkım için derdiAslan gibiydi sözünün eriydi / Bir gün geldi ki ...Yaşlı gözlerle beklerdim yolunuOğlum gider de ya dönmezse diyeGözbebeğimdi benim her şeyimdi / Bir gün geldi ki ...Sabır taşından yaratılmış insanGüle güle oğlum kalanlar sağ olsunYaşı yirmiydi canımın içiydi / Bir gün geldi ki ...Kurşun değildi top tüfek değildiZulüm (faşist) yılanıydı vuran oğlumuBir can gitse de binler var gerideBir gün gelir ki - hey hey hey hey - ezerler onu",
+  "sozler_html": "<p>Bin bir çileyle büyüttüm oğlumu</p><p>Yemedim yedirdim bugüne getirdim</p><p>Cesurdu mertti kaya gibi sertti</p><p><b>Bir gün geldi ki - vay vay vay vay - vurdular onu</b></p><p><br></p><p>Beni kınama arkamdan ağlama</p><p>Ne yaptıysam bil ki halkım için derdi</p><p>Aslan gibiydi sözünün eriydi&nbsp;</p><p><b>Bir gün geldi ki ...</b></p><p><br></p><p>Yaşlı gözlerle beklerdim yolunu</p><p>Oğlum gider de ya dönmezse diye</p><p>Gözbebeğimdi benim her şeyimdi&nbsp;</p><p><b>Bir gün geldi ki ...</b></p><p><br></p><p>Sabır taşından yaratılmış insan</p><p>Güle güle oğlum kalanlar sağ olsun</p><p>Yaşı yirmiydi canımın içiydi&nbsp;</p><p><b>Bir gün geldi ki ...</b></p><p><br></p><p>Kurşun değildi top tüfek değildi</p><p>Zulüm (faşist) yılanıydı vuran oğlumu</p><p>Bir can gitse de binler var geride</p><p><b>Bir gün gelir ki - hey hey hey hey - ezerler onu</b></p>",
+  "sozler_duz": "Bin bir çileyle büyüttüm oğlumu\n\nYemedim yedirdim bugüne getirdim\n\nCesurdu mertti kaya gibi sertti\n\nBir gün geldi ki - vay vay vay vay - vurdular onu\n\nBeni kınama arkamdan ağlama\n\nNe yaptıysam bil ki halkım için derdi\n\nAslan gibiydi sözünün eriydi \n\nBir gün geldi ki ...\n\nYaşlı gözlerle beklerdim yolunu\n\nOğlum gider de ya dönmezse diye\n\nGözbebeğimdi benim her şeyimdi \n\nBir gün geldi ki ...\n\nSabır taşından yaratılmış insan\n\nGüle güle oğlum kalanlar sağ olsun\n\nYaşı yirmiydi canımın içiydi \n\nBir gün geldi ki ...\n\nKurşun değildi top tüfek değildi\n\nZulüm (faşist) yılanıydı vuran oğlumu\n\nBir can gitse de binler var geride\n\nBir gün gelir ki - hey hey hey hey - ezerler onu",
   "meta": {
+    "turu": "Özgün",
     "soz": "Anonim",
-    "muzik": "Theodorakis"
+    "muzik": "Theodorakis",
+    "soyleyenler": "Grup Yorum-Selda"
   },
   "sistem": {
     "eski_id": 6085,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T12:38:07.869Z",
+    "son_degisiklik": "2026-04-23T09:23:10.010Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
