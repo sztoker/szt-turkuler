@@ -1,26 +1,18 @@
 {
   "id": "mavi-gozlu-sarisin-kiz",
   "baslik": "MAVİ GÖZLÜ SARIŞIN KIZ",
-  "sozler_html": "<p>Bahar geldi gül açıldı / Ruhuma neşe saçıldıMavi gözlü sarışın kız / Gel gidelim Ada’ya bizÇamlar altı bizi bekler / Bu kadar naz etme yeterMavi gözlü sarışın kız / Gel gidelim Ada’ya bizSevdim seni sandım melek / Biraz olsun bana lutfetMavi gözlü sarışın kız / Gel gidelim Ada’ya bizBir gül gibi açıyorsun / Niçin benden kaçıyorsunMavi gözlü sarışın kız / Gel gidelim Ada’ya biz</p>",
-  "sozler_duz": "Bahar geldi gül açıldı / Ruhuma neşe saçıldıMavi gözlü sarışın kız / Gel gidelim Ada’ya bizÇamlar altı bizi bekler / Bu kadar naz etme yeterMavi gözlü sarışın kız / Gel gidelim Ada’ya bizSevdim seni sandım melek / Biraz olsun bana lutfetMavi gözlü sarışın kız / Gel gidelim Ada’ya bizBir gül gibi açıyorsun / Niçin benden kaçıyorsunMavi gözlü sarışın kız / Gel gidelim Ada’ya biz",
+  "sozler_html": "<p>Bahar geldi gül açıldı</p><p>Ruhuma neşe saçıldı</p><p>Mavi gözlü sarışın kız&nbsp;</p><p>Gel gidelim Ada’ya biz</p><p><br></p><p>Çamlar altı bizi bekler&nbsp;</p><p>Bu kadar naz etme yeter</p><p>Mavi gözlü sarışın kız&nbsp;</p><p>Gel gidelim Ada’ya biz</p><p><br></p><p>Sevdim seni sandım melek&nbsp;</p><p>&nbsp;Biraz olsun bana lutfet</p><p>Mavi gözlü sarışın kız&nbsp;</p><p>Gel gidelim Ada’ya biz</p><p><br></p><p>Bir gül gibi açıyorsun&nbsp;</p><p>Niçin benden kaçıyorsun</p><p>Mavi gözlü sarışın kız&nbsp;</p><p>Gel gidelim Ada’ya biz</p>",
+  "sozler_duz": "Bahar geldi gül açıldı\n\nRuhuma neşe saçıldı\n\nMavi gözlü sarışın kız \n\nGel gidelim Ada’ya biz\n\nÇamlar altı bizi bekler \n\nBu kadar naz etme yeter\n\nMavi gözlü sarışın kız \n\nGel gidelim Ada’ya biz\n\nSevdim seni sandım melek \n\n Biraz olsun bana lutfet\n\nMavi gözlü sarışın kız \n\nGel gidelim Ada’ya biz\n\nBir gül gibi açıyorsun \n\nNiçin benden kaçıyorsun\n\nMavi gözlü sarışın kız \n\nGel gidelim Ada’ya biz",
   "meta": {
-    "yore": "Teoman Alpay               Nihavent / Semai",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Teoman Alpay               Nihavent / Semai",
-    "aciklama": ""
+    "turu": "TSM",
+    "soz": "Teoman Alpay",
+    "muzik": "Teoman Alpay",
+    "diger_bilgiler": "Nihavent / Semai"
   },
   "sistem": {
     "eski_id": 5945,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T07:05:01.355Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
