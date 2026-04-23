@@ -1,8 +1,8 @@
 {
   "id": "macka-yollari-tasli",
   "baslik": "MAÇKA YOLLARI TAŞLI",
-  "sozler_html": "<p>Of Of&nbsp;</p><p>Maçka Yolları Taşlı,</p><p>Gel Uyu Kalem Kaşlı</p><p>Ne Oldu Sana Yavrum,</p><p>Böyle Gözlerin Yaşlı</p><p><br></p><p>Of Of&nbsp;</p><p>Yukarı Gel Yukarı</p><p>Irmağın Gözündeyum</p><p>Eller Ne Derse Desin</p><p>Ben Yine Peşundeyum</p><p><br></p><p>Of Of&nbsp;</p><p>Dereler Akar Akar</p><p>Garişir Denizlere.</p><p>Gurban Olayım Yavrum,</p><p>O Sevdali Gözlere</p><p><br></p><p>Of Of&nbsp;</p><p>Gız Tarlanin Taşları,</p><p>Duman Değil Gar İdi</p><p>Sevdiğum Senin İlen,</p><p>Ne Günlerum Var İdi</p>",
-  "sozler_duz": "Of Of \n\nMaçka Yolları Taşlı,\n\nGel Uyu Kalem Kaşlı\n\nNe Oldu Sana Yavrum,\n\nBöyle Gözlerin Yaşlı\n\nOf Of \n\nYukarı Gel Yukarı\n\nIrmağın Gözündeyum\n\nEller Ne Derse Desin\n\nBen Yine Peşundeyum\n\nOf Of \n\nDereler Akar Akar\n\nGarişir Denizlere.\n\nGurban Olayım Yavrum,\n\nO Sevdali Gözlere\n\nOf Of \n\nGız Tarlanin Taşları,\n\nDuman Değil Gar İdi\n\nSevdiğum Senin İlen,\n\nNe Günlerum Var İdi",
+  "sozler_html": "<p>Of of&nbsp;</p><p>Maçka yolları taşlı,</p><p>Gel uyu kalem kaşlı</p><p>Ne oldu sana yavrum,</p><p>Böyle gözlerin yaşlı</p><p>&nbsp;</p><p>Of of&nbsp;</p><p>Yukarı gel yukarı</p><p>Irmağın gözündeyum</p><p>Eller ne derse desin</p><p>Ben yine peşundeyum</p><p>&nbsp;</p><p>Of of&nbsp;</p><p>Dereler akar akar</p><p>Garişir denizlere.</p><p>Gurban olayım yavrum,</p><p>O sevdali gözlere</p><p>&nbsp;</p><p>Of of&nbsp;</p><p>Gız tarlanin taşları,</p><p>Duman değil gar idi</p><p>Sevdiğum senin ilen,</p><p>Ne günlerum var idi</p>",
+  "sozler_duz": "Of of \n\nMaçka yolları taşlı,\n\nGel uyu kalem kaşlı\n\nNe oldu sana yavrum,\n\nBöyle gözlerin yaşlı\n\n \n\nOf of \n\nYukarı gel yukarı\n\nIrmağın gözündeyum\n\nEller ne derse desin\n\nBen yine peşundeyum\n\n \n\nOf of \n\nDereler akar akar\n\nGarişir denizlere.\n\nGurban olayım yavrum,\n\nO sevdali gözlere\n\n \n\nOf of \n\nGız tarlanin taşları,\n\nDuman değil gar idi\n\nSevdiğum senin ilen,\n\nNe günlerum var idi",
   "meta": {
     "yore": "Trabzon",
     "turu": "THM",
@@ -13,7 +13,7 @@
   "sistem": {
     "eski_id": 5912,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-23T05:48:58.420Z",
+    "son_degisiklik": "2026-04-23T06:49:52.528Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
