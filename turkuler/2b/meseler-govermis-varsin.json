@@ -1,26 +1,19 @@
 {
   "id": "meseler-govermis-varsin",
   "baslik": "MEŞELER GÖVERMİŞ VARSIN ...",
-  "sozler_html": "<p>Meşeler gövermiş varsın göversinSöyleyin huysuza durmasın gelsinVarmasın kötüye asılsın ölsünKöt(ü) adamın var ömrünü yok ederBen bilemedim yaylanızın yolunuSaçın uzun bağlasınlar  kolunuEğer annen seni bana vermezseYemin ettim keseceğim yolunuKaraser Deresi bükülür giderZülüfler gerdana dökülür giderBir yiğit de sevdiğini almazsaO yiğidin ömrü sökülür gider</p>",
-  "sozler_duz": "Meşeler gövermiş varsın göversinSöyleyin huysuza durmasın gelsinVarmasın kötüye asılsın ölsünKöt(ü) adamın var ömrünü yok ederBen bilemedim yaylanızın yolunuSaçın uzun bağlasınlar kolunuEğer annen seni bana vermezseYemin ettim keseceğim yolunuKaraser Deresi bükülür giderZülüfler gerdana dökülür giderBir yiğit de sevdiğini almazsaO yiğidin ömrü sökülür gider",
+  "sozler_html": "<p>Meşeler gövermiş varsın göversin</p><p>Söyleyin huysuza durmasın gelsin</p><p>Varmasın kötüye asılsın ölsün</p><p>Köt(ü) adamın var ömrünü yok eder</p><p><br></p><p>Ben bilemedim yaylanızın yolunu</p><p>Saçın uzun bağlasınlar  kolunu</p><p>Eğer annen seni bana vermezse</p><p>Yemin ettim keseceğim yolunu</p><p><br></p><p>Karaser Deresi bükülür gider</p><p>Zülüfler gerdana dökülür gider</p><p>Bir yiğit de sevdiğini almazsa</p><p>O yiğidin ömrü sökülür gider</p>",
+  "sozler_duz": "Meşeler gövermiş varsın göversin\n\nSöyleyin huysuza durmasın gelsin\n\nVarmasın kötüye asılsın ölsün\n\nKöt(ü) adamın var ömrünü yok eder\n\nBen bilemedim yaylanızın yolunu\n\nSaçın uzun bağlasınlar kolunu\n\nEğer annen seni bana vermezse\n\nYemin ettim keseceğim yolunu\n\nKaraser Deresi bükülür gider\n\nZülüfler gerdana dökülür gider\n\nBir yiğit de sevdiğini almazsa\n\nO yiğidin ömrü sökülür gider",
   "meta": {
-    "yore": "KIZILCAHAMAM     K: E.Ünver     D: M. Sarısözen",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "KIZILCAHAMAM     K: E.Ünver     D: M. Sarısözen",
-    "aciklama": ""
+    "yore": "ANKARA/KIZILCAHAMAM",
+    "turu": "THM",
+    "derleyen": "MUZAFFER SARISÖZEN",
+    "kaynak_kisi": "EMİNE ÜNLER-CEMİL ORHUN",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5981,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T07:27:28.309Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
