@@ -1,26 +1,19 @@
 {
   "id": "mor-koyun-meler-gelir",
-  "baslik": "Mor Koyun Meler Gelir _",
-  "sozler_html": "<p>(Aman) Mor Koyun Meler Gelir (Yavrum) Dağları Deler Gelir (Aman) Hakikatli Yar Olsa(Yavrum) Uykuyu Böler Gelir Nesine De Yavrum Nesine Sigara Da Koymuş Fesine Yavrum Ben Yandım Birisine (Aman) Mor Koyun Kuzusuna(Yavrum) Can Kaynar Birisine(Aman) Nedeydim De Ağlayım(Yavrum) Alnımın YazısınaNesine De Yavrum Nesine Sigara Da Koymuş Fesine Yavrum Ben Yandım Birisine (Aman) Mor Koyun Meşelerde (Yavrum) Gül Suyu Şişelerde (Aman) Eller Yarimi Almış (Yavrum) Ben Kaldım Köşelerde Nesine De Yavrum Nesine Sigara Da Koymuş Fesine Yavrum Ben Yandım Birisine</p>",
-  "sozler_duz": "(Aman) Mor Koyun Meler Gelir (Yavrum) Dağları Deler Gelir (Aman) Hakikatli Yar Olsa(Yavrum) Uykuyu Böler Gelir Nesine De Yavrum Nesine Sigara Da Koymuş Fesine Yavrum Ben Yandım Birisine (Aman) Mor Koyun Kuzusuna(Yavrum) Can Kaynar Birisine(Aman) Nedeydim De Ağlayım(Yavrum) Alnımın YazısınaNesine De Yavrum Nesine Sigara Da Koymuş Fesine Yavrum Ben Yandım Birisine (Aman) Mor Koyun Meşelerde (Yavrum) Gül Suyu Şişelerde (Aman) Eller Yarimi Almış (Yavrum) Ben Kaldım Köşelerde Nesine De Yavrum Nesine Sigara Da Koymuş Fesine Yavrum Ben Yandım Birisine",
+  "baslik": "MOR KOYUN MELER GELİR",
+  "sozler_html": "<p>(Aman) Mor koyun meler\ngelir&nbsp;</p><p>(yavrum) Dağları deler\ngelir&nbsp;</p><p>(aman) Hakikatli yar olsa</p><p>(yavrum) Uykuyu böler gelir&nbsp;</p><p>&nbsp;</p><p><b>Nesine de yavrum nesine&nbsp;</b></p><p><b>Sigara da koymuş fesine&nbsp;</b></p><p><b>Yavrum ben yandım birisine&nbsp;</b></p><p>&nbsp;</p><p>(aman) Mor koyun kuzusuna</p><p>(yavrum) Can kaynar birisine</p><p>(aman) Nedeydim de ağlayım</p><p>(yavrum) Alnımın yazısına</p><p>&nbsp;</p><p><b>Nesine de ...&nbsp;</b></p><p>&nbsp;</p><p>(aman) Mor koyun meşelerde&nbsp;</p><p>(yavrum) Gül suyu şişelerde&nbsp;</p><p>(aman) Eller yarimi almış&nbsp;</p><p>(yavrum) Ben kaldım\nköşelerde&nbsp;</p><p>&nbsp;</p><p>Nesine de ...&nbsp;</p>",
+  "sozler_duz": "(Aman) Mor koyun meler gelir \n\n(yavrum) Dağları deler gelir \n\n(aman) Hakikatli yar olsa\n\n(yavrum) Uykuyu böler gelir \n\n \n\nNesine de yavrum nesine \n\nSigara da koymuş fesine \n\nYavrum ben yandım birisine \n\n \n\n(aman) Mor koyun kuzusuna\n\n(yavrum) Can kaynar birisine\n\n(aman) Nedeydim de ağlayım\n\n(yavrum) Alnımın yazısına\n\n \n\nNesine de ... \n\n \n\n(aman) Mor koyun meşelerde \n\n(yavrum) Gül suyu şişelerde \n\n(aman) Eller yarimi almış \n\n(yavrum) Ben kaldım köşelerde \n\n \n\nNesine de ...",
   "meta": {
     "yore": "Ankara",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ahmet Yamacı-Ahmet Yamacı",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Ahmet Yamacı",
+    "kaynak_kisi": "Ahmet Yamacı",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5998,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T07:43:07.554Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
