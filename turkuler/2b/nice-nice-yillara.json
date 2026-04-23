@@ -1,26 +1,17 @@
 {
   "id": "nice-nice-yillara",
   "baslik": "NİCE NİCE YILLARA",
-  "sozler_html": "<p>Yapraklara dallara / Yeşillere allaraNice nice yıllara gülüm / Nice nice yıllaraYaprak dala al yeşile yaraşırGayrı bundan böyle / Vermem seni ellere</p>",
-  "sozler_duz": "Yapraklara dallara / Yeşillere allaraNice nice yıllara gülüm / Nice nice yıllaraYaprak dala al yeşile yaraşırGayrı bundan böyle / Vermem seni ellere",
+  "sozler_html": "<p>Yapraklara dallara&nbsp;</p><p>Yeşillere allara</p><p>Nice nice yıllara gülüm&nbsp;</p><p>Nice nice yıllara</p><p><br></p><p>Yaprak dala al yeşile yaraşır</p><p>Gayrı bundan böyle&nbsp;</p><p>Vermem seni ellere</p>",
+  "sozler_duz": "Yapraklara dallara \n\nYeşillere allara\n\nNice nice yıllara gülüm \n\nNice nice yıllara\n\nYaprak dala al yeşile yaraşır\n\nGayrı bundan böyle \n\nVermem seni ellere",
   "meta": {
-    "yore": "S : Nazım Hikmet     M: M. Kalaycıoğlu / Aksak",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S : Nazım Hikmet     M: M. Kalaycıoğlu / Aksak",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Nazım Hikmet",
+    "muzik": "Murat Kalaycıoğlu"
   },
   "sistem": {
     "eski_id": 6049,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T08:49:37.461Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
