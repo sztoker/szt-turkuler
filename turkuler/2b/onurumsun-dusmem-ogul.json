@@ -1,26 +1,18 @@
 {
   "id": "onurumsun-dusmem-ogul",
   "baslik": "ONURUMSUN (DÜŞMEM OĞUL)",
-  "sozler_html": "<p>Dört duvar dört dönerim / Kaç gecedir yoksun oğulBıçak bilenir etimde / Başında toprak beton mu oğulBin yıl yatarım sevdana / Onurumsun susmam oğulYüreğim kopmuş geliyorDevrime kadar(1 düşmem oğulYere göğe koymazdım seni / Çaldılar dalımdan oğulEcelin öne alınmış / Olanca canım sana aksın oğulBin yıl ...</p>",
-  "sozler_duz": "Dört duvar dört dönerim / Kaç gecedir yoksun oğulBıçak bilenir etimde / Başında toprak beton mu oğulBin yıl yatarım sevdana / Onurumsun susmam oğulYüreğim kopmuş geliyorDevrime kadar(1 düşmem oğulYere göğe koymazdım seni / Çaldılar dalımdan oğulEcelin öne alınmış / Olanca canım sana aksın oğulBin yıl ...",
+  "sozler_html": "<p>Dört duvar dört dönerim&nbsp;</p><p>Kaç gecedir yoksun oğul</p><p>Bıçak bilenir etimde&nbsp;</p><p>Başında toprak beton mu oğul</p><p><br></p><p>Bin yıl yatarım sevdana&nbsp;</p><p>Onurumsun susmam oğul</p><p>Yüreğim kopmuş geliyor</p><p>Devrime kadar düşmem oğul</p><p><br></p><p>Yere göğe koymazdım seni&nbsp;</p><p>Çaldılar dalımdan oğul</p><p>Ecelin öne alınmış&nbsp;</p><p>Olanca canım sana aksın oğul</p><p><br></p>",
+  "sozler_duz": "Dört duvar dört dönerim \n\nKaç gecedir yoksun oğul\n\nBıçak bilenir etimde \n\nBaşında toprak beton mu oğul\n\nBin yıl yatarım sevdana \n\nOnurumsun susmam oğul\n\nYüreğim kopmuş geliyor\n\nDevrime kadar düşmem oğul\n\nYere göğe koymazdım seni \n\nÇaldılar dalımdan oğul\n\nEcelin öne alınmış \n\nOlanca canım sana aksın oğul",
   "meta": {
-    "yore": "?      Y : Grup Yorum",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?      Y : Grup Yorum",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Savaş Ezgi",
+    "muzik": "Grup Yorum?",
+    "soyleyenler": "Grup Yorum"
   },
   "sistem": {
     "eski_id": 6094,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T09:45:17.515Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
