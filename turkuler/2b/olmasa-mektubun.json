@@ -1,26 +1,18 @@
 {
   "id": "olmasa-mektubun",
   "baslik": "OLMASA MEKTUBUN",
-  "sozler_html": "<p>Olmasa mektubun yazdıkların olmasaKim inanır senle ayrıldığımızaSanma unutulur kalp ağrısı zamanlaHer şeyi unutarak yaşanır sanmaNeydi bir arada tutan şey ikimiziBirleştiren neydi ellerimiziBırak bana anlatma imkansız sevgimiziSevmek bir çok şeyi göze almaktırOlmasa mektubun yazdıkların olmasaKim inanır senle ayrıldığımızaBaksana geçmişe ne çok anıyla yüklüNerde o taverna nerdesin nerdeHarcanmış zamanlar yeniden yaşanmaz kiGeç kaldıktan sonra arama boşaNeydi bir arada ...</p>",
-  "sozler_duz": "Olmasa mektubun yazdıkların olmasaKim inanır senle ayrıldığımızaSanma unutulur kalp ağrısı zamanlaHer şeyi unutarak yaşanır sanmaNeydi bir arada tutan şey ikimiziBirleştiren neydi ellerimiziBırak bana anlatma imkansız sevgimiziSevmek bir çok şeyi göze almaktırOlmasa mektubun yazdıkların olmasaKim inanır senle ayrıldığımızaBaksana geçmişe ne çok anıyla yüklüNerde o taverna nerdesin nerdeHarcanmış zamanlar yeniden yaşanmaz kiGeç kaldıktan sonra arama boşaNeydi bir arada ...",
+  "sozler_html": "<p>Olmasa mektubun yazdıkların olmasa</p><p>Kim inanır senle ayrıldığımıza</p><p>Sanma unutulur kalp ağrısı zamanla</p><p>Her şeyi unutarak yaşanır sanma</p><p><br></p><p><b>Neydi bir arada tutan şey ikimizi</b></p><p><b>Birleştiren neydi ellerimizi</b></p><p><b>Bırak bana anlatma imkansız sevgimizi</b></p><p><b>Sevmek bir çok şeyi göze almaktır</b></p><p><br></p><p>Baksana geçmişe ne çok anıyla yüklü</p><p>Nerde o taverna nerde sinema</p><p>Harcanmış zamanla yeniden yaşanmaz ki</p><p>Geç kaldıktan sonra arama boşa</p><p><br></p><p><b>Neydi bir arada ...</b></p>",
+  "sozler_duz": "Olmasa mektubun yazdıkların olmasa\n\nKim inanır senle ayrıldığımıza\n\nSanma unutulur kalp ağrısı zamanla\n\nHer şeyi unutarak yaşanır sanma\n\nNeydi bir arada tutan şey ikimizi\n\nBirleştiren neydi ellerimizi\n\nBırak bana anlatma imkansız sevgimizi\n\nSevmek bir çok şeyi göze almaktır\n\nBaksana geçmişe ne çok anıyla yüklü\n\nNerde o taverna nerde sinema\n\nHarcanmış zamanla yeniden yaşanmaz ki\n\nGeç kaldıktan sonra arama boşa\n\nNeydi bir arada ...",
   "meta": {
-    "yore": "S : Murathan Mungan      YENİ TÜRKÜ",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S : Murathan Mungan      YENİ TÜRKÜ",
-    "aciklama": ""
+    "turu": "POP",
+    "soz": "Murathan Mungan",
+    "muzik": "Manos Loizos",
+    "soyleyenler": "Yeni Türkü"
   },
   "sistem": {
     "eski_id": 6088,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T09:32:34.861Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
