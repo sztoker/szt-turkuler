@@ -1,26 +1,19 @@
 {
   "id": "ne-sevdigin-belli-ne-sevmedigin-ey-sevdigim-sana-sikayetim-var",
-  "baslik": "NE SEVDİĞİN BELLİ NE SEVMEDİĞİN\r\n( Ey sevdiğim sana şikayetim var )",
-  "sozler_html": "<p>Ey sevdiğim sana şikayetim varNe sevdiğin belli ne sevmediğinBen de bir insanım bir de canım varNe sevdiğin belli ne sevmediğin –oy oyZalımsın oy oy / Hayınsın oy oy / Ne deyim oy oy -oyEski günler hayalimden gitmiyorDün dediğin bugünkünü tutmuyorYiğidim ya sana gücüm yetmiyor / Ne sevdiğin belli ...Akarsuyum böyle miydi ahdımızOnun için viran oldu tahtımızUmudum yok gülmez artık bahtımız / Ne sevdiğin belli ...</p>",
-  "sozler_duz": "Ey sevdiğim sana şikayetim varNe sevdiğin belli ne sevmediğinBen de bir insanım bir de canım varNe sevdiğin belli ne sevmediğin –oy oyZalımsın oy oy / Hayınsın oy oy / Ne deyim oy oy -oyEski günler hayalimden gitmiyorDün dediğin bugünkünü tutmuyorYiğidim ya sana gücüm yetmiyor / Ne sevdiğin belli ...Akarsuyum böyle miydi ahdımızOnun için viran oldu tahtımızUmudum yok gülmez artık bahtımız / Ne sevdiğin belli ...",
+  "baslik": "NE SEVDİĞİN BELLİ NE SEVMEDİĞİN( Ey sevdiğim sana şikayetim var )",
+  "sozler_html": "<p>Ey sevdiğim sana şikayetim var</p><p>Ne sevdiğin belli ne sevmediğin</p><p>Ben de bir insanım bir de canım var</p><p><br></p><p><b>Ne sevdiğin belli ne sevmediğin oy oy&nbsp;</b></p><p><b>Zalımsın oy oy&nbsp;</b></p><p><b>Hayınsın oy oy&nbsp;</b></p><p><b>Ne deyim oy oy -oy</b></p><p><br></p><p>Eski günler hayalimden gitmiyor</p><p>Dün dediğin bugünkünü tutmuyor</p><p>Yiğidim ya sana gücüm yetmiyor</p><p><br></p><p><b>Ne sevdiğin belli ...</b></p><p><br></p><p>Akarsuyum böyle miydi ahdımız</p><p>Onun için viran oldu tahtımız</p><p>Umudum yok gülmez artık bahtımız&nbsp;</p><p><br></p><p><b>Ne sevdiğin belli ...</b></p>",
+  "sozler_duz": "Ey sevdiğim sana şikayetim var\n\nNe sevdiğin belli ne sevmediğin\n\nBen de bir insanım bir de canım var\n\nNe sevdiğin belli ne sevmediğin oy oy \n\nZalımsın oy oy \n\nHayınsın oy oy \n\nNe deyim oy oy -oy\n\nEski günler hayalimden gitmiyor\n\nDün dediğin bugünkünü tutmuyor\n\nYiğidim ya sana gücüm yetmiyor\n\nNe sevdiğin belli ...\n\nAkarsuyum böyle miydi ahdımız\n\nOnun için viran oldu tahtımız\n\nUmudum yok gülmez artık bahtımız \n\nNe sevdiğin belli ...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
+    "yore": "Sivas/Kangal",
+    "turu": "THM",
+    "derleyen": "TRT Ankara Rad.",
     "kaynak_kisi": "Muhlis Akarsu",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6029,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T08:43:06.239Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
