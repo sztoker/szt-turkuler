@@ -1,15 +1,19 @@
 {
   "id": "maden-dagi-dumandir",
   "baslik": "MADEN DAĞI DUMANDIR",
-  "sozler_html": "<p>Maden Dağı dumandır –de loy loy / de loy loy kibar yarimYolu dolan dolandır–de loy loy / de loy loy kibar yarimGitti yarim gelmedi / Yaş gözüme dolandırBu dağın ardı meşe / Gün kalka gölge düşeBeni yardan ayıran / Evine şivan düşeBu dağlar meşe dağlar / Vermiş baş başa dağlarO yar dönüp gelende / Yol verin aşa dağlar</p>",
-  "sozler_duz": "Maden Dağı dumandır –de loy loy / de loy loy kibar yarimYolu dolan dolandır–de loy loy / de loy loy kibar yarimGitti yarim gelmedi / Yaş gözüme dolandırBu dağın ardı meşe / Gün kalka gölge düşeBeni yardan ayıran / Evine şivan düşeBu dağlar meşe dağlar / Vermiş baş başa dağlarO yar dönüp gelende / Yol verin aşa dağlar",
+  "sozler_html": "<p>Maden dağı dumandı –<b>de loy loy de loy loy de loy loy di gel yarim</b></p><p>Yolu dolan dolandı<b>–de loy ...di gel malım</b></p><p>Gitti yarim gelmedi&nbsp;–de loy ...di gel yarim</p><p>Yaş gözüme dolandı–de loy ...di gel malım</p><p><br></p><p>Bu dağın ardı meşe&nbsp;–de loy ...di gel yarim</p><p>Gün kalka gölge düşe–de loy ...di gel malım</p><p>Beni yardan ayıran&nbsp;–de loy ...di gel yarim</p><p>Evine şivan düşe–de loy ...di gel malım</p><p><br></p><p>Bu dağlar meşe dağlar–de loy ...di gel yarim</p><p>Vermiş baş başa dağlar–de loy ...di gel malım</p><p>O yar dönüp gelende&nbsp;–de loy ...di gel yarim</p><p>Yol verin aşa dağlar–de loy ...di gel malım</p>",
+  "sozler_duz": "Maden dağı dumandı –de loy loy de loy loy de loy loy di gel yarim\n\nYolu dolan dolandı–de loy ...di gel malım\n\nGitti yarim gelmedi –de loy ...di gel yarim\n\nYaş gözüme dolandı–de loy ...di gel malım\n\nBu dağın ardı meşe –de loy ...di gel yarim\n\nGün kalka gölge düşe–de loy ...di gel malım\n\nBeni yardan ayıran –de loy ...di gel yarim\n\nEvine şivan düşe–de loy ...di gel malım\n\nBu dağlar meşe dağlar–de loy ...di gel yarim\n\nVermiş baş başa dağlar–de loy ...di gel malım\n\nO yar dönüp gelende –de loy ...di gel yarim\n\nYol verin aşa dağlar–de loy ...di gel malım",
   "meta": {
-    "yore": "DİYARBAKIR"
+    "yore": "DİYARBAKIR/Çüngüş",
+    "turu": "THM",
+    "derleyen": "İZZET ALTINMEŞE",
+    "kaynak_kisi": "İZZET ALTINMEŞE",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5916,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T12:17:40.340Z",
+    "son_degisiklik": "2026-04-23T06:02:29.450Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
