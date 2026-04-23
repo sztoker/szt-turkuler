@@ -1,0 +1,21 @@
+{
+  "id": "ordunun-dereleri",
+  "baslik": "ORDU'NUN DERELERİ",
+  "sozler_html": "<p>Ordu'nun dereleri</p><p>Aksa yukarı aksa</p><p>Vermem seni ellere</p><p>Ordu üstüme kalksa (sürmelim\naman)</p><p><br></p><p>Oy mehmedim mehmedim</p><p>Sana küstüm demedim</p><p>Beni sana geçmişler</p><p>Vallahi ben demedim (sürmelim\naman)</p><p><br></p><p>Ordu'nun dereleri</p><p>Derin derin çağlıyor</p><p>Kalk gidelim sevdiğim</p><p>Annem evde ağlıyor (sürmelim\naman)</p><p><br></p><p>Oy bağlamam bağlamam</p><p>Zerdali dalı mısın</p><p>Garip garip çalarsın</p><p>Benden sevdalı mısın</p>",
+  "sozler_duz": "Ordu'nun dereleri\n\nAksa yukarı aksa\n\nVermem seni ellere\n\nOrdu üstüme kalksa (sürmelim aman)\n\nOy mehmedim mehmedim\n\nSana küstüm demedim\n\nBeni sana geçmişler\n\nVallahi ben demedim (sürmelim aman)\n\nOrdu'nun dereleri\n\nDerin derin çağlıyor\n\nKalk gidelim sevdiğim\n\nAnnem evde ağlıyor (sürmelim aman)\n\nOy bağlamam bağlamam\n\nZerdali dalı mısın\n\nGarip garip çalarsın\n\nBenden sevdalı mısın",
+  "meta": {
+    "yore": "Ordu",
+    "turu": "THM",
+    "derleyen": "Ahmet Yamacı",
+    "kaynak_kisi": "Kadir Üstündağ",
+    "karar": "La"
+  },
+  "sistem": {
+    "eski_id": 6096,
+    "olusturma": "2026-04-20",
+    "son_degisiklik": "2026-04-23T09:52:44.041Z",
+    "versiyon": 1,
+    "yayinlanabilir": true,
+    "kontrol_edildi": false
+  }
+}
