@@ -1,26 +1,17 @@
 {
   "id": "olmali-mi-olmamali-mi",
   "baslik": "OLMALI MI OLMAMALI MI",
-  "sozler_html": "<p>Olmalı mı olmamalı mı / Yoksa hiç değişmemeli miAma ben değişmezsem / Ben olamam kiGörmeli mi görmemeli mi / Yoksa hiç bakınmamalı mıAma ben bakınmazsam / Hiç göremem kiSevmeli mi sevmemeli mi / Yoksa hiç beğenmemeli miAma ben beğenmezsem / Hiç konuşmam kiBilmeli mi bilmemeli mi / Yoksa hiç öğrenmemeli mi</p>",
-  "sozler_duz": "Olmalı mı olmamalı mı / Yoksa hiç değişmemeli miAma ben değişmezsem / Ben olamam kiGörmeli mi görmemeli mi / Yoksa hiç bakınmamalı mıAma ben bakınmazsam / Hiç göremem kiSevmeli mi sevmemeli mi / Yoksa hiç beğenmemeli miAma ben beğenmezsem / Hiç konuşmam kiBilmeli mi bilmemeli mi / Yoksa hiç öğrenmemeli mi",
+  "sozler_html": "<p>Olmalı mı olmamalı mı&nbsp;</p><p>Yoksa hiç değişmemeli mi</p><p>Ama ben değişmezsem&nbsp;</p><p>Ben olamam ki</p><p><br></p><p>Görmeli mi görmemeli mi&nbsp;</p><p>Yoksa hiç bakınmamalı mı</p><p>Ama ben bakınmazsam&nbsp;</p><p>Hiç göremem ki</p><p><br></p><p>Sevmeli mi sevmemeli mi&nbsp;</p><p>Yoksa hiç beğenmemeli mi</p><p>Ama ben beğenmezsem&nbsp;</p><p>Hiç konuşmam ki</p><p><br></p><p>Bilmeli mi bilmemeli mi&nbsp;</p><p>Yoksa hiç öğrenmemeli mi</p><p>Ama ben öğrenmezsem</p><p>Hiç olamam ki</p>",
+  "sozler_duz": "Olmalı mı olmamalı mı \n\nYoksa hiç değişmemeli mi\n\nAma ben değişmezsem \n\nBen olamam ki\n\nGörmeli mi görmemeli mi \n\nYoksa hiç bakınmamalı mı\n\nAma ben bakınmazsam \n\nHiç göremem ki\n\nSevmeli mi sevmemeli mi \n\nYoksa hiç beğenmemeli mi\n\nAma ben beğenmezsem \n\nHiç konuşmam ki\n\nBilmeli mi bilmemeli mi \n\nYoksa hiç öğrenmemeli mi\n\nAma ben öğrenmezsem\n\nHiç olamam ki",
   "meta": {
-    "yore": "Bülent Ortaçgil",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Bülent Ortaçgil",
-    "aciklama": ""
+    "turu": "POP",
+    "soz": "Bülent Ortaçgil",
+    "muzik": "Bülent Ortaçgil"
   },
   "sistem": {
     "eski_id": 6087,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T09:26:45.527Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
