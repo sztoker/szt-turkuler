@@ -1,26 +1,19 @@
 {
   "id": "macka-yollari-tasli",
-  "baslik": "Maçka Yolları Taşlı_",
-  "sozler_html": "<p>Oy. Maçka Yolları Taşlı,Gel Uyu Kalem KaşlıNe Oldu Sana Yavrum,Böyle Gözlerin YaşlıYukarı Gel YukarıIrmağın GözündeyumEller Ne Derse DesinBen Yine PeşundeyumDereler Akar AkarGarişir Denizlere.Gurban Olayım Yavrum,O Sevdali GözlereGız Tarlanin Taşları,Duman Değil Gar İdiSevdiğum Senin İlen,Ne Günlerum Var İdi</p>",
-  "sozler_duz": "Oy. Maçka Yolları Taşlı,Gel Uyu Kalem KaşlıNe Oldu Sana Yavrum,Böyle Gözlerin YaşlıYukarı Gel YukarıIrmağın GözündeyumEller Ne Derse DesinBen Yine PeşundeyumDereler Akar AkarGarişir Denizlere.Gurban Olayım Yavrum,O Sevdali GözlereGız Tarlanin Taşları,Duman Değil Gar İdiSevdiğum Senin İlen,Ne Günlerum Var İdi",
+  "baslik": "MAÇKA YOLLARI TAŞLI",
+  "sozler_html": "<p>Of Of&nbsp;</p><p>Maçka Yolları Taşlı,</p><p>Gel Uyu Kalem Kaşlı</p><p>Ne Oldu Sana Yavrum,</p><p>Böyle Gözlerin Yaşlı</p><p><br></p><p>Of Of&nbsp;</p><p>Yukarı Gel Yukarı</p><p>Irmağın Gözündeyum</p><p>Eller Ne Derse Desin</p><p>Ben Yine Peşundeyum</p><p><br></p><p>Of Of&nbsp;</p><p>Dereler Akar Akar</p><p>Garişir Denizlere.</p><p>Gurban Olayım Yavrum,</p><p>O Sevdali Gözlere</p><p><br></p><p>Of Of&nbsp;</p><p>Gız Tarlanin Taşları,</p><p>Duman Değil Gar İdi</p><p>Sevdiğum Senin İlen,</p><p>Ne Günlerum Var İdi</p>",
+  "sozler_duz": "Of Of \n\nMaçka Yolları Taşlı,\n\nGel Uyu Kalem Kaşlı\n\nNe Oldu Sana Yavrum,\n\nBöyle Gözlerin Yaşlı\n\nOf Of \n\nYukarı Gel Yukarı\n\nIrmağın Gözündeyum\n\nEller Ne Derse Desin\n\nBen Yine Peşundeyum\n\nOf Of \n\nDereler Akar Akar\n\nGarişir Denizlere.\n\nGurban Olayım Yavrum,\n\nO Sevdali Gözlere\n\nOf Of \n\nGız Tarlanin Taşları,\n\nDuman Değil Gar İdi\n\nSevdiğum Senin İlen,\n\nNe Günlerum Var İdi",
   "meta": {
     "yore": "Trabzon",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Bahattin Çamur-İstanbul Rad. THM Müd",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "İstanbul Rad. THM Müd",
+    "kaynak_kisi": "Bahattin Çamurali",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5912,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T05:48:58.420Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
