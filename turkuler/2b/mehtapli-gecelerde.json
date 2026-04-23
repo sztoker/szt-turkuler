@@ -1,26 +1,18 @@
 {
   "id": "mehtapli-gecelerde",
   "baslik": "MEHTAPLI GECELERDE",
-  "sozler_html": "<p>Mehtaplı gecelerde / Hep seni andım          - ah ah hep seni andımBelki gelirsin diye / Boş yere kandım          - ah ah boş yere kandımYeter artık çektiğim çile      – ah ah çektiğim çileBelki gelirsin diye ./ Boş yere yandım</p>",
-  "sozler_duz": "Mehtaplı gecelerde / Hep seni andım - ah ah hep seni andımBelki gelirsin diye / Boş yere kandım - ah ah boş yere kandımYeter artık çektiğim çile – ah ah çektiğim çileBelki gelirsin diye ./ Boş yere yandım",
+  "sozler_html": "<p>Mehtaplı gecelerde&nbsp;</p><p>Hep seni andım          - ah ah hep seni andım</p><p>Belki gelirsin diye&nbsp;</p><p>Boş yere kandım          - ah ah boş yere kandım</p><p>Yeter artık çektiğim çile      – ah ah çektiğim çile</p><p>Belki gelirsin diye&nbsp;</p><p>Boş yere yandım</p>",
+  "sozler_duz": "Mehtaplı gecelerde \n\nHep seni andım - ah ah hep seni andım\n\nBelki gelirsin diye \n\nBoş yere kandım - ah ah boş yere kandım\n\nYeter artık çektiğim çile – ah ah çektiğim çile\n\nBelki gelirsin diye \n\nBoş yere yandım",
   "meta": {
-    "yore": "Sevim Şengül              Uşşak / Curcuna",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Sevim Şengül              Uşşak / Curcuna",
-    "aciklama": ""
+    "turu": "TSM",
+    "soz": "Sevim Şengül",
+    "muzik": "Sevim Şengül",
+    "diger_bilgiler": "Uşşak / Curcuna"
   },
   "sistem": {
     "eski_id": 5955,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T07:12:05.221Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
