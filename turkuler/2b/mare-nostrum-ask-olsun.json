@@ -1,26 +1,18 @@
 {
   "id": "mare-nostrum-ask-olsun",
   "baslik": "MARE NOSTRUM ( Aşk olsun )",
-  "sozler_html": "<p>En uzun koşuysa elbet Türkiye’de de devrimO onun en güzel yüz metresini koştuEn sekmez lüverin namlusundan fırlayarakEn hızlısıydı hepimizin / En önce göğüsledi ipiAcıyorsam sana anam avradım olsunAma aşk olsun çocuk sana aşk olsun</p>",
-  "sozler_duz": "En uzun koşuysa elbet Türkiye’de de devrimO onun en güzel yüz metresini koştuEn sekmez lüverin namlusundan fırlayarakEn hızlısıydı hepimizin / En önce göğüsledi ipiAcıyorsam sana anam avradım olsunAma aşk olsun çocuk sana aşk olsun",
+  "sozler_html": "<p>En uzun koşuysa elbet&nbsp;</p><p>Türkiye’de de devrim</p><p>O onun en güzel yüz metresini koştu</p><p>En sekmez lüverin namlusundan fırlayarak</p><p>En hızlısıydı hepimizin</p><p>En önce göğüsledi ipi</p><p>Acıyorsam sana anam avradım olsun</p><p>Ama aşk olsun çocuk sana aşk olsun</p>",
+  "sozler_duz": "En uzun koşuysa elbet \n\nTürkiye’de de devrim\n\nO onun en güzel yüz metresini koştu\n\nEn sekmez lüverin namlusundan fırlayarak\n\nEn hızlısıydı hepimizin\n\nEn önce göğüsledi ipi\n\nAcıyorsam sana anam avradım olsun\n\nAma aşk olsun çocuk sana aşk olsun",
   "meta": {
-    "yore": "S : Can Yücel",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S : Can Yücel",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Can Yücel",
+    "muzik": "Mazlum Çimen",
+    "soyleyenler": "Edip Akbayram"
   },
   "sistem": {
     "eski_id": 5937,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T06:56:10.775Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
