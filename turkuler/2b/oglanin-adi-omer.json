@@ -1,26 +1,19 @@
 {
   "id": "oglanin-adi-omer",
-  "baslik": "Oğlanın Adı Ömer_",
-  "sozler_html": "<p>Oğlanın Adı ÖmerBelimi Sıktı KemerBenim İnce BelimeYakışır Gümüş KemerAynalı Körük OlmazsaBen Gelin GitmemUd Kemani ÇalmazsaAynalı Körüğe BinmemGel Dağları AşalımHilalde BuluşalımGirelim Biz KolkolaÇamlıkta DolaşalımAynalı Körük OlmazsaBen Gelin GitmemUd Kemani ÇalmazsaAynalı Körüğe Binmem</p>",
-  "sozler_duz": "Oğlanın Adı ÖmerBelimi Sıktı KemerBenim İnce BelimeYakışır Gümüş KemerAynalı Körük OlmazsaBen Gelin GitmemUd Kemani ÇalmazsaAynalı Körüğe BinmemGel Dağları AşalımHilalde BuluşalımGirelim Biz KolkolaÇamlıkta DolaşalımAynalı Körük OlmazsaBen Gelin GitmemUd Kemani ÇalmazsaAynalı Körüğe Binmem",
+  "baslik": "OĞLANIN ADI ÖMER",
+  "sozler_html": "<p>Oğlanın adı ömer</p><p>Belimi sıktı kemer</p><p>Benim ince belime</p><p>Yakışır gümüş kemer</p><p><br></p><p><b>Aynalı körük olmazsa</b></p><p><b>Ben gelin gitmem</b></p><p><b>Ud kemani çalmazsa</b></p><p><b>Aynalı körüğe binmem</b></p><p><br></p><p>Gel dağları aşalım</p><p>Hilalde buluşalım</p><p>Girelim biz kolkola</p><p>Çamlıkta dolaşalım</p><p><br></p><p><b>Aynalı körük ...</b></p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>&nbsp;</p>",
+  "sozler_duz": "Oğlanın adı ömer\n\nBelimi sıktı kemer\n\nBenim ince belime\n\nYakışır gümüş kemer\n\nAynalı körük olmazsa\n\nBen gelin gitmem\n\nUd kemani çalmazsa\n\nAynalı körüğe binmem\n\nGel dağları aşalım\n\nHilalde buluşalım\n\nGirelim biz kolkola\n\nÇamlıkta dolaşalım\n\nAynalı körük ...",
   "meta": {
     "yore": "Yozgat",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Yöre Ekibi-Banttan Yazıldı",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Banttan Yazıldı",
+    "kaynak_kisi": "Yöre Ekibi",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6081,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-23T09:13:12.689Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
