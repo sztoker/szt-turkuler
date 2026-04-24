@@ -1,26 +1,19 @@
 {
   "id": "puskulludur-puskullu",
   "baslik": "PÜSKÜLLÜDÜR PÜSKÜLLÜ",
-  "sozler_html": "<p>Püsküllüdür püsküllü / Ala gürgenin dalıKız babandan mı kaldı / Yalan dünyanın malıGürgen vardım dibine / Patar alırım patarAnan seni sevmiyor / Benim sevdiğim kadarGürgen vardım dibine / Oyma alırım oymaAldattın beni yavrum / Genç yaşlarına doyma</p>",
-  "sozler_duz": "Püsküllüdür püsküllü / Ala gürgenin dalıKız babandan mı kaldı / Yalan dünyanın malıGürgen vardım dibine / Patar alırım patarAnan seni sevmiyor / Benim sevdiğim kadarGürgen vardım dibine / Oyma alırım oymaAldattın beni yavrum / Genç yaşlarına doyma",
+  "sozler_html": "<p>Püsküllüdür püsküllü&nbsp;</p><p>Ala gürgenin dalı</p><p>Kız babandan mı kaldı&nbsp;</p><p>Yalan dünyanın malı</p><p><br></p><p>Gürgen vardım dibine&nbsp;</p><p>Patar alırım patar</p><p>Anan seni sevmiyor&nbsp;</p><p>Benim sevdiğim kadar</p><p><br></p><p>Gürgen vardım dibine&nbsp;</p><p>Oyma alırım oyma</p><p>Aldattın beni yavrum&nbsp;</p><p>Genç yaşlarına doyma</p>",
+  "sozler_duz": "Püsküllüdür püsküllü \n\nAla gürgenin dalı\n\nKız babandan mı kaldı \n\nYalan dünyanın malı\n\nGürgen vardım dibine \n\nPatar alırım patar\n\nAnan seni sevmiyor \n\nBenim sevdiğim kadar\n\nGürgen vardım dibine \n\nOyma alırım oyma\n\nAldattın beni yavrum \n\nGenç yaşlarına doyma",
   "meta": {
-    "yore": "GİRESUN",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "GİRESUN",
-    "aciklama": ""
+    "yore": "GİRESUN/Görele/Çavuşlu köyü",
+    "turu": "THM",
+    "derleyen": "ÖMER AKPINAR",
+    "kaynak_kisi": "MUSTAFA TAHMAZ",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6185,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T07:06:02.722Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
