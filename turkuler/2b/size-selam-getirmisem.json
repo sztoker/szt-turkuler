@@ -1,26 +1,19 @@
 {
   "id": "size-selam-getirmisem",
   "baslik": "SİZE SELAM GETİRMİŞEM",
-  "sozler_html": "<p>Serin sulu bulaklardan -bulaklardanYeşil yaprak budaklardan -budaklardanLale renkli yanaklardanBal süzülen dudaklardanSize selam size selam getirmişemKatar katar turnalardan / Yeşil başlı sunalardanAzerbaycan diyarından / Köroğlu'nun nigarındanSize selam size selam getirmişemKoç Nebi'nin hecerinden  /  Setterhan'ın hünerindenŞehriyarın şeherinden  /  Ay yıldızlı seherindenSize selam getirmişem / Katar katar ...</p>",
-  "sozler_duz": "Serin sulu bulaklardan -bulaklardanYeşil yaprak budaklardan -budaklardanLale renkli yanaklardanBal süzülen dudaklardanSize selam size selam getirmişemKatar katar turnalardan / Yeşil başlı sunalardanAzerbaycan diyarından / Köroğlu'nun nigarındanSize selam size selam getirmişemKoç Nebi'nin hecerinden / Setterhan'ın hünerindenŞehriyarın şeherinden / Ay yıldızlı seherindenSize selam getirmişem / Katar katar ...",
+  "sozler_html": "<p>Serin sulu bulaklardan -bulaklardan</p><p>Yeşil yaprak budaklardan -budaklardan</p><p>Lale renkli yanaklardan</p><p>Bal süzülen dudaklardan</p><p>Size selam size selam getirmişem</p><p><br></p><p>Katar katar turnalardan&nbsp;</p><p>Yeşil başlı sunalardan</p><p>Azerbaycan diyarından&nbsp;</p><p>Köroğlu'nun nigarından</p><p>Size selam size selam getirmişem</p><p><br></p><p>Koç Nebi'nin hecerinden&nbsp;</p><p>Setterhan'ın hünerinden</p><p>Şehriyarın şeherinden&nbsp;</p><p>Ay yıldızlı seherinden</p><p>Size selam getirmişem&nbsp;</p><p><br></p><p>Katar katar ...</p>",
+  "sozler_duz": "Serin sulu bulaklardan -bulaklardan\n\nYeşil yaprak budaklardan -budaklardan\n\nLale renkli yanaklardan\n\nBal süzülen dudaklardan\n\nSize selam size selam getirmişem\n\nKatar katar turnalardan \n\nYeşil başlı sunalardan\n\nAzerbaycan diyarından \n\nKöroğlu'nun nigarından\n\nSize selam size selam getirmişem\n\nKoç Nebi'nin hecerinden \n\nSetterhan'ın hünerinden\n\nŞehriyarın şeherinden \n\nAy yıldızlı seherinden\n\nSize selam getirmişem \n\nKatar katar ...",
   "meta": {
-    "yore": "AZERİ",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AZERİ",
-    "aciklama": ""
+    "yore": "AZERBAYCAN",
+    "turu": "THM",
+    "derleyen": "HUŞENG AZEROĞLU",
+    "kaynak_kisi": "HUŞENG AZEROĞLU",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6314,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T18:42:52.872Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
