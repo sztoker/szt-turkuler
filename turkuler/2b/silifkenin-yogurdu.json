@@ -1,26 +1,19 @@
 {
   "id": "silifkenin-yogurdu",
   "baslik": "SİLİFKE’NİN YOĞURDU",
-  "sozler_html": "<p>ah hey hey - Silifke’nin yoğurdu / ah –Seni kimler doğurduSeni doğuran ana / Balınan mı yoğurduBeşiği çamdan / ah- Yuvarlandı damdanKeşke sevmez olaydım / Usandırdı bu candanKale kaleye bakar / Kaleden çaylar akarDelikanlı dururken / İhtiyara kim bakarBeşiği çamdan / ah- Yuvarlandı damdanAnası pilav pişirir / Oğlu durmaz aşırırBağa girdim üzüme / Çıbık battı dizimeÇıbık seni keserim / Yar göründü gözüme / Beşiği ...</p>",
-  "sozler_duz": "ah hey hey - Silifke’nin yoğurdu / ah –Seni kimler doğurduSeni doğuran ana / Balınan mı yoğurduBeşiği çamdan / ah- Yuvarlandı damdanKeşke sevmez olaydım / Usandırdı bu candanKale kaleye bakar / Kaleden çaylar akarDelikanlı dururken / İhtiyara kim bakarBeşiği çamdan / ah- Yuvarlandı damdanAnası pilav pişirir / Oğlu durmaz aşırırBağa girdim üzüme / Çıbık battı dizimeÇıbık seni keserim / Yar göründü gözüme / Beşiği ...",
+  "sozler_html": "<p>ah hey hey hey&nbsp;</p><p>Silifke’nin yoğurdu&nbsp;</p><p>ah Seni kimler doğurdu</p><p>Seni doğuran ana&nbsp;</p><p>Balınan mı yoğurdu</p><p><br></p><p><b>Beşiği çamdan&nbsp;</b></p><p><b>ah- Yuvarlandı damdan</b></p><p><b>Anası pilav pişirir&nbsp;</b></p><p><b>Oğlu durmaz aşırır</b></p><p><br></p><p>Kale kaleye bakar&nbsp;</p><p>Kaleden çaylar akar</p><p>Delikanlı dururken&nbsp;</p><p>İhtiyara kim bakar</p><p><br></p><p><b>Beşiği çamdan...&nbsp;</b></p><p><br></p><p>Bağa girdim üzüme&nbsp;</p><p>Çıbık battı dizime</p><p>Çıbık seni keserim&nbsp;</p><p>Yar göründü gözüme&nbsp;</p><p><br></p><p>Beşiği çamdan...&nbsp;</p><p><br></p><p>Beşiği çamdan&nbsp;</p><p>ah- Yuvarlandı damdan</p><p>Keşke sevmez olaydım&nbsp;</p><p>Usandırdı bu candan</p><p><br></p><p>Beşiği çamdan...&nbsp;</p>",
+  "sozler_duz": "ah hey hey hey \n\nSilifke’nin yoğurdu \n\nah Seni kimler doğurdu\n\nSeni doğuran ana \n\nBalınan mı yoğurdu\n\nBeşiği çamdan \n\nah- Yuvarlandı damdan\n\nAnası pilav pişirir \n\nOğlu durmaz aşırır\n\nKale kaleye bakar \n\nKaleden çaylar akar\n\nDelikanlı dururken \n\nİhtiyara kim bakar\n\nBeşiği çamdan... \n\nBağa girdim üzüme \n\nÇıbık battı dizime\n\nÇıbık seni keserim \n\nYar göründü gözüme \n\nBeşiği çamdan... \n\nBeşiği çamdan \n\nah- Yuvarlandı damdan\n\nKeşke sevmez olaydım \n\nUsandırdı bu candan\n\nBeşiği çamdan...",
   "meta": {
-    "yore": "SİLİFKE",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "SİLİFKE",
-    "aciklama": ""
+    "yore": "Mersin/SİLİFKE",
+    "turu": "THM",
+    "derleyen": "MUZAFFER SARISÖZEN",
+    "kaynak_kisi": "CAVİT ERDEN",
+    "karar": "Si"
   },
   "sistem": {
     "eski_id": 6301,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T11:49:49.746Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
