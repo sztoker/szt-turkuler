@@ -1,26 +1,17 @@
 {
   "id": "seviyorum-seni",
   "baslik": "SEVİYORUM SENİ",
-  "sozler_html": "<p>Seviyorum seni / Ekmeği tuza banıp yer gibiGeceleyin ateşler içinde uyanarakAğzımı dayayıp musluğa su içer gibiNe zaman seni düşünsem  / Bir ceylan su içmeye inerÇayırları büyürken görürüm / Her akşam seninleYeşil bir zeytin tanesi / Bir parça mavi deniz alır beniSeni düşündükçe /  Gül dikiyorum ellerimin değdiği yereAtlara su veriyorum / Daha bir seviyorum dağları-gülümHer akşam seninle / Yeşil bir zeytin ...</p>",
-  "sozler_duz": "Seviyorum seni / Ekmeği tuza banıp yer gibiGeceleyin ateşler içinde uyanarakAğzımı dayayıp musluğa su içer gibiNe zaman seni düşünsem / Bir ceylan su içmeye inerÇayırları büyürken görürüm / Her akşam seninleYeşil bir zeytin tanesi / Bir parça mavi deniz alır beniSeni düşündükçe / Gül dikiyorum ellerimin değdiği yereAtlara su veriyorum / Daha bir seviyorum dağları-gülümHer akşam seninle / Yeşil bir zeytin ...",
+  "sozler_html": "<p>Seviyorum seni&nbsp;</p><p>Ekmeği tuza banıp yer gibi</p><p>Geceleyin ateşler içinde uyanarak</p><p>Ağzımı dayayıp musluğa su içer gibi</p><p>Ne zaman seni düşünsem&nbsp;</p><p>Bir ceylan su içmeye iner</p><p>Çayırları büyürken görürüm&nbsp;</p><p><br></p><p><b>Her akşam seninle</b></p><p><b>Yeşil bir zeytin tanesi&nbsp;</b></p><p><b>Bir parça mavi deniz alır beni</b></p><p><br></p><p>Seni düşündükçe&nbsp;</p><p>Gül dikiyorum ellerimin değdiği yere</p><p>Atlara su veriyorum&nbsp;</p><p>Daha bir seviyorum dağları-gülüm</p><p><br></p><p><b>Her akşam&nbsp; ...</b></p>",
+  "sozler_duz": "Seviyorum seni \n\nEkmeği tuza banıp yer gibi\n\nGeceleyin ateşler içinde uyanarak\n\nAğzımı dayayıp musluğa su içer gibi\n\nNe zaman seni düşünsem \n\nBir ceylan su içmeye iner\n\nÇayırları büyürken görürüm \n\nHer akşam seninle\n\nYeşil bir zeytin tanesi \n\nBir parça mavi deniz alır beni\n\nSeni düşündükçe \n\nGül dikiyorum ellerimin değdiği yere\n\nAtlara su veriyorum \n\nDaha bir seviyorum dağları-gülüm\n\nHer akşam  ...",
   "meta": {
-    "yore": "S: N.Hikmet-İlhan Berk     M: Onur Akın",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S: N.Hikmet-İlhan Berk     M: Onur Akın",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Nazım Hikmet",
+    "muzik": "Onur Akın"
   },
   "sistem": {
     "eski_id": 6293,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T11:43:14.474Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
