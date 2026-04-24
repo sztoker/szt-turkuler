@@ -1,17 +1,18 @@
 {
   "id": "oy-bir-sigara-ver-bana",
   "baslik": "OY BİR SİGARA VER BANA",
-  "sozler_html": "<p>Oy bir sigara ver bana da - haydi bak dumana da dumana -2Oy düşmanlar geldi imana - haydi küçüğüm gelmez imana -2Oy gel eyleme sevduceğum - ben yine gelirimAhret hakkın helal eyle – belki de ölürüm     2Oy kayalardan kayarım da – haydi de yoktur benim ayarımOy ben bu dertten ölürsem de – haydi kaderime sayarımOy gel eyleme sevduceğum</p>",
-  "sozler_duz": "Oy bir sigara ver bana da - haydi bak dumana da dumana -2Oy düşmanlar geldi imana - haydi küçüğüm gelmez imana -2Oy gel eyleme sevduceğum - ben yine gelirimAhret hakkın helal eyle – belki de ölürüm 2Oy kayalardan kayarım da – haydi de yoktur benim ayarımOy ben bu dertten ölürsem de – haydi kaderime sayarımOy gel eyleme sevduceğum",
+  "sozler_html": "<p>Oy bir sigara ver bana da - haydi bak dumana da dumana -2</p><p>Oy düşmanlar geldi imana - haydi küçüğüm gelmez imana -2</p><p><br></p><p><b>Oy gel eyleme sevduceğum - ben yine gelirim</b></p><p><b>Ahret hakkın helal eyle – belki de ölürüm     2</b></p><p><br></p><p>Oy kayalardan kayarım da – haydi de yoktur benim ayarım</p><p>Oy ben bu dertten ölürsem de – haydi kaderime sayarım</p><p><br></p><p><b>Oy gel eyleme...</b></p>",
+  "sozler_duz": "Oy bir sigara ver bana da - haydi bak dumana da dumana -2\n\nOy düşmanlar geldi imana - haydi küçüğüm gelmez imana -2\n\nOy gel eyleme sevduceğum - ben yine gelirim\n\nAhret hakkın helal eyle – belki de ölürüm 2\n\nOy kayalardan kayarım da – haydi de yoktur benim ayarım\n\nOy ben bu dertten ölürsem de – haydi kaderime sayarım\n\nOy gel eyleme...",
   "meta": {
     "yore": "Ordu/Akkuş",
     "derleyen": "Ümit Tokcan",
-    "kaynak_kisi": "Tuncer İnan"
+    "kaynak_kisi": "Tuncer İnan",
+    "karar": "Do"
   },
   "sistem": {
     "eski_id": 6103,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T12:40:55.838Z",
+    "son_degisiklik": "2026-04-24T05:56:41.731Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
