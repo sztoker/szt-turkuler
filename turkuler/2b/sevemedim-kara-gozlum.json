@@ -1,26 +1,18 @@
 {
   "id": "sevemedim-kara-gozlum",
   "baslik": "SEVEMEDİM KARA GÖZLÜM",
-  "sozler_html": "<p>Sevemedim kara gözlüm *seni doyuncaHep kıskandım seni elden * yıllar boyuncaKuşlar gibi ikimiz bir * yuva kuralımAyırmasın mevlam bizi * ömür boyuncaAramıza kimse * gelip girmesinAyırmasın mevlam bizi * ömür boyuncaBana cefa ediyorlar bilmem nedendirBenim korkum senden değil kaderimdendirHerkes bana deli diyor gülüp geçiyorSenin aşkın beni kara gözlüm deli edendirAramıza kimse...</p>",
-  "sozler_duz": "Sevemedim kara gözlüm *seni doyuncaHep kıskandım seni elden * yıllar boyuncaKuşlar gibi ikimiz bir * yuva kuralımAyırmasın mevlam bizi * ömür boyuncaAramıza kimse * gelip girmesinAyırmasın mevlam bizi * ömür boyuncaBana cefa ediyorlar bilmem nedendirBenim korkum senden değil kaderimdendirHerkes bana deli diyor gülüp geçiyorSenin aşkın beni kara gözlüm deli edendirAramıza kimse...",
+  "sozler_html": "<p>Sevemedim kara gözlüm *seni doyunca</p><p>Hep kıskandım seni elden * yıllar boyunca</p><p>Kuşlar gibi ikimiz bir * yuva kuralım</p><p>Ayırmasın mevlam bizi * ömür boyunca</p><p><br></p><p><b>Aramıza kimse * gelip girmesin</b></p><p><b>Ayırmasın mevlam bizi * ömür boyunca</b></p><p><br></p><p>Bana cefa ediyorlar bilmem nedendir</p><p>Benim korkum senden değil kaderimdendir</p><p>Herkes bana deli diyor gülüp geçiyor</p><p>Senin aşkın beni kara gözlüm deli edendir</p><p><br></p><p><b>Aramıza kimse...</b></p>",
+  "sozler_duz": "Sevemedim kara gözlüm *seni doyunca\n\nHep kıskandım seni elden * yıllar boyunca\n\nKuşlar gibi ikimiz bir * yuva kuralım\n\nAyırmasın mevlam bizi * ömür boyunca\n\nAramıza kimse * gelip girmesin\n\nAyırmasın mevlam bizi * ömür boyunca\n\nBana cefa ediyorlar bilmem nedendir\n\nBenim korkum senden değil kaderimdendir\n\nHerkes bana deli diyor gülüp geçiyor\n\nSenin aşkın beni kara gözlüm deli edendir\n\nAramıza kimse...",
   "meta": {
-    "yore": "Orhan Gencebay",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Orhan Gencebay",
-    "aciklama": ""
+    "turu": "Arabesk",
+    "soz": "Abdullah Nail Bayşu",
+    "muzik": "Orhan Gencebay",
+    "soyleyenler": "Orhan Gencebay"
   },
   "sistem": {
     "eski_id": 6284,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T08:48:24.981Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
