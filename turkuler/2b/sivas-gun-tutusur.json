@@ -1,26 +1,18 @@
 {
   "id": "sivas-gun-tutusur",
   "baslik": "SİVAS (GÜN TUTUŞUR)",
-  "sozler_html": "<p>Gün tutuşur canım * gece tutuşurYangınlarda tutsak * canlar tutuşur     2Külüm toprak olur * yere karışırYürür gelir canlar * yollar tutuşur     2Sivas ellerinde * sazım tutuşurSöz tutuşur canım * türkü tutuşurTeller bizi söyler * diller yarışırÖzgürlüğü yazan * kalem tutuşurCanlar can olur da * eller tutuşurDost evinde canım * sevda tutuşurPir Sultan’lar ölmez * binler yetişirAkar gelir canlar * tarih tutuşur</p>",
-  "sozler_duz": "Gün tutuşur canım * gece tutuşurYangınlarda tutsak * canlar tutuşur 2Külüm toprak olur * yere karışırYürür gelir canlar * yollar tutuşur 2Sivas ellerinde * sazım tutuşurSöz tutuşur canım * türkü tutuşurTeller bizi söyler * diller yarışırÖzgürlüğü yazan * kalem tutuşurCanlar can olur da * eller tutuşurDost evinde canım * sevda tutuşurPir Sultan’lar ölmez * binler yetişirAkar gelir canlar * tarih tutuşur",
+  "sozler_html": "<p>Gün tutuşur canım * gece tutuşur</p><p>Yangınlarda tutsak * canlar tutuşur     2</p><p>Külüm toprak olur * yere karışır</p><p>Yürür gelir canlar * yollar tutuşur     2</p><p>Sivas ellerinde * sazım tutuşur</p><p>Söz tutuşur canım * türkü tutuşur</p><p>Teller bizi söyler * diller yarışır</p><p>Özgürlüğü yazan * kalem tutuşur</p><p>Canlar can olur da * eller tutuşur</p><p>Dost evinde canım * sevda tutuşur</p><p>Pir Sultan’lar ölmez * binler yetişir</p><p>Akar gelir canlar * tarih tutuşur</p>",
+  "sozler_duz": "Gün tutuşur canım * gece tutuşur\n\nYangınlarda tutsak * canlar tutuşur 2\n\nKülüm toprak olur * yere karışır\n\nYürür gelir canlar * yollar tutuşur 2\n\nSivas ellerinde * sazım tutuşur\n\nSöz tutuşur canım * türkü tutuşur\n\nTeller bizi söyler * diller yarışır\n\nÖzgürlüğü yazan * kalem tutuşur\n\nCanlar can olur da * eller tutuşur\n\nDost evinde canım * sevda tutuşur\n\nPir Sultan’lar ölmez * binler yetişir\n\nAkar gelir canlar * tarih tutuşur",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "GrupYorum",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Savaş Ezgi",
+    "muzik": "Hayati Azim",
+    "soyleyenler": "GrupYorum"
   },
   "sistem": {
     "eski_id": 6306,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T18:17:45.267Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
