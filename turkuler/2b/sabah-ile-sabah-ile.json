@@ -1,26 +1,19 @@
 {
   "id": "sabah-ile-sabah-ile",
-  "baslik": "Sabah İle Sabah İle_",
-  "sozler_html": "<p>Sabah İle Sabah İleKahve Gelir TabağileAnnen Seni Bana VermişKüçük Yavrum Nazar İleİşte Böyle Her Gün BöyleHalimiz BöyleUy Amman AmmanÇay Başından Yar GeliyorKatlı Da Fistan Dar GeliyorSevdim Sevdim Eller AldıO Da Bana Ar Geliyorİşte Böyle Her Gün BöyleHalimiz BöyleUy Amman AmmanÇay Başında Yari GördümYolun Kenarına DurdumNazlı Yarim Gelir DiyeBir Çift Cevabını Sordumİşte Böyle Her Gün BöyleHalimiz BöyleUy Amman Amman</p>",
-  "sozler_duz": "Sabah İle Sabah İleKahve Gelir TabağileAnnen Seni Bana VermişKüçük Yavrum Nazar İleİşte Böyle Her Gün BöyleHalimiz BöyleUy Amman AmmanÇay Başından Yar GeliyorKatlı Da Fistan Dar GeliyorSevdim Sevdim Eller AldıO Da Bana Ar Geliyorİşte Böyle Her Gün BöyleHalimiz BöyleUy Amman AmmanÇay Başında Yari GördümYolun Kenarına DurdumNazlı Yarim Gelir DiyeBir Çift Cevabını Sordumİşte Böyle Her Gün BöyleHalimiz BöyleUy Amman Amman",
+  "baslik": "SABAH İLE SABAH İLE",
+  "sozler_html": "<p>Sabah ile sabah ile</p><p>Kahve gelir tabağile</p><p>Annen seni bana vermiş</p><p>Küçük yavrum nazar ile</p><p>&nbsp;</p><p><b>İşte böyle her gün böyle halimiz\nböyle</b></p><p><b>Uy amman amman</b></p><p>&nbsp;</p><p>Çay başından yar geliyor</p><p>Katlı da fistan dar geliyor</p><p>Sevdim sevdim eller aldı</p><p>O da bana ar geliyor</p><p>&nbsp;</p><p><b>İşte böyle ...</b></p><p>&nbsp;</p><p>Çay başında yari gördüm</p><p>Yolun kenarına durdum</p><p>Nazlı yarim gelir diye</p><p>Bir çift cevabını sordum</p><p>&nbsp;</p><p>İşte böyle ...</p>",
+  "sozler_duz": "Sabah ile sabah ile\n\nKahve gelir tabağile\n\nAnnen seni bana vermiş\n\nKüçük yavrum nazar ile\n\n \n\nİşte böyle her gün böyle halimiz böyle\n\nUy amman amman\n\n \n\nÇay başından yar geliyor\n\nKatlı da fistan dar geliyor\n\nSevdim sevdim eller aldı\n\nO da bana ar geliyor\n\n \n\nİşte böyle ...\n\n \n\nÇay başında yari gördüm\n\nYolun kenarına durdum\n\nNazlı yarim gelir diye\n\nBir çift cevabını sordum\n\n \n\nİşte böyle ...",
   "meta": {
     "yore": "Şanlıurfa",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ahmet Cankat-Nihat Mercanlı",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Nihat Mercanlı",
+    "kaynak_kisi": "Ahmet Cankat",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6197,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T07:22:52.985Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
