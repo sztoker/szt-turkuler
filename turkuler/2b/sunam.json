@@ -1,26 +1,20 @@
 {
   "id": "sunam",
   "baslik": "SUNAM",
-  "sozler_html": "<p>Sabahtan cemalin seyran eyledimGönüller perişan elinden sunamNice bekliyeyim gurbet ellerdeHiç bilir yok mudur halinden sunam -halinden sunamSen seher yelisin gider gelmezsinGelirsen de bize baki kalmazsınSeni uçuranlar murat almasınSeni kim uçurdu gölünden sunam -gölünden sunamPir Sultan Abdalım cemalin güzelAradım bulmadım bir haber yazarŞimdi senin cismin cenette gezerKalma bizim için yolundan sunam -yolundan sunam</p>",
-  "sozler_duz": "Sabahtan cemalin seyran eyledimGönüller perişan elinden sunamNice bekliyeyim gurbet ellerdeHiç bilir yok mudur halinden sunam -halinden sunamSen seher yelisin gider gelmezsinGelirsen de bize baki kalmazsınSeni uçuranlar murat almasınSeni kim uçurdu gölünden sunam -gölünden sunamPir Sultan Abdalım cemalin güzelAradım bulmadım bir haber yazarŞimdi senin cismin cenette gezerKalma bizim için yolundan sunam -yolundan sunam",
+  "sozler_html": "<p>Sabahtan cemalin seyran eyledim</p><p>Gönüller perişan elinden sunam</p><p>Nice bekliyeyim gurbet ellerde</p><p>Hiç bilir yok mudur halinden sunam -halinden sunam</p><p><br></p><p>Sen seher yelisin gider gelmezsin</p><p>Gelirsen de bize baki kalmazsın</p><p>Seni uçuranlar murat almasın</p><p>Seni kim uçurdu gölünden sunam -gölünden sunam</p><p><br></p><p>Pir Sultan Abdalım cemalin güzel</p><p>Aradım bulmadım bir haber yazar</p><p>Şimdi senin cismin cennette gezer</p><p>Kalma bizim için yolundan sunam -yolundan sunam</p>",
+  "sozler_duz": "Sabahtan cemalin seyran eyledim\n\nGönüller perişan elinden sunam\n\nNice bekliyeyim gurbet ellerde\n\nHiç bilir yok mudur halinden sunam -halinden sunam\n\nSen seher yelisin gider gelmezsin\n\nGelirsen de bize baki kalmazsın\n\nSeni uçuranlar murat almasın\n\nSeni kim uçurdu gölünden sunam -gölünden sunam\n\nPir Sultan Abdalım cemalin güzel\n\nAradım bulmadım bir haber yazar\n\nŞimdi senin cismin cennette gezer\n\nKalma bizim için yolundan sunam -yolundan sunam",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "Pir Sultan Abdal",
-    "soz": "",
-    "muzik": "",
+    "turu": "THM",
+    "soz": "Pir Sultan Abdal",
+    "muzik": "DÜZGÜN UÇKAÇ",
     "soyleyenler": "Z. Livaneli",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "karar": "La",
+    "diger_bilgiler": "Türkünün orijinali \"turnam\", Livaneli sunam olarak söylemiş."
   },
   "sistem": {
     "eski_id": 6344,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T19:41:30.101Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
