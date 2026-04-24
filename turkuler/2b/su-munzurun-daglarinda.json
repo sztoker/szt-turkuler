@@ -1,26 +1,19 @@
 {
   "id": "su-munzurun-daglarinda",
   "baslik": "ŞU MUNZUR’UN DAĞLARINDA",
-  "sozler_html": "<p>Şu Munzur’un dağlarında öten bülbül olaydım(2Yayla yayla dağlarında dolaşan ben olaydım(2Olayıdım olayıdım * esen yelin olaydımMendil sallaya sallaya * halayına duraydım2Kervan geçmez yollarında geçen bir ben olaydımŞefkat ile hasret kaldım bağrında vurulaydım / Olayıdım...</p>",
-  "sozler_duz": "Şu Munzur’un dağlarında öten bülbül olaydım(2Yayla yayla dağlarında dolaşan ben olaydım(2Olayıdım olayıdım * esen yelin olaydımMendil sallaya sallaya * halayına duraydım2Kervan geçmez yollarında geçen bir ben olaydımŞefkat ile hasret kaldım bağrında vurulaydım / Olayıdım...",
+  "sozler_html": "<p>Şu Munzur’un dağlarında öten bülbül olaydım(2</p><p>Yayla yayla dağlarında dolaşan ben olaydım(2</p><p><br></p><p><b>Olayıdım olayıdım * esen yelin olaydım</b></p><p><b>Mendil sallaya sallaya * halayına duraydım2</b></p><p><br></p><p>Kervan geçmez yollarında geçen bir ben olaydım</p><p>Şefkat ile hasret kaldım bağrında vurulaydım&nbsp;</p><p><br></p><p><b>Olayıdım...</b></p>",
+  "sozler_duz": "Şu Munzur’un dağlarında öten bülbül olaydım(2\n\nYayla yayla dağlarında dolaşan ben olaydım(2\n\nOlayıdım olayıdım * esen yelin olaydım\n\nMendil sallaya sallaya * halayına duraydım2\n\nKervan geçmez yollarında geçen bir ben olaydım\n\nŞefkat ile hasret kaldım bağrında vurulaydım \n\nOlayıdım...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "yore": "Beste",
+    "turu": "THM",
+    "soz": "Ali Haydar Güçlü",
+    "muzik": "Ali Haydar Güçlü",
+    "soyleyenler": "Güler Duman"
   },
   "sistem": {
     "eski_id": 6400,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T19:21:52.633Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
