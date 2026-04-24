@@ -1,26 +1,18 @@
 {
   "id": "suda-balik-oynuyor",
   "baslik": "SUDA BALIK OYNUYOR",
-  "sozler_html": "<p>Suda balık oynuyor / Canım sana kaynıyorDüştüm merhametsize / Hiç halimden bilmiyorLeyli leyli Türkmen kızı / Sen allar giy ben kırmızıYine doğdu tan yıldızı / Doğmayaydı tan yıldızıSuda balık yan gider / Açma yaram kan giderGeçme güzel önümden / Cahilim aklım gider / Leyli ...</p>",
-  "sozler_duz": "Suda balık oynuyor / Canım sana kaynıyorDüştüm merhametsize / Hiç halimden bilmiyorLeyli leyli Türkmen kızı / Sen allar giy ben kırmızıYine doğdu tan yıldızı / Doğmayaydı tan yıldızıSuda balık yan gider / Açma yaram kan giderGeçme güzel önümden / Cahilim aklım gider / Leyli ...",
+  "sozler_html": "<p>Suda balık oynuyor&nbsp;</p><p>Canım sana kaynıyor</p><p>Düştüm merhametsize&nbsp;</p><p>Hiç halimden bilmiyor</p><p><br></p><p><b>Leyli leyli Türkmen kızı&nbsp;</b></p><p><b>Sen allar giy ben kırmızı</b></p><p><b>Yine doğdu tan yıldızı&nbsp;</b></p><p><b>Doğmayaydı tan yıldızı</b></p><p><br></p><p>Suda balık yan gider&nbsp;</p><p>Açma yaram kan gider</p><p>Geçme güzel önümden&nbsp;</p><p>Cahilim aklım gider&nbsp;</p><p><br></p><p><b>Leyli ...</b></p>",
+  "sozler_duz": "Suda balık oynuyor \n\nCanım sana kaynıyor\n\nDüştüm merhametsize \n\nHiç halimden bilmiyor\n\nLeyli leyli Türkmen kızı \n\nSen allar giy ben kırmızı\n\nYine doğdu tan yıldızı \n\nDoğmayaydı tan yıldızı\n\nSuda balık yan gider \n\nAçma yaram kan gider\n\nGeçme güzel önümden \n\nCahilim aklım gider \n\nLeyli ...",
   "meta": {
-    "yore": "Anonim",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Anonim",
-    "aciklama": ""
+    "yore": "Kırşehir",
+    "derleyen": "MUZAFFER SARISÖZEN",
+    "kaynak_kisi": "NEŞET ERTAŞ",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6337,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T19:31:51.938Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
