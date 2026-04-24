@@ -1,26 +1,18 @@
 {
   "id": "pusta-bel-baglama",
   "baslik": "PUŞTA BEL BAĞLAMA",
-  "sozler_html": "<p>Erzurum bucağında / Şal kara şalvar karaOd yanar ocağındaŞal yüzün dönmüş / Vurgun vurmuş / Civan ölmüşPuşta bel bağlamaOcak yandı kül oldu / En yaman çağımızda / Şal ...Evleri karşımızda / Sevda var başımızda / Şal ...Bu nasıl zalim dünya / Gencecik yaşımızda / Şal ...Erzurum’da bağ olmaz / Kara üzüm ağ olmaz  Muhanneti sevenin / Yüreğinde yağ olmazBu dağda aslan yatar / Zalıma mermi atarÖldü diyen halt etmiş / Dağlarda martin tutar</p>",
-  "sozler_duz": "Erzurum bucağında / Şal kara şalvar karaOd yanar ocağındaŞal yüzün dönmüş / Vurgun vurmuş / Civan ölmüşPuşta bel bağlamaOcak yandı kül oldu / En yaman çağımızda / Şal ...Evleri karşımızda / Sevda var başımızda / Şal ...Bu nasıl zalim dünya / Gencecik yaşımızda / Şal ...Erzurum’da bağ olmaz / Kara üzüm ağ olmaz Muhanneti sevenin / Yüreğinde yağ olmazBu dağda aslan yatar / Zalıma mermi atarÖldü diyen halt etmiş / Dağlarda martin tutar",
+  "sozler_html": "<p>Erzurum bucağında&nbsp;</p><p>Şal kara şalvar kara</p><p>Od yanar ocağında</p><p><br></p><p><b>Şal yüzün dönmüş vurgun vurmuş&nbsp;</b></p><p><b>Civan ölmüş puşta bel bağlama</b></p><p><br></p><p>Ocak yandı kül oldu&nbsp;</p><p>En yaman çağımızda&nbsp;</p><p><b>Şal ...</b></p><p><b><br></b></p><p>Evleri karşımızda&nbsp;</p><p>Sevda var başımızda</p><p>&nbsp;</p><p><b>Şal ...</b></p><p><b><br></b></p><p>Bu nasıl zalim dünya&nbsp;</p><p>Gencecik yaşımızda&nbsp;</p><p><br></p><p>&nbsp;<b>Şal ...</b></p>",
+  "sozler_duz": "Erzurum bucağında \n\nŞal kara şalvar kara\n\nOd yanar ocağında\n\nŞal yüzün dönmüş vurgun vurmuş \n\nCivan ölmüş puşta bel bağlama\n\nOcak yandı kül oldu \n\nEn yaman çağımızda \n\nŞal ...\n\nEvleri karşımızda \n\nSevda var başımızda\n\n \n\nŞal ...\n\nBu nasıl zalim dünya \n\nGencecik yaşımızda \n\n Şal ...",
   "meta": {
-    "yore": "ERZURUM     D: Turhan Alıcı      K: Ömer Polat",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ERZURUM     D: Turhan Alıcı      K: Ömer Polat",
-    "aciklama": ""
+    "yore": "ERZURUM",
+    "turu": "THM",
+    "derleyen": "Turhan Alıcı",
+    "kaynak_kisi": "Ömer Polat"
   },
   "sistem": {
     "eski_id": 6183,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T07:14:10.360Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
