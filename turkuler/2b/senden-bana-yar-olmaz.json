@@ -1,26 +1,19 @@
 {
   "id": "senden-bana-yar-olmaz",
-  "baslik": "Senden Bana Yar Olmaz_",
-  "sozler_html": "<p>Senden Bana Yar OlmazOlsa Vefakar OlmazKışa Çevirme YazımıÇalıp Dinletme SazımıKüstürüp Sen Al NazımıYaralıyam YaralıHer Ağaçta Bar OlmazSeven Bahtiyar OlmazKışa Çevirme YazımıÇalıp Dinletme SazımıKüstürüp Sen Al NazımıYaralıyam Yaralı</p>",
-  "sozler_duz": "Senden Bana Yar OlmazOlsa Vefakar OlmazKışa Çevirme YazımıÇalıp Dinletme SazımıKüstürüp Sen Al NazımıYaralıyam YaralıHer Ağaçta Bar OlmazSeven Bahtiyar OlmazKışa Çevirme YazımıÇalıp Dinletme SazımıKüstürüp Sen Al NazımıYaralıyam Yaralı",
+  "baslik": "SENDEN BANA YAR OLMAZ",
+  "sozler_html": "<p>Senden bana yar olmaz</p><p>Olsa vefakar olmaz</p><p><br></p><p><b>Kışa çevirme yazımı</b></p><p><b>Çalıp dinletme sazımı</b></p><p><b>Küstürüp sen al nazımı</b></p><p><b>Yaralıyam yaralı</b></p><p><br></p><p>Her ağaçta bar olmaz</p><p>Seven bahtiyar olmaz</p><p><br></p><p><b>Kışa çevirme ...</b></p>",
+  "sozler_duz": "Senden bana yar olmaz\n\nOlsa vefakar olmaz\n\nKışa çevirme yazımı\n\nÇalıp dinletme sazımı\n\nKüstürüp sen al nazımı\n\nYaralıyam yaralı\n\nHer ağaçta bar olmaz\n\nSeven bahtiyar olmaz\n\nKışa çevirme ...",
   "meta": {
     "yore": "Artvin",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Hasan Çıtak-Muzaffer Sarısözen",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Hasan Çıtak",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6261,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T08:25:29.789Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
