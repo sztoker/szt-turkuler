@@ -1,26 +1,19 @@
 {
   "id": "rodop-daglari",
   "baslik": "RODOP DAĞLARI",
-  "sozler_html": "<p>Rodop Dağları bre Pakize’m çiçek döşeliPakize’min bahçeleri mor menekşeliAmman Pakize’m nazlı Pakize’m gel beri beriBen seni sevdim güzelim Pakize’m küçükten beriRodop Dağları bre Pakize’m engindir enginBizim gibi değil bre Pakize’m zengindir zengin /Amman ..</p>",
-  "sozler_duz": "Rodop Dağları bre Pakize’m çiçek döşeliPakize’min bahçeleri mor menekşeliAmman Pakize’m nazlı Pakize’m gel beri beriBen seni sevdim güzelim Pakize’m küçükten beriRodop Dağları bre Pakize’m engindir enginBizim gibi değil bre Pakize’m zengindir zengin /Amman ..",
+  "sozler_html": "<p>Rodop Dağları bre Pakize’m çiçek döşeli</p><p>Pakize’min bahçeleri mor menekşeli</p><p><br></p><p><b>Amman Pakize’m nazlı (da) Pakize’m gel beri beri</b></p><p><b>Ben seni sevdim güzelim Pakize’m küçükten beri</b></p><p><br></p><p>Rodop Dağları bre Pakize’m engindir engin</p><p>Bizim gibi delikanlı Pakize’m zengindir zengin&nbsp;</p><p><br></p><p><b>Amman ..</b></p>",
+  "sozler_duz": "Rodop Dağları bre Pakize’m çiçek döşeli\n\nPakize’min bahçeleri mor menekşeli\n\nAmman Pakize’m nazlı (da) Pakize’m gel beri beri\n\nBen seni sevdim güzelim Pakize’m küçükten beri\n\nRodop Dağları bre Pakize’m engindir engin\n\nBizim gibi delikanlı Pakize’m zengindir zengin \n\nAmman ..",
   "meta": {
     "yore": "RUMELİ",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "RUMELİ",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "SALİM KAHRAMAN",
+    "kaynak_kisi": "SALİM KAHRAMAN",
+    "karar": "Si"
   },
   "sistem": {
     "eski_id": 6190,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T07:17:43.889Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
