@@ -1,26 +1,18 @@
 {
   "id": "sevil-de-sevme",
   "baslik": "SEVİL DE SEVME",
-  "sozler_html": "<p>Sevil neşelen * sevme yanarsınBir sarı saçı * okşar kanarsınO bir gölgedir * varlık sanırsınSevil de sevme * ağlama ağlat Yoksa zehrolur bu tatlı hayatSevda çölünden * geçse de yollarBütün bir ömür * ah ile dolarİnan ki gençlik * güldendir solar / Sevil de sevme ...</p>",
-  "sozler_duz": "Sevil neşelen * sevme yanarsınBir sarı saçı * okşar kanarsınO bir gölgedir * varlık sanırsınSevil de sevme * ağlama ağlat Yoksa zehrolur bu tatlı hayatSevda çölünden * geçse de yollarBütün bir ömür * ah ile dolarİnan ki gençlik * güldendir solar / Sevil de sevme ...",
+  "sozler_html": "<p>Sevil neşelen * sevme yanarsın</p><p>Bir sarı saçı * okşar kanarsın</p><p>O bir gölgedir * varlık sanırsın</p><p><br></p><p><b>Sevil de sevme * ağlama ağlat&nbsp;</b></p><p><b>Yoksa zehrolur bu tatlı hayat</b></p><p><br></p><p>Sevda çölünden * geçse de yollar</p><p>Bütün bir ömür * ah ile dolar</p><p>İnan ki gençlik * güldendir solar&nbsp;</p><p><br></p><p><b>Sevil de sevme ...</b></p>",
+  "sozler_duz": "Sevil neşelen * sevme yanarsın\n\nBir sarı saçı * okşar kanarsın\n\nO bir gölgedir * varlık sanırsın\n\nSevil de sevme * ağlama ağlat \n\nYoksa zehrolur bu tatlı hayat\n\nSevda çölünden * geçse de yollar\n\nBütün bir ömür * ah ile dolar\n\nİnan ki gençlik * güldendir solar \n\nSevil de sevme ...",
   "meta": {
-    "yore": "Sadettin Öktenay/Turgut Yarkent   Nihavent/Nim Sof",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Sadettin Öktenay/Turgut Yarkent   Nihavent/Nim Sof",
-    "aciklama": ""
+    "turu": "TSM",
+    "soz": "Turgut Yarkent",
+    "muzik": "Sadettin Öktenay",
+    "diger_bilgiler": "Nihavent/Nim Sofyan"
   },
   "sistem": {
     "eski_id": 6291,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T08:58:43.036Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
