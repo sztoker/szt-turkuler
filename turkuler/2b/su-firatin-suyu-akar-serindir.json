@@ -1,26 +1,19 @@
 {
   "id": "su-firatin-suyu-akar-serindir",
-  "baslik": "Şu Fırat’ın Suyu Akar Serindir_",
-  "sozler_html": "<p>Şu Fırat'ın Suyu Akar SerindirÖlem Ölem Derdo Ölem Akar SerindirYarimi Götürdü (Anam) Kanlı ZalimdirÖlem Ölem Kanlı ZalimdirDaha Gün Görmemiş Taze GelindirÖlem Ölem Derdo Ölem Taze GelindirSöyletmeyin Beni Anam Yaram DerindirÖlem Ölem Yaram Derindir Nasıl GülemKömürhan Köprüsü Harput'a BakarÖlem Ölem Derdo Ölem Harput'a BakarKörolası Zalim Fırat Ocaklar YıkarÖlem Ölem Ocaklar Yıkar Nasıl GülemAhbapların Gelmiş Ağıtlar YakarÖlem Ölem Derdo Ölem Ağıtlar YakarSöyletmeyin Beni Anam Yaram DerindirÖlem Ölem Yaram Derindir Nasıl Gülem</p>",
-  "sozler_duz": "Şu Fırat'ın Suyu Akar SerindirÖlem Ölem Derdo Ölem Akar SerindirYarimi Götürdü (Anam) Kanlı ZalimdirÖlem Ölem Kanlı ZalimdirDaha Gün Görmemiş Taze GelindirÖlem Ölem Derdo Ölem Taze GelindirSöyletmeyin Beni Anam Yaram DerindirÖlem Ölem Yaram Derindir Nasıl GülemKömürhan Köprüsü Harput'a BakarÖlem Ölem Derdo Ölem Harput'a BakarKörolası Zalim Fırat Ocaklar YıkarÖlem Ölem Ocaklar Yıkar Nasıl GülemAhbapların Gelmiş Ağıtlar YakarÖlem Ölem Derdo Ölem Ağıtlar YakarSöyletmeyin Beni Anam Yaram DerindirÖlem Ölem Yaram Derindir Nasıl Gülem",
+  "baslik": "ŞU FIRATIN SUYU AKAR SERİNDİR",
+  "sozler_html": "<p>Şu Fırat'ın Suyu Akar Serindir</p><p>Ölem Ölem Derdo Ölem Akar Serindir</p><p>Yarimi Götürdü (Anam) Kanlı Zalimdir</p><p>Ölem Ölem Kanlı Zalimdir</p><p>Daha Gün Görmemiş Taze Gelindir</p><p>Ölem Ölem Derdo Ölem Taze Gelindir</p><p>Söyletmeyin Beni Anam Yaram Derindir</p><p>Ölem Ölem Yaram Derindir Nasıl Gülem</p><p><br></p><p>Kömürhan Köprüsü Harput'a Bakar</p><p>Ölem Ölem Derdo Ölem Harput'a Bakar</p><p>Körolası Zalim Fırat Ocaklar Yıkar</p><p>Ölem Ölem Ocaklar Yıkar Nasıl Gülem</p><p>Ahbapların Gelmiş Ağıtlar Yakar</p><p>Ölem Ölem Derdo Ölem Ağıtlar Yakar</p><p>Söyletmeyin Beni Anam Yaram Derindir</p><p>Ölem Ölem Yaram Derindir Nasıl Gülem</p>",
+  "sozler_duz": "Şu Fırat'ın Suyu Akar Serindir\n\nÖlem Ölem Derdo Ölem Akar Serindir\n\nYarimi Götürdü (Anam) Kanlı Zalimdir\n\nÖlem Ölem Kanlı Zalimdir\n\nDaha Gün Görmemiş Taze Gelindir\n\nÖlem Ölem Derdo Ölem Taze Gelindir\n\nSöyletmeyin Beni Anam Yaram Derindir\n\nÖlem Ölem Yaram Derindir Nasıl Gülem\n\nKömürhan Köprüsü Harput'a Bakar\n\nÖlem Ölem Derdo Ölem Harput'a Bakar\n\nKörolası Zalim Fırat Ocaklar Yıkar\n\nÖlem Ölem Ocaklar Yıkar Nasıl Gülem\n\nAhbapların Gelmiş Ağıtlar Yakar\n\nÖlem Ölem Derdo Ölem Ağıtlar Yakar\n\nSöyletmeyin Beni Anam Yaram Derindir\n\nÖlem Ölem Yaram Derindir Nasıl Gülem",
   "meta": {
     "yore": "Elazığ",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "İzzet Altınmeşe-İhsan Öztürk",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "İhsan Öztürk",
+    "kaynak_kisi": "İzzet Altınmeşe",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6393,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T19:17:35.429Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
