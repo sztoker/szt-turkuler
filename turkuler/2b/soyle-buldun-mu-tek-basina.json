@@ -1,26 +1,19 @@
 {
   "id": "soyle-buldun-mu-tek-basina",
   "baslik": "SÖYLE BULDUN MU ... (Tek başına)",
-  "sozler_html": "<p>Uzun zamandır hasret kaldım yüzüneMuhtacım senin bir tek sözüneYalvarsam ağlasam kapansam dizineDöner miyiz yine eski günlereSöyle  buldun mu * aradığın aşkı  söyleYoksa yalnız mısın sen yineBenim gibi boynu bükük * gözü yaşlı * tek başınaYine eskisi gibi beraber olsakNe olur sanki geçenleri unutsakHayat bitse dünya dursa ölüm bile olsa Biz hiç ayrılmasak</p>",
-  "sozler_duz": "Uzun zamandır hasret kaldım yüzüneMuhtacım senin bir tek sözüneYalvarsam ağlasam kapansam dizineDöner miyiz yine eski günlereSöyle buldun mu * aradığın aşkı söyleYoksa yalnız mısın sen yineBenim gibi boynu bükük * gözü yaşlı * tek başınaYine eskisi gibi beraber olsakNe olur sanki geçenleri unutsakHayat bitse dünya dursa ölüm bile olsa Biz hiç ayrılmasak",
+  "sozler_html": "<p>Uzun zamandır hasret kaldım yüzüne</p><p>Muhtacım senin bir tek sözüne</p><p>Yalvarsam ağlasam kapansam dizine</p><p>Döner miyiz yine eski günlere</p><p><br></p><p><b>Söyle  buldun mu * aradığın aşkı  söyle</b></p><p><b>Yoksa yalnız mısın sen yine</b></p><p><b>Benim gibi boynu bükük * gözü yaşlı * tek başına</b></p><p><br></p><p>Yine eskisi gibi beraber olsak</p><p>Ne olur sanki geçenleri unutsak</p><p>Hayat bitse dünya dursa ölüm bile olsa&nbsp;</p><p>Biz hiç ayrılmasak</p><p><br></p><p>Söyle buldun ...</p>",
+  "sozler_duz": "Uzun zamandır hasret kaldım yüzüne\n\nMuhtacım senin bir tek sözüne\n\nYalvarsam ağlasam kapansam dizine\n\nDöner miyiz yine eski günlere\n\nSöyle buldun mu * aradığın aşkı söyle\n\nYoksa yalnız mısın sen yine\n\nBenim gibi boynu bükük * gözü yaşlı * tek başına\n\nYine eskisi gibi beraber olsak\n\nNe olur sanki geçenleri unutsak\n\nHayat bitse dünya dursa ölüm bile olsa \n\nBiz hiç ayrılmasak\n\nSöyle buldun ...",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "turu": "POP",
+    "soz": "Ülkü Aker",
+    "muzik": "Luigi Albertelli",
+    "soyleyenler": "Ayten Alpman",
+    "diger_bilgiler": "Da Troppo Tempo'dan Türkçeleştirilmiştir."
   },
   "sistem": {
     "eski_id": 6329,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T18:53:34.637Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
