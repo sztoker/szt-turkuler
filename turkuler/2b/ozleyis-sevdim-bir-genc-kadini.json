@@ -1,26 +1,18 @@
 {
   "id": "ozleyis-sevdim-bir-genc-kadini",
   "baslik": "ÖZLEYİŞ (Sevdim bir genç kadını)",
-  "sozler_html": "<p>Sevdim bir genç kadını * ansam onun adınıHerşey beni ona bağlar * kalbim durmadan ona ağlar Gitti o dönmeyecek * aşkım hiç sönmeyecek Uzun yıllar geçse bile * yaşarım hayalinleKemanımla ona bir ses verebilseydim eğerBu sesimle ona ersem bana dünyaya değer Ne yazık ki deniz engin şu ufuklar ölgün Bin elemle doğuyor her yeni günYarın olsun yarın olsun diye renkler soluyor Neye baksam ne işitsem bana bin dert oluyor Bu karanlık günün elbet gelecektir sonu Kalbim özlüyor onuYollar uzun sürüyor * sevgi beni bürüyor Kavuşursam bir gün ona * hasret erecek sona O gün bahar olacak * yollar çiçek dolacak Sevinçle coşacağım * sevgime koşacağım</p>",
-  "sozler_duz": "Sevdim bir genç kadını * ansam onun adınıHerşey beni ona bağlar * kalbim durmadan ona ağlar Gitti o dönmeyecek * aşkım hiç sönmeyecek Uzun yıllar geçse bile * yaşarım hayalinleKemanımla ona bir ses verebilseydim eğerBu sesimle ona ersem bana dünyaya değer Ne yazık ki deniz engin şu ufuklar ölgün Bin elemle doğuyor her yeni günYarın olsun yarın olsun diye renkler soluyor Neye baksam ne işitsem bana bin dert oluyor Bu karanlık günün elbet gelecektir sonu Kalbim özlüyor onuYollar uzun sürüyor * sevgi beni bürüyor Kavuşursam bir gün ona * hasret erecek sona O gün bahar olacak * yollar çiçek dolacak Sevinçle coşacağım * sevgime koşacağım",
+  "sozler_html": "<p>Sevdim bir genç kadını * ansam onun adını</p><p>Herşey beni ona bağlar * kalbim durmadan ağlar&nbsp;</p><p>Aşkım hiç sönmeyecek * gitti o dönmeyecek</p><p>Uzun yıllar geçse bile * yaşarım hayalinle</p><p><br></p><p>Kemanımla ona bir ses verebilseydim eğer</p><p>Bu sesimle ona ersem bana dünyaya değer&nbsp;</p><p>Ne yazık ki deniz engin şu ufuklar ölgün&nbsp;</p><p>Bin elemle doğuyor her yeni gün</p><p><br></p><p>Yarın olsun yarın olsun diye renkler soluyor&nbsp;</p><p>Neye baksam ne işitsem bana bin dert oluyor&nbsp;</p><p>Bu karanlık günün elbet gelecektir sonu&nbsp;</p><p>Kalbim özlüyor onu</p>",
+  "sozler_duz": "Sevdim bir genç kadını * ansam onun adını\n\nHerşey beni ona bağlar * kalbim durmadan ağlar \n\nAşkım hiç sönmeyecek * gitti o dönmeyecek\n\nUzun yıllar geçse bile * yaşarım hayalinle\n\nKemanımla ona bir ses verebilseydim eğer\n\nBu sesimle ona ersem bana dünyaya değer \n\nNe yazık ki deniz engin şu ufuklar ölgün \n\nBin elemle doğuyor her yeni gün\n\nYarın olsun yarın olsun diye renkler soluyor \n\nNeye baksam ne işitsem bana bin dert oluyor \n\nBu karanlık günün elbet gelecektir sonu \n\nKalbim özlüyor onu",
   "meta": {
-    "yore": "Necip Celal Andel",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Necip Celal Andel",
-    "aciklama": ""
+    "turu": "Tango",
+    "soz": "Bedri Noyan",
+    "muzik": "Necip Celal Andel",
+    "soyleyenler": "Şecaattin Tanyerli"
   },
   "sistem": {
     "eski_id": 6136,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T06:17:59.659Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
