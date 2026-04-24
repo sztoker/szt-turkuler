@@ -1,26 +1,18 @@
 {
   "id": "sevemez-kimse-seni-benim",
   "baslik": "SEVEMEZ KİMSE SENİ BENİM ...",
-  "sozler_html": "<p>Sevemez kimse seni * benim sevdiğim kadarSevgilim sen olmazsan * yaşamak neye yararHer gün seni düşünür * her an seni yaşarımSeni sevmekten değil * kaybetmekten korkarımBir gün beni unutup * başkalarına bakmaBirazcık sevgin varsa * beni yalnız bırakma / Her gün ...</p>",
-  "sozler_duz": "Sevemez kimse seni * benim sevdiğim kadarSevgilim sen olmazsan * yaşamak neye yararHer gün seni düşünür * her an seni yaşarımSeni sevmekten değil * kaybetmekten korkarımBir gün beni unutup * başkalarına bakmaBirazcık sevgin varsa * beni yalnız bırakma / Her gün ...",
+  "sozler_html": "<p>Sevemez kimse seni * benim sevdiğim kadar</p><p>Sevgilim sen olmazsan * yaşamak neye yarar</p><p><br></p><p><b>Her gün seni düşünür * her an seni yaşarım</b></p><p><b>Seni sevmekten değil * kaybetmekten korkarım</b></p><p><br></p><p>Bir gün beni unutup * başkalarına bakma</p><p>Birazcık sevgin varsa * beni yalnız bırakma&nbsp;</p><p><br></p><p><b>Her gün ...</b></p>",
+  "sozler_duz": "Sevemez kimse seni * benim sevdiğim kadar\n\nSevgilim sen olmazsan * yaşamak neye yarar\n\nHer gün seni düşünür * her an seni yaşarım\n\nSeni sevmekten değil * kaybetmekten korkarım\n\nBir gün beni unutup * başkalarına bakma\n\nBirazcık sevgin varsa * beni yalnız bırakma \n\nHer gün ...",
   "meta": {
-    "yore": "Suat Sayın               Hicaz",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Suat Sayın               Hicaz",
-    "aciklama": ""
+    "turu": "TSM",
+    "soz": "Suat Sayın",
+    "muzik": "Teoman Alpay",
+    "diger_bilgiler": "Hicaz"
   },
   "sistem": {
     "eski_id": 6285,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T08:51:23.234Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
