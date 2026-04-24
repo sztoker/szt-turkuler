@@ -1,26 +1,16 @@
 {
   "id": "simdi-ask-zamanidir-mevsim-bahar-olunca",
   "baslik": "ŞİMDİ AŞK ZAMANIDIR (Mevsim bahar olunca)",
-  "sozler_html": "<p>Ya rabbim sen büyüksün * ya rabbim sen gönülsünDurdur geçen zamanı * kulların gülsünBütün saatler dursun * dert rüzgarları sussun...               * gülerek doğsunŞimdi aşk zamanıdır  * aşk ömrün baharıdırBırak sarhoş olalım  * meyler (içtiğim-2) aşk şarabıdırMevsim bahar olunca / Aşk gönüle doğuncaSevenler kavuşunca / Yaşamak ne güzel-2Senden uzak yaşamak * inan yaşamak değilAşkı anlatan hiç bir  * söz tamam değilBazı duygular var ki * kelimelere sığmazSevenler anlar ancak * sevmeyen değil / Şimdi aşk ...</p>",
-  "sozler_duz": "Ya rabbim sen büyüksün * ya rabbim sen gönülsünDurdur geçen zamanı * kulların gülsünBütün saatler dursun * dert rüzgarları sussun... * gülerek doğsunŞimdi aşk zamanıdır * aşk ömrün baharıdırBırak sarhoş olalım * meyler (içtiğim-2) aşk şarabıdırMevsim bahar olunca / Aşk gönüle doğuncaSevenler kavuşunca / Yaşamak ne güzel-2Senden uzak yaşamak * inan yaşamak değilAşkı anlatan hiç bir * söz tamam değilBazı duygular var ki * kelimelere sığmazSevenler anlar ancak * sevmeyen değil / Şimdi aşk ...",
+  "sozler_html": "<p>Ya rabbim sen büyüksün * ya rabbim sen gönülsün</p><p>Durdur geçen zamanı * kulların gülsün</p><p>Bütün saatler dursun * dert rüzgarları sussun...               * gülerek doğsun</p><p>Şimdi aşk zamanıdır  * aşk ömrün baharıdır</p><p>Bırak sarhoş olalım  * meyler (içtiğim-2) aşk şarabıdır</p><p>Mevsim bahar olunca&nbsp;</p><p>Aşk gönüle doğunca</p><p>Sevenler kavuşunca&nbsp;</p><p>Yaşamak ne güzel-2</p><p>Senden uzak yaşamak * inan yaşamak değil</p><p>Aşkı anlatan hiç bir  * söz tamam değil</p><p>Bazı duygular var ki * kelimelere sığmaz</p><p>Sevenler anlar ancak * sevmeyen değil&nbsp;</p><p>Şimdi aşk ...</p>",
+  "sozler_duz": "Ya rabbim sen büyüksün * ya rabbim sen gönülsün\n\nDurdur geçen zamanı * kulların gülsün\n\nBütün saatler dursun * dert rüzgarları sussun... * gülerek doğsun\n\nŞimdi aşk zamanıdır * aşk ömrün baharıdır\n\nBırak sarhoş olalım * meyler (içtiğim-2) aşk şarabıdır\n\nMevsim bahar olunca \n\nAşk gönüle doğunca\n\nSevenler kavuşunca \n\nYaşamak ne güzel-2\n\nSenden uzak yaşamak * inan yaşamak değil\n\nAşkı anlatan hiç bir * söz tamam değil\n\nBazı duygular var ki * kelimelere sığmaz\n\nSevenler anlar ancak * sevmeyen değil \n\nŞimdi aşk ...",
   "meta": {
-    "yore": "Orhan Gencebay",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Orhan Gencebay",
-    "aciklama": ""
+    "soz": "Orhan Gencebay",
+    "muzik": "Orhan Gencebay"
   },
   "sistem": {
     "eski_id": 6375,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T18:14:11.355Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
