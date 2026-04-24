@@ -1,26 +1,18 @@
 {
   "id": "sozlerimi-geri-alamam",
   "baslik": "SÖZLERİMİ GERİ ALAMAM",
-  "sozler_html": "<p>Sözlerimi geri alamam / Yazdığımı yeniden yazamamÇaldığımı baştan çalamam / Bir daha geri dönememAkıyorsa gözyaşım kurumasın Coşup seven gönlümse durmasınDost bildik anılarım çağırmasın / Bir daha geri dönememHiç bi kere hayat bayram olmadı ya daHer nefes alışımız bayramdıBir umuttu yaşatan insanı / Aldım elime sazımıYine aşınca çayın suyu boyunuBelki yeniden karşıma çıkacaksınGöz göze durup bakıncaGöreceğiz neyiz ve nerelerdeyiz / Bilemiyoruz şimdi</p>",
-  "sozler_duz": "Sözlerimi geri alamam / Yazdığımı yeniden yazamamÇaldığımı baştan çalamam / Bir daha geri dönememAkıyorsa gözyaşım kurumasın Coşup seven gönlümse durmasınDost bildik anılarım çağırmasın / Bir daha geri dönememHiç bi kere hayat bayram olmadı ya daHer nefes alışımız bayramdıBir umuttu yaşatan insanı / Aldım elime sazımıYine aşınca çayın suyu boyunuBelki yeniden karşıma çıkacaksınGöz göze durup bakıncaGöreceğiz neyiz ve nerelerdeyiz / Bilemiyoruz şimdi",
+  "sozler_html": "<p>Sözlerimi geri alamam&nbsp;</p><p>Yazdığımı yeniden yazamam</p><p>Çaldığımı baştan çalamam&nbsp;</p><p>Bir daha geri dönemem</p><p><br></p><p>Akıyorsa gözyaşım kurumasın&nbsp;</p><p>Coşup seven gönlümse durmasın</p><p>Dost bildik anılarım çağırmasın&nbsp;</p><p>Bir daha geri dönemem</p><p><br></p><p>Hiç bi kere hayat bayram olmadı ya da</p><p>Her nefes alışımız bayramdı</p><p>Bir umuttu yaşatan insanı&nbsp;</p><p>Aldım elime sazımı</p><p><br></p><p>Yine aşınca çayın suyu boyunu</p><p>Belki yeniden karşıma çıkacaksın</p><p>Göz göze durup bakınca</p><p>Göreceğiz neyiz ve nerelerdeyiz&nbsp;</p><p>Bilemiyoruz şimdi</p>",
+  "sozler_duz": "Sözlerimi geri alamam \n\nYazdığımı yeniden yazamam\n\nÇaldığımı baştan çalamam \n\nBir daha geri dönemem\n\nAkıyorsa gözyaşım kurumasın \n\nCoşup seven gönlümse durmasın\n\nDost bildik anılarım çağırmasın \n\nBir daha geri dönemem\n\nHiç bi kere hayat bayram olmadı ya da\n\nHer nefes alışımız bayramdı\n\nBir umuttu yaşatan insanı \n\nAldım elime sazımı\n\nYine aşınca çayın suyu boyunu\n\nBelki yeniden karşıma çıkacaksın\n\nGöz göze durup bakınca\n\nGöreceğiz neyiz ve nerelerdeyiz \n\nBilemiyoruz şimdi",
   "meta": {
-    "yore": "BULUTSUZLUK ÖZLEMİ           Nejat Yavaşoğulları",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "BULUTSUZLUK ÖZLEMİ           Nejat Yavaşoğulları",
-    "aciklama": ""
+    "turu": "POP",
+    "soz": "Nejat Yavaşoğulları",
+    "muzik": "Nejat Yavaşoğulları",
+    "soyleyenler": "BULUTSUZLUK ÖZLEMİ"
   },
   "sistem": {
     "eski_id": 6332,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T19:00:07.670Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
