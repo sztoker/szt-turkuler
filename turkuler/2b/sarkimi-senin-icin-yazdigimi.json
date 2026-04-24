@@ -1,26 +1,18 @@
 {
   "id": "sarkimi-senin-icin-yazdigimi",
   "baslik": "ŞARKIMI SENİN İÇİN YAZDIĞIMI ...",
-  "sozler_html": "<p>Şarkımı senin için yazdığımı bilseydinDünyanın bir ucundan kalkıp bana gelseydinBenim gibi özlesen benim gibi sevseydinDünyanın bir ucundan kalkıp bana gelseydinKuruyan dudağıma bir damla su verseydinYine öyle neşeyle kahkahayla gülseydin / Benim gibi ...</p>",
-  "sozler_duz": "Şarkımı senin için yazdığımı bilseydinDünyanın bir ucundan kalkıp bana gelseydinBenim gibi özlesen benim gibi sevseydinDünyanın bir ucundan kalkıp bana gelseydinKuruyan dudağıma bir damla su verseydinYine öyle neşeyle kahkahayla gülseydin / Benim gibi ...",
+  "sozler_html": "<p>Şarkımı senin için yazdığımı bilseydin</p><p>Dünyanın bir ucundan kalkıp bana gelseydin</p><p><br></p><p><b>Benim gibi özlesen benim gibi sevseydin</b></p><p><b>Dünyanın bir ucundan kalkıp bana gelseydin</b></p><p><br></p><p>Kuruyan dudağıma bir damla su verseydin</p><p>Yine öyle neşeyle kahkahayla gülseydin&nbsp;</p><p><br></p><p><b>Benim gibi ...</b></p>",
+  "sozler_duz": "Şarkımı senin için yazdığımı bilseydin\n\nDünyanın bir ucundan kalkıp bana gelseydin\n\nBenim gibi özlesen benim gibi sevseydin\n\nDünyanın bir ucundan kalkıp bana gelseydin\n\nKuruyan dudağıma bir damla su verseydin\n\nYine öyle neşeyle kahkahayla gülseydin \n\nBenim gibi ...",
   "meta": {
-    "yore": "İrfan Özbakır / Ülkü Aker                   Mahur",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "İrfan Özbakır / Ülkü Aker                   Mahur",
-    "aciklama": ""
+    "turu": "TSM",
+    "soz": "Ülkü Aker",
+    "muzik": "İrfan Özbakır",
+    "diger_bilgiler": "Mahur"
   },
   "sistem": {
     "eski_id": 6365,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T07:56:38.316Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
