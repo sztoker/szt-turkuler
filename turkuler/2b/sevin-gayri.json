@@ -1,26 +1,17 @@
 {
   "id": "sevin-gayri",
   "baslik": "SEVİN GAYRI",
-  "sozler_html": "<p>Beni derde koyup kaçtın / Gözün aydın sevin gayrıYüreğime yara açtın / Gözün aydın sevin gayrıBir zamanlar benim oldun / Ömür fidanımı yoldunYeni bir sevgili buldun / Gözün aydın sevin gayrıVerdiğin sözleri nettin / Beni yakıp yıktın gittinHarabeyi verem ettin / Gözün aydın sevin gayrı</p>",
-  "sozler_duz": "Beni derde koyup kaçtın / Gözün aydın sevin gayrıYüreğime yara açtın / Gözün aydın sevin gayrıBir zamanlar benim oldun / Ömür fidanımı yoldunYeni bir sevgili buldun / Gözün aydın sevin gayrıVerdiğin sözleri nettin / Beni yakıp yıktın gittinHarabeyi verem ettin / Gözün aydın sevin gayrı",
+  "sozler_html": "<p>Beni derde koyup kaçtın&nbsp;</p><p>Gözün aydın sevin gayrı</p><p>Yüreğime yara açtın&nbsp;</p><p>Gözün aydın sevin gayrı</p><p><br></p><p>Bir zamanlar benim oldun&nbsp;</p><p>Ömür fidanımı yoldun</p><p>Yeni bir sevgili buldun&nbsp;</p><p>Gözün aydın sevin gayrı</p><p><br></p><p>Verdiğin sözleri nettin&nbsp;</p><p>Beni yakıp yıktın gittin</p><p>Arabi'yi verem ettin&nbsp;</p><p>Gözün aydın sevin gayrı</p>",
+  "sozler_duz": "Beni derde koyup kaçtın \n\nGözün aydın sevin gayrı\n\nYüreğime yara açtın \n\nGözün aydın sevin gayrı\n\nBir zamanlar benim oldun \n\nÖmür fidanımı yoldun\n\nYeni bir sevgili buldun \n\nGözün aydın sevin gayrı\n\nVerdiğin sözleri nettin \n\nBeni yakıp yıktın gittin\n\nArabi'yi verem ettin \n\nGözün aydın sevin gayrı",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "soz": "Arabi Demir",
+    "muzik": "Arabi Demir",
+    "soyleyenler": "Arabi Demir-Şükriye Tutkun"
   },
   "sistem": {
     "eski_id": 6292,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-24T09:06:57.565Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
