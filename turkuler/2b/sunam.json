@@ -6,7 +6,6 @@
   "meta": {
     "turu": "THM",
     "soz": "Pir Sultan Abdal",
-    "muzik": "DÜZGÜN UÇKAÇ",
     "soyleyenler": "Z. Livaneli",
     "karar": "La",
     "diger_bilgiler": "Türkünün orijinali \"turnam\", Livaneli sunam olarak söylemiş."
@@ -14,7 +13,7 @@
   "sistem": {
     "eski_id": 6344,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-24T19:41:30.101Z",
+    "son_degisiklik": "2026-04-24T19:52:22.262Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
