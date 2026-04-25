@@ -1,26 +1,16 @@
 {
   "id": "usur-olum",
   "baslik": "ÜŞÜR ÖLÜM",
-  "sozler_html": "<p>Bir ormanda tutup onu / Bağladılar ağaca</p>\n<p>Yumdu sanki uyur gibi / Gözlerini yavaşca</p>\n<p>Bir soğuk yel eser / Üşür ölüm bile</p>\n<p>Anlatır akan kanı / Beyaz sesiyle</p>\n<p class=\"bos\"></p>\n<p>Diz çöktüler karşısında / Sonra ateş ettiler</p>\n<p>Parçalanan yüreğine / Yuva kurdu mermiler</p>\n<p>Gelip kondu bir güvercin / Ellerine o gece</p>\n<p>Kırmızı bir çelenk oldu / Bileğinde kelepçe</p>",
-  "sozler_duz": "Bir ormanda tutup onu / Bağladılar ağaca Yumdu sanki uyur gibi / Gözlerini yavaşca Bir soğuk yel eser / Üşür ölüm bile Anlatır akan kanı / Beyaz sesiyle Diz çöktüler karşısında / Sonra ateş ettiler Parçalanan yüreğine / Yuva kurdu mermiler Gelip kondu bir güvercin / Ellerine o gece Kırmızı bir çelenk oldu / Bileğinde kelepçe",
+  "sozler_html": "<p>Bir ormanda tutup onu&nbsp;</p><p>Bağladılar ağaca</p>\n<p>Yumdu sanki uyur gibi&nbsp;</p><p>Gözlerini yavaşca</p><p><br></p>\n<p>Bir soğuk yel eser&nbsp;</p><p>Üşür ölüm bile</p>\n<p>Anlatır akan kanı&nbsp;</p><p>Beyaz sesiyle</p>\n<p class=\"bos\"></p>\n<p>Diz çöktüler karşısında&nbsp;</p><p>Sonra ateş ettiler</p>\n<p>Parçalanan yüreğine&nbsp;</p><p>Yuva kurdu mermiler</p><p><br></p>\n<p>Gelip kondu bir güvercin&nbsp;</p><p>Ellerine o gece</p>\n<p>Kırmızı bir çelenk oldu&nbsp;</p><p>Bileğinde kelepçe</p>",
+  "sozler_duz": "Bir ormanda tutup onu \n\nBağladılar ağaca\n\nYumdu sanki uyur gibi \n\nGözlerini yavaşca\n\nBir soğuk yel eser \n\nÜşür ölüm bile\n\nAnlatır akan kanı \n\nBeyaz sesiyle\n\nDiz çöktüler karşısında \n\nSonra ateş ettiler\n\nParçalanan yüreğine \n\nYuva kurdu mermiler\n\nGelip kondu bir güvercin \n\nEllerine o gece\n\nKırmızı bir çelenk oldu \n\nBileğinde kelepçe",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Ülkü Tamer",
-    "muzik": "Hasan Yükselir",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S : Ülkü Tamer     M : Hasan Yükselir",
-    "aciklama": ""
+    "muzik": "Hasan Yükselir"
   },
   "sistem": {
     "eski_id": 1259,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T14:37:17.331Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
