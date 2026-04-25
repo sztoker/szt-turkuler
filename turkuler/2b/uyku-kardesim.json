@@ -1,26 +1,18 @@
 {
   "id": "uyku-kardesim",
   "baslik": "UYKU KARDEŞİM",
-  "sozler_html": "<p>Uyku kardeşim ver elini Usul usul damla damla beraber / Eriyelim eriyelimSonra bembeyaz fukara bir bacadaTek göz olmuş umutlarla sevdalarla / Tütelim eriyelimMavi mavi ince ince tütelim eriyelim</p>",
-  "sozler_duz": "Uyku kardeşim ver elini Usul usul damla damla beraber / Eriyelim eriyelimSonra bembeyaz fukara bir bacadaTek göz olmuş umutlarla sevdalarla / Tütelim eriyelimMavi mavi ince ince tütelim eriyelim",
+  "sozler_html": "<p>Uyku kardeşim ver elini&nbsp;</p><p>Usul usul damla damla beraber&nbsp;</p><p>Eriyelim eriyelim</p><p>Sonra bembeyaz fukara bir bacada</p><p>Tek göz olmuş umutlarla sevdalarla&nbsp;</p><p>Tütelim eriyelim</p><p>Mavi mavi ince ince tütelim eriyelim</p>",
+  "sozler_duz": "Uyku kardeşim ver elini \n\nUsul usul damla damla beraber \n\nEriyelim eriyelim\n\nSonra bembeyaz fukara bir bacada\n\nTek göz olmuş umutlarla sevdalarla \n\nTütelim eriyelim\n\nMavi mavi ince ince tütelim eriyelim",
   "meta": {
-    "yore": "Fikret Kızılok",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Fikret Kızılok",
-    "aciklama": ""
+    "turu": "POP",
+    "soz": "Bedri Rahmi Eyüboğlu",
+    "muzik": "Fikret Kızılok",
+    "soyleyenler": "Fikret Kızılok"
   },
   "sistem": {
     "eski_id": 6505,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T19:27:54.771Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
