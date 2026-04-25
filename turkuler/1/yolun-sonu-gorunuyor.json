@@ -1,26 +1,15 @@
 {
   "id": "yolun-sonu-gorunuyor",
   "baslik": "YOLUN SONU GÖRÜNÜYOR",
-  "sozler_html": "<p>Bana ne yazdan bahardan / Bana ne borandan kardan</p>\n<p>Aşağıdan yukarıdan / Yolun sonu görünüyor</p>\n<p class=\"bos\"></p>\n<p>Geçtim dünya üzerinden / Ömür bir nefes derinden</p>\n<p>Bak feleğin çemberinden / Yolun sonu görünüyor</p>\n<p>Azrailim gelir kendi / Ne ağa der ne efendi</p>\n<p>Sayılı günler tükendi / Yolun sonu görünüyor</p>\n<p class=\"bos\"></p>\n<p>Bu dünyanın direği yok / Merhameti yüreği yok</p>\n<p>Kılavuzun gereği yok / Yolun sonu görünüyor  / Azrailim...</p>",
-  "sozler_duz": "Bana ne yazdan bahardan / Bana ne borandan kardan Aşağıdan yukarıdan / Yolun sonu görünüyor Geçtim dünya üzerinden / Ömür bir nefes derinden Bak feleğin çemberinden / Yolun sonu görünüyor Azrailim gelir kendi / Ne ağa der ne efendi Sayılı günler tükendi / Yolun sonu görünüyor Bu dünyanın direği yok / Merhameti yüreği yok Kılavuzun gereği yok / Yolun sonu görünüyor / Azrailim...",
+  "sozler_html": "<p>Bana ne yazdan bahardan&nbsp;</p><p>Bana ne borandan kardan</p>\n<p>Aşağıdan yukarıdan&nbsp;</p><p>Yolun sonu görünüyor</p>\n<p class=\"bos\"></p>\n<p>Geçtim dünya üzerinden&nbsp;</p><p>Ömür bir nefes derinden</p>\n<p>Bak feleğin çemberinden&nbsp;</p><p>Yolun sonu görünüyor</p><p><br></p>\n<p><b>Azrailim gelir kendi&nbsp;</b></p><p><b>Ne ağa der ne efendi</b></p>\n<p><b>Sayılı günler tükendi&nbsp;</b></p><p><b>Yolun sonu görünüyor</b></p>\n<p class=\"bos\"></p>\n<p>Bu dünyanın direği yok&nbsp;</p><p>Merhameti yüreği yok</p>\n<p>Kılavuzun gereği yok&nbsp;</p><p>Yolun sonu görünüyor&nbsp;</p><p><br></p><p><b>Azrailim...</b></p>",
+  "sozler_duz": "Bana ne yazdan bahardan \n\nBana ne borandan kardan\n\nAşağıdan yukarıdan \n\nYolun sonu görünüyor\n\nGeçtim dünya üzerinden \n\nÖmür bir nefes derinden\n\nBak feleğin çemberinden \n\nYolun sonu görünüyor\n\nAzrailim gelir kendi \n\nNe ağa der ne efendi\n\nSayılı günler tükendi \n\nYolun sonu görünüyor\n\nBu dünyanın direği yok \n\nMerhameti yüreği yok\n\nKılavuzun gereği yok \n\nYolun sonu görünüyor \n\nAzrailim...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "Musa Eroğlu",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Musa Eroğlu"
   },
   "sistem": {
     "eski_id": 267,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T12:00:53.747Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
