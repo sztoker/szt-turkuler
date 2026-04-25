@@ -2,25 +2,17 @@
   "id": "vardim-hint-eline",
   "baslik": "VARDIM HİNT ELİNE",
   "sozler_html": "<p>Vardım Hint eline kumaş getirdim</p>\n<p>Açtım bedestanı sattım oturdum</p>\n<p>Sen benim başıma neler getirdin</p>\n<p class=\"bos\"></p>\n<p><b>Ben senin derdini (2-kahrını) çekemem gönül</b></p>\n<p class=\"bos\"></p>\n<p>Eline aluben sazlar istersin</p>\n<p>Göllerden ördeği kazlar istersin</p>\n<p>Benden mahbub gelin kızlar istersin</p>\n<p class=\"bos\"></p>\n<p><b>Ben senin   derdini  ...</b></p>\n<p class=\"bos\"></p>\n<p>Karabulut gibi göğe ağarsın</p>\n<p>Sulu yağmur gibi yere yağarsın</p>\n<p>O y ar  senin değil ne çok bakarsın</p>\n<p class=\"bos\"></p>\n<p><b>Ben senin  derdini  ...</b></p>",
-  "sozler_duz": "Vardım Hint eline kumaş getirdim Açtım bedestanı sattım oturdum Sen benim başıma neler getirdin Ben senin derdini (2-kahrını) çekemem gönül Eline aluben sazlar istersin Göllerden ördeği kazlar istersin Benden mahbub gelin kızlar istersin Ben senin derdini ... Karabulut gibi göğe ağarsın Sulu yağmur gibi yere yağarsın O y ar senin değil ne çok bakarsın Ben senin derdini ...",
+  "sozler_duz": "Vardım Hint eline kumaş getirdim\n\nAçtım bedestanı sattım oturdum\n\nSen benim başıma neler getirdin\n\nBen senin derdini (2-kahrını) çekemem gönül\n\nEline aluben sazlar istersin\n\nGöllerden ördeği kazlar istersin\n\nBenden mahbub gelin kızlar istersin\n\nBen senin derdini ...\n\nKarabulut gibi göğe ağarsın\n\nSulu yağmur gibi yere yağarsın\n\nO y ar senin değil ne çok bakarsın\n\nBen senin derdini ...",
   "meta": {
     "yore": "ERZİNCAN",
-    "turu": "1",
-    "turu2": "1",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "La",
-    "diger_bilgiler": "ERZİNCAN",
-    "aciklama": ""
+    "derleyen": "YÜCEL PAŞMAKÇI",
+    "kaynak_kisi": "TURAN ENGİN",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 232,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T14:26:34.602Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
