@@ -1,26 +1,19 @@
 {
   "id": "tekerleme",
   "baslik": "TEKERLEME",
-  "sozler_html": "<p>Çiçeğe arı, arıya asel Abdala boru, boruya gazelŞaire türkü de -yar yar- türküye güzelGüzele gerdan ne güzel uymuşKediye sıçan, şıçana kovukMeclise kelam, kelama dorukHastaya çorba -da yar yar- çorbaya korukKoruğa hava ne güzel uymuşKapıya kilit, kilide miftahDervişe hırka, hırkaya külahKahveye yaran -da yar yar- yarana meddahMeddaha yalan ne güzel uymuşYayana atlı, atlıya koşuDallıya kuşak, kuşağa foşuSohbete helva -da yar yar- helvaya turşuTurşuya soğan ne güzel uymuşYağlığa nakış, nakışa ipekÜstada hüner, hünere emekLevni'ye güzel -de yar yar- güzele döşekDöşeğe yorgan ne güzel uymuş</p>",
-  "sozler_duz": "Çiçeğe arı, arıya asel Abdala boru, boruya gazelŞaire türkü de -yar yar- türküye güzelGüzele gerdan ne güzel uymuşKediye sıçan, şıçana kovukMeclise kelam, kelama dorukHastaya çorba -da yar yar- çorbaya korukKoruğa hava ne güzel uymuşKapıya kilit, kilide miftahDervişe hırka, hırkaya külahKahveye yaran -da yar yar- yarana meddahMeddaha yalan ne güzel uymuşYayana atlı, atlıya koşuDallıya kuşak, kuşağa foşuSohbete helva -da yar yar- helvaya turşuTurşuya soğan ne güzel uymuşYağlığa nakış, nakışa ipekÜstada hüner, hünere emekLevni'ye güzel -de yar yar- güzele döşekDöşeğe yorgan ne güzel uymuş",
+  "sozler_html": "<p>Çiçeğe arı, arıya asel&nbsp;</p><p>Abdala boru, boruya gazel</p><p>Şaire türkü de -yar yar- türküye güzel</p><p>Güzele gerdan ne güzel uymuş</p><p><br></p><p>Kediye sıçan, şıçana kovuk</p><p>Meclise kelam, kelama doruk</p><p>Hastaya çorba -da yar yar- çorbaya koruk</p><p>Koruğa hava ne güzel uymuş</p><p><br></p><p>Kapıya kilit, kilide miftah</p><p>Dervişe hırka, hırkaya külah</p><p>Kahveye yaran -da yar yar- yarana meddah</p><p>Meddaha yalan ne güzel uymuş</p><p><br></p><p>Yayana atlı, atlıya koşu</p><p>Dallıya kuşak, kuşağa foşu</p><p>Sohbete helva -da yar yar- helvaya turşu</p><p>Turşuya soğan ne güzel uymuş</p><p><br></p><p>Yağlığa nakış, nakışa ipek</p><p>Üstada hüner, hünere emek</p><p>Levni'ye güzel -de yar yar- güzele döşek</p><p>Döşeğe yorgan ne güzel uymuş</p>",
+  "sozler_duz": "Çiçeğe arı, arıya asel \n\nAbdala boru, boruya gazel\n\nŞaire türkü de -yar yar- türküye güzel\n\nGüzele gerdan ne güzel uymuş\n\nKediye sıçan, şıçana kovuk\n\nMeclise kelam, kelama doruk\n\nHastaya çorba -da yar yar- çorbaya koruk\n\nKoruğa hava ne güzel uymuş\n\nKapıya kilit, kilide miftah\n\nDervişe hırka, hırkaya külah\n\nKahveye yaran -da yar yar- yarana meddah\n\nMeddaha yalan ne güzel uymuş\n\nYayana atlı, atlıya koşu\n\nDallıya kuşak, kuşağa foşu\n\nSohbete helva -da yar yar- helvaya turşu\n\nTurşuya soğan ne güzel uymuş\n\nYağlığa nakış, nakışa ipek\n\nÜstada hüner, hünere emek\n\nLevni'ye güzel -de yar yar- güzele döşek\n\nDöşeğe yorgan ne güzel uymuş",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "Levni",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "Ruhi Su",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "yore": "Edirne",
+    "turu": "THM",
+    "soz": "Edirne'li Levni",
+    "muzik": "Ruhi Su",
+    "soyleyenler": "Ruhi Su"
   },
   "sistem": {
     "eski_id": 6436,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T18:29:54.270Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
