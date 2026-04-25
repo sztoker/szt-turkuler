@@ -2,25 +2,17 @@
   "id": "yine-bir-gul-nihal",
   "baslik": "YİNE BİR GÜL NİHAL",
   "sozler_html": "<p>Yine bir gülnihal aldı bu gönlümü     (2</p>\n<p>Sim ten gonca fem bibedel ol güzel     (2</p>\n<p>Ateşi ruhleri yaktı bu gönlümü     (2</p>\n<p>Pür eda pür cefa pek küçük pek güzel     (2</p>\n<p class=\"bos\"></p>\n<p>Görmedim kimsede böyle bir dil ruba</p>\n<p>Böyle kaş böyle göz böyle el böyle yüz</p>\n<p>Aşıkın bağrını üzmeye göz süzer</p>\n<p>El aman pek yaman her zaman ol güzel</p>",
-  "sozler_duz": "Yine bir gülnihal aldı bu gönlümü (2 Sim ten gonca fem bibedel ol güzel (2 Ateşi ruhleri yaktı bu gönlümü (2 Pür eda pür cefa pek küçük pek güzel (2 Görmedim kimsede böyle bir dil ruba Böyle kaş böyle göz böyle el böyle yüz Aşıkın bağrını üzmeye göz süzer El aman pek yaman her zaman ol güzel",
+  "sozler_duz": "Yine bir gülnihal aldı bu gönlümü (2\n\nSim ten gonca fem bibedel ol güzel (2\n\nAteşi ruhleri yaktı bu gönlümü (2\n\nPür eda pür cefa pek küçük pek güzel (2\n\nGörmedim kimsede böyle bir dil ruba\n\nBöyle kaş böyle göz böyle el böyle yüz\n\nAşıkın bağrını üzmeye göz süzer\n\nEl aman pek yaman her zaman ol güzel",
   "meta": {
-    "yore": "",
     "turu": "TSM",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "İsmail Dede Efendi     Rast / Semai",
-    "aciklama": ""
+    "soz": "İsmail Dede Efendi",
+    "muzik": "İsmail Dede Efendi",
+    "diger_bilgiler": "Rast / Semai"
   },
   "sistem": {
     "eski_id": 1308,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T12:11:44.126Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
