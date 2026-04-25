@@ -1,26 +1,15 @@
 {
   "id": "yine-de-sahlaniyor",
-  "baslik": "YİNE DE ŞAHLANIYOR ",
-  "sozler_html": "<p>Yine de şahlanıyor -aman- kolbaşının -yandım da- kıratı</p>\n<p>Görünüyor -yandım aman - bize sefer yolları</p>\n<p>Davullar çalsınlar –aman/aman da- cengi cengi de harbiyi</p>\n<p>Görünüyor -yandım aman- bize zafer yolları</p>\n<p class=\"bos\"></p>\n<p>Gahi sefer olur –aman/aman da- sefer sefer eyleriz</p>\n<p>Hazan erişince –aman/aman da- güzel severiz</p>\n<p>Gül renkli badede –aman/aman da- hile hile sezeriz</p>\n<p>Sefersiz ol(a)maz –aman/ aman da- er evlatları</p>\n<p>Görünüyor -yandım aman- bize zafer yolları</p>",
-  "sozler_duz": "Yine de şahlanıyor -aman- kolbaşının -yandım da- kıratı Görünüyor -yandım aman - bize sefer yolları Davullar çalsınlar –aman/aman da- cengi cengi de harbiyi Görünüyor -yandım aman- bize zafer yolları Gahi sefer olur –aman/aman da- sefer sefer eyleriz Hazan erişince –aman/aman da- güzel severiz Gül renkli badede –aman/aman da- hile hile sezeriz Sefersiz ol(a)maz –aman/ aman da- er evlatları Görünüyor -yandım aman- bize zafer yolları",
+  "baslik": "YİNE DE ŞAHLANIYOR",
+  "sozler_html": "<p>Yine de şahlanıyor -aman-&nbsp;</p><p>Kolbaşının -yandım da- kıratı</p>\n<p>Görünüyor -yandım aman -&nbsp;</p><p>Bize sefer yolları</p>\n<p>Davullar çalsınlar –aman/aman da-&nbsp;</p><p>Cengi cengi de harbiyi</p>\n<p><b>Görünüyor -yandım aman-&nbsp;</b></p><p><b>Bize zafer yolları</b></p>\n<p class=\"bos\"></p>\n<p>Gahi sefer olur –aman/aman da-&nbsp;</p><p>Sefer sefer eyleriz</p>\n<p>Hazan erişince –aman/aman da-&nbsp;</p><p>Güzel severiz</p>\n<p>Gül renkli badede –aman/aman da-&nbsp;</p><p>Hile hile sezeriz</p>\n<p>Sefersiz ol(a)maz –aman/ aman da-&nbsp;</p><p>Er evlatları</p>\n<p><b>Görünüyor -yandım aman-&nbsp;</b></p><p><b>Bize zafer yolları</b></p>",
+  "sozler_duz": "Yine de şahlanıyor -aman- \n\nKolbaşının -yandım da- kıratı\n\nGörünüyor -yandım aman - \n\nBize sefer yolları\n\nDavullar çalsınlar –aman/aman da- \n\nCengi cengi de harbiyi\n\nGörünüyor -yandım aman- \n\nBize zafer yolları\n\nGahi sefer olur –aman/aman da- \n\nSefer sefer eyleriz\n\nHazan erişince –aman/aman da- \n\nGüzel severiz\n\nGül renkli badede –aman/aman da- \n\nHile hile sezeriz\n\nSefersiz ol(a)maz –aman/ aman da- \n\nEr evlatları\n\nGörünüyor -yandım aman- \n\nBize zafer yolları",
   "meta": {
-    "yore": "RUMELİ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "RUMELİ",
-    "aciklama": ""
+    "yore": "RUMELİ"
   },
   "sistem": {
     "eski_id": 1310,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T12:11:01.943Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
