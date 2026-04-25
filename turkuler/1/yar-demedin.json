@@ -1,26 +1,15 @@
 {
   "id": "yar-demedin",
   "baslik": "YAR DEMEDİN",
-  "sozler_html": "<p>Ey sevdiğim bir gün bana / Yar demedin, yar demedin</p>\n<p>Gece gündüz tenhalarda / Ağlayanım var demedin</p>\n<p class=\"bos\"></p>\n<p>Seni sevmek suç mu bana / Ağlıyorum yana yana</p>\n<p>Bir melhem verip yarana / Sür demedin, sür demedin</p>\n<p class=\"bos\"></p>\n<p>Bir gün bana gül demedin / Gözyaşını sil demedin</p>\n<p>Bir ömür koştum peşinden / Gel demedin, gel demedin</p>",
-  "sozler_duz": "Ey sevdiğim bir gün bana / Yar demedin, yar demedin Gece gündüz tenhalarda / Ağlayanım var demedin Seni sevmek suç mu bana / Ağlıyorum yana yana Bir melhem verip yarana / Sür demedin, sür demedin Bir gün bana gül demedin / Gözyaşını sil demedin Bir ömür koştum peşinden / Gel demedin, gel demedin",
+  "sozler_html": "<p>Ey sevdiğim bir gün bana&nbsp;</p><p>Yar demedin, yar demedin</p>\n<p>Gece gündüz tenhalarda&nbsp;</p><p>Ağlayanım var demedin</p>\n<p class=\"bos\"></p>\n<p>Seni sevmek suç mu bana&nbsp;</p><p>Ağlıyorum yana yana</p>\n<p>Bir melhem verip yarana&nbsp;</p><p>Sür demedin, sür demedin</p>\n<p class=\"bos\"></p>\n<p>Bir gün bana gül demedin&nbsp;</p><p>Gözyaşını sil demedin</p>\n<p>Bir ömür koştum peşinden&nbsp;</p><p>Gel demedin, gel demedin</p>",
+  "sozler_duz": "Ey sevdiğim bir gün bana \n\nYar demedin, yar demedin\n\nGece gündüz tenhalarda \n\nAğlayanım var demedin\n\nSeni sevmek suç mu bana \n\nAğlıyorum yana yana\n\nBir melhem verip yarana \n\nSür demedin, sür demedin\n\nBir gün bana gül demedin \n\nGözyaşını sil demedin\n\nBir ömür koştum peşinden \n\nGel demedin, gel demedin",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "Yavuz Top",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Yavuz Top"
   },
   "sistem": {
     "eski_id": 261,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T13:59:35.574Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
