@@ -1,26 +1,15 @@
 {
   "id": "yalnizlar-rihtimi",
   "baslik": "YALNIZLAR RIHTIMI",
-  "sozler_html": "<p>Bir ben miyim perişan * gecenin karanlığında</p>\n<p>Yosun tuttu gözlerim * yalnızlar rıhtımında</p>\n<p>Bütün gece ağladım*  dalgalar kucağına</p>\n<p>Yosun tuttu gözlerim * yalnızlar rıhtımında</p>\n<p class=\"bos\"></p>\n<p>Bir beni mi unuttular * uçup gitii martılar</p>\n<p>Geceler ben ve deniz * yalnızlar rıhtımında / Bütün ...</p>",
-  "sozler_duz": "Bir ben miyim perişan * gecenin karanlığında Yosun tuttu gözlerim * yalnızlar rıhtımında Bütün gece ağladım* dalgalar kucağına Yosun tuttu gözlerim * yalnızlar rıhtımında Bir beni mi unuttular * uçup gitii martılar Geceler ben ve deniz * yalnızlar rıhtımında / Bütün ...",
+  "sozler_html": "<p>Bir ben miyim perişan&nbsp;</p><p>gecenin karanlığında</p>\n<p>Yosun tuttu gözlerim&nbsp;</p><p>yalnızlar rıhtımında</p>\n<p><br></p><p><b>Bütün gece ağladım</b></p><p><b>dalgalar kucağına</b></p>\n<p><b>Yosun tuttu gözlerim&nbsp;</b></p><p><b>yalnızlar rıhtımında</b></p>\n<p class=\"bos\"></p>\n<p>Bir beni mi unuttular&nbsp;</p><p>uçup gitii martılar</p>\n<p>Geceler ben ve deniz&nbsp;</p><p>yalnızlar rıhtımında&nbsp;</p><p><br></p><p><b>Bütün gece...</b></p>",
+  "sozler_duz": "Bir ben miyim perişan \n\ngecenin karanlığında\n\nYosun tuttu gözlerim \n\nyalnızlar rıhtımında\n\nBütün gece ağladım\n\ndalgalar kucağına\n\nYosun tuttu gözlerim \n\nyalnızlar rıhtımında\n\nBir beni mi unuttular \n\nuçup gitii martılar\n\nGeceler ben ve deniz \n\nyalnızlar rıhtımında \n\nBütün gece...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Y: Erkin Koray",
-    "aciklama": ""
+    "soyleyenler": "Erkin Koray"
   },
   "sistem": {
     "eski_id": 1280,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T14:01:29.850Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
