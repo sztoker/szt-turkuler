@@ -1,26 +1,13 @@
 {
   "id": "oy-dere-kizil-dere",
   "baslik": "OY DERE KIZIL DERE",
-  "sozler_html": "<p>Oy dere kızıl dere / Böyle akışın nere</p>\n<p>Bizde hal mi bıraktın / Sana can vere vere -oy oy</p>\n<p class=\"bos\"></p>\n<p>Dere bizim evimiz / Suyu alın terimiz</p>\n<p>Söyle nedendir dere / Vurulur gençlerimiz -oy oy</p>\n<p class=\"bos\"></p>\n<p>Dere böyle durulmaz / Gence kurşun sıkılmaz</p>\n<p>Sanma faşist olandan / Bir gün hesap sorulmaz -oy oy</p>",
-  "sozler_duz": "Oy dere kızıl dere / Böyle akışın nere Bizde hal mi bıraktın / Sana can vere vere -oy oy Dere bizim evimiz / Suyu alın terimiz Söyle nedendir dere / Vurulur gençlerimiz -oy oy Dere böyle durulmaz / Gence kurşun sıkılmaz Sanma faşist olandan / Bir gün hesap sorulmaz -oy oy",
-  "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Oy dere kızıl dere&nbsp;</p><p>Böyle akışın nere</p>\n<p>Bizde hal mi bıraktın&nbsp;</p><p>Sana can vere vere -oy oy</p>\n<p class=\"bos\"></p>\n<p>Dere bizim evimiz&nbsp;</p><p>Suyu alın terimiz</p>\n<p>Söyle nedendir dere&nbsp;</p><p>Vurulur gençlerimiz -oy oy</p>\n<p class=\"bos\"></p>\n<p>Dere böyle durulmaz&nbsp;</p><p>Gence kurşun sıkılmaz</p>\n<p>Sanma faşist olandan&nbsp;</p><p>Bir gün hesap sorulmaz -oy oy</p>",
+  "sozler_duz": "Oy dere kızıl dere \n\nBöyle akışın nere\n\nBizde hal mi bıraktın \n\nSana can vere vere -oy oy\n\nDere bizim evimiz \n\nSuyu alın terimiz\n\nSöyle nedendir dere \n\nVurulur gençlerimiz -oy oy\n\nDere böyle durulmaz \n\nGence kurşun sıkılmaz\n\nSanma faşist olandan \n\nBir gün hesap sorulmaz -oy oy",
+  "meta": {},
   "sistem": {
     "eski_id": 1092,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T10:14:01.907Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
