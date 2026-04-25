@@ -1,26 +1,17 @@
 {
   "id": "yalgizam",
-  "baslik": "YALGIZAM ",
-  "sozler_html": "<p>Köynüm senin esirin galbim senindir -oy</p>\n<p>İnsaf eyle hoş sözle meni gel dindir -oy</p>\n<p>Söyle nedir bu edalar bu işve bu naz</p>\n<p>Geder (vallah) ay gız bu gözellik sene de galmaz</p>\n<p>Yalgızam yalgız yalgızam ay gız</p>\n<p>Gel meni möhnete oda salan vefasız</p>\n<p class=\"bos\"></p>\n<p>Dağlar başı dumandır gene dumandır</p>\n<p>Ayrılığın ölümden mene yamandır / Söyle nedir ...</p>",
-  "sozler_duz": "Köynüm senin esirin galbim senindir -oy İnsaf eyle hoş sözle meni gel dindir -oy Söyle nedir bu edalar bu işve bu naz Geder (vallah) ay gız bu gözellik sene de galmaz Yalgızam yalgız yalgızam ay gız Gel meni möhnete oda salan vefasız Dağlar başı dumandır gene dumandır Ayrılığın ölümden mene yamandır / Söyle nedir ...",
+  "baslik": "YALGIZAM",
+  "sozler_html": "<p>Köynüm senin esirin</p><p>Galbim senindir -oy</p>\n<p>İnsaf eyle hoş sözle&nbsp;</p><p>Meni gel dindir -oy</p><p><br></p>\n<p><b>Söyle nedir bu edalar&nbsp;</b></p><p><b>bu işve bu naz</b></p>\n<p><b>Geder (vallah) ay gız bu gözellik&nbsp;</b></p><p><b>Sene de galmaz</b></p><p><b><br></b></p>\n<p><b>Yalgızam yalgız yalgızam ay gız</b></p>\n<p><b>Gel meni möhnete oda salan vefasız</b></p>\n<p class=\"bos\"></p>\n<p>Dağlar başı dumandır gene dumandır</p>\n<p>Ayrılığın ölümden mene yamandır&nbsp;</p><p><br></p><p><b>Söyle nedir ...</b></p>",
+  "sozler_duz": "Köynüm senin esirin\n\nGalbim senindir -oy\n\nİnsaf eyle hoş sözle \n\nMeni gel dindir -oy\n\nSöyle nedir bu edalar \n\nbu işve bu naz\n\nGeder (vallah) ay gız bu gözellik \n\nSene de galmaz\n\nYalgızam yalgız yalgızam ay gız\n\nGel meni möhnete oda salan vefasız\n\nDağlar başı dumandır gene dumandır\n\nAyrılığın ölümden mene yamandır \n\nSöyle nedir ...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "Telet Eyübov",
-    "muzik": "Se’it Rüstemov ?(Tevfik Güliev)",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S:Telet Eyübov-M:Se’it Rüstemov ?(Tevfik Güliev-Re",
-    "aciklama": ""
+    "yore": "Azeri",
+    "soz": "Resul Rıza",
+    "muzik": "Tofig Guliyev"
   },
   "sistem": {
     "eski_id": 1278,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T14:17:04.912Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
