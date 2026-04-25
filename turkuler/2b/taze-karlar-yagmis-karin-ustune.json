@@ -1,26 +1,19 @@
 {
   "id": "taze-karlar-yagmis-karin-ustune",
-  "baslik": "Taze Karlar Yağmış Karın Üstüne_",
-  "sozler_html": "<p>Taze Karlar Yağmış Karın ÜstüneBülbül Figan Eyler Gülün ÜstüneDediler Nazlı Yarini El AlmışDaha İflah Olmam Bunun ÜstüneEkine Gidiyor Elinde OrakEkini Kurumuş Tarlası IrakYarimi Görünce Alıyor MerakBen Yari Görmedim Bunun ÜstüneYine Güz Geldi De Hava SoğuduBenim Nazlı Yardan Ahtım ÇoğuduOndan Gayrı Sevdiceğim YoğuduBaşka Yar Sevemem Onun Üstüne</p>",
-  "sozler_duz": "Taze Karlar Yağmış Karın ÜstüneBülbül Figan Eyler Gülün ÜstüneDediler Nazlı Yarini El AlmışDaha İflah Olmam Bunun ÜstüneEkine Gidiyor Elinde OrakEkini Kurumuş Tarlası IrakYarimi Görünce Alıyor MerakBen Yari Görmedim Bunun ÜstüneYine Güz Geldi De Hava SoğuduBenim Nazlı Yardan Ahtım ÇoğuduOndan Gayrı Sevdiceğim YoğuduBaşka Yar Sevemem Onun Üstüne",
+  "baslik": "TAZE KARLAR YAĞMIŞ KARIN ÜSTÜNE",
+  "sozler_html": "<p>Taze karlar yağmış karın\nüstüne</p><p>Bülbül figan eyler gülün üstüne</p><p>Dediler nazlı yarini el almış</p><p>Daha iflah olmam bunun üstüne</p><p>&nbsp;</p><p>Ekine gidiyor elinde orak</p><p>Ekini kurumuş tarlası ırak</p><p>Yarimi görünce alıyor merak</p><p>Ben yari görmedim bunun üstüne</p><p>&nbsp;</p><p>Yine güz geldi de hava soğudu</p><p>Benim nazlı yardan ahtım çoğudu</p><p>Ondan gayrı sevdiceğim yoğudu</p><p>Başka yar sevemem onun üstüne</p>",
+  "sozler_duz": "Taze karlar yağmış karın üstüne\n\nBülbül figan eyler gülün üstüne\n\nDediler nazlı yarini el almış\n\nDaha iflah olmam bunun üstüne\n\n \n\nEkine gidiyor elinde orak\n\nEkini kurumuş tarlası ırak\n\nYarimi görünce alıyor merak\n\nBen yari görmedim bunun üstüne\n\n \n\nYine güz geldi de hava soğudu\n\nBenim nazlı yardan ahtım çoğudu\n\nOndan gayrı sevdiceğim yoğudu\n\nBaşka yar sevemem onun üstüne",
   "meta": {
-    "yore": "Sivas",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ali Sultan-TRT Müz. Dairesi Bşk",
-    "aciklama": ""
+    "yore": "Sivas/Yıldızeli",
+    "turu": "THM",
+    "derleyen": "TRT Müz. Dairesi Bşk.",
+    "kaynak_kisi": "Ali Sultan",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6434,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T18:26:51.021Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
