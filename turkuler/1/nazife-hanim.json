@@ -1,26 +1,15 @@
 {
   "id": "nazife-hanim",
-  "baslik": "NAZİFE HANIM ",
-  "sozler_html": "<p>Bağa girdim bağ budanmış</p>\n<p>Bağa bülbül dadanmış</p>\n<p>0n beş yaşında da Nazife de hanım</p>\n<p>K imlere aldanmış</p>\n<p class=\"bos\"></p>\n<p>Çıktım Şarköy’ün yoluna</p>\n<p>Sıra sıra zeytinler</p>\n<p>O n beş yaşında da Nazife de</p>\n<p>D anıma yazık etmişler</p>\n<p class=\"bos\"></p>\n<p>O  tepeden bu tepeye</p>\n<p>Oyun olur mu</p>\n<p>O nbeş yaşında da Nazife de  h anıma</p>\n<p>D oyum olur mu</p>",
-  "sozler_duz": "Bağa girdim bağ budanmış Bağa bülbül dadanmış 0n beş yaşında da Nazife de hanım K imlere aldanmış Çıktım Şarköy’ün yoluna Sıra sıra zeytinler O n beş yaşında da Nazife de D anıma yazık etmişler O tepeden bu tepeye Oyun olur mu O nbeş yaşında da Nazife de h anıma D oyum olur mu",
+  "baslik": "NAZİFE HANIM",
+  "sozler_html": "<p>Bağa girdim bağ budanmış</p>\n<p>Bağa bülbül dadanmış</p>\n<p>On beş yaşında da Nazife de hanım</p>\n<p>Kimlere aldanmış</p>\n<p class=\"bos\"></p>\n<p>Çıktım Şarköy’ün yoluna</p>\n<p>Sıra sıra zeytinler</p>\n<p>On beş yaşında da Nazife de</p>\n<p>Danıma yazık etmişler</p>\n<p class=\"bos\"></p>\n<p>O  tepeden bu tepeye</p>\n<p>Oyun olur mu</p>\n<p>Onbeş yaşında da Nazife de  hanıma</p>\n<p>Doyum olur mu</p>",
+  "sozler_duz": "Bağa girdim bağ budanmış\n\nBağa bülbül dadanmış\n\nOn beş yaşında da Nazife de hanım\n\nKimlere aldanmış\n\nÇıktım Şarköy’ün yoluna\n\nSıra sıra zeytinler\n\nOn beş yaşında da Nazife de\n\nDanıma yazık etmişler\n\nO tepeden bu tepeye\n\nOyun olur mu\n\nOnbeş yaşında da Nazife de hanıma\n\nDoyum olur mu",
   "meta": {
-    "yore": "ŞARKÖY / TEKİRDAĞ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ŞARKÖY / TEKİRDAĞ",
-    "aciklama": ""
+    "yore": "ŞARKÖY / TEKİRDAĞ"
   },
   "sistem": {
     "eski_id": 1064,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T10:26:17.990Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
