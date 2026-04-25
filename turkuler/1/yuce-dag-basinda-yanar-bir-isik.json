@@ -1,8 +1,8 @@
 {
   "id": "yuce-dag-basinda-yanar-bir-isik",
-  "baslik": "Yüce Dağ Başında Yanar Bir Işık_",
-  "sozler_html": "<p>Yüce Dağ Başında Yanar Bir Işık</p><p>Düşmüşüm Derdine Olmuşum Aşık</p><p>Ağ Buğday Benizli Zülfü Dolaşık</p><p><br></p><p><b>Dividim Kalemim Yazarım</b></p><p><b>Böyle Bir Yavrunun Derdi Var Bende</b></p><p><b>Yar Bende Oy Bende</b></p><p><b>Aha Ben Gidiyom Sen Hemen Ağla</b></p><p><b>Yan Ağla Dön Ağla</b></p><p><br></p><p>Yüce Dağ Başından İndiremedim</p><p>Yönünü Yönüme Döndüremedim</p><p>Bir Yarin Aklını Kandıramadım</p><p><br></p><p><b>Dividim Kalemim...</b></p>",
-  "sozler_duz": "Yüce Dağ Başında Yanar Bir Işık\n\nDüşmüşüm Derdine Olmuşum Aşık\n\nAğ Buğday Benizli Zülfü Dolaşık\n\nDividim Kalemim Yazarım\n\nBöyle Bir Yavrunun Derdi Var Bende\n\nYar Bende Oy Bende\n\nAha Ben Gidiyom Sen Hemen Ağla\n\nYan Ağla Dön Ağla\n\nYüce Dağ Başından İndiremedim\n\nYönünü Yönüme Döndüremedim\n\nBir Yarin Aklını Kandıramadım\n\nDividim Kalemim...",
+  "baslik": "YÜCE DAĞ BAŞINDA YANAR BİR IŞIK",
+  "sozler_html": "<p>Yüce\ndağ başında yanar bir işık</p><p>Düşmüşüm derdine olmuşum aşık</p><p>Ağ buğday benizli zülfü dolaşık</p><p>&nbsp;</p><p><b>Dividim\nkalemim yazarım</b></p><p><b>Böyle bir\nyavrunun derdi var bende</b></p><p><b>Yar bende oy\nbende</b></p><p><b>Aha ben\ngidiyom sen hemen ağla</b></p><p><b>Yan ağla dön\nağla</b></p><p>&nbsp;</p><p>Yüce dağ başından indiremedim</p><p>Yönünü yönüme döndüremedim</p><p>Bir yarin aklını kandıramadım</p><p>&nbsp;</p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p><b>Dividim\nkalemim...</b></p>",
+  "sozler_duz": "Yüce dağ başında yanar bir işık\n\nDüşmüşüm derdine olmuşum aşık\n\nAğ buğday benizli zülfü dolaşık\n\n \n\nDividim kalemim yazarım\n\nBöyle bir yavrunun derdi var bende\n\nYar bende oy bende\n\nAha ben gidiyom sen hemen ağla\n\nYan ağla dön ağla\n\n \n\nYüce dağ başından indiremedim\n\nYönünü yönüme döndüremedim\n\nBir yarin aklını kandıramadım\n\n \n\nDividim kalemim...",
   "meta": {
     "yore": "Sivas/Zara",
     "derleyen": "TRT Ank. Rad. THM Md",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 6709,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-25T11:53:24.126Z",
+    "son_degisiklik": "2026-04-25T11:54:24.631Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
