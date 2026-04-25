@@ -1,26 +1,19 @@
 {
   "id": "tasa-verdim-yanimi",
-  "baslik": "Taşa Verdim Yanımı_",
-  "sozler_html": "<p>Taşa Verdim YanımıToprak Emdi Kanımı (Oy Dağlar Oy Dağlar)Ezraile Can VermezdimCanan Aldı Canımı (Oy Dağlar Oy Dağlar)Dağları Duman AldıBülbülü Figan Aldı (Oy Dağlar Oy Dağlar)Ezraile Borçlu KaldımBir Canım Var Yar Aldı (Oy Dağlar Oy Dağlar)Elinde Altın ŞamdanPerdeyi Kaldır Camdan (Oy Dağlar Oy Dağlar)Al Hançeri Vur BeniBen Usandım Bu Candan (Oy Dağlar Oy Dağlar)</p>",
-  "sozler_duz": "Taşa Verdim YanımıToprak Emdi Kanımı (Oy Dağlar Oy Dağlar)Ezraile Can VermezdimCanan Aldı Canımı (Oy Dağlar Oy Dağlar)Dağları Duman AldıBülbülü Figan Aldı (Oy Dağlar Oy Dağlar)Ezraile Borçlu KaldımBir Canım Var Yar Aldı (Oy Dağlar Oy Dağlar)Elinde Altın ŞamdanPerdeyi Kaldır Camdan (Oy Dağlar Oy Dağlar)Al Hançeri Vur BeniBen Usandım Bu Candan (Oy Dağlar Oy Dağlar)",
+  "baslik": "TAŞA VERDİM YANIMI",
+  "sozler_html": "<p>Taşa verdim yanımı</p><p>Toprak emdi kanımı (oy dağlar oy\ndağlar)</p><p>Ezraile can vermezdim</p><p>Canan aldı canımı (oy dağlar oy\ndağlar)</p><p>&nbsp;</p><p>Dağları duman aldı</p><p>Bülbülü figan aldı (oy dağlar oy\ndağlar)</p><p>Ezraile borçlu kaldım</p><p>Bir canım var yar aldı (oy dağlar\noy dağlar)</p><p>&nbsp;</p><p>Elinde altın şamdan</p><p>Perdeyi kaldır camdan (oy dağlar\noy dağlar)</p><p>Al hançeri vur beniben\nusandım&nbsp;</p><p>Bu candan (oy dağlar oy dağlar)</p>",
+  "sozler_duz": "Taşa verdim yanımı\n\nToprak emdi kanımı (oy dağlar oy dağlar)\n\nEzraile can vermezdim\n\nCanan aldı canımı (oy dağlar oy dağlar)\n\n \n\nDağları duman aldı\n\nBülbülü figan aldı (oy dağlar oy dağlar)\n\nEzraile borçlu kaldım\n\nBir canım var yar aldı (oy dağlar oy dağlar)\n\n \n\nElinde altın şamdan\n\nPerdeyi kaldır camdan (oy dağlar oy dağlar)\n\nAl hançeri vur beniben usandım \n\nBu candan (oy dağlar oy dağlar)",
   "meta": {
     "yore": "Erzincan",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Salih Dündar-Muzaffer Sarısözen",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Salih Dündar",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6432,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T18:16:13.822Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
