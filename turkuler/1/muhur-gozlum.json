@@ -1,26 +1,16 @@
 {
   "id": "muhur-gozlum",
   "baslik": "Mühür Gözlüm_",
-  "sozler_html": "<p>Mühür Gözlüm Seni EldenSakınırım KıskanırımUçan Kuştan Esen YeldenSakınırım KıskanırımYağan Kardan Esen YeldenSakınırım KıskanırımHavadaki TurnalardanSu İçtiğim KurnalardanGiyindiğim UrbalardanSakınırım KıskanırımBeşikte Yatan KuzundanHem Oğlundan Hem KuzundanBen Seni Senin GözündenSakınırım KıskanırımAl'İzzet'i OncalardanElindeki GoncalardanYerdeki KarıncalardanSakınırım Kıskanırım</p>",
-  "sozler_duz": "Mühür Gözlüm Seni EldenSakınırım KıskanırımUçan Kuştan Esen YeldenSakınırım KıskanırımYağan Kardan Esen YeldenSakınırım KıskanırımHavadaki TurnalardanSu İçtiğim KurnalardanGiyindiğim UrbalardanSakınırım KıskanırımBeşikte Yatan KuzundanHem Oğlundan Hem KuzundanBen Seni Senin GözündenSakınırım KıskanırımAl'İzzet'i OncalardanElindeki GoncalardanYerdeki KarıncalardanSakınırım Kıskanırım",
+  "sozler_html": "<p>Mühür Gözlüm Seni Elden</p><p>Sakınırım Kıskanırım</p><p>Uçan Kuştan Esen Yelden</p><p>Sakınırım Kıskanırım</p><p>Yağan Kardan Esen Yelden</p><p>Sakınırım Kıskanırım</p><p><br></p><p>Havadaki Turnalardan</p><p>Su İçtiğim Kurnalardan</p><p>Giyindiğim Urbalardan</p><p>Sakınırım Kıskanırım</p><p><br></p><p>Beşikte Yatan Kuzundan</p><p>Hem Oğlundan Hem Kuzundan</p><p>Ben Seni Senin Gözünden</p><p>Sakınırım Kıskanırım</p><p><br></p><p>Al'İzzet'i Oncalardan</p><p>Elindeki Goncalardan</p><p>Yerdeki Karıncalardan</p><p>Sakınırım Kıskanırım</p>",
+  "sozler_duz": "Mühür Gözlüm Seni Elden\n\nSakınırım Kıskanırım\n\nUçan Kuştan Esen Yelden\n\nSakınırım Kıskanırım\n\nYağan Kardan Esen Yelden\n\nSakınırım Kıskanırım\n\nHavadaki Turnalardan\n\nSu İçtiğim Kurnalardan\n\nGiyindiğim Urbalardan\n\nSakınırım Kıskanırım\n\nBeşikte Yatan Kuzundan\n\nHem Oğlundan Hem Kuzundan\n\nBen Seni Senin Gözünden\n\nSakınırım Kıskanırım\n\nAl'İzzet'i Oncalardan\n\nElindeki Goncalardan\n\nYerdeki Karıncalardan\n\nSakınırım Kıskanırım",
   "meta": {
-    "yore": "Aşık Ali İzzet Özkan",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Neşet Ertaş",
-    "aciklama": ""
+    "kaynak_kisi": "Aşık Ali İzzet Özkan",
+    "soyleyenler": "Neşet Ertaş"
   },
   "sistem": {
     "eski_id": 6007,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T10:40:47.228Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
