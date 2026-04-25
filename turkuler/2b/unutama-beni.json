@@ -1,26 +1,18 @@
 {
   "id": "unutama-beni",
   "baslik": "UNUTAMA BENİ",
-  "sozler_html": "<p>Boğazında * düğümlenen * hıçkırık olayımUnutma beni * unutama beniGözünden damlayamayan gözyaşın olayımUnutma beni * unutama beniGölgen gibi adım adım / Her solukta benim adımBen nasıl ki unutmadımSen de unutma beni * unutama beni          2Bitmek bilmez * kapkaranlık * geceler boyuncaUnutma beni unutama beniAyrılığın acısını kalbinde duyuncaUnutma beni * unutama beniSevişirken öpüşürken / Yapayalnız dolaşırkenUnutmaya çalışırken / Unutama beni unutama beni</p>",
-  "sozler_duz": "Boğazında * düğümlenen * hıçkırık olayımUnutma beni * unutama beniGözünden damlayamayan gözyaşın olayımUnutma beni * unutama beniGölgen gibi adım adım / Her solukta benim adımBen nasıl ki unutmadımSen de unutma beni * unutama beni 2Bitmek bilmez * kapkaranlık * geceler boyuncaUnutma beni unutama beniAyrılığın acısını kalbinde duyuncaUnutma beni * unutama beniSevişirken öpüşürken / Yapayalnız dolaşırkenUnutmaya çalışırken / Unutama beni unutama beni",
+  "sozler_html": "<p>Boğazında * düğümlenen * hıçkırık olayım</p><p>Unutma beni * unutama beni</p><p>Gözünden damlayamayan gözyaşın olayım</p><p>Unutma beni * unutama beni</p><p><br></p><p>Gölgen gibi adım adım&nbsp;</p><p>Her solukta benim adım</p><p>Ben nasıl ki unutmadım</p><p>Sen de unutma beni * unutama beni          2</p><p><br></p><p>Bitmek bilmez * kapkaranlık * geceler boyunca</p><p>Unutma beni unutama beni</p><p>Ayrılığın acısını kalbinde duyunca</p><p>Unutma beni * unutama beni</p><p><br></p><p>Sevişirken öpüşürken&nbsp;</p><p>Yapayalnız dolaşırken</p><p>Unutmaya çalışırken&nbsp;</p><p>Unutama beni unutama beni</p>",
+  "sozler_duz": "Boğazında * düğümlenen * hıçkırık olayım\n\nUnutma beni * unutama beni\n\nGözünden damlayamayan gözyaşın olayım\n\nUnutma beni * unutama beni\n\nGölgen gibi adım adım \n\nHer solukta benim adım\n\nBen nasıl ki unutmadım\n\nSen de unutma beni * unutama beni 2\n\nBitmek bilmez * kapkaranlık * geceler boyunca\n\nUnutma beni unutama beni\n\nAyrılığın acısını kalbinde duyunca\n\nUnutma beni * unutama beni\n\nSevişirken öpüşürken \n\nYapayalnız dolaşırken\n\nUnutmaya çalışırken \n\nUnutama beni unutama beni",
   "meta": {
-    "yore": "Y: Esmer Ay",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Y: Esmer Ay",
-    "aciklama": ""
+    "turu": "POP",
+    "soz": "Şemi Diriker",
+    "muzik": "Şemi Diriker",
+    "soyleyenler": "Esmer Ay"
   },
   "sistem": {
     "eski_id": 6492,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T19:18:14.234Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
