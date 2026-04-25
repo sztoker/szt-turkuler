@@ -1,26 +1,17 @@
 {
   "id": "yesil-ordek-gibi-daldim-gollere",
   "baslik": "Yeşil Ördek Gibi Daldım Göllere_",
-  "sozler_html": "<p>Yeşil Ördek Gibi Daldım GöllereSen Düşürdün Beni Dilden DillereBaşım Alıp Gidem Gurbet EllereNe Sen Beni Unut Ne De Ben SeniSevdiğim Cemalim Güneşim MahımSeni Seven Aşık Çeker EzvahınGetir El Basayım KelamullahınNe Sen Beni Unut Ne De Ben SeniGel Seninle Bir Ahduman KuralımBağlanalım Bir Karara VaralımVerdiğimiz Sözde Hemen DuralımNe Sen Beni Unut Ne De Ben Seni</p>",
-  "sozler_duz": "Yeşil Ördek Gibi Daldım GöllereSen Düşürdün Beni Dilden DillereBaşım Alıp Gidem Gurbet EllereNe Sen Beni Unut Ne De Ben SeniSevdiğim Cemalim Güneşim MahımSeni Seven Aşık Çeker EzvahınGetir El Basayım KelamullahınNe Sen Beni Unut Ne De Ben SeniGel Seninle Bir Ahduman KuralımBağlanalım Bir Karara VaralımVerdiğimiz Sözde Hemen DuralımNe Sen Beni Unut Ne De Ben Seni",
+  "sozler_html": "<p>Yeşil Ördek Gibi Daldım GöllereS</p><p>en Düşürdün Beni Dilden Dillere</p><p>Başım Alıp Gidem Gurbet Ellere</p><p><b>Ne Sen Beni Unut Ne De Ben Seni</b></p><p><br></p><p>Sevdiğim Cemalim Güneşim Mahım</p><p>Seni Seven Aşık Çeker Ezvahın</p><p>Getir El Basayım Kelamullahın</p><p><b>Ne Sen Beni Unut Ne De Ben Seni</b></p><p><br></p><p>Gel Seninle Bir Ahduman Kuralım</p><p>Bağlanalım Bir Karara Varalım</p><p>Verdiğimiz Sözde Hemen Duralım</p><p><b>Ne Sen Beni Unut Ne De Ben Seni</b></p>",
+  "sozler_duz": "Yeşil Ördek Gibi Daldım GöllereS\n\nen Düşürdün Beni Dilden Dillere\n\nBaşım Alıp Gidem Gurbet Ellere\n\nNe Sen Beni Unut Ne De Ben Seni\n\nSevdiğim Cemalim Güneşim Mahım\n\nSeni Seven Aşık Çeker Ezvahın\n\nGetir El Basayım Kelamullahın\n\nNe Sen Beni Unut Ne De Ben Seni\n\nGel Seninle Bir Ahduman Kuralım\n\nBağlanalım Bir Karara Varalım\n\nVerdiğimiz Sözde Hemen Duralım\n\nNe Sen Beni Unut Ne De Ben Seni",
   "meta": {
     "yore": "Sivas",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Bahattin Alpaslan-Osman Özdenkçi",
-    "aciklama": ""
+    "derleyen": "Osman Özdenkçi",
+    "kaynak_kisi": "SABAHATTİN ALPARSLAN"
   },
   "sistem": {
     "eski_id": 6666,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T12:30:54.221Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
