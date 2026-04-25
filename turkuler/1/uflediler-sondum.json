@@ -1,8 +1,8 @@
 {
   "id": "uflediler-sondum",
   "baslik": "ÜFLEDİLER SÖNDÜM",
-  "sozler_html": "<p>Üflediler söndüm / Karanlıkta gönlüm</p>\n<p>Hiç bilmezdim ama / Derindeymiş pek derdim</p>\n<p class=\"bos\"></p>\n<p><b>Bak içime gör beni  /  Tut elimden yak beni</b></p>\n<p><b>İstemezsen bu aşkı  /  Otur baştan yaz beni</b></p>\n<p class=\"bos\"></p>\n<p>Alklım nasıl şaşkın  /  Sevdam deli taşkın</p>\n<p>Sen görmezsin amma  /  Narındayim ben aşkın</p>\n<p class=\"bos\"></p>\n<p><b>Bak içime gör beni ...</b></p>",
-  "sozler_duz": "Üflediler söndüm / Karanlıkta gönlüm\n\nHiç bilmezdim ama / Derindeymiş pek derdim\n\nBak içime gör beni / Tut elimden yak beni\n\nİstemezsen bu aşkı / Otur baştan yaz beni\n\nAlklım nasıl şaşkın / Sevdam deli taşkın\n\nSen görmezsin amma / Narındayim ben aşkın\n\nBak içime gör beni ...",
+  "sozler_html": "<p>Üflediler söndüm&nbsp;</p><p>Karanlıkta gönlüm</p>\n<p>Hiç bilmezdim ama&nbsp;</p><p>Derindeymiş pek derdim</p>\n<p class=\"bos\"></p>\n<p><b>Bak içime gör beni&nbsp;</b></p><p><b>Tut elimden yak beni</b></p>\n<p><b>İstemezsen bu aşkı</b></p><p><b>Otur baştan yaz beni</b></p>\n<p class=\"bos\"></p>\n<p>Alklım nasıl şaşkın&nbsp;</p><p>Sevdam deli taşkın</p>\n<p>Sen görmezsin amma&nbsp;</p><p>Narındayim ben aşkın</p>\n<p class=\"bos\"></p>\n<p><b>Bak içime gör beni ...</b></p>",
+  "sozler_duz": "Üflediler söndüm \n\nKaranlıkta gönlüm\n\nHiç bilmezdim ama \n\nDerindeymiş pek derdim\n\nBak içime gör beni \n\nTut elimden yak beni\n\nİstemezsen bu aşkı\n\nOtur baştan yaz beni\n\nAlklım nasıl şaşkın \n\nSevdam deli taşkın\n\nSen görmezsin amma \n\nNarındayim ben aşkın\n\nBak içime gör beni ...",
   "meta": {
     "soz": "Cem Yıldız",
     "muzik": "Cem Yıldız"
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 4767,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-25T14:44:42.895Z",
+    "son_degisiklik": "2026-04-25T14:45:28.280Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
