@@ -2,25 +2,16 @@
   "id": "ya-beni-de-gotur-ya-sen-de-gitme",
   "baslik": "YA BENİ DE GÖTÜR YA SEN DE GİTME",
   "sozler_html": "<p>Gayrı dayanamam ben bu hasrete</p>\n<p>Ya beni de götür ya sen de gitme</p>\n<p>Ateşin aşkına canım yakma çıramı</p>\n<p>Ya beni de götür ya sen de gitme</p>\n<p class=\"bos\"></p>\n<p>Yar sineme vurdu kızgın dağları</p>\n<p>Viran koydu mor sümbüllü bağları</p>\n<p>Hüsey’nim geçiyor gençlik çağları</p>\n<p>Ya beni de götür ya sen de gitme</p>",
-  "sozler_duz": "Gayrı dayanamam ben bu hasrete Ya beni de götür ya sen de gitme Ateşin aşkına canım yakma çıramı Ya beni de götür ya sen de gitme Yar sineme vurdu kızgın dağları Viran koydu mor sümbüllü bağları Hüsey’nim geçiyor gençlik çağları Ya beni de götür ya sen de gitme",
+  "sozler_duz": "Gayrı dayanamam ben bu hasrete\n\nYa beni de götür ya sen de gitme\n\nAteşin aşkına canım yakma çıramı\n\nYa beni de götür ya sen de gitme\n\nYar sineme vurdu kızgın dağları\n\nViran koydu mor sümbüllü bağları\n\nHüsey’nim geçiyor gençlik çağları\n\nYa beni de götür ya sen de gitme",
   "meta": {
-    "yore": "?KASTAMONU",
-    "turu": "",
-    "turu2": "",
+    "yore": "Alaca",
     "derleyen": "TRT",
-    "kaynak_kisi": "A. İhsan Erdoğan",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?KASTAMONU",
-    "aciklama": ""
+    "kaynak_kisi": "ALİ İHSAN ERDOĞAN"
   },
   "sistem": {
     "eski_id": 47,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T14:25:15.772Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
