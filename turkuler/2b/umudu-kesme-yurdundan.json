@@ -1,26 +1,18 @@
 {
   "id": "umudu-kesme-yurdundan",
   "baslik": "UMUDU KESME YURDUNDAN",
-  "sozler_html": "<p>Nasıl başlarsa fırtına  /  Öyle biter birden bireBir ışık parlar yeniden  /  Karanlıklar arasındanUmudu kesme yurdundanŞah damarın bulunsa da  /  Dört bir yandan sarılsa daIşık yener karanlığı  / Bak çocukların gözlerineUmudu kesme yurdundanKara kışın buzu bile  /  Sürmedi sonsuza kadarBahara döndü sonunda  /  Filiz sürdü kar altındanUmudu kesme yurdundan</p>",
-  "sozler_duz": "Nasıl başlarsa fırtına / Öyle biter birden bireBir ışık parlar yeniden / Karanlıklar arasındanUmudu kesme yurdundanŞah damarın bulunsa da / Dört bir yandan sarılsa daIşık yener karanlığı / Bak çocukların gözlerineUmudu kesme yurdundanKara kışın buzu bile / Sürmedi sonsuza kadarBahara döndü sonunda / Filiz sürdü kar altındanUmudu kesme yurdundan",
+  "sozler_html": "<p>Nasıl başlarsa fırtına&nbsp;</p><p>Öyle biter birden bire</p><p>Bir ışık parlar yeniden&nbsp;</p><p>Karanlıklar arasından</p><p>Umudu kesme yurdundan</p><p><br></p><p>Şah damarın vurulsa da&nbsp;</p><p>Dört bir yandan sarılsa da</p><p>Işık yener karanlığı&nbsp;</p><p>Bak çocukların gözlerine</p><p>Umudu kesme yurdundan</p><p><br></p><p>Kara kışın buzu bile&nbsp;</p><p>Sürmedi sonsuza kadar</p><p>Bahara döndü sonunda&nbsp;</p><p>Filiz sürdü kar altından</p><p>Umudu kesme yurdundan</p>",
+  "sozler_duz": "Nasıl başlarsa fırtına \n\nÖyle biter birden bire\n\nBir ışık parlar yeniden \n\nKaranlıklar arasından\n\nUmudu kesme yurdundan\n\nŞah damarın vurulsa da \n\nDört bir yandan sarılsa da\n\nIşık yener karanlığı \n\nBak çocukların gözlerine\n\nUmudu kesme yurdundan\n\nKara kışın buzu bile \n\nSürmedi sonsuza kadar\n\nBahara döndü sonunda \n\nFiliz sürdü kar altından\n\nUmudu kesme yurdundan",
   "meta": {
-    "yore": "?               Y: Zülfü Livaneli",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?               Y: Zülfü Livaneli",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Zülfü Livaneli",
+    "muzik": "Zülfü Livaneli",
+    "soyleyenler": "Zülfü Livaneli"
   },
   "sistem": {
     "eski_id": 6490,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T19:15:35.717Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
