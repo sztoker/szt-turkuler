@@ -2,25 +2,15 @@
   "id": "telli-turnam-selam-gotur",
   "baslik": "TELLİ TURNAM SELAM GÖTÜR",
   "sozler_html": "<p>Telli turnam selam götür</p>\n<p>sevdiğimin diyarına</p>\n<p>Üzülmesin ağlamasın</p>\n<p>belki gelirim yarına cananıma</p>\n<p class=\"bos\"></p>\n<p><b>Hasret kimseye kalmasın</b></p>\n<p><b>sevdalılar ayrılmasın</b></p>\n<p><b>Ben yandım eller yanmasın </b></p>\n<p><b>sevdanın aşkın narına cananıma</b></p>\n<p class=\"bos\"></p>\n<p>Gönüle hasret yazıldı</p>\n<p>sevgiye mezar kazıldı</p>\n<p>İki damla yaş süzüldü</p>\n<p>gözlerimin pınarına</p>\n<p class=\"bos\"></p>\n<p><b>Hasret kimseye kalmasın...</b></p>",
-  "sozler_duz": "Telli turnam selam götür sevdiğimin diyarına Üzülmesin ağlamasın belki gelirim yarına cananıma Hasret kimseye kalmasın sevdalılar ayrılmasın Ben yandım eller yanmasın sevdanın aşkın narına cananıma Gönüle hasret yazıldı sevgiye mezar kazıldı İki damla yaş süzüldü gözlerimin pınarına Hasret kimseye kalmasın...",
+  "sozler_duz": "Telli turnam selam götür\n\nsevdiğimin diyarına\n\nÜzülmesin ağlamasın\n\nbelki gelirim yarına cananıma\n\nHasret kimseye kalmasın\n\nsevdalılar ayrılmasın\n\nBen yandım eller yanmasın\n\nsevdanın aşkın narına cananıma\n\nGönüle hasret yazıldı\n\nsevgiye mezar kazıldı\n\nİki damla yaş süzüldü\n\ngözlerimin pınarına\n\nHasret kimseye kalmasın...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "mk",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "",
-    "diger_bilgiler": "Musa Eroğlu",
-    "aciklama": ""
+    "soz": "Musa Eroğlu",
+    "muzik": "Musa Eroğlu"
   },
   "sistem": {
     "eski_id": 4846,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T15:04:37.528Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
