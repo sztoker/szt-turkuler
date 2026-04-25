@@ -1,26 +1,18 @@
 {
   "id": "turkuler-yanmaz-su-sivasin-elinde",
   "baslik": "TÜRKÜLER YANMAZ (Şu Sivas’ın elinde)",
-  "sozler_html": "<p>Güneşin ak yüzüne * bir duman çöktüBir türkü çığlıkla * ateşe düştü     2Kuytu bir köşede * bir çiçek küstüDöktü yaprağını * boynunu büktü     2Şu Sivas’ın elinde * sazım çalınmazGüllerim yandı * yüreğim dayanmaz     2Kararmış yüreğin * hiç ışığı olmazBilmez misin ki * türküler yanmazGünü gelir sanma * hesap sorulmazDayanır kapına * Pir Sultan ölmez / Şu Sivas’ın...</p>",
-  "sozler_duz": "Güneşin ak yüzüne * bir duman çöktüBir türkü çığlıkla * ateşe düştü 2Kuytu bir köşede * bir çiçek küstüDöktü yaprağını * boynunu büktü 2Şu Sivas’ın elinde * sazım çalınmazGüllerim yandı * yüreğim dayanmaz 2Kararmış yüreğin * hiç ışığı olmazBilmez misin ki * türküler yanmazGünü gelir sanma * hesap sorulmazDayanır kapına * Pir Sultan ölmez / Şu Sivas’ın...",
+  "sozler_html": "<p>Güneşin ak yüzüne * bir duman çöktü</p><p>Bir türkü çığlıkla * ateşe düştü     2</p><p>Kuytu bir köşede * bir çiçek küstü</p><p>Döktü yaprağını * boynunu büktü     2</p><p><br></p><p><b>Şu Sivas’ın elinde * sazım çalınmaz</b></p><p><b>Güllerim yandı * yüreğim dayanmaz     2</b></p><p><br></p><p>Kararmış yüreğin * hiç ışığı olmaz</p><p>Bilmez misin ki * türküler yanmaz</p><p>Günü gelir sanma * hesap sorulmaz</p><p>Dayanır kapına * Pir Sultan ölmez&nbsp;</p><p><br></p><p><b>Şu Sivas’ın...</b></p>",
+  "sozler_duz": "Güneşin ak yüzüne * bir duman çöktü\n\nBir türkü çığlıkla * ateşe düştü 2\n\nKuytu bir köşede * bir çiçek küstü\n\nDöktü yaprağını * boynunu büktü 2\n\nŞu Sivas’ın elinde * sazım çalınmaz\n\nGüllerim yandı * yüreğim dayanmaz 2\n\nKararmış yüreğin * hiç ışığı olmaz\n\nBilmez misin ki * türküler yanmaz\n\nGünü gelir sanma * hesap sorulmaz\n\nDayanır kapına * Pir Sultan ölmez \n\nŞu Sivas’ın...",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Alaaddin Us",
+    "muzik": "Alaaddin Us",
+    "soyleyenler": "Edip Akbayram"
   },
   "sistem": {
     "eski_id": 6480,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T18:47:14.029Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
