@@ -2,25 +2,15 @@
   "id": "yozgat-surmelisi",
   "baslik": "YOZGAT SÜRMELİSİ",
   "sozler_html": "<p>Dersini almış da ediyor ezber</p>\n<p>Sürmeli gözlerin sürmeyi neyler -aman</p>\n<p>Aman ben yarelendim aman</p>\n<p>Bu dert beni iflah etmez del'eyler</p>\n<p>Benim dert çekecek dermanım mı var -aman</p>\n<p>Aman sürmelim aman</p>\n<p class=\"bos\"></p>\n<p>Yozgat'ı sel almış Sorgun'u duman</p>\n<p>Sıtkı'nan severim vallahi inan</p>\n<p>Ölünce mezara girdiğim zaman</p>\n<p>(Ölüp de kabire girdiğim zaman)</p>\n<p>Ben susayım kemiklerim söylesin</p>\n<p class=\"bos\"></p>\n<p>Kaşın çeymelenmiş kirpik üstüne</p>\n<p>Havada bulutun ağdığı gibi</p>\n<p>Çiy düşmüş de gül sineler ıslanmış</p>\n<p>Yağmurun güllere yağdığı gibi</p>",
-  "sozler_duz": "Dersini almış da ediyor ezber Sürmeli gözlerin sürmeyi neyler -aman Aman ben yarelendim aman Bu dert beni iflah etmez del'eyler Benim dert çekecek dermanım mı var -aman Aman sürmelim aman Yozgat'ı sel almış Sorgun'u duman Sıtkı'nan severim vallahi inan Ölünce mezara girdiğim zaman (Ölüp de kabire girdiğim zaman) Ben susayım kemiklerim söylesin Kaşın çeymelenmiş kirpik üstüne Havada bulutun ağdığı gibi Çiy düşmüş de gül sineler ıslanmış Yağmurun güllere yağdığı gibi",
+  "sozler_duz": "Dersini almış da ediyor ezber\n\nSürmeli gözlerin sürmeyi neyler -aman\n\nAman ben yarelendim aman\n\nBu dert beni iflah etmez del'eyler\n\nBenim dert çekecek dermanım mı var -aman\n\nAman sürmelim aman\n\nYozgat'ı sel almış Sorgun'u duman\n\nSıtkı'nan severim vallahi inan\n\nÖlünce mezara girdiğim zaman\n\n(Ölüp de kabire girdiğim zaman)\n\nBen susayım kemiklerim söylesin\n\nKaşın çeymelenmiş kirpik üstüne\n\nHavada bulutun ağdığı gibi\n\nÇiy düşmüş de gül sineler ıslanmış\n\nYağmurun güllere yağdığı gibi",
   "meta": {
     "yore": "YOZGAT",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "Nida Tüfekçi",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "YOZGAT",
-    "aciklama": ""
+    "derleyen": "Nida Tüfekçi"
   },
   "sistem": {
     "eski_id": 2,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T11:57:08.842Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
