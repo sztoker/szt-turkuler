@@ -2,25 +2,15 @@
   "id": "yuce-dag-basinda-kar-boran-boran",
   "baslik": "YÜCE DAĞ BAŞINDA KAR BORAN BORAN",
   "sozler_html": "<p>Yüce dağ başında -canım- kar boran boran</p>\n<p>Yardan ayrılmışım -canım- iyi olmaz yaram</p>\n<p>Sevda bilenlerden bir sual soram</p>\n<p>Acıdır hoyratın -canım- sözü sevdiğim</p>\n<p class=\"bos\"></p>\n<p>Karlar yağmış -canım- yaylaların başına</p>\n<p>Yanarım sevilmem -canım- yar ataşına</p>\n<p>Geleceğim kara gözlüm peşine</p>\n<p>Erisin dağların -canım- buzu sevdiğim</p>",
-  "sozler_duz": "Yüce dağ başında -canım- kar boran boran Yardan ayrılmışım -canım- iyi olmaz yaram Sevda bilenlerden bir sual soram Acıdır hoyratın -canım- sözü sevdiğim Karlar yağmış -canım- yaylaların başına Yanarım sevilmem -canım- yar ataşına Geleceğim kara gözlüm peşine Erisin dağların -canım- buzu sevdiğim",
+  "sozler_duz": "Yüce dağ başında -canım- kar boran boran\n\nYardan ayrılmışım -canım- iyi olmaz yaram\n\nSevda bilenlerden bir sual soram\n\nAcıdır hoyratın -canım- sözü sevdiğim\n\nKarlar yağmış -canım- yaylaların başına\n\nYanarım sevilmem -canım- yar ataşına\n\nGeleceğim kara gözlüm peşine\n\nErisin dağların -canım- buzu sevdiğim",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "yore": "Mut",
+    "kaynak_kisi": "MUSA EROĞLU"
   },
   "sistem": {
     "eski_id": 94,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T11:55:46.497Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
