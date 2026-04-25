@@ -1,26 +1,17 @@
 {
   "id": "yolumuz-gurbete-dustu",
   "baslik": "Yolumuz Gurbete Düştü_",
-  "sozler_html": "<p>Yolumuz Gurbete Düştü Hazin Hazin Ağlar GönülAraya Hasretlik Girdi Hazin Hazin Ağlar GönülGarip Garip Ağlar GönülDertli Dertli Ağlar GönülBu Mudur Senin Eserin Sinemi Yaktı KederinÖlürsem Olmaz Haberin Hazin Hazin Ağlar GönülGarip Garip Ağlar GönülDertli Dertli Ağlar GönülBeyhani'yem Budur Halim Senden Ayrı Düştü YolumBu Hasretlik Bize ZulümHazin Hazin Ağlar GönülGarip Garip Ağlar GönülDertli Dertli Ağlar Gönül</p>",
-  "sozler_duz": "Yolumuz Gurbete Düştü Hazin Hazin Ağlar GönülAraya Hasretlik Girdi Hazin Hazin Ağlar GönülGarip Garip Ağlar GönülDertli Dertli Ağlar GönülBu Mudur Senin Eserin Sinemi Yaktı KederinÖlürsem Olmaz Haberin Hazin Hazin Ağlar GönülGarip Garip Ağlar GönülDertli Dertli Ağlar GönülBeyhani'yem Budur Halim Senden Ayrı Düştü YolumBu Hasretlik Bize ZulümHazin Hazin Ağlar GönülGarip Garip Ağlar GönülDertli Dertli Ağlar Gönül",
+  "sozler_html": "<p>Yolumuz Gurbete Düştü&nbsp;</p><p>Hazin Hazin Ağlar Gönül</p><p>Araya Hasretlik Girdi&nbsp;</p><p>Hazin Hazin Ağlar Gönül</p><p>Garip Garip Ağlar Gönül</p><p>Dertli Dertli Ağlar Gönül</p><p><br></p><p>Bu Mudur Senin Eserin&nbsp;</p><p>Sinemi Yaktı Kederin</p><p>Ölürsem Olmaz Haberin&nbsp;</p><p>Hazin Hazin Ağlar Gönül</p><p>Garip Garip Ağlar Gönül</p><p>Dertli Dertli Ağlar Gönül</p><p><br></p><p>Beyhani'yem Budur Halim&nbsp;</p><p>Senden Ayrı Düştü Yolum</p><p>Bu Hasretlik Bize Zulüm</p><p>Hazin Hazin Ağlar Gönül</p><p>Garip Garip Ağlar Gönül</p><p>Dertli Dertli Ağlar Gönül</p>",
+  "sozler_duz": "Yolumuz Gurbete Düştü \n\nHazin Hazin Ağlar Gönül\n\nAraya Hasretlik Girdi \n\nHazin Hazin Ağlar Gönül\n\nGarip Garip Ağlar Gönül\n\nDertli Dertli Ağlar Gönül\n\nBu Mudur Senin Eserin \n\nSinemi Yaktı Kederin\n\nÖlürsem Olmaz Haberin \n\nHazin Hazin Ağlar Gönül\n\nGarip Garip Ağlar Gönül\n\nDertli Dertli Ağlar Gönül\n\nBeyhani'yem Budur Halim \n\nSenden Ayrı Düştü Yolum\n\nBu Hasretlik Bize Zulüm\n\nHazin Hazin Ağlar Gönül\n\nGarip Garip Ağlar Gönül\n\nDertli Dertli Ağlar Gönül",
   "meta": {
     "yore": "Erzincan",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aşık Beyhani-Ali Ekber Çiçek",
-    "aciklama": ""
+    "derleyen": "Ali Ekber Çiçek",
+    "soz": "Aşık Beyhani"
   },
   "sistem": {
     "eski_id": 6690,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T12:02:57.878Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
