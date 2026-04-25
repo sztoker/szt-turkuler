@@ -1,26 +1,17 @@
 {
   "id": "oduncular-dagdan-odun-indirir",
   "baslik": "ODUNCULAR DAĞDAN ODUN İNDİRİR",
-  "sozler_html": "<p>Oduncular –aman- dağdan  odun indirir          (2</p>\n<p>Gözüm yaşı –amanin aman- de(ği)rmenleri döndürür     (2</p>\n<p>Bu dert bizi –aman- iflah etmez öldürür          (2</p>\n<p class=\"bos\"></p>\n<p>Ötme de bülbül –amanin aman- kabirimin taşında</p>\n<p>Hem ayrılık –amanin aman- hem sevda var başımda</p>\n<p class=\"bos\"></p>\n<p>Uzun kavak –aman- ne uzarsın boşuna</p>\n<p>Aşk-u da sevda –amanin aman- gelmedi mi başına</p>\n<p>Henüz girmiş –aman- on üç on dört  yaşına</p>\n<p>Ötme de bülbül...</p>",
-  "sozler_duz": "Oduncular –aman- dağdan odun indirir (2 Gözüm yaşı –amanin aman- de(ği)rmenleri döndürür (2 Bu dert bizi –aman- iflah etmez öldürür (2 Ötme de bülbül –amanin aman- kabirimin taşında Hem ayrılık –amanin aman- hem sevda var başımda Uzun kavak –aman- ne uzarsın boşuna Aşk-u da sevda –amanin aman- gelmedi mi başına Henüz girmiş –aman- on üç on dört yaşına Ötme de bülbül...",
+  "sozler_html": "<p>Oduncular –aman- dağdan  odun indirir          (2</p>\n<p>Gözüm yaşı –amanin aman- de(ği)rmenleri döndürür     (2</p>\n<p>Bu dert bizi –aman- iflah etmez öldürür          (2</p>\n<p class=\"bos\"></p>\n<p><b>Ötme de bülbül –amanin aman- kabirimin taşında</b></p>\n<p><b>Hem ayrılık –amanin aman- hem sevda var başımda</b></p>\n<p class=\"bos\"></p>\n<p>Uzun kavak –aman- ne uzarsın boşuna</p>\n<p>Aşk-u da sevda –amanin aman- gelmedi mi başına</p>\n<p>Henüz girmiş –aman- on üç on dört  yaşına</p><p><br></p>\n<p><b>Ötme de bülbül...</b></p>",
+  "sozler_duz": "Oduncular –aman- dağdan odun indirir (2\n\nGözüm yaşı –amanin aman- de(ği)rmenleri döndürür (2\n\nBu dert bizi –aman- iflah etmez öldürür (2\n\nÖtme de bülbül –amanin aman- kabirimin taşında\n\nHem ayrılık –amanin aman- hem sevda var başımda\n\nUzun kavak –aman- ne uzarsın boşuna\n\nAşk-u da sevda –amanin aman- gelmedi mi başına\n\nHenüz girmiş –aman- on üç on dört yaşına\n\nÖtme de bülbül...",
   "meta": {
     "yore": "MANİSA",
-    "turu": "",
-    "turu2": "",
     "derleyen": "Muzaffer Sarısözen",
-    "kaynak_kisi": "Haydar Bayçın",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "MANİSA     K: Haydar Bayçın      D: Muzaffer Sarıs",
-    "aciklama": ""
+    "kaynak_kisi": "Haydar Bayçın"
   },
   "sistem": {
     "eski_id": 1075,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T10:17:44.997Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
