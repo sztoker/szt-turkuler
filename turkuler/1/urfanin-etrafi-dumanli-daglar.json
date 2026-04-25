@@ -1,26 +1,17 @@
 {
   "id": "urfanin-etrafi-dumanli-daglar",
   "baslik": "Urfa'nın Etrafı Dumanlı Dağlar_",
-  "sozler_html": "<p>Urfa’nın Etrafı Dumanlı DağlarCiğerim Yanıyor Aney Gözlerim AğlarBenim Zalim Derdim Cihanı DağlarGezme Ceylan Bu Dağlarda Seni AvlarlarAnandan Babandan Yardan Ayrı KoyarlarUrfa Dağlarında Gezer Bir CeylanYavrusunu Kaybetmiş Ağlıyor YamanYarimin Derdine Bulmadım DermanGezme Ceylan Bu Dağlarda Seni AvlarlarAnandan Babandan Yardan Ayrı KoyarlarCeylan Senin Gibi Yüreğim YaraCihanda Derdime Anam Bulmadım ÇareBir Yavru Kaybettim Gözleri KaraGezme Ceylan Bu Dağlarda Seni AvlarlarAnandan Babandan Yardan Ayrı Koyarlar</p>",
-  "sozler_duz": "Urfa’nın Etrafı Dumanlı DağlarCiğerim Yanıyor Aney Gözlerim AğlarBenim Zalim Derdim Cihanı DağlarGezme Ceylan Bu Dağlarda Seni AvlarlarAnandan Babandan Yardan Ayrı KoyarlarUrfa Dağlarında Gezer Bir CeylanYavrusunu Kaybetmiş Ağlıyor YamanYarimin Derdine Bulmadım DermanGezme Ceylan Bu Dağlarda Seni AvlarlarAnandan Babandan Yardan Ayrı KoyarlarCeylan Senin Gibi Yüreğim YaraCihanda Derdime Anam Bulmadım ÇareBir Yavru Kaybettim Gözleri KaraGezme Ceylan Bu Dağlarda Seni AvlarlarAnandan Babandan Yardan Ayrı Koyarlar",
+  "sozler_html": "<p>Urfa’nın\netrafı dumanlı dağlar</p><p>Ciğerim yanıyor aney gözlerim ağlar</p><p>Benim zalim derdim cihanı dağlar</p><p>&nbsp;</p><p><b>Gezme ceylan\nbu dağlarda seni avlarlar</b></p><p><b>Anandan\nbabandan yardan ayrı koyarlar</b></p><p>&nbsp;</p><p>Urfa dağlarında gezer bir ceylan</p><p>Yavrusunu kaybetmiş ağlıyor yaman</p><p>Yarimin derdine bulmadım derman</p><p>&nbsp;</p><p><b>Gezme\nceylan...</b></p><p>&nbsp;</p><p>Ceylan senin gibi yüreğim yara</p><p>Cihanda derdime anam bulmadım çare</p><p>Bir yavru kaybettim gözleri kara</p><p>&nbsp;</p><p><b>Gezme\nceylan...</b></p>",
+  "sozler_duz": "Urfa’nın etrafı dumanlı dağlar\n\nCiğerim yanıyor aney gözlerim ağlar\n\nBenim zalim derdim cihanı dağlar\n\n \n\nGezme ceylan bu dağlarda seni avlarlar\n\nAnandan babandan yardan ayrı koyarlar\n\n \n\nUrfa dağlarında gezer bir ceylan\n\nYavrusunu kaybetmiş ağlıyor yaman\n\nYarimin derdine bulmadım derman\n\n \n\nGezme ceylan...\n\n \n\nCeylan senin gibi yüreğim yara\n\nCihanda derdime anam bulmadım çare\n\nBir yavru kaybettim gözleri kara\n\n \n\nGezme ceylan...",
   "meta": {
     "yore": "Şanlıurfa",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Cemil Cankat-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Cemil Cankat"
   },
   "sistem": {
     "eski_id": 6500,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T14:42:27.709Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
