@@ -1,26 +1,17 @@
 {
   "id": "yagmur-yagar-kadinim",
   "baslik": "YAĞMUR YAĞAR KADINIM",
-  "sozler_html": "<p>Yağmur yağar -amanın aman</p>\n<p>H er dereler -gadınım- sel alır</p>\n<p>Gurbete gidenin yarin el alır</p>\n<p>El almazsa -amanın aman</p>\n<p>Y anar yanar -gadınım- kül olur</p>\n<p class=\"bos\"></p>\n<p>Aman da Allah aman  /  Al başımdan sevdayı</p>\n<p>Genç yaşımda aman  /  Zindan ettin dünyayı</p>",
-  "sozler_duz": "Yağmur yağar -amanın aman H er dereler -gadınım- sel alır Gurbete gidenin yarin el alır El almazsa -amanın aman Y anar yanar -gadınım- kül olur Aman da Allah aman / Al başımdan sevdayı Genç yaşımda aman / Zindan ettin dünyayı",
+  "sozler_html": "<p>Yağmur yağar -amanın aman</p>\n<p>Her dereler -gadınım- sel alır</p>\n<p>Gurbete gidenin yarin el alır</p>\n<p>El almazsa -amanın aman</p>\n<p>Yanar yanar -gadınım- kül olur</p>\n<p class=\"bos\"></p>\n<p>Aman da Allah aman&nbsp;</p><p>Al başımdan sevdayı</p>\n<p>Genç yaşımda aman&nbsp;</p><p>Zindan ettin dünyayı</p>",
+  "sozler_duz": "Yağmur yağar -amanın aman\n\nHer dereler -gadınım- sel alır\n\nGurbete gidenin yarin el alır\n\nEl almazsa -amanın aman\n\nYanar yanar -gadınım- kül olur\n\nAman da Allah aman \n\nAl başımdan sevdayı\n\nGenç yaşımda aman \n\nZindan ettin dünyayı",
   "meta": {
     "yore": "KÜTAHYA",
-    "turu": "1",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "Re",
-    "diger_bilgiler": "KÜTAHYA    K: Hisarlı Ahmet    D: Nida Tüfekçi",
-    "aciklama": ""
+    "derleyen": "Nida Tüfekçi",
+    "kaynak_kisi": "Hisarlı Ahmet"
   },
   "sistem": {
     "eski_id": 1272,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T14:18:44.786Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
