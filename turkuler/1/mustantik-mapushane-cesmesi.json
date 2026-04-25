@@ -1,26 +1,15 @@
 {
   "id": "mustantik-mapushane-cesmesi",
   "baslik": "MUSTANTİK (Mapushane çeşmesi)",
-  "sozler_html": "<p>Oy mustantik mustantik  / Tabancamı (silahımı) ver bana</p>\n<p>Tabancamın (silahımın) yüzünden  / On yıl verdiler bana</p>\n<p>Ben verem oldum yar yoluna</p>\n<p class=\"bos\"></p>\n<p>Mapushane çeşmesi  / Yandan akıyor yandan</p>\n<p>Mapusluk bir şey değil/Ayrılık (sevdalık) var bir yandan/Ben</p>\n<p class=\"bos\"></p>\n<p>Duvarı deleyim mi  / Yanına geleyim mi</p>\n<p>Aç kapıyı gardiyan  / Beş altın vereyim mi / Ben ...</p>\n<p>***********</p>\n<p>Mapushane çeşmesi * yandan akıyor yandan</p>\n<p>Mapusluk bir şey değil * yanıklık var bir yandan</p>\n<p class=\"bos\"></p>\n<p>Hey gardiyan gardiyan * tabancamı ver bana</p>\n<p>Bir güzelin uğruna * ceza verdiler bana</p>",
-  "sozler_duz": "Oy mustantik mustantik / Tabancamı (silahımı) ver bana Tabancamın (silahımın) yüzünden / On yıl verdiler bana Ben verem oldum yar yoluna Mapushane çeşmesi / Yandan akıyor yandan Mapusluk bir şey değil/Ayrılık (sevdalık) var bir yandan/Ben Duvarı deleyim mi / Yanına geleyim mi Aç kapıyı gardiyan / Beş altın vereyim mi / Ben ... *********** Mapushane çeşmesi * yandan akıyor yandan Mapusluk bir şey değil * yanıklık var bir yandan Hey gardiyan gardiyan * tabancamı ver bana Bir güzelin uğruna * ceza verdiler bana",
+  "sozler_html": "<p>Mapushane çeşmesi&nbsp;</p><p>Yandan akıyor yandan</p>\n<p>Mapusluk bir şey değil</p><p>Ayrılık (sevdalık) var bir yandan</p><p><b>Ben verem oldum yar yoluna</b></p><p><b><br></b></p><p>Oy mustantik mustantik&nbsp;</p><p>Tabancamı (silahımı) ver bana</p><p>Tabancamın (silahımın) yüzünden&nbsp;</p><p>On yıl verdiler bana</p><p>Ben verem oldum yar yoluna</p><p><b><br></b></p>\n<p class=\"bos\"></p>\n<p>Duvarı deleyim mi&nbsp;</p><p>Yanına geleyim mi</p>\n<p>Aç kapıyı gardiyan&nbsp;</p><p>Beş altın vereyim mi&nbsp;</p><p>Ben verem oldum yar yoluna</p>\n<p><br></p>",
+  "sozler_duz": "Mapushane çeşmesi \n\nYandan akıyor yandan\n\nMapusluk bir şey değil\n\nAyrılık (sevdalık) var bir yandan\n\nBen verem oldum yar yoluna\n\nOy mustantik mustantik \n\nTabancamı (silahımı) ver bana\n\nTabancamın (silahımın) yüzünden \n\nOn yıl verdiler bana\n\nBen verem oldum yar yoluna\n\nDuvarı deleyim mi \n\nYanına geleyim mi\n\nAç kapıyı gardiyan \n\nBeş altın vereyim mi \n\nBen verem oldum yar yoluna",
   "meta": {
-    "yore": "KASTAMONU",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "KASTAMONU",
-    "aciklama": ""
+    "yore": "KASTAMONU"
   },
   "sistem": {
     "eski_id": 78,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T10:38:17.977Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
