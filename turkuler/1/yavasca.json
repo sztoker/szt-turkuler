@@ -1,26 +1,13 @@
 {
   "id": "yavasca",
   "baslik": "YAVAŞÇA",
-  "sozler_html": "<p>Dolanı dolanı gelir / Ölüm yavaşça yavaşça</p>\n<p>Kalem alıp yaz derdimi / Gülüm yavaşça yavaşça</p>\n<p class=\"bos\"></p>\n<p>Garip gönlüm gülmez oldu / Gözüm ırak görmez oldu</p>\n<p>İşe güce varmaz oldu / Elim yavaşça yavaşça</p>\n<p class=\"bos\"></p>\n<p>Sevdiğim bu yana bakmaz / Kaş edip kirpiğin yıkmaz</p>\n<p>Kırıldı kanadım kalkmaz / Kolum yavaşça yavaşça</p>\n<p class=\"bos\"></p>\n<p>Bu dünyaya güvenilmez / Ölmeyince kan kesilmez</p>\n<p>Meslek'im artar eksilmez / Zulüm yavaşça yavaşça</p>",
-  "sozler_duz": "Dolanı dolanı gelir / Ölüm yavaşça yavaşça Kalem alıp yaz derdimi / Gülüm yavaşça yavaşça Garip gönlüm gülmez oldu / Gözüm ırak görmez oldu İşe güce varmaz oldu / Elim yavaşça yavaşça Sevdiğim bu yana bakmaz / Kaş edip kirpiğin yıkmaz Kırıldı kanadım kalkmaz / Kolum yavaşça yavaşça Bu dünyaya güvenilmez / Ölmeyince kan kesilmez Meslek'im artar eksilmez / Zulüm yavaşça yavaşça",
-  "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Dolanı dolanı gelir&nbsp;</p><p>Ölüm yavaşça yavaşça</p>\n<p>Kalem alıp yaz derdimi&nbsp;</p><p>Gülüm yavaşça yavaşça</p>\n<p class=\"bos\"></p>\n<p><b>Garip gönlüm gülmez oldu&nbsp;</b></p><p><b>Gözüm ırak görmez oldu</b></p>\n<p><b>İşe güce varmaz oldu&nbsp;</b></p><p><b>Elim yavaşça yavaşça</b></p>\n<p class=\"bos\"></p>\n<p>Sevdiğim bu yana bakmaz&nbsp;</p><p>Kaş edip kirpiğin yıkmaz</p>\n<p>Kırıldı kanadım kalkmaz&nbsp;</p><p>Kolum yavaşça yavaşça</p>\n<p class=\"bos\"></p>\n<p><b>Bu dünyaya güvenilmez&nbsp;</b></p><p><b>Ölmeyince kan kesilmez</b></p>\n<p><b>Meslek'im artar eksilmez&nbsp;</b></p><p><b>Zulüm yavaşça yavaşça</b></p>",
+  "sozler_duz": "Dolanı dolanı gelir \n\nÖlüm yavaşça yavaşça\n\nKalem alıp yaz derdimi \n\nGülüm yavaşça yavaşça\n\nGarip gönlüm gülmez oldu \n\nGözüm ırak görmez oldu\n\nİşe güce varmaz oldu \n\nElim yavaşça yavaşça\n\nSevdiğim bu yana bakmaz \n\nKaş edip kirpiğin yıkmaz\n\nKırıldı kanadım kalkmaz \n\nKolum yavaşça yavaşça\n\nBu dünyaya güvenilmez \n\nÖlmeyince kan kesilmez\n\nMeslek'im artar eksilmez \n\nZulüm yavaşça yavaşça",
+  "meta": {},
   "sistem": {
     "eski_id": 1291,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T13:51:19.179Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
