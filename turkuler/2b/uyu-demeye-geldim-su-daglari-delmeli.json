@@ -1,26 +1,19 @@
 {
   "id": "uyu-demeye-geldim-su-daglari-delmeli",
   "baslik": "UYU DEMEYE GELDİM ( Şu Dağları delmeli )",
-  "sozler_html": "<p>Şu dağları delmeli / Kül edip elemeliİçerim kan ağlıyor / Yarimi görmeyeliUyu (uy uy) demeye geldim / Yarim görmeye geldimYavrum yaren nerende / Merhem olmaya geldimDağlar dağladı beni / Gören ağladı beniAyırdı zalim felek / Derde bağladı beni / Uyu demeye ...Şu dağın arkasından / Öldüm yar sevdasından Çağırsaydı giderdim / O yarin arkasından(Bileydim ayrılık var / Giderdim arkasından) / Uyu ...</p>",
-  "sozler_duz": "Şu dağları delmeli / Kül edip elemeliİçerim kan ağlıyor / Yarimi görmeyeliUyu (uy uy) demeye geldim / Yarim görmeye geldimYavrum yaren nerende / Merhem olmaya geldimDağlar dağladı beni / Gören ağladı beniAyırdı zalim felek / Derde bağladı beni / Uyu demeye ...Şu dağın arkasından / Öldüm yar sevdasından Çağırsaydı giderdim / O yarin arkasından(Bileydim ayrılık var / Giderdim arkasından) / Uyu ...",
+  "sozler_html": "<p>Şu dağları delmeli&nbsp;</p><p>Kül edip elemeli</p><p>İçerim kan ağlıyor&nbsp;</p><p>Yarimi görmeyeli</p><p><br></p><p><b>Uyu (uy uy) demeye geldim&nbsp;</b></p><p><b>Yarim görmeye geldim</b></p><p><b>Yavrum yaren nerende&nbsp;</b></p><p><b>Merhem olmaya geldim</b></p><p><br></p><p>Dağlar dağladı beni&nbsp;</p><p>Gören ağladı beni</p><p>Ayırdı zalim felek&nbsp;</p><p>Derde bağladı beni&nbsp;</p><p><br></p><p><b>Uyu demeye ...</b></p><p><br></p><p>Şu dağın arkasından&nbsp;</p><p>Öldüm yar sevdasından&nbsp;</p><p>Çağırsaydı giderdim&nbsp;</p><p>O yarin arkasından(Bileydim ayrılık var&nbsp;</p><p>Giderdim arkasından)&nbsp;</p><p><br></p><p>Uyu demeye ...</p>",
+  "sozler_duz": "Şu dağları delmeli \n\nKül edip elemeli\n\nİçerim kan ağlıyor \n\nYarimi görmeyeli\n\nUyu (uy uy) demeye geldim \n\nYarim görmeye geldim\n\nYavrum yaren nerende \n\nMerhem olmaya geldim\n\nDağlar dağladı beni \n\nGören ağladı beni\n\nAyırdı zalim felek \n\nDerde bağladı beni \n\nUyu demeye ...\n\nŞu dağın arkasından \n\nÖldüm yar sevdasından \n\nÇağırsaydı giderdim \n\nO yarin arkasından(Bileydim ayrılık var \n\nGiderdim arkasından) \n\nUyu demeye ...",
   "meta": {
-    "yore": "Fahri Kayahan            Gerdaniye / Sofyan",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Fahri Kayahan            Gerdaniye / Sofyan",
-    "aciklama": ""
+    "yore": "Malatya",
+    "turu": "THM",
+    "soz": "Fahri Kayahan",
+    "muzik": "Fahri Kayahan",
+    "diger_bilgiler": "Gerdaniye / Sofyan"
   },
   "sistem": {
     "eski_id": 6507,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T19:57:10.975Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
