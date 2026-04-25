@@ -2,25 +2,14 @@
   "id": "uc-bes-kisi-kalmis",
   "baslik": "ÜÇ BEŞ KİŞİ KALMIŞ",
   "sozler_html": "<p>Üç beş kişi kalmış türkü diyenler</p>\n<p>Al üstüne yeşil donu giyenler</p>\n<p>Kıl kara çadırda geçmiyor günler</p>\n<p>Onun için bozgun öter telimiz</p>",
-  "sozler_duz": "Üç beş kişi kalmış türkü diyenler Al üstüne yeşil donu giyenler Kıl kara çadırda geçmiyor günler Onun için bozgun öter telimiz",
+  "sozler_duz": "Üç beş kişi kalmış türkü diyenler\n\nAl üstüne yeşil donu giyenler\n\nKıl kara çadırda geçmiyor günler\n\nOnun için bozgun öter telimiz",
   "meta": {
-    "yore": "SİVAS",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "SİVAS",
-    "aciklama": ""
+    "yore": "SİVAS"
   },
   "sistem": {
     "eski_id": 207,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T14:48:41.768Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
