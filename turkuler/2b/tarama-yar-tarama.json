@@ -1,26 +1,19 @@
 {
   "id": "tarama-yar-tarama",
   "baslik": "TARAMA YAR TARAMA",
-  "sozler_html": "<p>Tarama yar tarama / Yar zülfünü taramaBen bu dertten ölürsem / Merhem olma yaramaHele hele yar yar gülende / Gülende yar gülendeAklımı baştan aldı / Yar yüzüme gülendeMendilimde kare var / Yüreğimde yare varNe ben öldüm kurtuldum / Ne bu derde çare var / Hele ...</p>",
-  "sozler_duz": "Tarama yar tarama / Yar zülfünü taramaBen bu dertten ölürsem / Merhem olma yaramaHele hele yar yar gülende / Gülende yar gülendeAklımı baştan aldı / Yar yüzüme gülendeMendilimde kare var / Yüreğimde yare varNe ben öldüm kurtuldum / Ne bu derde çare var / Hele ...",
+  "sozler_html": "<p>Tarama yar tarama&nbsp;</p><p>Yar zülfünü tarama</p><p>Ben bu dertten ölürsem&nbsp;</p><p>Merhem olma yarama</p><p><br></p><p><b>Hele hele yar yar gülende&nbsp;</b></p><p><b>Gülende yar gülende</b></p><p><b>Aklımı baştan aldı&nbsp;</b></p><p><b>Yar yüzüme gülende</b></p><p><br></p><p>Mendilimde kare var</p><p>Yüreğimde yare var</p><p>Ne ben öldüm kurtuldum&nbsp;</p><p>Ne bu derde çare var&nbsp;</p><p><br></p><p><b>Hele hele...</b></p>",
+  "sozler_duz": "Tarama yar tarama \n\nYar zülfünü tarama\n\nBen bu dertten ölürsem \n\nMerhem olma yarama\n\nHele hele yar yar gülende \n\nGülende yar gülende\n\nAklımı baştan aldı \n\nYar yüzüme gülende\n\nMendilimde kare var\n\nYüreğimde yare var\n\nNe ben öldüm kurtuldum \n\nNe bu derde çare var \n\nHele hele...",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "yore": "Ağrı/Eleşkirt",
+    "turu": "THM",
+    "derleyen": "BURHAN ÇAÇAN",
+    "kaynak_kisi": "BURHAN ÇAÇAN",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6423,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T18:10:29.958Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
