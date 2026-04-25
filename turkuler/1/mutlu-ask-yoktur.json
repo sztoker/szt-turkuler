@@ -1,26 +1,16 @@
 {
   "id": "mutlu-ask-yoktur",
   "baslik": "MUTLU AŞK YOKTUR",
-  "sozler_html": "<p>Sus söyleme / Bir şey söyleme artık</p>\n<p>Sus söyleme / Herşey gereksiz artık</p>\n<p>Bana düşen dönüp de gitmek</p>\n<p>Sonunda elimde kalan / Bir avuç hüzün ve keder</p>\n<p class=\"bos\"></p>\n<p>Yeter yeter söyleme / Söyleme artık</p>\n<p>Kelimeler kanatır yarayı</p>\n<p>Gözlerin anlatıyor / Mutlu aşk yoktur yoktur</p>\n<p class=\"bos\"></p>\n<p>Oysa ben sana  /  Neler adamıştım</p>\n<p>İçli şarkılar kırık ezgiler</p>\n<p>Yüreğimden süzülüp gelen</p>\n<p>Bırakıp gittin beni / Bir gün yollarda yollarda</p>\n<p class=\"bos\"></p>\n<p>Yeter yeter ...        (Her şey ortada artık)</p>",
-  "sozler_duz": "Sus söyleme / Bir şey söyleme artık Sus söyleme / Herşey gereksiz artık Bana düşen dönüp de gitmek Sonunda elimde kalan / Bir avuç hüzün ve keder Yeter yeter söyleme / Söyleme artık Kelimeler kanatır yarayı Gözlerin anlatıyor / Mutlu aşk yoktur yoktur Oysa ben sana / Neler adamıştım İçli şarkılar kırık ezgiler Yüreğimden süzülüp gelen Bırakıp gittin beni / Bir gün yollarda yollarda Yeter yeter ... (Her şey ortada artık)",
+  "sozler_html": "<p>Sus söyleme / Bir şey söyleme artık</p>\n<p>Sus söyleme / Herşey gereksiz artık</p>\n<p>Bana düşen dönüp de gitmek</p>\n<p>Sonunda elimde kalan&nbsp;</p><p>Bir avuç hüzün ve keder</p>\n<p class=\"bos\"></p>\n<p><b>Yeter yeter söyleme / Söyleme artık</b></p>\n<p><b>Kelimeler kanatır yarayı</b></p>\n<p><b>Gözlerin anlatıyor&nbsp;</b></p><p><b>Mutlu aşk yoktur yoktur</b></p>\n<p class=\"bos\"></p>\n<p>Oysa ben sana  /  Neler adamıştım</p>\n<p>İçli şarkılar kırık ezgiler</p>\n<p>Yüreğimden süzülüp gelen</p>\n<p>Bırakıp gittin beni&nbsp;</p><p>Bir gün yollarda yollarda</p>\n<p class=\"bos\"></p>\n<p><b>Yeter yeter ...&nbsp;</b></p><p><b>(Her şey ortada artık)</b></p>",
+  "sozler_duz": "Sus söyleme / Bir şey söyleme artık\n\nSus söyleme / Herşey gereksiz artık\n\nBana düşen dönüp de gitmek\n\nSonunda elimde kalan \n\nBir avuç hüzün ve keder\n\nYeter yeter söyleme / Söyleme artık\n\nKelimeler kanatır yarayı\n\nGözlerin anlatıyor \n\nMutlu aşk yoktur yoktur\n\nOysa ben sana / Neler adamıştım\n\nİçli şarkılar kırık ezgiler\n\nYüreğimden süzülüp gelen\n\nBırakıp gittin beni \n\nBir gün yollarda yollarda\n\nYeter yeter ... \n\n(Her şey ortada artık)",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "L. Aragon",
-    "muzik": "Zülfü Livaneli",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "soz": "L. Aragon-Livaneli",
+    "muzik": "Zülfü Livaneli"
   },
   "sistem": {
     "eski_id": 1055,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T10:36:04.380Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
