@@ -1,26 +1,17 @@
 {
   "id": "su-karsiki-dagda-kar-var-duman-yok",
   "baslik": "ŞU KARŞIKİ DAĞDA KAR VAR DUMAN YOK",
-  "sozler_html": "<p>Şu karşı ki dağda kar var duman yok</p>\n<p>Benim sevdiceğim de din var iman yok</p>\n<p>Vardım baktım nazlı yarim evde yok</p>\n<p class=\"bos\"></p>\n<p><b>Ver benim sazım efendim ben gider oldum</b></p>\n<p><b>Süremedim lavantayı konsola koydum</b></p>\n<p class=\"bos\"></p>\n<p>Şu karşı ki dağda titirer dallar</p>\n<p>Benim gönlüm arzu çeker tomurcuk güller</p>\n<p>Kader kısmet bövlevimiş ne yapsın eller</p>\n<p class=\"bos\"></p>\n<p><b>Ver benim sazım...</b></p>",
-  "sozler_duz": "Şu karşı ki dağda kar var duman yok Benim sevdiceğim de din var iman yok Vardım baktım nazlı yarim evde yok Ver benim sazım efendim ben gider oldum Süremedim lavantayı konsola koydum Şu karşı ki dağda titirer dallar Benim gönlüm arzu çeker tomurcuk güller Kader kısmet bövlevimiş ne yapsın eller Ver benim sazım...",
+  "sozler_html": "<p>Şu karşı ki dağda kar var duman yok</p>\n<p>Benim sevdiceğim de din var iman yok</p>\n<p>Vardım baktım nazlı yarim evde yok</p>\n<p class=\"bos\"></p>\n<p><b>Ver benim sazım efendim ben gider oldum</b></p>\n<p><b>Süremedim lavantayı konsola koydum</b></p>\n<p class=\"bos\"></p>\n<p>Şu karşı ki dağda titirer dallar</p>\n<p>Benim gönlüm arzu çeker tomurcuk güller</p>\n<p>Kader kısmet böyleyimiş ne yapsın eller</p>\n<p class=\"bos\"></p>\n<p><b>Ver benim sazım...</b></p>",
+  "sozler_duz": "Şu karşı ki dağda kar var duman yok\n\nBenim sevdiceğim de din var iman yok\n\nVardım baktım nazlı yarim evde yok\n\nVer benim sazım efendim ben gider oldum\n\nSüremedim lavantayı konsola koydum\n\nŞu karşı ki dağda titirer dallar\n\nBenim gönlüm arzu çeker tomurcuk güller\n\nKader kısmet böyleyimiş ne yapsın eller\n\nVer benim sazım...",
   "meta": {
     "yore": "Hatay",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Emel Akçay/Halide Alkan-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Emel Akçay/Halide Alkan"
   },
   "sistem": {
     "eski_id": 4813,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T10:10:03.730Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
