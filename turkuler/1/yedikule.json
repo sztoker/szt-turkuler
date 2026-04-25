@@ -1,26 +1,15 @@
 {
   "id": "yedikule",
   "baslik": "YEDİKULE",
-  "sozler_html": "<p>Haber uçtu devlete de / Beş yıl yattım hapiste</p>\n<p>Yedi düvel zindanından / Beterdir Yedikule</p>\n<p>Nargilem duman duman / Bayıldım aman aman</p>\n<p>İstanbul güzel ama / Zabitleri pek yaman</p>\n<p class=\"bos\"></p>\n<p>Beş yıl bana yaraştı da / Nargilem buna şaştı</p>\n<p>Her gün çizdim usturamla / Bağlamam doldu taştı</p>\n<p>Sarma cigaram yanar çekerim ağar ağar</p>\n<p>Tekkemiz güzel amma haber uçuranlar var</p>\n<p class=\"bos\"></p>\n<p>Nargilemin marpucu da / Gümüştendir gümüşten</p>\n<p>Beş değil on beş yıl olsa / Ben vazgeçmem bu işten</p>\n<p>Nargilem duman duman ...</p>",
-  "sozler_duz": "Haber uçtu devlete de / Beş yıl yattım hapiste Yedi düvel zindanından / Beterdir Yedikule Nargilem duman duman / Bayıldım aman aman İstanbul güzel ama / Zabitleri pek yaman Beş yıl bana yaraştı da / Nargilem buna şaştı Her gün çizdim usturamla / Bağlamam doldu taştı Sarma cigaram yanar çekerim ağar ağar Tekkemiz güzel amma haber uçuranlar var Nargilemin marpucu da / Gümüştendir gümüşten Beş değil on beş yıl olsa / Ben vazgeçmem bu işten Nargilem duman duman ...",
+  "sozler_html": "<p>Haber uçtu devlete de / Beş yıl yattım hapiste</p>\n<p>Yedi düvel zindanından / Beterdir Yedikule</p>\n<p><b>Nargilem duman duman / Bayıldım aman aman</b></p>\n<p><b>İstanbul güzel ama / Zabitleri pek yaman</b></p>\n<p class=\"bos\"></p>\n<p>Beş yıl bana yaraştı da / Nargilem buna şaştı</p>\n<p>Her gün çizdim usturamla / Bağlamam doldu taştı</p>\n<p><b>Sarma cigaram yanar çekerim ağar ağar</b></p>\n<p><b>Tekkemiz güzel amma haber uçuranlar var</b></p>\n<p class=\"bos\"></p>\n<p>Nargilemin marpucu da / Gümüştendir gümüşten</p>\n<p>Beş değil on beş yıl olsa / Ben vazgeçmem bu işten</p>\n<p><b>Nargilem duman duman ...</b></p>",
+  "sozler_duz": "Haber uçtu devlete de / Beş yıl yattım hapiste\n\nYedi düvel zindanından / Beterdir Yedikule\n\nNargilem duman duman / Bayıldım aman aman\n\nİstanbul güzel ama / Zabitleri pek yaman\n\nBeş yıl bana yaraştı da / Nargilem buna şaştı\n\nHer gün çizdim usturamla / Bağlamam doldu taştı\n\nSarma cigaram yanar çekerim ağar ağar\n\nTekkemiz güzel amma haber uçuranlar var\n\nNargilemin marpucu da / Gümüştendir gümüşten\n\nBeş değil on beş yıl olsa / Ben vazgeçmem bu işten\n\nNargilem duman duman ...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "Vangelis Papazoğlu",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "muzik": "Vangelis Papazoğlu"
   },
   "sistem": {
     "eski_id": 156,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T13:45:45.723Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
