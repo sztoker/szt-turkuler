@@ -1,26 +1,15 @@
 {
   "id": "yoruk-ali-aydin-zeybegi",
   "baslik": "YÖRÜK ALİ  ( AYDIN ZEYBEĞİ )",
-  "sozler_html": "<p>Şu Dalma'dan geçtin mi / Soğuk sular içtin mi</p>\n<p>Efelerin içinde / Yörük Ali'yi seçtin mi</p>\n<p>Hey gidinin efesi efesi / Efelerin efesi</p>\n<p class=\"bos\"></p>\n<p>Şu Dalma'nın çeşmesi / Ne hoş olur içmesi</p>\n<p>Yörük de Ali'yi sorarsan / Efelerin seçmesi / Hey gidinin ...</p>\n<p class=\"bos\"></p>\n<p>Cepkeninin kolları / Parıldıyor pulları</p>\n<p>Yörük de Ali geliyor / Açıl Aydın yolları / Hey gidinin ...</p>\n<p class=\"bos\"></p>\n<p>Aydın Dağı'n oymuşlar / İçine de martini koymuşlar</p>\n<p>Yörük de Ali'nin adını / Hazreti Ali koymuşlar / Hey gidinin</p>",
-  "sozler_duz": "Şu Dalma'dan geçtin mi / Soğuk sular içtin mi Efelerin içinde / Yörük Ali'yi seçtin mi Hey gidinin efesi efesi / Efelerin efesi Şu Dalma'nın çeşmesi / Ne hoş olur içmesi Yörük de Ali'yi sorarsan / Efelerin seçmesi / Hey gidinin ... Cepkeninin kolları / Parıldıyor pulları Yörük de Ali geliyor / Açıl Aydın yolları / Hey gidinin ... Aydın Dağı'n oymuşlar / İçine de martini koymuşlar Yörük de Ali'nin adını / Hazreti Ali koymuşlar / Hey gidinin",
+  "sozler_html": "<p>Şu Dalma'dan geçtin mi&nbsp;</p><p>Soğuk sular içtin mi</p>\n<p>Efelerin içinde&nbsp;</p><p>Yörük Ali'yi seçtin mi</p>\n<p><br></p><p><b>Hey gidinin efesi efesi&nbsp;</b></p><p><b>Efelerin efesi</b></p>\n<p class=\"bos\"></p>\n<p>Şu Dalma'nın çeşmesi&nbsp;</p><p>Ne hoş olur içmesi</p>\n<p>Yörük de Ali'yi sorarsan&nbsp;</p><p>Efelerin seçmesi&nbsp;</p><p><br></p><p><b>Hey gidinin ...</b></p>\n<p class=\"bos\"></p>\n<p>Cepkeninin kolları&nbsp;</p><p>Parıldıyor pulları</p>\n<p>Yörük de Ali geliyor&nbsp;</p><p>Açıl Aydın yolları&nbsp;</p><p><br></p><p><b>Hey gidinin ...</b></p>\n<p class=\"bos\"></p>\n<p>Aydın Dağı'n oymuşlar&nbsp;</p><p>İçine de martini koymuşlar</p>\n<p>Yörük de Ali'nin adını&nbsp;</p><p>Hazreti Ali koymuşlar&nbsp;</p><p><br></p><p>Hey gidinin ...</p>",
+  "sozler_duz": "Şu Dalma'dan geçtin mi \n\nSoğuk sular içtin mi\n\nEfelerin içinde \n\nYörük Ali'yi seçtin mi\n\nHey gidinin efesi efesi \n\nEfelerin efesi\n\nŞu Dalma'nın çeşmesi \n\nNe hoş olur içmesi\n\nYörük de Ali'yi sorarsan \n\nEfelerin seçmesi \n\nHey gidinin ...\n\nCepkeninin kolları \n\nParıldıyor pulları\n\nYörük de Ali geliyor \n\nAçıl Aydın yolları \n\nHey gidinin ...\n\nAydın Dağı'n oymuşlar \n\nİçine de martini koymuşlar\n\nYörük de Ali'nin adını \n\nHazreti Ali koymuşlar \n\nHey gidinin ...",
   "meta": {
-    "yore": "NAZİLLİ / AYDIN",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "NAZİLLİ / AYDIN",
-    "aciklama": ""
+    "yore": "NAZİLLİ / AYDIN"
   },
   "sistem": {
     "eski_id": 1315,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T11:58:39.832Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
