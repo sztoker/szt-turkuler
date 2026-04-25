@@ -1,26 +1,15 @@
 {
   "id": "yildiz-yine-bugun-yaralandim",
   "baslik": "YILDIZ (Yine bugün yaralandım)",
-  "sozler_html": "<p>Ah yine bugün yaralandım – yine bugün yaralandım</p>\n<p>İndim etrafı dolandım / Tatlı canımdan usandım</p>\n<p class=\"bos\"></p>\n<p>Yıldız-4 hey / Evler yıkan beller büken kervan kıran</p>\n<p>Yıldız hey yıldız yıldız</p>\n<p class=\"bos\"></p>\n<p>Bin yıldız gördüm nur ile</p>\n<p>Alemi yaktı zar ile  /  Niye doğdun mavi yıldız / Yıldız ...</p>",
-  "sozler_duz": "Ah yine bugün yaralandım – yine bugün yaralandım İndim etrafı dolandım / Tatlı canımdan usandım Yıldız-4 hey / Evler yıkan beller büken kervan kıran Yıldız hey yıldız yıldız Bin yıldız gördüm nur ile Alemi yaktı zar ile / Niye doğdun mavi yıldız / Yıldız ...",
+  "sozler_html": "<p>Ah yine bugün yaralandım&nbsp;</p><p>Yine bugün yaralandım</p>\n<p>İndim etrafı dolandım&nbsp;</p><p>Tatlı canımdan usandım</p>\n<p class=\"bos\"></p>\n<p><b>Yıldız-4 hey&nbsp;</b></p><p><b>Evler yıkan beller büken kervan kıran</b></p>\n<p><b>Yıldız hey yıldız yıldız</b></p>\n<p class=\"bos\"></p>\n<p>Bin yıldız gördüm nur ile</p>\n<p>Alemi yaktı zar ile&nbsp;</p><p>Niye doğdun mavi yıldız&nbsp;</p><p><b><br></b></p><p><b>Yıldız ...</b></p>",
+  "sozler_duz": "Ah yine bugün yaralandım \n\nYine bugün yaralandım\n\nİndim etrafı dolandım \n\nTatlı canımdan usandım\n\nYıldız-4 hey \n\nEvler yıkan beller büken kervan kıran\n\nYıldız hey yıldız yıldız\n\nBin yıldız gördüm nur ile\n\nAlemi yaktı zar ile \n\nNiye doğdun mavi yıldız \n\nYıldız ...",
   "meta": {
-    "yore": "BAYBURT",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "BAYBURT",
-    "aciklama": ""
+    "yore": "BAYBURT"
   },
   "sistem": {
     "eski_id": 29,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T12:15:58.343Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
