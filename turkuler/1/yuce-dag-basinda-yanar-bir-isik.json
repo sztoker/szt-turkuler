@@ -1,26 +1,17 @@
 {
   "id": "yuce-dag-basinda-yanar-bir-isik",
   "baslik": "Yüce Dağ Başında Yanar Bir Işık_",
-  "sozler_html": "<p>Yüce Dağ Başında Yanar Bir IşıkDüşmüşüm Derdine Olmuşum AşıkAğ Buğday Benizli Zülfü DolaşıkDividim Kalemim YazarımBöyle Bir Yavrunun Derdi Var BendeYar Bende Oy BendeAha Ben Gidiyom Sen Hemen AğlaYan Ağla Dön AğlaYüce Dağ Başından İndiremedimYönünü Yönüme DöndüremedimBir Yarin Aklını KandıramadımDividim Kalemim YazarımBöyle Bir Yavrunun Derdi Var BendeYar Bende Oy BendeAha Ben Gidiyom Sen Hemen AğlaYan Ağla Dön Ağla</p>",
-  "sozler_duz": "Yüce Dağ Başında Yanar Bir IşıkDüşmüşüm Derdine Olmuşum AşıkAğ Buğday Benizli Zülfü DolaşıkDividim Kalemim YazarımBöyle Bir Yavrunun Derdi Var BendeYar Bende Oy BendeAha Ben Gidiyom Sen Hemen AğlaYan Ağla Dön AğlaYüce Dağ Başından İndiremedimYönünü Yönüme DöndüremedimBir Yarin Aklını KandıramadımDividim Kalemim YazarımBöyle Bir Yavrunun Derdi Var BendeYar Bende Oy BendeAha Ben Gidiyom Sen Hemen AğlaYan Ağla Dön Ağla",
+  "sozler_html": "<p>Yüce Dağ Başında Yanar Bir Işık</p><p>Düşmüşüm Derdine Olmuşum Aşık</p><p>Ağ Buğday Benizli Zülfü Dolaşık</p><p><br></p><p><b>Dividim Kalemim Yazarım</b></p><p><b>Böyle Bir Yavrunun Derdi Var Bende</b></p><p><b>Yar Bende Oy Bende</b></p><p><b>Aha Ben Gidiyom Sen Hemen Ağla</b></p><p><b>Yan Ağla Dön Ağla</b></p><p><br></p><p>Yüce Dağ Başından İndiremedim</p><p>Yönünü Yönüme Döndüremedim</p><p>Bir Yarin Aklını Kandıramadım</p><p><br></p><p><b>Dividim Kalemim...</b></p>",
+  "sozler_duz": "Yüce Dağ Başında Yanar Bir Işık\n\nDüşmüşüm Derdine Olmuşum Aşık\n\nAğ Buğday Benizli Zülfü Dolaşık\n\nDividim Kalemim Yazarım\n\nBöyle Bir Yavrunun Derdi Var Bende\n\nYar Bende Oy Bende\n\nAha Ben Gidiyom Sen Hemen Ağla\n\nYan Ağla Dön Ağla\n\nYüce Dağ Başından İndiremedim\n\nYönünü Yönüme Döndüremedim\n\nBir Yarin Aklını Kandıramadım\n\nDividim Kalemim...",
   "meta": {
     "yore": "Sivas/Zara",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Nurettin Akyürek-TRT Ank. Rad. THM Md",
-    "aciklama": ""
+    "derleyen": "TRT Ank. Rad. THM Md",
+    "kaynak_kisi": "Nurettin Akyürek"
   },
   "sistem": {
     "eski_id": 6709,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T11:53:24.126Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
