@@ -1,26 +1,16 @@
 {
   "id": "yuruyorum-dikenlerin-ustunde",
   "baslik": "YÜRÜYORUM DİKENLERİN ÜSTÜNDE",
-  "sozler_html": "<p>Karanlık bir gece yol görünmüyor</p>\n<p>Yürüyorum dikenlerin üstünde</p>\n<p>Kara çalı bana aman vermiyor</p>\n<p>Yürüyorum dikenlerin üstünde</p>\n<p class=\"bos\"></p>\n<p>Güneş erken doğup şafak sökmüyor</p>\n<p>Gökteki dumanı silip atmıyor</p>\n<p>Ay karardı yıldız ışık tutmuyor</p>\n<p>Yürüyorum dikenlerin üstünde</p>\n<p class=\"bos\"></p>\n<p>Sonlanmadı menzil ile durağım</p>\n<p>Belki çok yakınım belki ırağım</p>\n<p>Yaralandı parça parça ayağım</p>\n<p>Yürüyorum dikenlerin üstünde</p>\n<p class=\"bos\"></p>\n<p>Yavaşa yavaş ilerlerken kaplani</p>\n<p>Benim ile yola çıkanlar hani</p>\n<p>Geri dönsem taşa tutar dost beni</p>\n<p>Yürüyorum dikenlerin üstünde</p>",
-  "sozler_duz": "Karanlık bir gece yol görünmüyor Yürüyorum dikenlerin üstünde Kara çalı bana aman vermiyor Yürüyorum dikenlerin üstünde Güneş erken doğup şafak sökmüyor Gökteki dumanı silip atmıyor Ay karardı yıldız ışık tutmuyor Yürüyorum dikenlerin üstünde Sonlanmadı menzil ile durağım Belki çok yakınım belki ırağım Yaralandı parça parça ayağım Yürüyorum dikenlerin üstünde Yavaşa yavaş ilerlerken kaplani Benim ile yola çıkanlar hani Geri dönsem taşa tutar dost beni Yürüyorum dikenlerin üstünde",
+  "sozler_html": "<p>Karanlık bir gece yol görünmüyor</p>\n<p>Yürüyorum dikenlerin üstünde</p>\n<p>Kara çalı bana aman vermiyor</p>\n<p>Yürüyorum dikenlerin üstünde</p>\n<p class=\"bos\"></p>\n<p>Güneş erken doğup şafak sökmüyor</p>\n<p>Gökteki dumanı silip atmıyor</p>\n<p>Ay karardı yıldız ışık tutmuyor</p>\n<p>Yürüyorum dikenlerin üstünde</p>\n<p class=\"bos\"></p>\n<p>Sonlanmadı menzil ile durağım</p>\n<p>Belki çok yakınım belki ırağım</p>\n<p>Yaralandı parça parça ayağım</p>\n<p>Yürüyorum dikenlerin üstünde</p>\n<p class=\"bos\"></p>\n<p>Yavaşa yavaş ilerlerken Kaplani</p>\n<p>Benim ile yola çıkanlar hani</p>\n<p>Geri dönsem taşa tutar dost beni</p>\n<p>Yürüyorum dikenlerin üstünde</p>",
+  "sozler_duz": "Karanlık bir gece yol görünmüyor\n\nYürüyorum dikenlerin üstünde\n\nKara çalı bana aman vermiyor\n\nYürüyorum dikenlerin üstünde\n\nGüneş erken doğup şafak sökmüyor\n\nGökteki dumanı silip atmıyor\n\nAy karardı yıldız ışık tutmuyor\n\nYürüyorum dikenlerin üstünde\n\nSonlanmadı menzil ile durağım\n\nBelki çok yakınım belki ırağım\n\nYaralandı parça parça ayağım\n\nYürüyorum dikenlerin üstünde\n\nYavaşa yavaş ilerlerken Kaplani\n\nBenim ile yola çıkanlar hani\n\nGeri dönsem taşa tutar dost beni\n\nYürüyorum dikenlerin üstünde",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Kaplani",
-    "aciklama": ""
+    "soz": "Kaplani",
+    "muzik": "Kaplani"
   },
   "sistem": {
     "eski_id": 5053,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T11:50:49.192Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
