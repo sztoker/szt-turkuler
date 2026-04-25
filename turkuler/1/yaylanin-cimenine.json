@@ -1,26 +1,17 @@
 {
   "id": "yaylanin-cimenine",
   "baslik": "YAYLANIN ÇİMENİNE",
-  "sozler_html": "<p>Yaylanın çimenine / Kuzu yayılır kuzu</p>\n<p>Gün de bu günkü gündür /  Sallan yosmanın kızı</p>\n<p>Aman kızı çaçan kızı  /  Sen allar giy ben kırmızı</p>\n<p>Çıkalım dağların başına  /  Sen gül topla ben nergizi</p>\n<p class=\"bos\"></p>\n<p>Asmadan gel asmadan  / Fistan giyer basmadan</p>\n<p>Kalk gidelim sevdiğim  / Devriyeler basmadan /Aman kızı</p>",
-  "sozler_duz": "Yaylanın çimenine / Kuzu yayılır kuzu Gün de bu günkü gündür / Sallan yosmanın kızı Aman kızı çaçan kızı / Sen allar giy ben kırmızı Çıkalım dağların başına / Sen gül topla ben nergizi Asmadan gel asmadan / Fistan giyer basmadan Kalk gidelim sevdiğim / Devriyeler basmadan /Aman kızı",
+  "sozler_html": "<p>Yaylanın çimenine&nbsp;</p><p>Kuzu yayılır kuzu</p>\n<p>Gün de bu günkü gündür&nbsp;</p><p>Sallan yosmanın kızı</p><p><br></p>\n<p><b>Aman kızı çaçan kızı&nbsp;</b></p><p><b>Sen allar giy ben kırmızı</b></p>\n<p><b>Çıkalım dağların başına&nbsp;</b></p><p><b>Sen gül topla ben nergizi</b></p>\n<p class=\"bos\"></p>\n<p>Asmadan gel asmadan&nbsp;</p><p>Fistan giyer basmadan</p>\n<p>Kalk gidelim sevdiğim&nbsp;</p><p>Devriyeler basmadan&nbsp;</p><p><br></p><p><b>Aman kızı...</b></p>",
+  "sozler_duz": "Yaylanın çimenine \n\nKuzu yayılır kuzu\n\nGün de bu günkü gündür \n\nSallan yosmanın kızı\n\nAman kızı çaçan kızı \n\nSen allar giy ben kırmızı\n\nÇıkalım dağların başına \n\nSen gül topla ben nergizi\n\nAsmadan gel asmadan \n\nFistan giyer basmadan\n\nKalk gidelim sevdiğim \n\nDevriyeler basmadan \n\nAman kızı...",
   "meta": {
     "yore": "TRABZON",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "TRABZON",
-    "aciklama": ""
+    "derleyen": "NEJAT BUHARA",
+    "kaynak_kisi": "NEJAT BUHARA"
   },
   "sistem": {
     "eski_id": 1297,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T13:48:42.460Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
