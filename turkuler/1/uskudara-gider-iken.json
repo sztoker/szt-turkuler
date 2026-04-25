@@ -2,25 +2,15 @@
   "id": "uskudara-gider-iken",
   "baslik": "ÜSKÜDAR’A GİDER İKEN",
   "sozler_html": "<p>Üsküdar’a gider iken aldı da bir yağmur</p>\n<p>Katibimin setresi uzun eteği çamur</p>\n<p>Katip uykudan uyanmış gözleri mahmur</p>\n<p class=\"bos\"></p>\n<p><b>Katip benim ben katibin el ne karışır</b></p>\n<p><b>Katibime kolalı da gömlek ne güzel yaraşır</b></p>\n<p class=\"bos\"></p>\n<p>Üsküdar’a gider iken bir mendil buldum</p>\n<p>Mendilimin içine lokum doldurdum</p>\n<p>Katibimi arar iken yanımda buldum</p>\n<p class=\"bos\"></p>\n<p><b>Katip benim ...</b></p>",
-  "sozler_duz": "Üsküdar’a gider iken aldı da bir yağmur Katibimin setresi uzun eteği çamur Katip uykudan uyanmış gözleri mahmur Katip benim ben katibin el ne karışır Katibime kolalı da gömlek ne güzel yaraşır Üsküdar’a gider iken bir mendil buldum Mendilimin içine lokum doldurdum Katibimi arar iken yanımda buldum Katip benim ...",
+  "sozler_duz": "Üsküdar’a gider iken aldı da bir yağmur\n\nKatibimin setresi uzun eteği çamur\n\nKatip uykudan uyanmış gözleri mahmur\n\nKatip benim ben katibin el ne karışır\n\nKatibime kolalı da gömlek ne güzel yaraşır\n\nÜsküdar’a gider iken bir mendil buldum\n\nMendilimin içine lokum doldurdum\n\nKatibimi arar iken yanımda buldum\n\nKatip benim ...",
   "meta": {
     "yore": "İSTANBUL",
-    "turu": "",
-    "turu2": "F",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_22",
-    "karar": "La",
-    "diger_bilgiler": "İSTANBUL          Nihavent / Nim Sofyan",
-    "aciklama": ""
+    "diger_bilgiler": "Nihavent / Nim Sofyan"
   },
   "sistem": {
     "eski_id": 1258,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T14:37:38.368Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
