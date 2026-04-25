@@ -1,26 +1,17 @@
 {
   "id": "yarim-senden-ayrilali",
   "baslik": "Yarim Senden Ayrılalı_",
-  "sozler_html": "<p>Yarim Senden AyrılalıHayli Zaman Oldu Gel GelBak Gözümden Akan YaşımAb-u Revan Oldu Gel GelBöyle M'olur Küsüp GitmekSeni Seveni Terk Etmek.Haram Oldu Yemek İçmekİşim Figân Oldu Gel Gel</p>",
-  "sozler_duz": "Yarim Senden AyrılalıHayli Zaman Oldu Gel GelBak Gözümden Akan YaşımAb-u Revan Oldu Gel GelBöyle M'olur Küsüp GitmekSeni Seveni Terk Etmek.Haram Oldu Yemek İçmekİşim Figân Oldu Gel Gel",
+  "sozler_html": "<p>Yarim\nsenden ayrılalı</p><p>Hayli zaman oldu gel gel</p><p>Bak gözümden akan yaşım</p><p>Ab-u revan oldu gel gel</p><p>&nbsp;</p><p>Böyle m'olur küsüp gitmek</p><p>Seni seveni terk etmek</p><p>Haram oldu yemek içmek</p><p>İşim figân oldu gel gel</p>",
+  "sozler_duz": "Yarim senden ayrılalı\n\nHayli zaman oldu gel gel\n\nBak gözümden akan yaşım\n\nAb-u revan oldu gel gel\n\n \n\nBöyle m'olur küsüp gitmek\n\nSeni seveni terk etmek\n\nHaram oldu yemek içmek\n\nİşim figân oldu gel gel",
   "meta": {
     "yore": "Erzincan",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aşık İsmail Daimi-Plaktan Yazıldı",
-    "aciklama": ""
+    "soz": "Kul Aşık",
+    "muzik": "Aşık Daimi (Yavuz Top)"
   },
   "sistem": {
     "eski_id": 6582,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T13:54:13.322Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
