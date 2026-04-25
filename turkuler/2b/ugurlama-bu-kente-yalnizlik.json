@@ -1,26 +1,18 @@
 {
   "id": "ugurlama-bu-kente-yalnizlik",
   "baslik": "UĞURLAMA (Bu kente yalnızlık ...)",
-  "sozler_html": "<p>Bu kente yalnızlık çöktüğü zamanUykusunda bir kuş ölür ecelsizAlıp da başını gitmek istersinKaranlık sokaklar kör sağır dilsizEy sevda kuşanıp yollara düşenBilesin bu yollar dağlar dolanırYare ulaşmadan düşersen eğerYarına sesinin yankısı kalırGecenin içinde gün aralanırYar sevdası ile yürek bilenirSızılı bir ırmak uğurlar seniSu olup akarsın kır çiçekleri / Ey sevda ...</p>",
-  "sozler_duz": "Bu kente yalnızlık çöktüğü zamanUykusunda bir kuş ölür ecelsizAlıp da başını gitmek istersinKaranlık sokaklar kör sağır dilsizEy sevda kuşanıp yollara düşenBilesin bu yollar dağlar dolanırYare ulaşmadan düşersen eğerYarına sesinin yankısı kalırGecenin içinde gün aralanırYar sevdası ile yürek bilenirSızılı bir ırmak uğurlar seniSu olup akarsın kır çiçekleri / Ey sevda ...",
+  "sozler_html": "<p>Bu kente yalnızlık çöktüğü zaman</p><p>Uykusunda bir kuş ölür ecelsiz</p><p>Alıp da başını gitmek istersin</p><p>Karanlık sokaklar kör sağır dilsiz</p><p><br></p><p><b>Ey sevda kuşanıp yollara düşen</b></p><p><b>Bilesin bu yollar dağlar dolanır</b></p><p><b>Yare ulaşmadan düşersen eğer</b></p><p><b>Yarına sesinin yankısı kalır</b></p><p><br></p><p>Gecenin içinde gün aralanır</p><p>Yar sevdası ile yürek bilenir</p><p>Sızılı bir ırmak uğurlar seni</p><p>Su olup akarsın kır çiçekleri&nbsp;</p><p><br></p><p><b>Ey sevda ...</b></p>",
+  "sozler_duz": "Bu kente yalnızlık çöktüğü zaman\n\nUykusunda bir kuş ölür ecelsiz\n\nAlıp da başını gitmek istersin\n\nKaranlık sokaklar kör sağır dilsiz\n\nEy sevda kuşanıp yollara düşen\n\nBilesin bu yollar dağlar dolanır\n\nYare ulaşmadan düşersen eğer\n\nYarına sesinin yankısı kalır\n\nGecenin içinde gün aralanır\n\nYar sevdası ile yürek bilenir\n\nSızılı bir ırmak uğurlar seni\n\nSu olup akarsın kır çiçekleri \n\nEy sevda ...",
   "meta": {
-    "yore": "Grup Yorum",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Grup Yorum",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "İbrahim Karaca",
+    "muzik": "Grup Yorum",
+    "soyleyenler": "Grup Yorum"
   },
   "sistem": {
     "eski_id": 6485,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T18:59:11.137Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
