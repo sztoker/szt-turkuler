@@ -1,26 +1,17 @@
 {
   "id": "yine-yesillendi-findik-dallari",
   "baslik": "YİNE YEŞİLLENDİ FINDIK DALLARI",
-  "sozler_html": "<p>Yine yeşillendi fındık dalları / Acep ne olacak yarin halleri</p>\n<p>Dalgalanıyor pembe şalvarı</p>\n<p>Kız allan pullan gel – gel yanıma</p>\n<p>Beyaz kollarını dola boynuma</p>\n<p class=\"bos\"></p>\n<p>Tabya başında üç kız yan yana</p>\n<p>İçlerinden biri pışt dedi bana (göz etti bana)</p>\n<p>Sağ olsun (nur olsun) seni doğuran ana / Kız allan ...</p>\n<p class=\"bos\"></p>\n<p>Fındık dalları yerlere değer / Yarin bakışları kalbime değer</p>\n<p>Ölürüm seni almazsam eğer / Kız allan ...</p>",
-  "sozler_duz": "Yine yeşillendi fındık dalları / Acep ne olacak yarin halleri Dalgalanıyor pembe şalvarı Kız allan pullan gel – gel yanıma Beyaz kollarını dola boynuma Tabya başında üç kız yan yana İçlerinden biri pışt dedi bana (göz etti bana) Sağ olsun (nur olsun) seni doğuran ana / Kız allan ... Fındık dalları yerlere değer / Yarin bakışları kalbime değer Ölürüm seni almazsam eğer / Kız allan ...",
+  "sozler_html": "<p>Yine yeşillendi fındık dalları&nbsp;</p><p>Acep ne olacak yarin halleri</p>\n<p>Dalgalanıyor pembe şalvarı</p>\n<p><br></p><p><b>Kız allan pullan gel – gel yanıma</b></p>\n<p><b>Beyaz kollarını dola boynuma</b></p>\n<p class=\"bos\"></p>\n<p>Tabya başında üç kız yan yana</p>\n<p>İçlerinden biri pışt dedi bana (göz etti bana)</p>\n<p>Sağ olsun (nur olsun) seni doğuran ana&nbsp;</p><p><br></p><p><b>Kız allan ...</b></p>\n<p class=\"bos\"></p>\n<p>Fındık dalları yerlere değer&nbsp;</p><p>Yarin bakışları kalbime değer</p>\n<p>Ölürüm seni almazsam eğer&nbsp;</p><p><br></p><p><b>Kız allan ...</b></p>",
+  "sozler_duz": "Yine yeşillendi fındık dalları \n\nAcep ne olacak yarin halleri\n\nDalgalanıyor pembe şalvarı\n\nKız allan pullan gel – gel yanıma\n\nBeyaz kollarını dola boynuma\n\nTabya başında üç kız yan yana\n\nİçlerinden biri pışt dedi bana (göz etti bana)\n\nSağ olsun (nur olsun) seni doğuran ana \n\nKız allan ...\n\nFındık dalları yerlere değer \n\nYarin bakışları kalbime değer\n\nÖlürüm seni almazsam eğer \n\nKız allan ...",
   "meta": {
-    "yore": "KARADENİZ-GİRESUN ?",
-    "turu": "",
-    "turu2": "F",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_22",
-    "karar": "",
-    "diger_bilgiler": "KARADENİZ-GİRESUN ?",
-    "aciklama": ""
+    "yore": "Ordu",
+    "derleyen": "NURETTİN ÇAMLIDAĞ",
+    "kaynak_kisi": "MUHSİN TERCAN"
   },
   "sistem": {
     "eski_id": 1312,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T12:07:59.722Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
