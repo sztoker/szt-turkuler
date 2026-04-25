@@ -2,25 +2,16 @@
   "id": "telgrafin-tellerine",
   "baslik": "TELGRAFIN TELLERİNE",
   "sozler_html": "<p>Telgrafın tellerine kuşlar mı konar</p>\n<p>Herkes sevdiğine de -yavrum- böyle mi yanar</p>\n<p class=\"bos\"></p>\n<p><b>Yanıma gel yanıma da yanı yanı başıma</b></p>\n<p><b>Şu gençlikte neler geldi cahil başıma</b></p>\n<p class=\"bos\"></p>\n<p>Telgrafın tellerini arşınlamalı</p>\n<p>Yar üstüne yar seveni kurşunlamalı</p>\n<p class=\"bos\"></p>\n<p><b>Yanıma ...</b></p>\n<p class=\"bos\"></p>\n<p>Telgrafın direkleri semaya bakar</p>\n<p>Senin o ahu gözlerin çok canlar yakar</p>\n<p class=\"bos\"></p>\n<p><b>Yanıma ...</b></p>",
-  "sozler_duz": "Telgrafın tellerine kuşlar mı konar Herkes sevdiğine de -yavrum- böyle mi yanar Yanıma gel yanıma da yanı yanı başıma Şu gençlikte neler geldi cahil başıma Telgrafın tellerini arşınlamalı Yar üstüne yar seveni kurşunlamalı Yanıma ... Telgrafın direkleri semaya bakar Senin o ahu gözlerin çok canlar yakar Yanıma ...",
+  "sozler_duz": "Telgrafın tellerine kuşlar mı konar\n\nHerkes sevdiğine de -yavrum- böyle mi yanar\n\nYanıma gel yanıma da yanı yanı başıma\n\nŞu gençlikte neler geldi cahil başıma\n\nTelgrafın tellerini arşınlamalı\n\nYar üstüne yar seveni kurşunlamalı\n\nYanıma ...\n\nTelgrafın direkleri semaya bakar\n\nSenin o ahu gözlerin çok canlar yakar\n\nYanıma ...",
   "meta": {
     "yore": "İSTANBUL",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "La",
-    "diger_bilgiler": "İSTANBUL(Saniye Güler)   Uşşak / Nim So",
-    "aciklama": ""
+    "derleyen": "Ahmet Yamacı",
+    "kaynak_kisi": "Ahmet Yamacı"
   },
   "sistem": {
     "eski_id": 1229,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T15:11:33.218Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
