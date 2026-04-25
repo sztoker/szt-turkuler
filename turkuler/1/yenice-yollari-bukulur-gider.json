@@ -2,25 +2,16 @@
   "id": "yenice-yollari-bukulur-gider",
   "baslik": "YENİCE YOLLARI BÜKÜLÜR GİDER",
   "sozler_html": "<p>Yenice yolları bükülür gider</p>\n<p>Zülüf ak gerdana dökülür gider</p>\n<p>Yiğidin sevdiği güzel olursa</p>\n<p>Ömrü arkasından sökülür gider</p>\n<p class=\"bos\"></p>\n<p>Kırmızı gül olsan har olamazsın</p>\n<p>Azrail olsan can alamazsın</p>\n<p>Dünyayı kalbura koysan elesen</p>\n<p>Sen de benim gibi yar bulamazsın</p>",
-  "sozler_duz": "Yenice yolları bükülür gider Zülüf ak gerdana dökülür gider Yiğidin sevdiği güzel olursa Ömrü arkasından sökülür gider Kırmızı gül olsan har olamazsın Azrail olsan can alamazsın Dünyayı kalbura koysan elesen Sen de benim gibi yar bulamazsın",
+  "sozler_duz": "Yenice yolları bükülür gider\n\nZülüf ak gerdana dökülür gider\n\nYiğidin sevdiği güzel olursa\n\nÖmrü arkasından sökülür gider\n\nKırmızı gül olsan har olamazsın\n\nAzrail olsan can alamazsın\n\nDünyayı kalbura koysan elesen\n\nSen de benim gibi yar bulamazsın",
   "meta": {
     "yore": "Adana",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aziz Şenses-Erkan Sürmen",
-    "aciklama": ""
+    "derleyen": "Erkan Sürmen",
+    "kaynak_kisi": "Aziz Şenses"
   },
   "sistem": {
     "eski_id": 5006,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T12:33:09.356Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
