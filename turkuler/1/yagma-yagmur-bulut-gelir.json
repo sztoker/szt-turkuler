@@ -1,26 +1,17 @@
 {
   "id": "yagma-yagmur-bulut-gelir",
   "baslik": "YAĞMA YAĞMUR ( Bulut Gelir ... )",
-  "sozler_html": "<p>Bulut gelir seher ile / Çiçek açar bahar ile</p>\n<p>Herkes sarılmış yarine</p>\n<p>Yağma yağmur/ Esme bre deli rüzigar yarim yoldadır</p>\n<p class=\"bos\"></p>\n<p>Bulut gelir pare pare / Dördü aktır dördü kare</p>\n<p>Sen açtın sineme yare / Yağma yağmur ...</p>\n<p class=\"bos\"></p>\n<p>Bulut gelir duman ile / Dağı taşı dolandırır</p>\n<p>Ahım tutar süründürür / Yağma yağmur ...</p>",
-  "sozler_duz": "Bulut gelir seher ile / Çiçek açar bahar ile Herkes sarılmış yarine Yağma yağmur/ Esme bre deli rüzigar yarim yoldadır Bulut gelir pare pare / Dördü aktır dördü kare Sen açtın sineme yare / Yağma yağmur ... Bulut gelir duman ile / Dağı taşı dolandırır Ahım tutar süründürür / Yağma yağmur ...",
+  "sozler_html": "<p>Bulut gelir seher ile&nbsp;</p><p>Çiçek açar bahar ile</p>\n<p>Herkes sarılmış yarine</p><p><br></p>\n<p><b>Yağma yağmur</b></p><p><b>Esme bre deli rüzigar yarim yoldadır</b></p>\n<p class=\"bos\"></p>\n<p>Bulut gelir pare pare&nbsp;</p><p>Dördü aktır dördü kare</p>\n<p>Sen açtın sineme yare&nbsp;</p><p><br></p><p><b>Yağma yağmur ...</b></p>\n<p class=\"bos\"></p>\n<p>Bulut gelir duman ile&nbsp;</p><p>Dağı taşı dolandırır</p>\n<p>Ahım tutar süründürür&nbsp;</p><p><br></p><p><b>Yağma yağmur ...</b></p>",
+  "sozler_duz": "Bulut gelir seher ile \n\nÇiçek açar bahar ile\n\nHerkes sarılmış yarine\n\nYağma yağmur\n\nEsme bre deli rüzigar yarim yoldadır\n\nBulut gelir pare pare \n\nDördü aktır dördü kare\n\nSen açtın sineme yare \n\nYağma yağmur ...\n\nBulut gelir duman ile \n\nDağı taşı dolandırır\n\nAhım tutar süründürür \n\nYağma yağmur ...",
   "meta": {
     "yore": "RUMELİ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "U:Devr-i Turan",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "Gerdaniye",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "RUMELİ",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Kemal Altınkaya"
   },
   "sistem": {
     "eski_id": 152,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T14:21:35.510Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
