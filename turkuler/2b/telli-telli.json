@@ -1,16 +1,18 @@
 {
   "id": "telli-telli",
   "baslik": "TELLİ TELLİ",
-  "sozler_html": "<p>Telli telli telli şu telli turnaSanma ki yaralı uçmaz bir dahaTakılmış kanadı göçmen buluta Döner gelir bir gün konar yurdunaSakın çıkma patika yollara dağlara kırlara o yeşil ovayaYenik düşüyor her şey zamanaBiz büyüdük ve kirlendi dünya / Telli telli ...</p>",
-  "sozler_duz": "Telli telli telli şu telli turnaSanma ki yaralı uçmaz bir dahaTakılmış kanadı göçmen buluta Döner gelir bir gün konar yurdunaSakın çıkma patika yollara dağlara kırlara o yeşil ovayaYenik düşüyor her şey zamanaBiz büyüdük ve kirlendi dünya / Telli telli ...",
+  "sozler_html": "<p><b>Telli telli telli şu telli turna</b></p><p><b>Sanma ki yaralı uçmaz bir daha</b></p><p><b>Takılmış kanadı göçmen buluta&nbsp;</b></p><p><b>Döner gelir bir gün konar yurduna</b></p><p><br></p><p>Sakın çıkma patika yollara dağlara kırlara o yeşil ovaya</p><p>Yenik düşüyor her şey zamana</p><p>Biz büyüdük ve kirlendi dünya&nbsp;</p><p><br></p><p><b>Telli telli ...</b></p>",
+  "sozler_duz": "Telli telli telli şu telli turna\n\nSanma ki yaralı uçmaz bir daha\n\nTakılmış kanadı göçmen buluta \n\nDöner gelir bir gün konar yurduna\n\nSakın çıkma patika yollara dağlara kırlara o yeşil ovaya\n\nYenik düşüyor her şey zamana\n\nBiz büyüdük ve kirlendi dünya \n\nTelli telli ...",
   "meta": {
-    "yore": "YENİ TÜRKÜ (Manos Loizos) ?",
-    "diger_bilgiler": "YENİ TÜRKÜ (Manos Loizos) ?"
+    "turu": "Özgün",
+    "soz": "Murathan Mungan",
+    "muzik": "Manos Loizos",
+    "soyleyenler": "YENİ TÜRKÜ"
   },
   "sistem": {
     "eski_id": 6440,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T13:03:33.074Z",
+    "son_degisiklik": "2026-04-25T18:35:22.244Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
