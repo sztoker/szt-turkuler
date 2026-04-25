@@ -2,25 +2,16 @@
   "id": "serenler",
   "baslik": "SERENLER",
   "sozler_html": "<p>Serenler serenler, yüksek serenler</p>\n<p>Ben gidiyorum mamur olsun viranlar</p>\n<p>Ahret hakkın helal eylen yarenler</p>\n<p class=\"bos\"></p>\n<p><b>Aman Allah nedir bunun çaresi</b></p>\n<p><b>Yaktı beni kaşlarının karası</b></p>\n<p class=\"bos\"></p>\n<p>Şu Burdur'dan gece geçtim, görmedim</p>\n<p>On yerimden hançer yedim, ölmedim</p>\n<p>Baş çeşmeden sular içtim, kanmadım</p>\n<p class=\"bos\"></p>\n<p><b>Aman Allah nedir bunun çaresi</b></p>\n<p><b>Yaktı beni kaşlarının karası</b></p>",
-  "sozler_duz": "Serenler serenler, yüksek serenler Ben gidiyorum mamur olsun viranlar Ahret hakkın helal eylen yarenler Aman Allah nedir bunun çaresi Yaktı beni kaşlarının karası Şu Burdur'dan gece geçtim, görmedim On yerimden hançer yedim, ölmedim Baş çeşmeden sular içtim, kanmadım Aman Allah nedir bunun çaresi Yaktı beni kaşlarının karası",
+  "sozler_duz": "Serenler serenler, yüksek serenler\n\nBen gidiyorum mamur olsun viranlar\n\nAhret hakkın helal eylen yarenler\n\nAman Allah nedir bunun çaresi\n\nYaktı beni kaşlarının karası\n\nŞu Burdur'dan gece geçtim, görmedim\n\nOn yerimden hançer yedim, ölmedim\n\nBaş çeşmeden sular içtim, kanmadım\n\nAman Allah nedir bunun çaresi\n\nYaktı beni kaşlarının karası",
   "meta": {
     "yore": "Burdur",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Hasan Tepeli-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Hasan Tepeli"
   },
   "sistem": {
     "eski_id": 4733,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T10:11:14.741Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
