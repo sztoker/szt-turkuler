@@ -1,26 +1,15 @@
 {
   "id": "mevlam-pek-cok-dert-vermis",
   "baslik": "MEVLAM PEK ÇOK DERT VERMİŞ",
-  "sozler_html": "<p>Mevlam pek çok dert vermiş  /  Beraber derman vermiş</p>\n<p>Şu tükenmez derdime / Neden ilaç vermemiş</p>\n<p>(Diley-3 yar)-2 diley diley yar</p>\n<p class=\"bos\"></p>\n<p>Fanidir dünya fani  /  Alır da vermez yari</p>\n<p>Bu tükenmez derdimi  /  Tabiplerde bilmedi / Diley</p>",
-  "sozler_duz": "Mevlam pek çok dert vermiş / Beraber derman vermiş Şu tükenmez derdime / Neden ilaç vermemiş (Diley-3 yar)-2 diley diley yar Fanidir dünya fani / Alır da vermez yari Bu tükenmez derdimi / Tabiplerde bilmedi / Diley",
+  "sozler_html": "<p>Mevlam pek çok dert vermiş&nbsp;</p><p>Beraber derman vermiş</p>\n<p>Şu tükenmez derdime&nbsp;</p><p>Neden ilaç vermemiş</p>\n<p><b>(Diley-3 yar)-2 diley diley yar</b></p>\n<p class=\"bos\"></p>\n<p>Fanidir dünya fani&nbsp;</p><p>Alır da vermez yari</p>\n<p>Bu tükenmez derdimi&nbsp;</p><p>Tabiplerde bilmedi&nbsp;</p><p>(Diley-3 yar)-2 diley diley yar</p>",
+  "sozler_duz": "Mevlam pek çok dert vermiş \n\nBeraber derman vermiş\n\nŞu tükenmez derdime \n\nNeden ilaç vermemiş\n\n(Diley-3 yar)-2 diley diley yar\n\nFanidir dünya fani \n\nAlır da vermez yari\n\nBu tükenmez derdimi \n\nTabiplerde bilmedi \n\n(Diley-3 yar)-2 diley diley yar",
   "meta": {
-    "yore": "MALATYA",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "MALATYA",
-    "aciklama": ""
+    "yore": "MALATYA"
   },
   "sistem": {
     "eski_id": 212,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T11:39:43.320Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
