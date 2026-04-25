@@ -1,26 +1,16 @@
 {
   "id": "uc-kiz-bir-ana",
   "baslik": "ÜÇ KIZ BİR ANA",
-  "sozler_html": "<p>Yaylasından inmişler  /  Üç kız bir ana</p>\n<p>İnmişler aman  /  Ağlarlar yana tana</p>\n<p class=\"bos\"></p>\n<p>Acınır hallarına (Karaları giymişler)  /  Üç kız bir ana</p>\n<p>Çıkmışlar dama  /  Ağlarlar yana yana</p>\n<p class=\"bos\"></p>\n<p>Sokuldum yanlarına  /  Üç kız bir ana</p>\n<p>Demezler bana  / Ağlarlar yana yana</p>",
-  "sozler_duz": "Yaylasından inmişler / Üç kız bir ana İnmişler aman / Ağlarlar yana tana Acınır hallarına (Karaları giymişler) / Üç kız bir ana Çıkmışlar dama / Ağlarlar yana yana Sokuldum yanlarına / Üç kız bir ana Demezler bana / Ağlarlar yana yana",
+  "sozler_html": "<p>Yaylasından inmişler&nbsp;</p><p>Üç kız bir ana</p>\n<p>İnmişler aman&nbsp;</p><p>Ağlarlar yana tana</p>\n<p class=\"bos\"></p>\n<p>Acınır hallarına (Karaları giymişler)&nbsp;</p><p>Üç kız bir ana</p>\n<p>Çıkmışlar dama&nbsp;</p><p>Ağlarlar yana yana</p>\n<p class=\"bos\"></p>\n<p>Sokuldum yanlarına&nbsp;</p><p>Üç kız bir ana</p>\n<p>Demezler bana&nbsp;</p><p>Ağlarlar yana yana</p>",
+  "sozler_duz": "Yaylasından inmişler \n\nÜç kız bir ana\n\nİnmişler aman \n\nAğlarlar yana tana\n\nAcınır hallarına (Karaları giymişler) \n\nÜç kız bir ana\n\nÇıkmışlar dama \n\nAğlarlar yana yana\n\nSokuldum yanlarına \n\nÜç kız bir ana\n\nDemezler bana \n\nAğlarlar yana yana",
   "meta": {
-    "yore": "DOĞU ANADOLU",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "DOĞU ANADOLU",
-    "aciklama": ""
+    "yore": "Kars",
+    "kaynak_kisi": "KURBANİ KILIÇ"
   },
   "sistem": {
     "eski_id": 315,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T14:48:28.110Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
