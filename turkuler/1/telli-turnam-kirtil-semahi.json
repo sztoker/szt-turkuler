@@ -1,26 +1,17 @@
 {
   "id": "telli-turnam-kirtil-semahi",
   "baslik": "TELLİ TURNAM (Kırtıl Semahı)",
-  "sozler_html": "<p>Aşağıdan gelen telli turnam hey – telli turnam hey</p>\n<p>İçinizde telli turnam yok benim – turnam yok benim</p>\n<p>Yarenden yoldaştan soran olursa – soran olursa</p>\n<p>İçinizde telli turnam yok benim – turnam yok benim</p>\n<p>Üç derdim var idi sen de beş etme – sen de beş etme</p>\n<p>İçinizde telli turnam yok benim – turnam yok benim</p>\n<p class=\"bos\"></p>\n<p>Siyah saçını örmezler / Seni de bana vermezler</p>\n<p>Gel beraber kaçalım / Karanlıkta görmezler (2</p>\n<p>Saçları kara yarim  her sabah tara yarim</p>\n<p>Tellerinin içinde gönlümü ara yarim (2</p>",
-  "sozler_duz": "Aşağıdan gelen telli turnam hey – telli turnam hey İçinizde telli turnam yok benim – turnam yok benim Yarenden yoldaştan soran olursa – soran olursa İçinizde telli turnam yok benim – turnam yok benim Üç derdim var idi sen de beş etme – sen de beş etme İçinizde telli turnam yok benim – turnam yok benim Siyah saçını örmezler / Seni de bana vermezler Gel beraber kaçalım / Karanlıkta görmezler (2 Saçları kara yarim her sabah tara yarim Tellerinin içinde gönlümü ara yarim (2",
+  "sozler_html": "<p>Aşağıdan gelen telli turnalar – telli turnam hey</p>\n<p>İçinizde telli turnam yok benim – turnam yok benim</p>\n<p>Yarenden yoldaştan soran olursa – soran olursa</p>\n<p>İçinizde telli turnam yok benim – turnam yok benim</p><p><br></p>\n<p>Gidiyorum gayrı\nda gül benzim soluk<br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Od düştü sineme yanıktır yanık</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Ölüm allah emri de zalim ayrılık</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Hangine yanayım da derdim çok benim</span><br>\n<br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Pir sultan abdal'ım da dost kırklar yediler</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Bu yolu erkanı da a canım onlar kurdular</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Herkes sevdiğini de dost bile dediler</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Hangine yanayım da a canım derdim çok benim<o:p></o:p></span></p>",
+  "sozler_duz": "Aşağıdan gelen telli turnalar – telli turnam hey\n\nİçinizde telli turnam yok benim – turnam yok benim\n\nYarenden yoldaştan soran olursa – soran olursa\n\nİçinizde telli turnam yok benim – turnam yok benim\n\nGidiyorum gayrı da gül benzim soluk\nOd düştü sineme yanıktır yanık\nÖlüm allah emri de zalim ayrılık\nHangine yanayım da derdim çok benim\n\nPir sultan abdal'ım da dost kırklar yediler\nBu yolu erkanı da a canım onlar kurdular\nHerkes sevdiğini de dost bile dediler\nHangine yanayım da a canım derdim çok benim",
   "meta": {
     "yore": "SİLİFKE",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "derleyen": "NEVZAT ÜÇYILDIZ",
+    "kaynak_kisi": "BAHAR GÜNDOĞDU"
   },
   "sistem": {
     "eski_id": 24,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T15:08:39.975Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
