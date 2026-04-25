@@ -1,26 +1,15 @@
 {
   "id": "mican",
   "baslik": "MİCAN",
-  "sozler_html": "<p>Rakı koydum fincana / Hele de bakın Mican’a</p>\n<p>Kör olasın Kör Seyit / Nasıl da kıydın bu cana</p>\n<p>Oy benim canım Micanım / Dünyalarda bir canım</p>\n<p class=\"bos\"></p>\n<p>Martinimin pulları / Gece de geçtik yolları</p>\n<p>Aslan Mican geliyor / Saymaz karakolları / Oy benim ...</p>\n<p class=\"bos\"></p>\n<p>Mican sen öleceksin / Kabire gireceksin</p>\n<p>Dokuz tahta altında / Ne cevap vereceksin /Oy benim ...</p>\n<p class=\"bos\"></p>\n<p>Karanfilim saksıda / Bir yar sevdim Aksu’da</p>\n<p>Mevlam bizi kavuştur / Akşam ile yatsıda /Oy benim ...</p>",
-  "sozler_duz": "Rakı koydum fincana / Hele de bakın Mican’a Kör olasın Kör Seyit / Nasıl da kıydın bu cana Oy benim canım Micanım / Dünyalarda bir canım Martinimin pulları / Gece de geçtik yolları Aslan Mican geliyor / Saymaz karakolları / Oy benim ... Mican sen öleceksin / Kabire gireceksin Dokuz tahta altında / Ne cevap vereceksin /Oy benim ... Karanfilim saksıda / Bir yar sevdim Aksu’da Mevlam bizi kavuştur / Akşam ile yatsıda /Oy benim ...",
+  "sozler_html": "<p>Rakı koydum fincana&nbsp;</p><p>Hele de bakın Mican’a</p>\n<p>Kör olasın Kör Seyit&nbsp;</p><p>Nasıl da kıydın bu cana</p>\n<p><br></p><p><b>Oy benim canım Micanım&nbsp;</b></p><p><b>Dünyalarda bir canım</b></p>\n<p class=\"bos\"></p>\n<p>Martinimin pulları&nbsp;</p><p>Gece de geçtik yolları</p>\n<p>Aslan Mican geliyor&nbsp;</p><p>Saymaz karakolları&nbsp;</p><p><b><br></b></p><p><b>Oy benim ...</b></p>\n<p class=\"bos\"></p>\n<p>Mican sen öleceksin&nbsp;</p><p>Kabire gireceksin</p>\n<p>Dokuz tahta altında&nbsp;</p><p>Ne cevap vereceksin&nbsp;</p><p><br></p><p><b>Oy benim ...</b></p>\n<p class=\"bos\"></p>\n<p>Karanfilim saksıda&nbsp;</p><p>Bir yar sevdim Aksu’da</p>\n<p>Mevlam bizi kavuştur&nbsp;</p><p>Akşam ile yatsıda&nbsp;</p><p><br></p><p><b>Oy benim ...</b></p>",
+  "sozler_duz": "Rakı koydum fincana \n\nHele de bakın Mican’a\n\nKör olasın Kör Seyit \n\nNasıl da kıydın bu cana\n\nOy benim canım Micanım \n\nDünyalarda bir canım\n\nMartinimin pulları \n\nGece de geçtik yolları\n\nAslan Mican geliyor \n\nSaymaz karakolları \n\nOy benim ...\n\nMican sen öleceksin \n\nKabire gireceksin\n\nDokuz tahta altında \n\nNe cevap vereceksin \n\nOy benim ...\n\nKaranfilim saksıda \n\nBir yar sevdim Aksu’da\n\nMevlam bizi kavuştur \n\nAkşam ile yatsıda \n\nOy benim ...",
   "meta": {
-    "yore": "GİRESUN",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "GİRESUN",
-    "aciklama": ""
+    "yore": "GİRESUN"
   },
   "sistem": {
     "eski_id": 1048,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T10:46:27.487Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
