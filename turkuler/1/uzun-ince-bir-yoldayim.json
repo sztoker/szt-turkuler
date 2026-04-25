@@ -1,26 +1,16 @@
 {
   "id": "uzun-ince-bir-yoldayim",
   "baslik": "Uzun İnce Bir Yoldayım_",
-  "sozler_html": "<p>Uzun İnce Bir YoldayımGidiyorum Gündüz GeceBilmiyorum Ne HaldeyimGidiyorum Gündüz GeceDünyaya Geldiğim AndaYürüdüm Aynı Zamandaİki Kapılı Bir HandaGidiyorum Gündüz GeceUykuda Dahi YürüyomKalmaya Sebep ArıyomGidenleri Hep GörüyomGidiyorum Gündüz GeceKırk Dokuz Yıl Bu YollardaOvada Dağda ÇöllerdeDüşmüşüm Gurbet EllerdeGidiyorum Gündüz GeceDüşünülürse DerinceUzak Görünür GörünceBir Yol Dakka MiktarıncaGidiyorum Gündüz GeceŞaşar Veysel İş Bu HaleKah Ağlaya Kahi GüleYetişmek İçin MenzileGidiyorum Gündüz Gece</p>",
-  "sozler_duz": "Uzun İnce Bir YoldayımGidiyorum Gündüz GeceBilmiyorum Ne HaldeyimGidiyorum Gündüz GeceDünyaya Geldiğim AndaYürüdüm Aynı Zamandaİki Kapılı Bir HandaGidiyorum Gündüz GeceUykuda Dahi YürüyomKalmaya Sebep ArıyomGidenleri Hep GörüyomGidiyorum Gündüz GeceKırk Dokuz Yıl Bu YollardaOvada Dağda ÇöllerdeDüşmüşüm Gurbet EllerdeGidiyorum Gündüz GeceDüşünülürse DerinceUzak Görünür GörünceBir Yol Dakka MiktarıncaGidiyorum Gündüz GeceŞaşar Veysel İş Bu HaleKah Ağlaya Kahi GüleYetişmek İçin MenzileGidiyorum Gündüz Gece",
+  "sozler_html": "<p>Uzun İnce Bir Yoldayım</p><p>Gidiyorum Gündüz Gece</p><p>Bilmiyorum Ne Haldeyim</p><p>Gidiyorum Gündüz Gece</p><p><br></p><p>Dünyaya Geldiğim Anda</p><p>Yürüdüm Aynı Zamanda</p><p>İki Kapılı Bir Handa</p><p>Gidiyorum Gündüz Gece</p><p><br></p><p>Şaşar Veysel İş Bu Hale</p><p>Kah Ağlaya Kahi Güle</p><p>Yetişmek İçin Menzile</p><p>Gidiyorum Gündüz Gece</p><p>*****************************</p><p><i>Uykuda Dahi Yürüyom</i></p><p><i>Kalmaya Sebep Arıyom</i></p><p><i>Gidenleri Hep Görüyom</i></p><p><i>Gidiyorum Gündüz Gece</i></p><p><i><br></i></p><p><i>Kırk Dokuz Yıl Bu Yollarda</i></p><p><i>Ovada Dağda Çöllerde</i></p><p><i>Düşmüşüm Gurbet Ellerde</i></p><p><i>Gidiyorum Gündüz Gece</i></p><p><i><br></i></p><p><i>Düşünülürse Derince</i></p><p><i>Uzak Görünür Görünce</i></p><p><i>Bir Yol Dakka Miktarınca</i></p><p><i>Gidiyorum Gündüz Gece</i></p><p><br></p><p><br></p>",
+  "sozler_duz": "Uzun İnce Bir Yoldayım\n\nGidiyorum Gündüz Gece\n\nBilmiyorum Ne Haldeyim\n\nGidiyorum Gündüz Gece\n\nDünyaya Geldiğim Anda\n\nYürüdüm Aynı Zamanda\n\nİki Kapılı Bir Handa\n\nGidiyorum Gündüz Gece\n\nŞaşar Veysel İş Bu Hale\n\nKah Ağlaya Kahi Güle\n\nYetişmek İçin Menzile\n\nGidiyorum Gündüz Gece\n\n*****************************\n\nUykuda Dahi Yürüyom\n\nKalmaya Sebep Arıyom\n\nGidenleri Hep Görüyom\n\nGidiyorum Gündüz Gece\n\nKırk Dokuz Yıl Bu Yollarda\n\nOvada Dağda Çöllerde\n\nDüşmüşüm Gurbet Ellerde\n\nGidiyorum Gündüz Gece\n\nDüşünülürse Derince\n\nUzak Görünür Görünce\n\nBir Yol Dakka Miktarınca\n\nGidiyorum Gündüz Gece",
   "meta": {
-    "yore": "Sivas",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aşık Veysel Şatıroğlu-TRT Müz. Dairesi Başk",
-    "aciklama": ""
+    "soz": "Aşık Veysel",
+    "muzik": "Aşık Veysel"
   },
   "sistem": {
     "eski_id": 6513,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T14:33:24.961Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
