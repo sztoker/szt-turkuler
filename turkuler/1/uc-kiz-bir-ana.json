@@ -1,8 +1,8 @@
 {
   "id": "uc-kiz-bir-ana",
   "baslik": "ÜÇ KIZ BİR ANA",
-  "sozler_html": "<p>Yaylasından inmişler&nbsp;</p><p>Üç kız bir ana</p>\n<p>İnmişler aman&nbsp;</p><p>Ağlarlar yana tana</p>\n<p class=\"bos\"></p>\n<p>Acınır hallarına (Karaları giymişler)&nbsp;</p><p>Üç kız bir ana</p>\n<p>Çıkmışlar dama&nbsp;</p><p>Ağlarlar yana yana</p>\n<p class=\"bos\"></p>\n<p>Sokuldum yanlarına&nbsp;</p><p>Üç kız bir ana</p>\n<p>Demezler bana&nbsp;</p><p>Ağlarlar yana yana</p>",
-  "sozler_duz": "Yaylasından inmişler \n\nÜç kız bir ana\n\nİnmişler aman \n\nAğlarlar yana tana\n\nAcınır hallarına (Karaları giymişler) \n\nÜç kız bir ana\n\nÇıkmışlar dama \n\nAğlarlar yana yana\n\nSokuldum yanlarına \n\nÜç kız bir ana\n\nDemezler bana \n\nAğlarlar yana yana",
+  "sozler_html": "<p>Yaylasından\ninmişler (üç kız bir ana)</p><p>İnmişler (aman)\nağlarlar (yana yana)<o:p></o:p></p><p>Karaları giymişler\n(üç kız bir ana)<o:p></o:p></p><p>Giymişler (aman)\nağlarlar (yana yana)<br>\n<!--[if !supportLineBreakNewLine]--><br>\n<!--[endif]--><span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><o:p></o:p></span></p><p>Acınır hallerine\n(üç kız bir ana)<o:p></o:p></p><p>Çıkmışlar dama\nağlarlar (yana yana)<o:p></o:p></p><p>Sokuldum\nyanlarına (üç kız bir ana)<o:p></o:p></p><p>Demezler bana\nağlarlar (yana yana)<o:p></o:p></p><p><br></p><p>Bilmem nasıl\ngüzeller (üç kız bir ana)<o:p></o:p></p><p>Güzeller (aman)\nağlarlar (yana yana)<o:p></o:p></p><p>Gözlerini süzerler\n(üç kız bir ana)<o:p></o:p></p><p>Gülmezler (aman)\nağlarlar (yana yana)</p>",
+  "sozler_duz": "Yaylasından inmişler (üç kız bir ana)\n\nİnmişler (aman) ağlarlar (yana yana)\n\nKaraları giymişler (üç kız bir ana)\n\nGiymişler (aman) ağlarlar (yana yana)\n\nAcınır hallerine (üç kız bir ana)\n\nÇıkmışlar dama ağlarlar (yana yana)\n\nSokuldum yanlarına (üç kız bir ana)\n\nDemezler bana ağlarlar (yana yana)\n\nBilmem nasıl güzeller (üç kız bir ana)\n\nGüzeller (aman) ağlarlar (yana yana)\n\nGözlerini süzerler (üç kız bir ana)\n\nGülmezler (aman) ağlarlar (yana yana)",
   "meta": {
     "yore": "Kars",
     "kaynak_kisi": "KURBANİ KILIÇ"
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 315,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-25T14:48:28.110Z",
+    "son_degisiklik": "2026-04-25T14:54:44.292Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
