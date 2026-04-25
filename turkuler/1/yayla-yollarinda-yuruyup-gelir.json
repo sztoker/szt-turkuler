@@ -1,26 +1,17 @@
 {
   "id": "yayla-yollarinda-yuruyup-gelir",
   "baslik": "YAYLA YOLLARINDA YÜRÜYÜP GELİR",
-  "sozler_html": "<p>Yayla yollarında yüyüyüp gelir  (oy gelin -3)</p>\n<p>Allı şalvarını sürüyüp gelir (amman-3)</p>\n<p>Ben varmam oralıya orada duralıya</p>\n<p>Allah nasip eylesin davullu zurnalıya</p>\n<p class=\"bos\"></p>\n<p>Yayla yollarından bir ferman eyler</p>\n<p>İnce belli kız doğurmuş anneler</p>\n<p>Ben varmam inekliye yoğurdu sinekliye</p>\n<p>Allah nasip eylesin omuzu tüfekliye</p>\n<p class=\"bos\"></p>\n<p>Yayla yollarında menekşe açmış</p>\n<p>Sevdiğim o güzel dağlara kaçmış</p>\n<p>Ünledim Ayşe diye odayı döşe diye</p>\n<p>Ünledim Fatma diye kaşların çatma diye</p>\n<p>Ünledim Gülsüm diye yanıma gelsin diye</p>",
-  "sozler_duz": "Yayla yollarında yüyüyüp gelir (oy gelin -3) Allı şalvarını sürüyüp gelir (amman-3) Ben varmam oralıya orada duralıya Allah nasip eylesin davullu zurnalıya Yayla yollarından bir ferman eyler İnce belli kız doğurmuş anneler Ben varmam inekliye yoğurdu sinekliye Allah nasip eylesin omuzu tüfekliye Yayla yollarında menekşe açmış Sevdiğim o güzel dağlara kaçmış Ünledim Ayşe diye odayı döşe diye Ünledim Fatma diye kaşların çatma diye Ünledim Gülsüm diye yanıma gelsin diye",
+  "sozler_html": "<p>Yayla yollarında yüyüyüp gelir  (oy gelin -3)</p>\n<p>Allı şalvarını sürüyüp gelir (amman-3)</p>\n<p><b>Ben varmam oralıya orada duralıya</b></p>\n<p><b>Allah nasip eylesin davullu zurnalıya</b></p>\n<p class=\"bos\"></p>\n<p>Yayla yollarından bir ferman eyler</p>\n<p>İnce belli kız doğurmuş anneler</p>\n<p><b>Ben varmam inekliye yoğurdu sinekliye</b></p>\n<p><b>Allah nasip eylesin omuzu tüfekliye</b></p>\n<p class=\"bos\"></p>\n<p>Yayla yollarında menekşe açmış</p>\n<p>Sevdiğim o güzel dağlara kaçmış</p>\n<p><b>Ünledim Ayşe diye odayı döşe diye</b></p>\n<p><b>Ünledim Fatma diye kaşların çatma diye</b></p>\n<p><b>Ünledim Gülsüm diye yanıma gelsin diye</b></p>",
+  "sozler_duz": "Yayla yollarında yüyüyüp gelir (oy gelin -3)\n\nAllı şalvarını sürüyüp gelir (amman-3)\n\nBen varmam oralıya orada duralıya\n\nAllah nasip eylesin davullu zurnalıya\n\nYayla yollarından bir ferman eyler\n\nİnce belli kız doğurmuş anneler\n\nBen varmam inekliye yoğurdu sinekliye\n\nAllah nasip eylesin omuzu tüfekliye\n\nYayla yollarında menekşe açmış\n\nSevdiğim o güzel dağlara kaçmış\n\nÜnledim Ayşe diye odayı döşe diye\n\nÜnledim Fatma diye kaşların çatma diye\n\nÜnledim Gülsüm diye yanıma gelsin diye",
   "meta": {
     "yore": "BURDUR",
-    "turu": "",
-    "turu2": "",
     "derleyen": "Muzaffer Sarısözen",
-    "kaynak_kisi": "Ahmet Yamacı",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Ahmet Yamacı"
   },
   "sistem": {
     "eski_id": 1293,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T13:50:07.947Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
