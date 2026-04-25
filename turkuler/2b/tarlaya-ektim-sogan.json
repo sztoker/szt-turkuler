@@ -1,26 +1,18 @@
 {
   "id": "tarlaya-ektim-sogan",
   "baslik": "TARLAYA EKTİM SOĞAN",
-  "sozler_html": "<p>Tarlaya ektim soğan / Bitmedi yedi doğanHep mi güzel oluyor / Senin annenden doğanOy niye hanım niye / Öldüm yar yar diye diyeBoynunda iki lira / Ver birini ver hediyeOrmandan yol açarım / Seni alır kaçarımDört yanım duvar olsa / Şahin olur uçarım / Oy niye ...Kuzgun dere yukarı / Yol gider kanlı kayaKız ben seni alırım / Liralar saya saya  / Oy niye ...</p>",
-  "sozler_duz": "Tarlaya ektim soğan / Bitmedi yedi doğanHep mi güzel oluyor / Senin annenden doğanOy niye hanım niye / Öldüm yar yar diye diyeBoynunda iki lira / Ver birini ver hediyeOrmandan yol açarım / Seni alır kaçarımDört yanım duvar olsa / Şahin olur uçarım / Oy niye ...Kuzgun dere yukarı / Yol gider kanlı kayaKız ben seni alırım / Liralar saya saya / Oy niye ...",
+  "sozler_html": "<p>Tarlaya ektim soğan&nbsp;</p><p>Bitmedi yedi doğan</p><p>Hep mi güzel oluyor&nbsp;</p><p>Senin annenden doğan</p><p><br></p><p><b>Oy niye hanım niye&nbsp;</b></p><p><b>Öldüm yar yar diye diye</b></p><p><b>Boynunda iki lira&nbsp;</b></p><p><b>Ver birini ver hediye</b></p><p><br></p><p>Ormandan yol açarım&nbsp;</p><p>Seni alır kaçarım</p><p>Dört yanım duvar olsa&nbsp;</p><p>Şahin olur uçarım&nbsp;</p><p><br></p><p><b>Oy niye ...</b></p><p><br></p><p>Kuzgun dere yukarı&nbsp;</p><p>Yol gider kanlı kaya</p><p>Kız ben seni alırım&nbsp;</p><p>Liralar saya saya&nbsp;</p><p><br></p><p><b>Oy niye ...</b></p>",
+  "sozler_duz": "Tarlaya ektim soğan \n\nBitmedi yedi doğan\n\nHep mi güzel oluyor \n\nSenin annenden doğan\n\nOy niye hanım niye \n\nÖldüm yar yar diye diye\n\nBoynunda iki lira \n\nVer birini ver hediye\n\nOrmandan yol açarım \n\nSeni alır kaçarım\n\nDört yanım duvar olsa \n\nŞahin olur uçarım \n\nOy niye ...\n\nKuzgun dere yukarı \n\nYol gider kanlı kaya\n\nKız ben seni alırım \n\nLiralar saya saya \n\nOy niye ...",
   "meta": {
     "yore": "TRABZON",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "TRABZON",
-    "aciklama": ""
+    "derleyen": "AHMET YAMACI",
+    "kaynak_kisi": "HÜSEYİN BİRİNCİOĞLU",
+    "karar": "Do"
   },
   "sistem": {
     "eski_id": 6427,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T18:13:44.778Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
