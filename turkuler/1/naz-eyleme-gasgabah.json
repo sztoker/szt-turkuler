@@ -1,26 +1,15 @@
 {
   "id": "naz-eyleme-gasgabah",
   "baslik": "NAZ EYLEME (Gaşgabah)",
-  "sozler_html": "<p>Gaşgabahın yerle gedir / De görün neylemişem</p>\n<p>Üreğim güp güp edir / De görün neylemişem</p>\n<p class=\"bos\"></p>\n<p>Bir mene bak naz eyleme (2 * Naz eyleme naz eyleme</p>\n<p>Gaşgabah dökme bele * de görün neylemişem</p>\n<p>Gel mene naz etme bele * de görün neylemişem</p>\n<p class=\"bos\"></p>\n<p>Bir günahım yoktur inan</p>\n<p>Olursa (varsa de) canım kurban</p>\n<p>Gözverem bu hola men / Ölürem az gala men</p>",
-  "sozler_duz": "Gaşgabahın yerle gedir / De görün neylemişem Üreğim güp güp edir / De görün neylemişem Bir mene bak naz eyleme (2 * Naz eyleme naz eyleme Gaşgabah dökme bele * de görün neylemişem Gel mene naz etme bele * de görün neylemişem Bir günahım yoktur inan Olursa (varsa de) canım kurban Gözverem bu hola men / Ölürem az gala men",
+  "sozler_html": "<p>Gaşgabahın yerle gedir&nbsp;</p><p>De görün neylemişem</p>\n<p>Üreğim güp güp edir&nbsp;</p><p>De görün neylemişem</p>\n<p class=\"bos\"></p>\n<p><b>Bir mene bak naz eyleme (2&nbsp;</b></p><p><b>Naz eyleme naz eyleme</b></p>\n<p><b>Gaşgabah dökme bele&nbsp;</b></p><p><b>De görün neylemişem</b></p>\n<p><b>Gel mene naz etme bele&nbsp;</b></p><p><b>De görün neylemişem</b></p>\n<p class=\"bos\"></p>\n<p>Bir günahım yoktur inan</p>\n<p>Olursa (varsa de) canım kurban</p>\n<p>Gözverem bu hola men&nbsp;</p><p>Ölürem az gala men</p><p><br></p><p>Bir mene bak...</p>",
+  "sozler_duz": "Gaşgabahın yerle gedir \n\nDe görün neylemişem\n\nÜreğim güp güp edir \n\nDe görün neylemişem\n\nBir mene bak naz eyleme (2 \n\nNaz eyleme naz eyleme\n\nGaşgabah dökme bele \n\nDe görün neylemişem\n\nGel mene naz etme bele \n\nDe görün neylemişem\n\nBir günahım yoktur inan\n\nOlursa (varsa de) canım kurban\n\nGözverem bu hola men \n\nÖlürem az gala men\n\nBir mene bak...",
   "meta": {
-    "yore": "AZERİ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_",
-    "karar": "",
-    "diger_bilgiler": "AZERİ",
-    "aciklama": ""
+    "yore": "AZERİ"
   },
   "sistem": {
     "eski_id": 1062,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T10:30:43.412Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
