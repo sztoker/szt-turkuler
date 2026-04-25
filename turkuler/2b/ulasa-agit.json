@@ -1,26 +1,18 @@
 {
   "id": "ulasa-agit",
   "baslik": "ULAŞ'A AĞIT",
-  "sozler_html": "<p>Hele Ulaş'a Ulaş'a / Ulaş benzerdi güneşeUlaş gardaş can veriyor / Yüreğim düştü ateşeUlaş'ın elinde mavzer / Mavzeri türküye benzerBizimkiler böyle ölür / Böyle ölür bizimkilerTohumlar düştü toprağa / Dokundum yeşil yaprağaKurban olam kurban olam / Seni yaratan toprağa</p>",
-  "sozler_duz": "Hele Ulaş'a Ulaş'a / Ulaş benzerdi güneşeUlaş gardaş can veriyor / Yüreğim düştü ateşeUlaş'ın elinde mavzer / Mavzeri türküye benzerBizimkiler böyle ölür / Böyle ölür bizimkilerTohumlar düştü toprağa / Dokundum yeşil yaprağaKurban olam kurban olam / Seni yaratan toprağa",
+  "sozler_html": "<p>Hele Ulaş'a Ulaş'a&nbsp;</p><p>Ulaş benzerdi güneşe</p><p>Ulaş gardaş can veriyor&nbsp;</p><p>Yüreğim düştü ateşe</p><p><br></p><p>Ulaş'ın elinde mavzer&nbsp;</p><p>Mavzeri türküye benzer</p><p>Bizimkiler böyle ölür&nbsp;</p><p>Böyle ölür bizimkiler</p><p><br></p><p>Tohumlar düştü toprağa&nbsp;</p><p>Dokundum yeşil yaprağa</p><p>Kurban olam kurban olam&nbsp;</p><p>Seni yaratan toprağa</p>",
+  "sozler_duz": "Hele Ulaş'a Ulaş'a \n\nUlaş benzerdi güneşe\n\nUlaş gardaş can veriyor \n\nYüreğim düştü ateşe\n\nUlaş'ın elinde mavzer \n\nMavzeri türküye benzer\n\nBizimkiler böyle ölür \n\nBöyle ölür bizimkiler\n\nTohumlar düştü toprağa \n\nDokundum yeşil yaprağa\n\nKurban olam kurban olam \n\nSeni yaratan toprağa",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Yaşar Kemal",
+    "muzik": "Zülfü Livaneli",
+    "soyleyenler": "Zülfü Livaneli-Grup yorum"
   },
   "sistem": {
     "eski_id": 6488,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T19:06:45.781Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
