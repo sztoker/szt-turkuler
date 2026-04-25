@@ -1,26 +1,17 @@
 {
   "id": "yildiz-dagi",
   "baslik": "YILDIZ DAĞI",
-  "sozler_html": "<p>Yıldız dağı işte de geldim yanına</p>\n<p>Bir teselli versene garip canıma</p>\n<p>Salıver gideyim de nazlı yârime</p>\n<p>Ülker yıldız niçin kalkmaz dumanın</p>\n<p>Dertli yıldız niçin gitmez ateşin merâkın</p>\n<p class=\"bos\"></p>\n<p>Namlı da namlı yükseklerde karın var</p>\n<p>Alçağında mor sümbüllü bağın var</p>\n<p>Şimdi duydum benden başka yârin var  / Ülker yıldız ..</p>",
-  "sozler_duz": "Yıldız dağı işte de geldim yanına Bir teselli versene garip canıma Salıver gideyim de nazlı yârime Ülker yıldız niçin kalkmaz dumanın Dertli yıldız niçin gitmez ateşin merâkın Namlı da namlı yükseklerde karın var Alçağında mor sümbüllü bağın var Şimdi duydum benden başka yârin var / Ülker yıldız ..",
+  "sozler_html": "<p>Yıldız dağı işte de geldim yanına</p>\n<p>Bir teselli versene garip canıma</p>\n<p>Salıver gideyim de nazlı yârime</p><p><br></p>\n<p><b>Ülker yıldız niçin kalkmaz dumanın</b></p>\n<p><b>Dertli yıldız niçin gitmez ateşin merâkın</b></p>\n<p class=\"bos\"></p>\n<p>Namlı da namlı yükseklerde karın var</p>\n<p>Alçağında mor sümbüllü bağın var</p>\n<p>Şimdi duydum benden başka yârin var&nbsp;</p><p><br></p><p><b>Ülker yıldız ..</b></p>",
+  "sozler_duz": "Yıldız dağı işte de geldim yanına\n\nBir teselli versene garip canıma\n\nSalıver gideyim de nazlı yârime\n\nÜlker yıldız niçin kalkmaz dumanın\n\nDertli yıldız niçin gitmez ateşin merâkın\n\nNamlı da namlı yükseklerde karın var\n\nAlçağında mor sümbüllü bağın var\n\nŞimdi duydum benden başka yârin var \n\nÜlker yıldız ..",
   "meta": {
     "yore": "ÜSKÜP",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "Ali Pedük Coşkun - Süleyman Taşlıyük",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ÜSKÜP",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Ali Pedük Coşkun - Süleyman Taşlıyük"
   },
   "sistem": {
     "eski_id": 28,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T12:17:44.947Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
