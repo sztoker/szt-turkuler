@@ -1,26 +1,13 @@
 {
   "id": "o-yar-gelir",
   "baslik": "O Yar Gelir_",
-  "sozler_html": "<p>O Yar Gelir Yazıya Bana Gül Olur Yar YarYüzün Görsem Tutulur Dilim Lal Olur YarAşka Düşen Divane Gezer Deli Olur Yar YarEvlerine Vara Gelede Usandım Yar YarEl Kızını Ben Kendime Yar Sandım Yar YarYüreğime Hançer De Vurdu Gül Sandım Yar YarMezarımı Derinde Kazın Dar Olsun Yar YarAltı Lale Üstü De Sümbül Bağ Olsun Yar YarBen Ölürsem Sevdiceğim Sağ Olsun Yar Yar</p>",
-  "sozler_duz": "O Yar Gelir Yazıya Bana Gül Olur Yar YarYüzün Görsem Tutulur Dilim Lal Olur YarAşka Düşen Divane Gezer Deli Olur Yar YarEvlerine Vara Gelede Usandım Yar YarEl Kızını Ben Kendime Yar Sandım Yar YarYüreğime Hançer De Vurdu Gül Sandım Yar YarMezarımı Derinde Kazın Dar Olsun Yar YarAltı Lale Üstü De Sümbül Bağ Olsun Yar YarBen Ölürsem Sevdiceğim Sağ Olsun Yar Yar",
-  "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ruhi Su",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>O Yar Gelir Yazıya Bana</p><p>&nbsp;Gül Olur Yar Yar</p><p>Yüzün Görsem Tutulur Dilim&nbsp;</p><p>Lal Olur Yar</p><p><br></p><p>Aşka Düşen Divane Gezer&nbsp;</p><p>Deli Olur Yar Yar</p><p>Evlerine Vara Gelede&nbsp;</p><p>Usandım Yar Yar</p><p>El Kızını Ben Kendime&nbsp;</p><p>Yar Sandım Yar Yar</p><p>Yüreğime Hançer De Vurdu</p><p>&nbsp;Gül Sandım Yar Yar</p><p>Mezarımı Derinde Kazın&nbsp;</p><p>Dar Olsun Yar Yar</p><p>Altı Lale Üstü De Sümbül&nbsp;</p><p>Bağ Olsun Yar Yar</p><p>Ben Ölürsem Sevdiceğim</p><p>Sağ Olsun Yar Yar</p>",
+  "sozler_duz": "O Yar Gelir Yazıya Bana\n\n Gül Olur Yar Yar\n\nYüzün Görsem Tutulur Dilim \n\nLal Olur Yar\n\nAşka Düşen Divane Gezer \n\nDeli Olur Yar Yar\n\nEvlerine Vara Gelede \n\nUsandım Yar Yar\n\nEl Kızını Ben Kendime \n\nYar Sandım Yar Yar\n\nYüreğime Hançer De Vurdu\n\n Gül Sandım Yar Yar\n\nMezarımı Derinde Kazın \n\nDar Olsun Yar Yar\n\nAltı Lale Üstü De Sümbül \n\nBağ Olsun Yar Yar\n\nBen Ölürsem Sevdiceğim\n\nSağ Olsun Yar Yar",
+  "meta": {},
   "sistem": {
     "eski_id": 6063,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T10:20:29.181Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
