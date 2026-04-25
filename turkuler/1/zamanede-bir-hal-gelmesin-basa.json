@@ -1,26 +1,16 @@
 {
   "id": "zamanede-bir-hal-gelmesin-basa",
   "baslik": "ZAMANEDE BİR HAL GELMESİN BAŞA",
-  "sozler_html": "<p>Zamanede bir hal gelmesin başa</p>\n<p>Ahdı bütün sadık bir yar kalmamış</p>\n<p>Efendim, tabibim, cananım</p>\n<p>Kalleş yar olana dost demem haşa</p>\n<p>N'olacak muhannet meydan görmemiş</p>\n<p class=\"bos\"></p>\n<p>Ben bir yar isterem derun-u dilden</p>\n<p>Sarfede varını geldikçe elden</p>\n<p>Efendim, tabibim, cananım</p>\n<p>Beni setreyleye abudan elden</p>\n<p>Her yüze gülen yar olmuş olmamış</p>\n<p class=\"bos\"></p>\n<p>Hüseyin beyhude ah etme naçar</p>\n<p>Bir kapı örterse birini açar</p>\n<p>Efendim, tabibim, cananım</p>\n<p>Buna dünya derler hepisi geçer</p>\n<p>Hangi günü gördün akşam olmamış</p>",
-  "sozler_duz": "Zamanede bir hal gelmesin başa Ahdı bütün sadık bir yar kalmamış Efendim, tabibim, cananım Kalleş yar olana dost demem haşa N'olacak muhannet meydan görmemiş Ben bir yar isterem derun-u dilden Sarfede varını geldikçe elden Efendim, tabibim, cananım Beni setreyleye abudan elden Her yüze gülen yar olmuş olmamış Hüseyin beyhude ah etme naçar Bir kapı örterse birini açar Efendim, tabibim, cananım Buna dünya derler hepisi geçer Hangi günü gördün akşam olmamış",
+  "sozler_html": "<p>Zamanede bir hal gelmesin başa</p>\n<p>Ahdı bütün sadık bir yar kalmamış</p>\n<p>Efendim, tabibim, cananım</p>\n<p>Kalleş yar olana dost demem haşa</p>\n<p><b>N'olacak muhannet meydan görmemiş</b></p>\n<p class=\"bos\"></p>\n<p>Ben bir yar isterem derun-u dilden</p>\n<p>Sarfede varını geldikçe elden</p>\n<p>Efendim, tabibim, cananım</p>\n<p>Beni setreyleye abudan elden</p>\n<p><b>Her yüze gülen yar olmuş olmamış</b></p>\n<p class=\"bos\"></p>\n<p>Hüseyin beyhude ah etme naçar</p>\n<p>Bir kapı örterse birini açar</p>\n<p>Efendim, tabibim, cananım</p>\n<p>Buna dünya derler hepisi geçer</p>\n<p><b>Hangi günü gördün akşam olmamış</b></p>",
+  "sozler_duz": "Zamanede bir hal gelmesin başa\n\nAhdı bütün sadık bir yar kalmamış\n\nEfendim, tabibim, cananım\n\nKalleş yar olana dost demem haşa\n\nN'olacak muhannet meydan görmemiş\n\nBen bir yar isterem derun-u dilden\n\nSarfede varını geldikçe elden\n\nEfendim, tabibim, cananım\n\nBeni setreyleye abudan elden\n\nHer yüze gülen yar olmuş olmamış\n\nHüseyin beyhude ah etme naçar\n\nBir kapı örterse birini açar\n\nEfendim, tabibim, cananım\n\nBuna dünya derler hepisi geçer\n\nHangi günü gördün akşam olmamış",
   "meta": {
-    "yore": "Kul Hüseyin",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "kaynak_kisi": "Kul Hüseyin",
+    "soyleyenler": "Ruhi Su, Deniz Türkan"
   },
   "sistem": {
     "eski_id": 5065,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T11:47:46.220Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
