@@ -1,26 +1,15 @@
 {
   "id": "nacaram",
   "baslik": "NAÇARAM",
-  "sozler_html": "<p>Ezizinem dolan gel  /  Gülüm derde dolan gel</p>\n<p>Namerde boyun eğme  /  Get gurbette dolan gel</p>\n<p>Naçaram men naçaram  /  Bağlı kapı  açaram</p>\n<p>Yar gözün yaşlı görsem  /  Baş götürüp kaçaram</p>\n<p class=\"bos\"></p>\n<p>Dolanar geçer zaman  /  Felek vermir bir aman</p>\n<p>Ne dosta itibar ne yarda ahde peyman / Naçaram ...</p>",
-  "sozler_duz": "Ezizinem dolan gel / Gülüm derde dolan gel Namerde boyun eğme / Get gurbette dolan gel Naçaram men naçaram / Bağlı kapı açaram Yar gözün yaşlı görsem / Baş götürüp kaçaram Dolanar geçer zaman / Felek vermir bir aman Ne dosta itibar ne yarda ahde peyman / Naçaram ...",
+  "sozler_html": "<p>Ezizinem dolan gel&nbsp;</p><p>Gülüm derde dolan gel</p>\n<p>Namerde boyun eğme&nbsp;</p><p>Get gurbette dolan gel</p><p><br></p>\n<p><b>Naçaram men naçaram&nbsp;</b></p><p><b>Bağlı kapı  açaram</b></p>\n<p><b>Yar gözün yaşlı görsem&nbsp;</b></p><p><b>Baş götürüp kaçaram</b></p>\n<p class=\"bos\"></p>\n<p>Dolanar geçer zaman&nbsp;</p><p>Felek vermir bir aman</p>\n<p>Ne dosta itibar var</p><p>ne yarda ahde peyman&nbsp;</p><p><br></p><p><b>Naçaram ...</b></p>",
+  "sozler_duz": "Ezizinem dolan gel \n\nGülüm derde dolan gel\n\nNamerde boyun eğme \n\nGet gurbette dolan gel\n\nNaçaram men naçaram \n\nBağlı kapı açaram\n\nYar gözün yaşlı görsem \n\nBaş götürüp kaçaram\n\nDolanar geçer zaman \n\nFelek vermir bir aman\n\nNe dosta itibar var\n\nne yarda ahde peyman \n\nNaçaram ...",
   "meta": {
-    "yore": "AZERİ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AZERİ",
-    "aciklama": ""
+    "yore": "AZERİ"
   },
   "sistem": {
     "eski_id": 1058,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T10:32:29.844Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
