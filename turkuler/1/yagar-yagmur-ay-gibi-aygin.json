@@ -1,26 +1,17 @@
 {
   "id": "yagar-yagmur-ay-gibi-aygin",
   "baslik": "YAĞAR YAĞMUR   ( AY GİBİ AYGIN )",
-  "sozler_html": "<p>Yağar yağmur / yer yaş olur -efem (2</p>\n<p>Uçan da kuşlar  –bidanem- sarhoş olur</p>\n<p>Bade içen / bir hoş olur -efem</p>\n<p>Ay gibi (ah gidi) baygın –baygın- güzelim yar olaydın</p>\n<p>Kokulacek –bidanem- yar olaydın</p>\n<p class=\"bos\"></p>\n<p>Yağar yağmur kirsesine -efem</p>\n<p>Avrupa dökmüş -güzelim- ensesine</p>\n<p>Ben bilirim (giderim) yar sesine -efem (2-aman / Ay gibi ...</p>",
-  "sozler_duz": "Yağar yağmur / yer yaş olur -efem (2 Uçan da kuşlar –bidanem- sarhoş olur Bade içen / bir hoş olur -efem Ay gibi (ah gidi) baygın –baygın- güzelim yar olaydın Kokulacek –bidanem- yar olaydın Yağar yağmur kirsesine -efem Avrupa dökmüş -güzelim- ensesine Ben bilirim (giderim) yar sesine -efem (2-aman / Ay gibi ...",
+  "sozler_html": "<p>Yağar yağmur / yer yaş olur -efem (2</p>\n<p>Uçan da kuşlar  –bidanem- sarhoş olur</p>\n<p>Bade içen / bir hoş olur -efem</p><p><br></p>\n<p><b>Ay gibi (ah gidi) baygın –baygın-&nbsp;</b></p><p><b>Güzelim yar olaydın</b></p>\n<p><b>Kokulacek –bidanem- yar olaydın</b></p>\n<p class=\"bos\"></p>\n<p>Yağar yağmur kirsesine -efem</p>\n<p>Avrupa dökmüş -güzelim- ensesine</p>\n<p>Ben bilirim (giderim) yar sesine -efem (2-aman /</p><p><br></p><p><b>Ay gibi ...</b></p>",
+  "sozler_duz": "Yağar yağmur / yer yaş olur -efem (2\n\nUçan da kuşlar –bidanem- sarhoş olur\n\nBade içen / bir hoş olur -efem\n\nAy gibi (ah gidi) baygın –baygın- \n\nGüzelim yar olaydın\n\nKokulacek –bidanem- yar olaydın\n\nYağar yağmur kirsesine -efem\n\nAvrupa dökmüş -güzelim- ensesine\n\nBen bilirim (giderim) yar sesine -efem (2-aman /\n\nAy gibi ...",
   "meta": {
-    "yore": "EGE",
-    "turu": "",
-    "turu2": "",
+    "yore": "Tavas",
     "derleyen": "Talip ÖZKAN",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "EGE     D : Talip ÖZKAN",
-    "aciklama": ""
+    "kaynak_kisi": "zabıtçı mehmet oral"
   },
   "sistem": {
     "eski_id": 1271,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T14:24:14.164Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
