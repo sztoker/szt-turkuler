@@ -1,26 +1,15 @@
 {
   "id": "yuksek-yuksek-tepelere",
   "baslik": "YÜKSEK YÜKSEK TEPELERE",
-  "sozler_html": "<p>Yüksek yüksek tepelere ev kurmasınlar</p>\n<p>Aşrı aşrı memlekete kız vermesinler</p>\n<p>Annesinin bir tanesini hor görmesinler</p>\n<p>Uçan da kuşlara malum olsun / Ben annemi özledim</p>\n<p>Hem annemi hem babamı / Ben köyümü özledim</p>\n<p class=\"bos\"></p>\n<p>Babamın bir atı olsa binse de gelse</p>\n<p>Annemin yelkeni olsa açsa da gelse</p>\n<p>Kardeşlerim yollarımı bilse de gelse / Uçan da ...</p>",
-  "sozler_duz": "Yüksek yüksek tepelere ev kurmasınlar Aşrı aşrı memlekete kız vermesinler Annesinin bir tanesini hor görmesinler Uçan da kuşlara malum olsun / Ben annemi özledim Hem annemi hem babamı / Ben köyümü özledim Babamın bir atı olsa binse de gelse Annemin yelkeni olsa açsa da gelse Kardeşlerim yollarımı bilse de gelse / Uçan da ...",
+  "sozler_html": "<p>Yüksek yüksek tepelere ev kurmasınlar</p>\n<p>Aşrı aşrı memlekete kız vermesinler</p>\n<p>Annesinin bir tanesini hor görmesinler</p>\n<p><br></p><p><b>Uçan da kuşlara malum olsun&nbsp;</b></p><p><b>Ben annemi özledim</b></p>\n<p><b>Hem annemi hem babamı&nbsp;</b></p><p><b>Ben köyümü özledim</b></p>\n<p class=\"bos\"></p>\n<p>Babamın bir atı olsa binse de gelse</p>\n<p>Annemin yelkeni olsa açsa da gelse</p>\n<p>Kardeşlerim yollarımı bilse de gelse&nbsp;</p><p><br></p><p>Uçan da kuşlara...</p>",
+  "sozler_duz": "Yüksek yüksek tepelere ev kurmasınlar\n\nAşrı aşrı memlekete kız vermesinler\n\nAnnesinin bir tanesini hor görmesinler\n\nUçan da kuşlara malum olsun \n\nBen annemi özledim\n\nHem annemi hem babamı \n\nBen köyümü özledim\n\nBabamın bir atı olsa binse de gelse\n\nAnnemin yelkeni olsa açsa da gelse\n\nKardeşlerim yollarımı bilse de gelse \n\nUçan da kuşlara...",
   "meta": {
-    "yore": "EDİRNE",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "EDİRNE",
-    "aciklama": ""
+    "yore": "EDİRNE"
   },
   "sistem": {
     "eski_id": 145,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T11:51:33.459Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
