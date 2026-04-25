@@ -2,25 +2,16 @@
   "id": "ziyam-camligin-basinda-tuter-bir",
   "baslik": "ZİYAM (Çamlığın başında tüter bir ...)",
   "sozler_html": "<p>Çamlığın başında tüter bir tütün</p>\n<p>Acı çekmeyenin yüreği bütün    {2</p>\n<p>Ziyamın atını pazara tutun</p>\n<p>Gelen geçen Ziyam ölmüş desinler  {2</p>\n<p>At üstünde kuşlar gibi dönen yar</p>\n<p>Kendi gidip ahbapları kalan yar  {2</p>\n<p class=\"bos\"></p>\n<p>Benim yarim yaylalarda oturur</p>\n<p>Ak ellerin soğuk suya batırır</p>\n<p>Demedim mi nazlı yarim ben sana</p>\n<p>Çok muhabbet tez ayrılık getirir / At üstünde...</p>",
-  "sozler_duz": "Çamlığın başında tüter bir tütün Acı çekmeyenin yüreği bütün {2 Ziyamın atını pazara tutun Gelen geçen Ziyam ölmüş desinler {2 At üstünde kuşlar gibi dönen yar Kendi gidip ahbapları kalan yar {2 Benim yarim yaylalarda oturur Ak ellerin soğuk suya batırır Demedim mi nazlı yarim ben sana Çok muhabbet tez ayrılık getirir / At üstünde...",
+  "sozler_duz": "Çamlığın başında tüter bir tütün\n\nAcı çekmeyenin yüreği bütün {2\n\nZiyamın atını pazara tutun\n\nGelen geçen Ziyam ölmüş desinler {2\n\nAt üstünde kuşlar gibi dönen yar\n\nKendi gidip ahbapları kalan yar {2\n\nBenim yarim yaylalarda oturur\n\nAk ellerin soğuk suya batırır\n\nDemedim mi nazlı yarim ben sana\n\nÇok muhabbet tez ayrılık getirir / At üstünde...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
+    "yore": "Akdağmadeni",
     "derleyen": "Nida Tüfekçi",
-    "kaynak_kisi": "Nida Tüfekçi",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Nida Tüfekçi"
   },
   "sistem": {
     "eski_id": 38,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T11:43:11.784Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
