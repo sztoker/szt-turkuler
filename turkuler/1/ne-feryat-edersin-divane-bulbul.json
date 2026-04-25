@@ -2,25 +2,18 @@
   "id": "ne-feryat-edersin-divane-bulbul",
   "baslik": "NE FERYAT EDERSİN DİVANE BÜLBÜL",
   "sozler_html": "<p>Ne feryat edersin divane bülbül</p>\n<p>Senin bu feryadın –anam- gülşene kalsın</p>\n<p>Bu dünyada eremezsen murada</p>\n<p>Huzur-u mahşerde –anam- divana kalsın</p>\n<p class=\"bos\"></p>\n<p>Nesin methedeyim bir kaş-ı kare</p>\n<p>Şu sineme açtı –anam- onulmaz yare</p>\n<p>Dünya tabip gelse derdime çare</p>\n<p>Derdimin dermanı –anam- Lokman’a kalsın</p>\n<p class=\"bos\"></p>\n<p>Bir can için geçtim can-ı serimden</p>\n<p>Vücudum kül oldu –anam- aşkın narından</p>\n<p>Emrah buse ister nazlı yarinden</p>\n<p>Bu bayram olmazsa –anam- kurbana kalsın</p>",
-  "sozler_duz": "Ne feryat edersin divane bülbül Senin bu feryadın –anam- gülşene kalsın Bu dünyada eremezsen murada Huzur-u mahşerde –anam- divana kalsın Nesin methedeyim bir kaş-ı kare Şu sineme açtı –anam- onulmaz yare Dünya tabip gelse derdime çare Derdimin dermanı –anam- Lokman’a kalsın Bir can için geçtim can-ı serimden Vücudum kül oldu –anam- aşkın narından Emrah buse ister nazlı yarinden Bu bayram olmazsa –anam- kurbana kalsın",
+  "sozler_duz": "Ne feryat edersin divane bülbül\n\nSenin bu feryadın –anam- gülşene kalsın\n\nBu dünyada eremezsen murada\n\nHuzur-u mahşerde –anam- divana kalsın\n\nNesin methedeyim bir kaş-ı kare\n\nŞu sineme açtı –anam- onulmaz yare\n\nDünya tabip gelse derdime çare\n\nDerdimin dermanı –anam- Lokman’a kalsın\n\nBir can için geçtim can-ı serimden\n\nVücudum kül oldu –anam- aşkın narından\n\nEmrah buse ister nazlı yarinden\n\nBu bayram olmazsa –anam- kurbana kalsın",
   "meta": {
     "yore": "ELAZIĞ",
     "turu": "1",
-    "turu2": "1",
     "derleyen": "Ahmet Yamacı",
     "kaynak_kisi": "Suat Albayrak",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "La",
-    "diger_bilgiler": "ELAZIĞ (Emrah)",
-    "aciklama": ""
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 127,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T10:23:58.689Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
