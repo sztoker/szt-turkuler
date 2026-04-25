@@ -1,26 +1,19 @@
 {
   "id": "turnam-gelir-bizim-elden",
-  "baslik": "Turnam Gelir Bizim Elden_",
-  "sozler_html": "<p>Turnam Gelir Bizim EldenYeni Kalkmış Ağır GüldenN’ Olur Konuş Bizim DildenÜç Telli Dört Telli Beş Telli TurnamSen Olmaz İsen Buralarda DurmamSen Olmaz İsen Ben Sensiz OlmamTurnam Hey Turnam Hey Yaralı TurnamO Karalı Gözler Haralı TurnamTurnam Arşta Pervaz İleİn Düzgünüm Tavaf EyleN’ Olur Aşkı Dilden SöyleÜç Telli Dört Telli Beş Telli TurnamSen Olmaz İsen Buralarda DurmamSen Olmaz İsen Ben Sensiz OlmamTurnam Hey Turnam Hey Yaralı TurnamO Karalı Gözler Haralı TurnamSulari'yi Avcı SanmaSakin Kara Tasa KonmaBizim Yaylalardan İnmeÜç Telli Dört Telli Beş Telli TurnamSen Olmaz İsen Buralarda DurmamSen Olmaz İsen Ben Sensiz OlmamTurnam Hey Turnam Hey Yaralı TurnamO Karalı Gözler Haralı Turnam</p>",
-  "sozler_duz": "Turnam Gelir Bizim EldenYeni Kalkmış Ağır GüldenN’ Olur Konuş Bizim DildenÜç Telli Dört Telli Beş Telli TurnamSen Olmaz İsen Buralarda DurmamSen Olmaz İsen Ben Sensiz OlmamTurnam Hey Turnam Hey Yaralı TurnamO Karalı Gözler Haralı TurnamTurnam Arşta Pervaz İleİn Düzgünüm Tavaf EyleN’ Olur Aşkı Dilden SöyleÜç Telli Dört Telli Beş Telli TurnamSen Olmaz İsen Buralarda DurmamSen Olmaz İsen Ben Sensiz OlmamTurnam Hey Turnam Hey Yaralı TurnamO Karalı Gözler Haralı TurnamSulari'yi Avcı SanmaSakin Kara Tasa KonmaBizim Yaylalardan İnmeÜç Telli Dört Telli Beş Telli TurnamSen Olmaz İsen Buralarda DurmamSen Olmaz İsen Ben Sensiz OlmamTurnam Hey Turnam Hey Yaralı TurnamO Karalı Gözler Haralı Turnam",
+  "baslik": "TURNAM GELİR BİZİM ELDEN",
+  "sozler_html": "<p>Turnam gelir bizim elden</p><p>Yeni kalkmış ağır gülden</p><p>N’ olur konuş bizim dilden</p><p>&nbsp;</p><p><b>Üç telli dört telli beş telli\nturnam</b></p><p><b>Sen olmaz isen buralarda durmam</b></p><p><b>Sen olmaz isen ben sensiz olmam</b></p><p><b>Turnam hey turnam hey yaralı\nturnam</b></p><p><b>O karalı gözler haralı turnam</b></p><p>&nbsp;</p><p>Turnam arşta pervaz ile</p><p>İn düzgünüm tavaf eyle</p><p>N’ olur aşkı dilden söyle</p><p>&nbsp;</p><p><b>Üç telli ...</b></p><p>&nbsp;</p><p>Sulari'yi avcı sanma</p><p>Sakin kara tasa konma</p><p>Bizim yaylalardan inme</p><p>&nbsp;</p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p><b>Üç telli ...</b></p>",
+  "sozler_duz": "Turnam gelir bizim elden\n\nYeni kalkmış ağır gülden\n\nN’ olur konuş bizim dilden\n\n \n\nÜç telli dört telli beş telli turnam\n\nSen olmaz isen buralarda durmam\n\nSen olmaz isen ben sensiz olmam\n\nTurnam hey turnam hey yaralı turnam\n\nO karalı gözler haralı turnam\n\n \n\nTurnam arşta pervaz ile\n\nİn düzgünüm tavaf eyle\n\nN’ olur aşkı dilden söyle\n\n \n\nÜç telli ...\n\n \n\nSulari'yi avcı sanma\n\nSakin kara tasa konma\n\nBizim yaylalardan inme\n\n \n\nÜç telli ...",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aşık Davut Sulari",
-    "aciklama": ""
+    "yore": "Erzincan/Tercan",
+    "turu": "THM",
+    "derleyen": "TRT MÜZİK DAİ. BŞK.",
+    "kaynak_kisi": "Aşık Davut Sulari",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6468,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T18:55:02.896Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
