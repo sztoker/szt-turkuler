@@ -1,26 +1,16 @@
 {
   "id": "mugla-zeybegi-ali-da-verin",
   "baslik": "MUĞLA ZEYBEĞİ ( ALI DA VERİN )",
-  "sozler_html": "<p>Alıda verin benim barudunan saçmama           (1</p>\n<p>Üç gün kaldı şu Muğla'dan kaçmama           (2</p>\n<p>Gurbet de sebep oldu yardan ayrı düşmeme      (1</p>\n<p class=\"bos\"></p>\n<p>Aman da aman yaylada bülbül ötmesin</p>\n<p>Benim de yarim gurbetlere ( şu Muğla’dan ) gitmesin</p>\n<p class=\"bos\"></p>\n<p>Aman da karanfili saksılarda kuruttum (büyüttüm)</p>\n<p>Suyunu da billurlarda duru(l)ttum</p>\n<p>Aman da ben yarimi görmeyeli unuttum / Aman da aman...</p>",
-  "sozler_duz": "Alıda verin benim barudunan saçmama (1 Üç gün kaldı şu Muğla'dan kaçmama (2 Gurbet de sebep oldu yardan ayrı düşmeme (1 Aman da aman yaylada bülbül ötmesin Benim de yarim gurbetlere ( şu Muğla’dan ) gitmesin Aman da karanfili saksılarda kuruttum (büyüttüm) Suyunu da billurlarda duru(l)ttum Aman da ben yarimi görmeyeli unuttum / Aman da aman...",
+  "sozler_html": "<p>Alıda verin benim barudunan saçmama           (1</p>\n<p>Üç gün kaldı şu Muğla'dan kaçmama           (2</p>\n<p>Gurbet de sebep oldu yardan ayrı düşmeme      (1</p>\n<p class=\"bos\"></p>\n<p><b>Aman da aman&nbsp;</b></p><p><b>Yaylada bülbül ötmesin</b></p>\n<p><b>Benim de yarim&nbsp;</b></p><p><b>Gurbetlere ( şu Muğla’dan ) gitmesin</b></p>\n<p class=\"bos\"></p>\n<p>Aman da karanfili saksılarda kuruttum (büyüttüm)</p>\n<p>Suyunu da billurlarda duru(l)ttum</p>\n<p>Aman da ben yarimi görmeyeli unuttum&nbsp;</p><p><br></p><p><b>Aman da aman...</b></p>",
+  "sozler_duz": "Alıda verin benim barudunan saçmama (1\n\nÜç gün kaldı şu Muğla'dan kaçmama (2\n\nGurbet de sebep oldu yardan ayrı düşmeme (1\n\nAman da aman \n\nYaylada bülbül ötmesin\n\nBenim de yarim \n\nGurbetlere ( şu Muğla’dan ) gitmesin\n\nAman da karanfili saksılarda kuruttum (büyüttüm)\n\nSuyunu da billurlarda duru(l)ttum\n\nAman da ben yarimi görmeyeli unuttum \n\nAman da aman...",
   "meta": {
     "yore": "MUĞLA",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "MUĞLA     Bilgin Galip – Raziye Gülten",
-    "aciklama": ""
+    "kaynak_kisi": "Bilgin Galip – Raziye Gülten"
   },
   "sistem": {
     "eski_id": 1052,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T10:42:40.594Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
