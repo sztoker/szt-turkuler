@@ -1,26 +1,16 @@
 {
   "id": "mutlu-olmak-varken",
   "baslik": "MUTLU OLMAK VARKEN",
-  "sozler_html": "<p>Mutlu olmak varken bu dünyada (2</p>\n<p>Geceler geldi dayandı kapımıza (2</p>\n<p>Olduk acımızla –acımızla- sarmaş dolaş (2</p>\n<p>Bekledik düşümüzle – düşümüzle-  koyun koyuna (2</p>\n<p>Mutlu olmak varken bu dünyada (2</p>\n<p>Geceler geldi dayandı kapımıza (2 (2</p>",
-  "sozler_duz": "Mutlu olmak varken bu dünyada (2 Geceler geldi dayandı kapımıza (2 Olduk acımızla –acımızla- sarmaş dolaş (2 Bekledik düşümüzle – düşümüzle- koyun koyuna (2 Mutlu olmak varken bu dünyada (2 Geceler geldi dayandı kapımıza (2 (2",
+  "sozler_html": "<p>Mutlu olmak varken bu dünyada (2</p>\n<p>Geceler geldi dayandı kapımıza (2</p><p><br></p>\n<p>Olduk acımızla –acımızla- sarmaş dolaş (2</p>\n<p>Bekledik düşümüzle – düşümüzle-  koyun koyuna (2</p><p><br></p>\n<p>Mutlu olmak varken bu dünyada (2</p>\n<p>Geceler geldi dayandı kapımıza (2 (2</p>",
+  "sozler_duz": "Mutlu olmak varken bu dünyada (2\n\nGeceler geldi dayandı kapımıza (2\n\nOlduk acımızla –acımızla- sarmaş dolaş (2\n\nBekledik düşümüzle – düşümüzle- koyun koyuna (2\n\nMutlu olmak varken bu dünyada (2\n\nGeceler geldi dayandı kapımıza (2 (2",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "A.Kadir",
-    "muzik": "Ezginin Günlüğü",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S: A.Kadir          M: Ezginin Günlüğü",
-    "aciklama": ""
+    "muzik": "Ezginin Günlüğü"
   },
   "sistem": {
     "eski_id": 1056,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-25T10:33:02.265Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
