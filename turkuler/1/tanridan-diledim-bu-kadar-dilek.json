@@ -1,8 +1,8 @@
 {
   "id": "tanridan-diledim-bu-kadar-dilek",
   "baslik": "TANRIDAN DİLEDİM BU KADAR DİLEK",
-  "sozler_html": "<p>Tanrıdan diledim bu kadar dilek –aman aman bu kadar dilek     (2O yarin yüzünü bir daha gör(m)ek –aman aman bir daha görmek (2Bana kısmet değil dizinde yatmak –aman aman dizinde yatmak (2Dizin de yatıp da yüzüne bakmak –aman aman yüzüne bakmak (2Gel anam anam yanıma yazık kıyma canımaBir kara kaşın bir kara gözün değer dünya malına (2Ayrılık hasreti canıma yetti / Kalmadı gözümün yaşları dindi                          ( Ağladı gözlerim yaşlarım bitti)Bağımızda güzel sümbül gül bitti  / Eridi yüreğim tükendi bitti</p>",
-  "sozler_duz": "Tanrıdan diledim bu kadar dilek –aman aman bu kadar dilek (2O yarin yüzünü bir daha gör(m)ek –aman aman bir daha görmek (2Bana kısmet değil dizinde yatmak –aman aman dizinde yatmak (2Dizin de yatıp da yüzüne bakmak –aman aman yüzüne bakmak (2Gel anam anam yanıma yazık kıyma canımaBir kara kaşın bir kara gözün değer dünya malına (2Ayrılık hasreti canıma yetti / Kalmadı gözümün yaşları dindi ( Ağladı gözlerim yaşlarım bitti)Bağımızda güzel sümbül gül bitti / Eridi yüreğim tükendi bitti",
+  "sozler_html": "<p>Tanrıdan diledim bu kadar dilek –aman aman bu kadar dilek     (2</p><p>O yarin yüzünü bir daha gör(m)ek –aman aman bir daha görmek (2</p><p>Bana kısmet değil dizinde yatmak –aman aman dizinde yatmak (2</p><p>Dizin de yatıp da yüzüne bakmak –aman aman yüzüne bakmak (2</p><p><br></p><p><b>Gel anam anam yanıma&nbsp;</b></p><p><b>kıyma bu yazık&nbsp;canıma</b></p><p><b>Bir kara kaşın bir kara gözün</b></p><p><b>Değer dünya malına (2</b></p><p><br></p><p>Ayrılık hasreti canıma yetti&nbsp;</p><p>Kalmadı gözümün yaşları dindi&nbsp;</p><p>(Ağladı gözlerim yaşlarım bitti)</p><p>Bağımızda güzel sümbül gül bitti&nbsp;</p><p>Eridi yüreğim tükendi bitti</p><p><br></p><p>Gel anam anam...</p>",
+  "sozler_duz": "Tanrıdan diledim bu kadar dilek –aman aman bu kadar dilek (2\n\nO yarin yüzünü bir daha gör(m)ek –aman aman bir daha görmek (2\n\nBana kısmet değil dizinde yatmak –aman aman dizinde yatmak (2\n\nDizin de yatıp da yüzüne bakmak –aman aman yüzüne bakmak (2\n\nGel anam anam yanıma \n\nkıyma bu yazık canıma\n\nBir kara kaşın bir kara gözün\n\nDeğer dünya malına (2\n\nAyrılık hasreti canıma yetti \n\nKalmadı gözümün yaşları dindi \n\n(Ağladı gözlerim yaşlarım bitti)\n\nBağımızda güzel sümbül gül bitti \n\nEridi yüreğim tükendi bitti\n\nGel anam anam...",
   "meta": {
     "yore": "ERZİNCAN",
     "derleyen": "Salih Dündar"
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 6421,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T13:01:18.829Z",
+    "son_degisiklik": "2026-04-27T21:10:40.881Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
