@@ -1,26 +1,16 @@
 {
   "id": "seher-vakti-kalkan-kervan",
-  "baslik": "Seher Vakti Kalkan Kervan_",
-  "sozler_html": "<p>Seher Vakti Kalkan Kervanİniler De ZârılanırBir Güzele Düşen GönülÇiçeklenir KorulanırBahçenizde Güller BiterDalında Bülbüller ÖterEngel Gelir Bir Kal KatarOlan İşler GerilenirBülbül Geldi Kondu DalaBülbülden Hata Yok GüleEngel Bir Taş Atar GöleYüzen Ördek YaralanırPir Sultan Abdal GöçelimPir Elinden Bad'içelimİnkar Olandan Kaçalımİnkar Birgün Paralanır</p>",
-  "sozler_duz": "Seher Vakti Kalkan Kervanİniler De ZârılanırBir Güzele Düşen GönülÇiçeklenir KorulanırBahçenizde Güller BiterDalında Bülbüller ÖterEngel Gelir Bir Kal KatarOlan İşler GerilenirBülbül Geldi Kondu DalaBülbülden Hata Yok GüleEngel Bir Taş Atar GöleYüzen Ördek YaralanırPir Sultan Abdal GöçelimPir Elinden Bad'içelimİnkar Olandan Kaçalımİnkar Birgün Paralanır",
+  "baslik": "SEHER VAKTİ KALKAN KERVAN",
+  "sozler_html": "<p>Seher Vakti Kalkan Kervan</p><p>İniler De Zârılanır</p><p>Bir Güzele Düşen Gönül</p><p>Çiçeklenir Korulanır</p><p><br></p><p>Bahçenizde Güller Biter</p><p>Dalında Bülbüller Öter</p><p>Engel Gelir Bir Kal Katar</p><p>Olan İşler Gerilenir</p><p><br></p><p>Bülbül Geldi Kondu Dala</p><p>Bülbülden Hata Yok Güle</p><p>Engel Bir Taş Atar Göle</p><p>Yüzen Ördek Yaralanır</p><p><br></p><p>Pir Sultan Abdal Göçelim</p><p>Pir Elinden Bad'içelim</p><p>İnkar Olandan Kaçalım</p><p>İnkar Birgün Paralanır</p>",
+  "sozler_duz": "Seher Vakti Kalkan Kervan\n\nİniler De Zârılanır\n\nBir Güzele Düşen Gönül\n\nÇiçeklenir Korulanır\n\nBahçenizde Güller Biter\n\nDalında Bülbüller Öter\n\nEngel Gelir Bir Kal Katar\n\nOlan İşler Gerilenir\n\nBülbül Geldi Kondu Dala\n\nBülbülden Hata Yok Güle\n\nEngel Bir Taş Atar Göle\n\nYüzen Ördek Yaralanır\n\nPir Sultan Abdal Göçelim\n\nPir Elinden Bad'içelim\n\nİnkar Olandan Kaçalım\n\nİnkar Birgün Paralanır",
   "meta": {
     "yore": "Erzincan",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aşık Davut Sulari-Plaktan Yazıldı",
-    "aciklama": ""
+    "kaynak_kisi": "Aşık Davut Sulari"
   },
   "sistem": {
     "eski_id": 6241,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-27T14:13:56.305Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
