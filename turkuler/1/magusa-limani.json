@@ -2,25 +2,14 @@
   "id": "magusa-limani",
   "baslik": "MAĞUSA LİMANI",
   "sozler_html": "<p>Magusa limanı limandır liman (aman aman)</p>\n<p>Beni öldürende yoktur din iman</p>\n<p class=\"bos\"></p>\n<p><b> Uyan Alim uyan uyanmaz oldun</b></p>\n<p><b>Yedi bıçak yarasına dayanmaz oldun</b></p>\n<p class=\"bos\"></p>\n<p>İskeleden çıkdım yan basa basa (aman aman)</p>\n<p>Magusaya vardım kan kusa kusa</p>\n<p class=\"bos\"></p>\n<p><b>Uyan Alim uyan…</b></p>\n<p class=\"bos\"></p>\n<p>Magusa limanından aldılar beni (aman aman)</p>\n<p>Üç mil uzağına attılar beni</p>\n<p class=\"bos\"></p>\n<p><b>Uyan Alim uyan…</b></p>",
-  "sozler_duz": "Magusa limanı limandır liman (aman aman) Beni öldürende yoktur din iman Uyan Alim uyan uyanmaz oldun Yedi bıçak yarasına dayanmaz oldun İskeleden çıkdım yan basa basa (aman aman) Magusaya vardım kan kusa kusa Uyan Alim uyan… Magusa limanından aldılar beni (aman aman) Üç mil uzağına attılar beni Uyan Alim uyan…",
+  "sozler_duz": "Magusa limanı limandır liman (aman aman)\n\nBeni öldürende yoktur din iman\n\nUyan Alim uyan uyanmaz oldun\n\nYedi bıçak yarasına dayanmaz oldun\n\nİskeleden çıkdım yan basa basa (aman aman)\n\nMagusaya vardım kan kusa kusa\n\nUyan Alim uyan…\n\nMagusa limanından aldılar beni (aman aman)\n\nÜç mil uzağına attılar beni\n\nUyan Alim uyan…",
   "meta": {
-    "yore": "Kıbrıs",
-    "turu": "1",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "La - Re",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "yore": "Kıbrıs"
   },
   "sistem": {
     "eski_id": 4412,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-27T22:13:56.035Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
