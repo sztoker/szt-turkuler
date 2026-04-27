@@ -1,8 +1,8 @@
 {
   "id": "ugurlama-bu-kente-yalnizlik",
   "baslik": "UĞURLAMA (Bu kente yalnızlık ...)",
-  "sozler_html": "<p>Bu kente yalnızlık çöktüğü zaman</p><p>Uykusunda bir kuş ölür ecelsiz</p><p>Alıp da başını gitmek istersin</p><p>Karanlık sokaklar kör sağır dilsiz</p><p><br></p><p><b>Ey sevda kuşanıp yollara düşen</b></p><p><b>Bilesin bu yollar dağlar dolanır</b></p><p><b>Yare ulaşmadan düşersen eğer</b></p><p><b>Yarına sesinin yankısı kalır</b></p><p><br></p><p>Gecenin içinde gün aralanır</p><p>Yar sevdası ile yürek bilenir</p><p>Sızılı bir ırmak uğurlar seni</p><p>Su olup akarsın kır çiçekleri&nbsp;</p><p><br></p><p><b>Ey sevda ...</b></p>",
-  "sozler_duz": "Bu kente yalnızlık çöktüğü zaman\n\nUykusunda bir kuş ölür ecelsiz\n\nAlıp da başını gitmek istersin\n\nKaranlık sokaklar kör sağır dilsiz\n\nEy sevda kuşanıp yollara düşen\n\nBilesin bu yollar dağlar dolanır\n\nYare ulaşmadan düşersen eğer\n\nYarına sesinin yankısı kalır\n\nGecenin içinde gün aralanır\n\nYar sevdası ile yürek bilenir\n\nSızılı bir ırmak uğurlar seni\n\nSu olup akarsın kır çiçekleri \n\nEy sevda ...",
+  "sozler_html": "<p>Bu kente yalnızlık çöktüğü zaman</p><p>Uykusunda bir kuş ölür ecelsiz</p><p>Alıp da başını gitmek istersin</p><p>Karanlık sokaklar kör sağır dilsiz</p><p><br></p><p><b>Ey sevda kuşanıp yollara düşen</b></p><p><b>Bilesin bu yollar dağlar dolanır</b></p><p><b>Yare ulaşmadan düşersen eğer</b></p><p><b>Yarına sesinin yankısı kalır</b></p><p><br></p><p>Gecenin ucunda gün aralanır</p><p>Yar sevdası ile yürek bilenir</p><p>Sızılı bir ırmak uğurlar seni</p><p>Su olup akarsın kır çiçekleri&nbsp;</p><p><br></p><p><b>Ey sevda&nbsp;</b>kuşanıp<b>...</b></p>",
+  "sozler_duz": "Bu kente yalnızlık çöktüğü zaman\n\nUykusunda bir kuş ölür ecelsiz\n\nAlıp da başını gitmek istersin\n\nKaranlık sokaklar kör sağır dilsiz\n\nEy sevda kuşanıp yollara düşen\n\nBilesin bu yollar dağlar dolanır\n\nYare ulaşmadan düşersen eğer\n\nYarına sesinin yankısı kalır\n\nGecenin ucunda gün aralanır\n\nYar sevdası ile yürek bilenir\n\nSızılı bir ırmak uğurlar seni\n\nSu olup akarsın kır çiçekleri \n\nEy sevda kuşanıp...",
   "meta": {
     "turu": "Özgün",
     "soz": "İbrahim Karaca",
@@ -12,7 +12,7 @@
   "sistem": {
     "eski_id": 6485,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-25T18:59:11.137Z",
+    "son_degisiklik": "2026-04-27T22:20:19.371Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
