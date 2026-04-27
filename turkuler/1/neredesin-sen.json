@@ -1,26 +1,15 @@
 {
   "id": "neredesin-sen",
-  "baslik": "Neredesin Sen_",
-  "sozler_html": "<p>Şu Garip Halimden Bilen İşveli Nazlı,Gönlüm Hep Seni Arıyor Neredesin SenTatlı Dillim Güler Yüzlüm Ve Ceylan GözlümGönlüm Hep Seni Arıyor Neredesin Sen.Sinemde Gizli Yaramı Kimse BilmiyorHiç Bir Tabib Su Yarama Merhem OlmuyorBoynu Bükük Bir Garibim Yüzüm GülmüyorGönlüm Hep Seni Arıyor Neredesin Sen</p>",
-  "sozler_duz": "Şu Garip Halimden Bilen İşveli Nazlı,Gönlüm Hep Seni Arıyor Neredesin SenTatlı Dillim Güler Yüzlüm Ve Ceylan GözlümGönlüm Hep Seni Arıyor Neredesin Sen.Sinemde Gizli Yaramı Kimse BilmiyorHiç Bir Tabib Su Yarama Merhem OlmuyorBoynu Bükük Bir Garibim Yüzüm GülmüyorGönlüm Hep Seni Arıyor Neredesin Sen",
+  "baslik": "NEREDESİN SEN",
+  "sozler_html": "<p>Şu garip halimden\nbilen işveli nazlım<br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Göynüm hep seni arıyor neredesin sen</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Tatlı dillim güler yüzlüm ey caylan gözlüm</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Göynüm hep seni arıyor neredesin sen</span><br>\n<br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Ben ağlarsam ağlayıp gülersem gülen</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Bütün dertlerimi anlayıp göynümü bilen</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Sanki kalbimi bilerek yüzüme gülen</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Göynüm hep seni arıyor neredesin sen</span><br>\n<br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Sinemde gizli yaramı kimse bilmiyor</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Hiçbir tabip yarama merhem olmuyor</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Boynu bükük bir garibim yüzüm gülmüyor</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Göynüm hep seni arıyor neredesin sen</span><o:p></o:p></p>",
+  "sozler_duz": "Şu garip halimden bilen işveli nazlım\nGöynüm hep seni arıyor neredesin sen\nTatlı dillim güler yüzlüm ey caylan gözlüm\nGöynüm hep seni arıyor neredesin sen\n\nBen ağlarsam ağlayıp gülersem gülen\nBütün dertlerimi anlayıp göynümü bilen\nSanki kalbimi bilerek yüzüme gülen\nGöynüm hep seni arıyor neredesin sen\n\nSinemde gizli yaramı kimse bilmiyor\nHiçbir tabip yarama merhem olmuyor\nBoynu bükük bir garibim yüzüm gülmüyor\nGöynüm hep seni arıyor neredesin sen",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Neşet Ertaş",
-    "aciklama": ""
+    "kaynak_kisi": "Neşet Ertaş"
   },
   "sistem": {
     "eski_id": 6046,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-27T21:17:26.967Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
