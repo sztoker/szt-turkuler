@@ -4,14 +4,13 @@
   "sozler_html": "<p>Mevlam gör diyerek iki göz vermiş</p>\n<p>Bilmem ağlasam mı ağlamasam mı</p>\n<p>Dura dura bir sel oldum erenler</p>\n<p>Bilmem çağlasam mı çağlamasam mı</p>\n<p class=\"bos\"></p>\n<p>Yoksulun sırtından doyan doyana</p>\n<p>Bunu gören yürek nasıl dayana</p>\n<p>Yiğit muhtaç olmuş kuru soğana</p>\n<p>Bilmem söylesem mi söylemesem mi</p>\n<p class=\"bos\"></p>\n<p>Mahzuni Şerif'im dindir acını</p>\n<p>Bazen acılardan al ilacını al ilacını</p>\n<p>Pir Sultanlar gibi dar ağacını</p>\n<p>Bilmem boylasam mı boylamasam mı</p>",
   "sozler_duz": "Mevlam gör diyerek iki göz vermiş\n\nBilmem ağlasam mı ağlamasam mı\n\nDura dura bir sel oldum erenler\n\nBilmem çağlasam mı çağlamasam mı\n\nYoksulun sırtından doyan doyana\n\nBunu gören yürek nasıl dayana\n\nYiğit muhtaç olmuş kuru soğana\n\nBilmem söylesem mi söylemesem mi\n\nMahzuni Şerif'im dindir acını\n\nBazen acılardan al ilacını al ilacını\n\nPir Sultanlar gibi dar ağacını\n\nBilmem boylasam mı boylamasam mı",
   "meta": {
-    "soz": "Mahsuni",
-    "soyleyenler": "Mahsuni",
-    "karar": "La"
+    "soz": "Mahzuni",
+    "muzik": "Mahzuni"
   },
   "sistem": {
     "eski_id": 3640,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-27T20:55:27.903Z",
+    "son_degisiklik": "2026-04-27T23:01:34.006Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
