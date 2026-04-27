@@ -1,26 +1,17 @@
 {
   "id": "guzelligin-on-para-etmez",
   "baslik": "GÜZELLİĞİN ON PARA ETMEZ",
-  "sozler_html": "<p>Güzelliğin on par'etmez  /  Bu bendeki aşk olmasa</p>\n<p>Eylenecek yer bulamaz  /  Gönlümdeki köşk olmasa</p>\n<p class=\"bos\"></p>\n<p>Kim okurdu kim yazardı  /  Bu düğümü kim çözerdi</p>\n<p>Koyun kurt ile gezerdi  /  Fikir başka başk'olmasa</p>\n<p class=\"bos\"></p>\n<p>Tabirin sığmaz kaleme /  Derdin dermandır yareme</p>\n<p>İsmin yayılmaz aleme  /  Aşıklarda meşk olmasa</p>\n<p class=\"bos\"></p>\n<p>Senden aldım bu feryadı  /  Bu imiş dünyanın tadı</p>\n<p>Anılmazdı Veysel adı  /  O sana aşık olmasa</p>",
-  "sozler_duz": "Güzelliğin on par'etmez / Bu bendeki aşk olmasa Eylenecek yer bulamaz / Gönlümdeki köşk olmasa Kim okurdu kim yazardı / Bu düğümü kim çözerdi Koyun kurt ile gezerdi / Fikir başka başk'olmasa Tabirin sığmaz kaleme / Derdin dermandır yareme İsmin yayılmaz aleme / Aşıklarda meşk olmasa Senden aldım bu feryadı / Bu imiş dünyanın tadı Anılmazdı Veysel adı / O sana aşık olmasa",
+  "sozler_html": "<p>Güzelliğin on par'etmez&nbsp;</p><p>Bu bendeki aşk olmasa</p>\n<p>Eylenecek yer bulamaz&nbsp;</p><p>Gönlümdeki köşk olmasa</p>\n<p class=\"bos\"></p>\n<p>Kim okurdu kim yazardı&nbsp;</p><p>Bu düğümü kim çözerdi</p>\n<p>Koyun kurt ile gezerdi&nbsp;</p><p>Fikir başka başk'olmasa</p>\n<p class=\"bos\"></p>\n<p>Tabirin sığmaz kaleme&nbsp;</p><p>Derdin dermandır yareme</p>\n<p>İsmin yayılmaz aleme&nbsp;</p><p>Aşıklarda meşk olmasa</p>\n<p class=\"bos\"></p>\n<p>Senden aldım bu feryadı&nbsp;</p><p>Bu imiş dünyanın tadı</p>\n<p>Anılmazdı Veysel adı&nbsp;</p><p>O sana aşık olmasa</p>",
+  "sozler_duz": "Güzelliğin on par'etmez \n\nBu bendeki aşk olmasa\n\nEylenecek yer bulamaz \n\nGönlümdeki köşk olmasa\n\nKim okurdu kim yazardı \n\nBu düğümü kim çözerdi\n\nKoyun kurt ile gezerdi \n\nFikir başka başk'olmasa\n\nTabirin sığmaz kaleme \n\nDerdin dermandır yareme\n\nİsmin yayılmaz aleme \n\nAşıklarda meşk olmasa\n\nSenden aldım bu feryadı \n\nBu imiş dünyanın tadı\n\nAnılmazdı Veysel adı \n\nO sana aşık olmasa",
   "meta": {
     "yore": "ŞARKIŞLA/SİVAS",
-    "turu": "",
-    "turu2": "T",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Aşık Veysel",
-    "muzik": "Aşık Veysel",
-    "soyleyenler": "",
-    "repertuar": "2020_22",
-    "karar": "",
-    "diger_bilgiler": "ŞARKIŞLA / SİVAS",
-    "aciklama": ""
+    "muzik": "Aşık Veysel"
   },
   "sistem": {
     "eski_id": 199,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-27T21:51:23.562Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
