@@ -1,8 +1,8 @@
 {
   "id": "seher-vakti-kalkan-kervan",
   "baslik": "SEHER VAKTİ KALKAN KERVAN",
-  "sozler_html": "<p>Seher Vakti Kalkan Kervan</p><p>İniler De Zârılanır</p><p>Bir Güzele Düşen Gönül</p><p>Çiçeklenir Korulanır</p><p><br></p><p>Bahçenizde Güller Biter</p><p>Dalında Bülbüller Öter</p><p>Engel Gelir Bir Kal Katar</p><p>Olan İşler Gerilenir</p><p><br></p><p>Bülbül Geldi Kondu Dala</p><p>Bülbülden Hata Yok Güle</p><p>Engel Bir Taş Atar Göle</p><p>Yüzen Ördek Yaralanır</p><p><br></p><p>Pir Sultan Abdal Göçelim</p><p>Pir Elinden Bad'içelim</p><p>İnkar Olandan Kaçalım</p><p>İnkar Birgün Paralanır</p>",
-  "sozler_duz": "Seher Vakti Kalkan Kervan\n\nİniler De Zârılanır\n\nBir Güzele Düşen Gönül\n\nÇiçeklenir Korulanır\n\nBahçenizde Güller Biter\n\nDalında Bülbüller Öter\n\nEngel Gelir Bir Kal Katar\n\nOlan İşler Gerilenir\n\nBülbül Geldi Kondu Dala\n\nBülbülden Hata Yok Güle\n\nEngel Bir Taş Atar Göle\n\nYüzen Ördek Yaralanır\n\nPir Sultan Abdal Göçelim\n\nPir Elinden Bad'içelim\n\nİnkar Olandan Kaçalım\n\nİnkar Birgün Paralanır",
+  "sozler_html": "<p>Seher\nvakti kalkan kervan</p><p>İniler de zârılanır</p><p>Bir güzele düşen gönül</p><p>Çiçeklenir korulanır</p><p>&nbsp;</p><p>Bahçenizde güller biter</p><p>Dalında bülbüller öter</p><p>Engel gelir bir kal katar</p><p>Olan işler gerilenir</p><p>&nbsp;</p><p>Bülbül geldi kondu dala</p><p>Bülbülden hata yok güle</p><p>Engel bir taş atar göle</p><p>Yüzen ördek yaralanır</p><p>&nbsp;</p><p>Pir sultan abdal göçelim</p><p>Pir elinden bad'içelim</p><p>İnkar olandan kaçalım</p><p>İnkar birgün paralanır</p>",
+  "sozler_duz": "Seher vakti kalkan kervan\n\nİniler de zârılanır\n\nBir güzele düşen gönül\n\nÇiçeklenir korulanır\n\n \n\nBahçenizde güller biter\n\nDalında bülbüller öter\n\nEngel gelir bir kal katar\n\nOlan işler gerilenir\n\n \n\nBülbül geldi kondu dala\n\nBülbülden hata yok güle\n\nEngel bir taş atar göle\n\nYüzen ördek yaralanır\n\n \n\nPir sultan abdal göçelim\n\nPir elinden bad'içelim\n\nİnkar olandan kaçalım\n\nİnkar birgün paralanır",
   "meta": {
     "yore": "Erzincan",
     "kaynak_kisi": "Aşık Davut Sulari"
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 6241,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-27T14:13:56.305Z",
+    "son_degisiklik": "2026-04-27T14:20:07.289Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
