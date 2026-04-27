@@ -2,25 +2,17 @@
   "id": "altin-yuzugum-kirildi",
   "baslik": "ALTIN YÜZÜĞÜM KIRILDI",
   "sozler_html": "<p>Altın yüzüğüm kırıldı - ey</p>\n<p>Suya düştü su duruldu - ey</p>\n<p>Dediler yarin de gelmiş</p>\n<p>İnce de bellerim kırıldı</p>\n<p class=\"bos\"></p>\n<p><b>Tel tel tellerine </b></p>\n<p><b>Kurban olam dillerine - vay {2</b></p>\n<p class=\"bos\"></p>\n<p>Atımın da nalı yoktur</p>\n<p>Üzerinde çulu yoktur</p>\n<p>Gölbaşı'n da yolu yoktur</p>\n<p>Git gelemem emmim kızı</p>\n<p class=\"bos\"></p>\n<p><b>Tel tel tellerine...</b></p>\n<p class=\"bos\"></p>\n<p>Altınlarım n'ol edeyim</p>\n<p>Al hırkamı çul edeyim</p>\n<p>Gölbaşı'nı yol edeyim</p>\n<p>Ben gelemem emmim kızı</p>\n<p class=\"bos\"></p>\n<p><b>Tel tel tellerine...</b></p>",
-  "sozler_duz": "Altın yüzüğüm kırıldı - ey Suya düştü su duruldu - ey Dediler yarin de gelmiş İnce de bellerim kırıldı Tel tel tellerine Kurban olam dillerine - vay {2 Atımın da nalı yoktur Üzerinde çulu yoktur Gölbaşı'n da yolu yoktur Git gelemem emmim kızı Tel tel tellerine... Altınlarım n'ol edeyim Al hırkamı çul edeyim Gölbaşı'nı yol edeyim Ben gelemem emmim kızı Tel tel tellerine...",
+  "sozler_duz": "Altın yüzüğüm kırıldı - ey\n\nSuya düştü su duruldu - ey\n\nDediler yarin de gelmiş\n\nİnce de bellerim kırıldı\n\nTel tel tellerine\n\nKurban olam dillerine - vay {2\n\nAtımın da nalı yoktur\n\nÜzerinde çulu yoktur\n\nGölbaşı'n da yolu yoktur\n\nGit gelemem emmim kızı\n\nTel tel tellerine...\n\nAltınlarım n'ol edeyim\n\nAl hırkamı çul edeyim\n\nGölbaşı'nı yol edeyim\n\nBen gelemem emmim kızı\n\nTel tel tellerine...",
   "meta": {
     "yore": "Adıyaman",
-    "turu": "1",
-    "turu2": "T",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "Re",
-    "diger_bilgiler": "Ragıp Binzat-Emin Aldemir",
-    "aciklama": ""
+    "derleyen": "Emin Aldemir",
+    "kaynak_kisi": "Ragıp Binzat",
+    "karar": "Re"
   },
   "sistem": {
     "eski_id": 3336,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-27T21:25:47.027Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
