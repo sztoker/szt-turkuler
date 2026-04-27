@@ -1,26 +1,17 @@
 {
   "id": "izmirin-kavaklari",
   "baslik": "İZMİRİN KAVAKLARI",
-  "sozler_html": "<p>İzmir'in kavakları</p>\n<p>Dökülür yaprakları</p>\n<p>Bize de derler Çakıcı –yar  fidan boylum   Yıkarız konakları</p>\n<p class=\"bos\"></p>\n<p>Selvim senden uzun yok</p>\n<p>Yaprağında düzüm yok</p>\n<p>Kamalı da zeybek vuruldu</p>\n<p>Çakıcı'ya sözüm yok</p>",
-  "sozler_duz": "İzmir'in kavakları Dökülür yaprakları Bize de derler Çakıcı –yar fidan boylum Yıkarız konakları Selvim senden uzun yok Yaprağında düzüm yok Kamalı da zeybek vuruldu Çakıcı'ya sözüm yok",
+  "sozler_html": "<p>İzmir'in kavakları</p>\n<p>Dökülür yaprakları</p>\n<p>Bize de derler Çakıcı –<i>yar  fidan boylum&nbsp;</i></p><p>Yıkarız konakları</p>\n<p class=\"bos\"></p>\n<p>Selvim senden uzun yok</p>\n<p>Yaprağında düzüm yok</p>\n<p>Kamalı da zeybek vuruldu</p>\n<p>Çakıcı'ya sözüm yok</p>",
+  "sozler_duz": "İzmir'in kavakları\n\nDökülür yaprakları\n\nBize de derler Çakıcı –yar fidan boylum \n\nYıkarız konakları\n\nSelvim senden uzun yok\n\nYaprağında düzüm yok\n\nKamalı da zeybek vuruldu\n\nÇakıcı'ya sözüm yok",
   "meta": {
     "yore": "İZMİR",
-    "turu": "",
-    "turu2": "T",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "Re",
-    "diger_bilgiler": "İZMİR     K:Ekrem Güyer     D:M.Sarısözen",
-    "aciklama": ""
+    "derleyen": "M.Sarısözen",
+    "kaynak_kisi": "Ekrem Güyer"
   },
   "sistem": {
     "eski_id": 957,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-27T22:11:37.780Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
