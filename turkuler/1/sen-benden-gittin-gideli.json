@@ -2,25 +2,15 @@
   "id": "sen-benden-gittin-gideli",
   "baslik": "SEN BENDEN GİTTİN GİDELİ",
   "sozler_html": "<p>Öyle ağırım ki kendime</p>\n<p>Sen benden gittin gideli</p>\n<p>Terim küs olmuş terime</p>\n<p>Sen benden gittin gideli</p>\n<p class=\"bos\"></p>\n<p>Öyle bıkmışım ki kendimden</p>\n<p>Kurudum düştüm dalımdan</p>\n<p>Sanki ruhum çıktı canımdan</p>\n<p>Sen benden gittin gideli</p>\n<p class=\"bos\"></p>\n<p>Bir cefam var idi bin oldu</p>\n<p>Aktı gözüm yaşı sel oldu</p>\n<p>Yaz baharım döndü kış oldu</p>\n<p>Sen benden gittin gideli</p>",
-  "sozler_duz": "Öyle ağırım ki kendime Sen benden gittin gideli Terim küs olmuş terime Sen benden gittin gideli Öyle bıkmışım ki kendimden Kurudum düştüm dalımdan Sanki ruhum çıktı canımdan Sen benden gittin gideli Bir cefam var idi bin oldu Aktı gözüm yaşı sel oldu Yaz baharım döndü kış oldu Sen benden gittin gideli",
+  "sozler_duz": "Öyle ağırım ki kendime\n\nSen benden gittin gideli\n\nTerim küs olmuş terime\n\nSen benden gittin gideli\n\nÖyle bıkmışım ki kendimden\n\nKurudum düştüm dalımdan\n\nSanki ruhum çıktı canımdan\n\nSen benden gittin gideli\n\nBir cefam var idi bin oldu\n\nAktı gözüm yaşı sel oldu\n\nYaz baharım döndü kış oldu\n\nSen benden gittin gideli",
   "meta": {
-    "yore": "",
-    "turu": "1",
-    "turu2": "1",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Mazlum Çimen",
-    "muzik": "Mazlum Çimen",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "Re",
-    "diger_bilgiler": "S-M: Mazlum Çimen",
-    "aciklama": ""
+    "muzik": "Mazlum Çimen"
   },
   "sistem": {
     "eski_id": 1138,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-27T22:16:04.982Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
