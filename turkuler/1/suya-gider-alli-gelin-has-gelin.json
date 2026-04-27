@@ -2,25 +2,16 @@
   "id": "suya-gider-alli-gelin-has-gelin",
   "baslik": "SUYA GİDER ALLI GELİN HAS GELİN",
   "sozler_html": "<p>Suya gider allı gelin has gelin</p>\n<p>Topukların nokta nokta bas gelin</p>\n<p>Bu güzellik sade sana has gelin</p>\n<p class=\"bos\"></p>\n<p><b>Bilmiyon mu benim sana yandığım</b></p>\n<p><b>Ellerin köyünde garip kaldığım </b></p>\n<p class=\"bos\"></p>\n<p>Suya gider su testisin doldurur</p>\n<p>Eve gelir gül benzini soldurur</p>\n<p>İflah etmez bu dert beni öldürür</p>\n<p class=\"bos\"></p>\n<p><b>Bilmiyon mu...</b></p>",
-  "sozler_duz": "Suya gider allı gelin has gelin Topukların nokta nokta bas gelin Bu güzellik sade sana has gelin Bilmiyon mu benim sana yandığım Ellerin köyünde garip kaldığım Suya gider su testisin doldurur Eve gelir gül benzini soldurur İflah etmez bu dert beni öldürür Bilmiyon mu...",
+  "sozler_duz": "Suya gider allı gelin has gelin\n\nTopukların nokta nokta bas gelin\n\nBu güzellik sade sana has gelin\n\nBilmiyon mu benim sana yandığım\n\nEllerin köyünde garip kaldığım\n\nSuya gider su testisin doldurur\n\nEve gelir gül benzini soldurur\n\nİflah etmez bu dert beni öldürür\n\nBilmiyon mu...",
   "meta": {
     "yore": "Ankara",
-    "turu": "1",
-    "turu2": "szt",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "Re",
-    "diger_bilgiler": "Sadık Ergun/Adnan Şeker-Adnan Şeker",
-    "aciklama": ""
+    "derleyen": "Adnan Şeker",
+    "kaynak_kisi": "Sadık Ergun"
   },
   "sistem": {
     "eski_id": 4779,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-27T22:17:50.841Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
