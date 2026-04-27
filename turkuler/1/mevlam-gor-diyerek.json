@@ -1,26 +1,17 @@
 {
   "id": "mevlam-gor-diyerek",
   "baslik": "MEVLAM GÖR DİYEREK",
-  "sozler_html": "<p>Mevlam gör diyerek iki göz vermiş</p>\n<p>Bilmem ağlasam mı ağlamasam mı</p>\n<p>Dura dura bir sel oldum erenler</p>\n<p>Bilmem çağlasam mı çağlamasam mı</p>\n<p class=\"bos\"></p>\n<p>Milletin sırtından doyan doyana</p>\n<p>Bunu gören yürek nasıl dayana</p>\n<p>Yiğit muhtaç olmuş kuru soğana</p>\n<p>Bilmem söylesem mi söylemesem mi</p>\n<p class=\"bos\"></p>\n<p>Mahzuni Şerif'im dindir acını</p>\n<p>Bazen acılardan al ilacını al ilacını</p>\n<p>Pir Sultanlar gibi dar ağacını</p>\n<p>Bilmem boylasam mı boylamasam mı</p>",
-  "sozler_duz": "Mevlam gör diyerek iki göz vermiş Bilmem ağlasam mı ağlamasam mı Dura dura bir sel oldum erenler Bilmem çağlasam mı çağlamasam mı Milletin sırtından doyan doyana Bunu gören yürek nasıl dayana Yiğit muhtaç olmuş kuru soğana Bilmem söylesem mi söylemesem mi Mahzuni Şerif'im dindir acını Bazen acılardan al ilacını al ilacını Pir Sultanlar gibi dar ağacını Bilmem boylasam mı boylamasam mı",
+  "sozler_html": "<p>Mevlam gör diyerek iki göz vermiş</p>\n<p>Bilmem ağlasam mı ağlamasam mı</p>\n<p>Dura dura bir sel oldum erenler</p>\n<p>Bilmem çağlasam mı çağlamasam mı</p>\n<p class=\"bos\"></p>\n<p>Yoksulun sırtından doyan doyana</p>\n<p>Bunu gören yürek nasıl dayana</p>\n<p>Yiğit muhtaç olmuş kuru soğana</p>\n<p>Bilmem söylesem mi söylemesem mi</p>\n<p class=\"bos\"></p>\n<p>Mahzuni Şerif'im dindir acını</p>\n<p>Bazen acılardan al ilacını al ilacını</p>\n<p>Pir Sultanlar gibi dar ağacını</p>\n<p>Bilmem boylasam mı boylamasam mı</p>",
+  "sozler_duz": "Mevlam gör diyerek iki göz vermiş\n\nBilmem ağlasam mı ağlamasam mı\n\nDura dura bir sel oldum erenler\n\nBilmem çağlasam mı çağlamasam mı\n\nYoksulun sırtından doyan doyana\n\nBunu gören yürek nasıl dayana\n\nYiğit muhtaç olmuş kuru soğana\n\nBilmem söylesem mi söylemesem mi\n\nMahzuni Şerif'im dindir acını\n\nBazen acılardan al ilacını al ilacını\n\nPir Sultanlar gibi dar ağacını\n\nBilmem boylasam mı boylamasam mı",
   "meta": {
-    "yore": "",
-    "turu": "1",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "La",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "soz": "Mahsuni",
+    "soyleyenler": "Mahsuni",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 3640,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-27T20:55:27.903Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
