@@ -1,26 +1,17 @@
 {
   "id": "gulebilmez-gulum",
   "baslik": "GÜLEBİLMEZ GÜLÜM",
-  "sozler_html": "<p>Seni galbimde gezdirim her an</p>\n<p>Eşgimiz bilmesin dedim hicran</p>\n<p>Ala gözlü yarim menim sen bildin</p>\n<p>Senin eşginle a yarım ağladım güldüm</p>\n<p class=\"bos\"></p>\n<p>Gülebilmez gülüm bahar sensiz</p>\n<p>Üreğim od tutup yanar sensiz</p>\n<p class=\"bos\"></p>\n<p>Dönmerem heç sözümden ey canan</p>\n<p>Getme bir an gözümden ey canan</p>\n<p>Senden ilham alar menim köynüm</p>\n<p>Seni menden inan gözelim ayırmaz ölüm / Gülebilmez ...</p>",
-  "sozler_duz": "Seni galbimde gezdirim her an Eşgimiz bilmesin dedim hicran Ala gözlü yarim menim sen bildin Senin eşginle a yarım ağladım güldüm Gülebilmez gülüm bahar sensiz Üreğim od tutup yanar sensiz Dönmerem heç sözümden ey canan Getme bir an gözümden ey canan Senden ilham alar menim köynüm Seni menden inan gözelim ayırmaz ölüm / Gülebilmez ...",
+  "sozler_html": "<p>Seni galbimde gezdirim her an</p>\n<p>Eşgimiz bilmesin dedim hicran</p>\n<p>Ala gözlü yarim menim sen bildin</p>\n<p>Senin eşginden a yarım ağladım güldüm</p>\n<p class=\"bos\"></p>\n<p>Gülebilmez gülüm bahar sensiz</p>\n<p>Üreğim od tutup yanar sensiz</p>\n<p class=\"bos\"></p>\n<p>Dönmerem heç sözümden ey canan</p>\n<p>Getme bir an gözümden ey canan</p>\n<p>Senden ilham alar menim köynüm</p>\n<p>Seni menden inan gözelim ayırmaz ölüm / Gülebilmez ...</p>",
+  "sozler_duz": "Seni galbimde gezdirim her an\n\nEşgimiz bilmesin dedim hicran\n\nAla gözlü yarim menim sen bildin\n\nSenin eşginden a yarım ağladım güldüm\n\nGülebilmez gülüm bahar sensiz\n\nÜreğim od tutup yanar sensiz\n\nDönmerem heç sözümden ey canan\n\nGetme bir an gözümden ey canan\n\nSenden ilham alar menim köynüm\n\nSeni menden inan gözelim ayırmaz ölüm / Gülebilmez ...",
   "meta": {
     "yore": "AZERİ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AZERİ - Tevfik Güliev",
-    "aciklama": ""
+    "soz": "ENVER ELİBEYLİ",
+    "muzik": "RAUF HACIYEV"
   },
   "sistem": {
     "eski_id": 864,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-27T21:49:46.919Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
