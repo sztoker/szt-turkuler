@@ -1,8 +1,8 @@
 {
   "id": "zuluf-dokulmus-yuze",
   "baslik": "ZÜLÜF DÖKÜLMÜŞ YÜZE",
-  "sozler_html": "<p>Zülüf Dökülmüş Yüze Aman</p><p>Kaş Yakışmış Göze Aman Aman</p><p>Usandım Bu Canımdan Aman Aman</p><p>Derd İle Geze Geze</p><p><br></p><p>Bu Ellerde Gez Gayri Aman</p><p>Kâtip Ol Da Yaz Gayri Aman Aman</p><p>Bir Kazma Al Bir Kürek Aman Aman</p><p>Mezarımı Kaz Gayrı</p><p><br></p><p>Gün Doğdu Aştı Böyle Aman</p><p>Gönüldür Coştu Böyle Aman Aman</p><p>Sen Orada Ben Burda Aman Aman</p><p>Ömrümüz Geçti Böyle</p>",
-  "sozler_duz": "Zülüf Dökülmüş Yüze Aman\n\nKaş Yakışmış Göze Aman Aman\n\nUsandım Bu Canımdan Aman Aman\n\nDerd İle Geze Geze\n\nBu Ellerde Gez Gayri Aman\n\nKâtip Ol Da Yaz Gayri Aman Aman\n\nBir Kazma Al Bir Kürek Aman Aman\n\nMezarımı Kaz Gayrı\n\nGün Doğdu Aştı Böyle Aman\n\nGönüldür Coştu Böyle Aman Aman\n\nSen Orada Ben Burda Aman Aman\n\nÖmrümüz Geçti Böyle",
+  "sozler_html": "<p>Zülüf\ndökülmüş yüze aman</p><p>Kaşlar yakışmış göze aman aman</p><p>Usandım bu canımdan aman aman</p><p>Derd ile geze geze</p><p>&nbsp;</p><p>Bu ellerde gez gayri aman</p><p>Kâtip ol da yaz gayri aman aman</p><p>Bir kazma al bir kürek aman aman</p><p>Mezarımı kaz gayrı</p><p>&nbsp;</p><p>Gün doğdu aştı böyle aman</p><p>Gönüldür coştu böyle aman aman</p><p>Sen orada ben burda aman aman</p><p>Ömrümüz geçti böyle</p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>&nbsp;</p>",
+  "sozler_duz": "Zülüf dökülmüş yüze aman\n\nKaşlar yakışmış göze aman aman\n\nUsandım bu canımdan aman aman\n\nDerd ile geze geze\n\n \n\nBu ellerde gez gayri aman\n\nKâtip ol da yaz gayri aman aman\n\nBir kazma al bir kürek aman aman\n\nMezarımı kaz gayrı\n\n \n\nGün doğdu aştı böyle aman\n\nGönüldür coştu böyle aman aman\n\nSen orada ben burda aman aman\n\nÖmrümüz geçti böyle",
   "meta": {
     "yore": "Kırşehir",
     "derleyen": "Nida Tüfekçi",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 6753,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-25T12:04:15.755Z",
+    "son_degisiklik": "2026-04-27T20:54:35.417Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
