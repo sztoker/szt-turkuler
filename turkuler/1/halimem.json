@@ -2,25 +2,15 @@
   "id": "halimem",
   "baslik": "HALİMEM",
   "sozler_html": "<p>Kiraz aldım dikmeden</p>\n<p>Halimem- dallarını bükmeden</p>\n<p>Bir armağan ver bana</p>\n<p>Halimem- ben gurbete gitmeden</p>\n<p class=\"bos\"></p>\n<p><b>Tombalacık Halimem Taşbaşı'na gel</b></p>\n<p><b>Ben gidiyorum Bolu'ya düş peşime gel</b></p>\n<p class=\"bos\"></p>\n<p>Ocak başında kaldım</p>\n<p>Halimem- ince fikire daldım</p>\n<p>Kapılar açıldıkça</p>\n<p>Halimem- seni geliyor sandım</p>\n<p class=\"bos\"></p>\n<p><b>Alçaklara kar yağıyor üşümedin mi</b></p>\n<p><b>Sen bu işin sonunu düşünmedin mi</b></p>\n<p class=\"bos\"></p>\n<p>Tütün aldım Hendek'ten</p>\n<p>Halimem- hekim gelir Devrek'ten</p>\n<p>Hekim buna ne desin</p>\n<p>Halimem- yangınımız yürekten</p>\n<p class=\"bos\"></p>\n<p><b>Algın mısın Halimem baygın mısın gel</b></p>\n<p><b>Hiç haberin gelmiyor dargın mısın gel</b></p>",
-  "sozler_duz": "Kiraz aldım dikmeden Halimem- dallarını bükmeden Bir armağan ver bana Halimem- ben gurbete gitmeden Tombalacık Halimem Taşbaşı'na gel Ben gidiyorum Bolu'ya düş peşime gel Ocak başında kaldım Halimem- ince fikire daldım Kapılar açıldıkça Halimem- seni geliyor sandım Alçaklara kar yağıyor üşümedin mi Sen bu işin sonunu düşünmedin mi Tütün aldım Hendek'ten Halimem- hekim gelir Devrek'ten Hekim buna ne desin Halimem- yangınımız yürekten Algın mısın Halimem baygın mısın gel Hiç haberin gelmiyor dargın mısın gel",
+  "sozler_duz": "Kiraz aldım dikmeden\n\nHalimem- dallarını bükmeden\n\nBir armağan ver bana\n\nHalimem- ben gurbete gitmeden\n\nTombalacık Halimem Taşbaşı'na gel\n\nBen gidiyorum Bolu'ya düş peşime gel\n\nOcak başında kaldım\n\nHalimem- ince fikire daldım\n\nKapılar açıldıkça\n\nHalimem- seni geliyor sandım\n\nAlçaklara kar yağıyor üşümedin mi\n\nSen bu işin sonunu düşünmedin mi\n\nTütün aldım Hendek'ten\n\nHalimem- hekim gelir Devrek'ten\n\nHekim buna ne desin\n\nHalimem- yangınımız yürekten\n\nAlgın mısın Halimem baygın mısın gel\n\nHiç haberin gelmiyor dargın mısın gel",
   "meta": {
     "yore": "MENGEN / BOLU",
-    "turu": "1",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_1",
-    "karar": "Re",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "karar": "Re"
   },
   "sistem": {
     "eski_id": 888,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-27T21:56:24.274Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
