@@ -2,25 +2,15 @@
   "id": "merdo",
   "baslik": "MERDO",
   "sozler_html": "<p>Sana bir gün olsun gülmedi hayat</p>\n<p>Kaderi berbat merdo-2 burası gurbet</p>\n<p class=\"bos\"></p>\n<p><b>Gelme demedim mi merdo</b></p>\n<p><b>Dönme demedim mi</b></p>\n<p><b>Vururlar seni merdo -2 </b></p>\n<p><b>Söylemedim mi -2</b></p>\n<p class=\"bos\"></p>\n<p>Köprünün başında merdo pusu kurarlar</p>\n<p>Seni ararlar merdo izin sorarlar seni kırarlar</p>\n<p class=\"bos\"></p>\n<p><b>Gelme demedim mi…</b></p>\n<p class=\"bos\"></p>\n<p>Mahzuni yanıyor derdo bitti baharım</p>\n<p>Bahar aylarım merdo soldu bağlarım yeşil bağlarım</p>\n<p class=\"bos\"></p>\n<p><b>Gelme demedim mi…</b></p>",
-  "sozler_duz": "Sana bir gün olsun gülmedi hayat Kaderi berbat merdo-2 burası gurbet Gelme demedim mi merdo Dönme demedim mi Vururlar seni merdo -2 Söylemedim mi -2 Köprünün başında merdo pusu kurarlar Seni ararlar merdo izin sorarlar seni kırarlar Gelme demedim mi… Mahzuni yanıyor derdo bitti baharım Bahar aylarım merdo soldu bağlarım yeşil bağlarım Gelme demedim mi…",
+  "sozler_duz": "Sana bir gün olsun gülmedi hayat\n\nKaderi berbat merdo-2 burası gurbet\n\nGelme demedim mi merdo\n\nDönme demedim mi\n\nVururlar seni merdo -2\n\nSöylemedim mi -2\n\nKöprünün başında merdo pusu kurarlar\n\nSeni ararlar merdo izin sorarlar seni kırarlar\n\nGelme demedim mi…\n\nMahzuni yanıyor derdo bitti baharım\n\nBahar aylarım merdo soldu bağlarım yeşil bağlarım\n\nGelme demedim mi…",
   "meta": {
-    "yore": "",
-    "turu": "1",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_",
-    "karar": "La",
-    "diger_bilgiler": "Aşık Mahzuni Şerif",
-    "aciklama": ""
+    "soz": "Aşık Mahzuni Şerif",
+    "muzik": "Aşık Mahzuni Şerif"
   },
   "sistem": {
     "eski_id": 4497,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-27T22:58:41.670Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
