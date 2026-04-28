@@ -1,26 +1,17 @@
 {
   "id": "yagmurun-elleri",
   "baslik": "YAĞMURUN ELLERİ",
-  "sozler_html": "<p>Küçücük bir bakışın  / Çözer beni kolaycaKenetlenmiş parmaklar gibi / Sımsıkı kapanmış olsamYaprak yaprak açtırırsın / İlkyaz nasıl açtırırsaİlk gülünü gizem dolu / Hünerli bir dokunuşlaHiç kimsenin yağmurun bileBöyle küçük elleri yokturBütün güllerden derin / Bir sesi var gözlerininBaş edilmez gergin * kırılganlığınla seninHer solukta sonsuzluk * ve ölüm</p>",
-  "sozler_duz": "Küçücük bir bakışın / Çözer beni kolaycaKenetlenmiş parmaklar gibi / Sımsıkı kapanmış olsamYaprak yaprak açtırırsın / İlkyaz nasıl açtırırsaİlk gülünü gizem dolu / Hünerli bir dokunuşlaHiç kimsenin yağmurun bileBöyle küçük elleri yokturBütün güllerden derin / Bir sesi var gözlerininBaş edilmez gergin * kırılganlığınla seninHer solukta sonsuzluk * ve ölüm",
+  "sozler_html": "<p>Küçücük bir bakışın&nbsp;</p><p>Çözer beni kolayca</p><p>Kenetlenmiş parmaklar gibi&nbsp;</p><p>Sımsıkı kapanmış olsam</p><p><br></p><p>Yaprak yaprak açtırırsın&nbsp;</p><p>lkyaz nasıl açtırırsa</p><p>İlk gülünü gizem dolu&nbsp;</p><p>Hünerli bir dokunuşla</p><p><br></p><p>Hiç kimsenin yağmurun bile</p><p>Böyle küçük elleri yoktur</p><p>Bütün güllerden derin&nbsp;</p><p>Bir sesi var gözlerinin</p><p>Baş edilmez gergin * kırılganlığınla senin</p><p>Her solukta sonsuzluk * ve ölüm</p>",
+  "sozler_duz": "Küçücük bir bakışın \n\nÇözer beni kolayca\n\nKenetlenmiş parmaklar gibi \n\nSımsıkı kapanmış olsam\n\nYaprak yaprak açtırırsın \n\nlkyaz nasıl açtırırsa\n\nİlk gülünü gizem dolu \n\nHünerli bir dokunuşla\n\nHiç kimsenin yağmurun bile\n\nBöyle küçük elleri yoktur\n\nBütün güllerden derin \n\nBir sesi var gözlerinin\n\nBaş edilmez gergin * kırılganlığınla senin\n\nHer solukta sonsuzluk * ve ölüm",
   "meta": {
     "yore": "?     Ezginin Günlüğü",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?     Ezginin Günlüğü",
-    "aciklama": ""
+    "soz": "Barış Pirhasan",
+    "diger_bilgiler": "?     Ezginin Günlüğü"
   },
   "sistem": {
     "eski_id": 6596,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-28T08:54:07.979Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
