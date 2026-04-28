@@ -1,26 +1,18 @@
 {
   "id": "yagmur-yagar-sipir-sipir",
   "baslik": "YAĞMUR YAĞAR ŞIPIR ŞIPIR",
-  "sozler_html": "<p>Yağmur yağar şıpır şıpır buz gibiEriyorum ben de çürük tuz gibi          2Kocan ile geçincemen yok iseBoşan da gel kabulumsün kız gibi –of kız gibi     2Çadır kurdum şu yaylanın düzüneGümüş martin yatırdım da dizimeVarın söylen o yosmanın kızınaOn beş sene  az geliyor gözüme</p>",
-  "sozler_duz": "Yağmur yağar şıpır şıpır buz gibiEriyorum ben de çürük tuz gibi 2Kocan ile geçincemen yok iseBoşan da gel kabulumsün kız gibi –of kız gibi 2Çadır kurdum şu yaylanın düzüneGümüş martin yatırdım da dizimeVarın söylen o yosmanın kızınaOn beş sene az geliyor gözüme",
+  "sozler_html": "<p>Yağmur yağar şıpır şıpır buz gibi</p><p>Eriyorum ben de çürük tuz gibi          2</p><p>Kocan ile geçincemen yok ise</p><p>Boşan da gel kabulumsün kız gibi –of kız gibi     2</p><p><br></p><p>Çadır kurdum şu yaylanın düzüne</p><p>Gümüş martin yatırdım da dizime</p><p>Varın söylen o yosmanın kızına</p><p>On beş sene  az geliyor gözüme</p>",
+  "sozler_duz": "Yağmur yağar şıpır şıpır buz gibi\n\nEriyorum ben de çürük tuz gibi 2\n\nKocan ile geçincemen yok ise\n\nBoşan da gel kabulumsün kız gibi –of kız gibi 2\n\nÇadır kurdum şu yaylanın düzüne\n\nGümüş martin yatırdım da dizime\n\nVarın söylen o yosmanın kızına\n\nOn beş sene az geliyor gözüme",
   "meta": {
-    "yore": "UŞAK     Mustafa Oğuz",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "UŞAK     Mustafa Oğuz",
-    "aciklama": ""
+    "yore": "Teke",
+    "turu": "THM",
+    "kaynak_kisi": "Ali Terzi(Halil Bişi)",
+    "diger_bilgiler": "Uşak/Afyon/Burdur/Aydın/Muğla illerinde farklı kaynaklardan alınmış anonim bir türküdür."
   },
   "sistem": {
     "eski_id": 6592,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-28T08:49:51.976Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
