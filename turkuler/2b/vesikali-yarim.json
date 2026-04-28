@@ -1,26 +1,18 @@
 {
   "id": "vesikali-yarim",
   "baslik": "VESİKALI YARİM",
-  "sozler_html": "<p>Alnımdaki bıçak yarası senin yüzündenTabakam senin yadigarınİki elin kanda olsa gel diyor telgrafınBen seni nasıl unuturum vesikalı yarimİstanbul’dan ayva gelir nar gelirDöndüm baktım bir edalı yar gelirGelir dersen dar gelir / Gün aşırı alacaklılar gelirAnam dayanamam / Bu iş bana zor gelir</p>",
-  "sozler_duz": "Alnımdaki bıçak yarası senin yüzündenTabakam senin yadigarınİki elin kanda olsa gel diyor telgrafınBen seni nasıl unuturum vesikalı yarimİstanbul’dan ayva gelir nar gelirDöndüm baktım bir edalı yar gelirGelir dersen dar gelir / Gün aşırı alacaklılar gelirAnam dayanamam / Bu iş bana zor gelir",
+  "sozler_html": "<p>Alnımdaki bıçak yarası senin yüzünden</p><p>Tabakam senin yadigarın</p><p>İki elin kanda olsa gel diyor telgrafın</p><p>Ben seni nasıl unuturum vesikalı yarim</p><p><br></p><p>İstanbul’dan ayva gelir nar gelir</p><p>Döndüm baktım bir edalı yar gelir</p><p>Gelir dersen dar gelir&nbsp;</p><p>Gün aşırı alacaklılar gelir</p><p>Anaaaaam dayanamam&nbsp;</p><p>Bu iş bana zor gelir</p>",
+  "sozler_duz": "Alnımdaki bıçak yarası senin yüzünden\n\nTabakam senin yadigarın\n\nİki elin kanda olsa gel diyor telgrafın\n\nBen seni nasıl unuturum vesikalı yarim\n\nİstanbul’dan ayva gelir nar gelir\n\nDöndüm baktım bir edalı yar gelir\n\nGelir dersen dar gelir \n\nGün aşırı alacaklılar gelir\n\nAnaaaaam dayanamam \n\nBu iş bana zor gelir",
   "meta": {
-    "yore": "S: Orhan Veli Kanık",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S: Orhan Veli Kanık",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Orhan Veli Kanık",
+    "muzik": "Edip Akbayram",
+    "soyleyenler": "Edip Akbayram"
   },
   "sistem": {
     "eski_id": 6563,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-28T08:20:49.215Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
