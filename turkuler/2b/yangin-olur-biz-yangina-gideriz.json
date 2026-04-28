@@ -1,26 +1,20 @@
 {
   "id": "yangin-olur-biz-yangina-gideriz",
   "baslik": "YANGIN OLUR BİZ YANGINA GİDERİZ",
-  "sozler_html": "<p>Yangın olur biz yangına giderizDüz ovada keklik gibi sekerizYokuşlarda şahin olur uçarızSandık sandıklar içinde çok şanımız varHazreti mevlaya yalvarmamız varBeyoğlu’ndan kalktık sandık selametGalata’ya vardık koptu kıyametHurşit Reis sandık sana emanet / Sandık ...</p>",
-  "sozler_duz": "Yangın olur biz yangına giderizDüz ovada keklik gibi sekerizYokuşlarda şahin olur uçarızSandık sandıklar içinde çok şanımız varHazreti mevlaya yalvarmamız varBeyoğlu’ndan kalktık sandık selametGalata’ya vardık koptu kıyametHurşit Reis sandık sana emanet / Sandık ...",
+  "sozler_html": "<p>Yangın olur biz yangına gideriz</p><p>Düz ovada keklik gibi sekeriz</p><p>Yokuşlarda şahin olur uçarız</p><p><br></p><p><b>Sandık sandıklar içinde çok şanımız var</b></p><p><b>Hazreti mevlaya yalvarmamız var</b></p><p><br></p><p>Beyoğlu’ndan kalktık sandık selamet</p><p>Galata’ya vardık koptu kıyamet</p><p>Hurşit Reis sandık sana emanet&nbsp;</p><p><br></p><p><b>Sandık ...</b></p>",
+  "sozler_duz": "Yangın olur biz yangına gideriz\n\nDüz ovada keklik gibi sekeriz\n\nYokuşlarda şahin olur uçarız\n\nSandık sandıklar içinde çok şanımız var\n\nHazreti mevlaya yalvarmamız var\n\nBeyoğlu’ndan kalktık sandık selamet\n\nGalata’ya vardık koptu kıyamet\n\nHurşit Reis sandık sana emanet \n\nSandık ...",
   "meta": {
-    "yore": "İSTANBUL                  Uşşak / Aksak",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "İSTANBUL                  Uşşak / Aksak",
-    "aciklama": ""
+    "yore": "İSTANBUL",
+    "turu": "TSM",
+    "derleyen": "Anonim",
+    "soz": "Anonim",
+    "muzik": "Anonim",
+    "diger_bilgiler": "Uşşak / Aksak"
   },
   "sistem": {
     "eski_id": 6610,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-28T17:51:17.628Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
