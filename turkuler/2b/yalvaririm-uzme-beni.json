@@ -1,26 +1,18 @@
 {
   "id": "yalvaririm-uzme-beni",
   "baslik": "YALVARIRIM ÜZME BENİ",
-  "sozler_html": "<p>Sevgilim de sen bana / Aşığım inan sanaGözlerime baksana /Yaktın beni yıllardır /Ne olur anlasanaYalvarırım üzme beni / Sen de ben gibi yanarsınAşkım ömrüm nerde diye sızlanırsınSevgiye inan olmaz / Yalvarırım duyulmazZannederler gül solmaz / Yaktın beni yıllardırNe olur anla biraz / Yalvarırım üzme beni ...</p>",
-  "sozler_duz": "Sevgilim de sen bana / Aşığım inan sanaGözlerime baksana /Yaktın beni yıllardır /Ne olur anlasanaYalvarırım üzme beni / Sen de ben gibi yanarsınAşkım ömrüm nerde diye sızlanırsınSevgiye inan olmaz / Yalvarırım duyulmazZannederler gül solmaz / Yaktın beni yıllardırNe olur anla biraz / Yalvarırım üzme beni ...",
+  "sozler_html": "<p>Sevgilim de sen bana&nbsp;</p><p>Aşığım inan sana</p><p>Gözlerime baksana&nbsp;</p><p>Yaktın beni yıllardır&nbsp;</p><p>Ne olur anlasana</p><p><br></p><p>Yalvarırım üzme beni&nbsp;</p><p>Sen de ben gibi yanarsın</p><p>Aşkım ömrüm nerde diye sızlanırsın</p><p>Sevgiye inan olmaz&nbsp;</p><p><br></p><p>Yalvarırım duyulmaz</p><p>Zannederler gül solmaz&nbsp;</p><p>Yaktın beni yıllardır</p><p>Ne olur anla biraz&nbsp;</p><p><br></p><p>Yalvarırım üzme beni ...</p>",
+  "sozler_duz": "Sevgilim de sen bana \n\nAşığım inan sana\n\nGözlerime baksana \n\nYaktın beni yıllardır \n\nNe olur anlasana\n\nYalvarırım üzme beni \n\nSen de ben gibi yanarsın\n\nAşkım ömrüm nerde diye sızlanırsın\n\nSevgiye inan olmaz \n\nYalvarırım duyulmaz\n\nZannederler gül solmaz \n\nYaktın beni yıllardır\n\nNe olur anla biraz \n\nYalvarırım üzme beni ...",
   "meta": {
     "yore": "Erol Sayan                     Nihavent / Düyek",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Erol Sayan                     Nihavent / Düyek",
-    "aciklama": ""
+    "soz": "Erol Sayan",
+    "muzik": "Erol Sayan",
+    "diger_bilgiler": "Nihavent / Düyek"
   },
   "sistem": {
     "eski_id": 6603,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-28T10:03:10.471Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
