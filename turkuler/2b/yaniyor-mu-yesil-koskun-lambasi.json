@@ -6,12 +6,16 @@
   "meta": {
     "yore": "İstanbul",
     "turu": "TSM",
-    "diger_bilgiler": "?                     Hüzzam / Aksak"
+    "derleyen": "Anonim",
+    "kaynak_kisi": "Anonim",
+    "soz": "Anonim",
+    "muzik": "Anonim",
+    "diger_bilgiler": "Hüzzam / Aksak"
   },
   "sistem": {
     "eski_id": 6613,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-28T18:00:50.943Z",
+    "son_degisiklik": "2026-04-28T18:01:19.879Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
