@@ -1,26 +1,17 @@
 {
   "id": "yaniyor-mu-yesil-koskun-lambasi",
   "baslik": "YANIYOR MU YEŞİL KÖŞKÜN LAMBASI",
-  "sozler_html": "<p>Yanıyor mu yeşil köşkün lambası yarHiç bitmiyor şu gönlümün kavgası yarBenim yarim kırmızı gül goncası yarAy gibi parlak gün gibi doğanım geliyorCepkeni kırmalı saçları sırmalım geliyorAba da bir çuha da bir giyene yarGüzel de bir çirkin de bir sevene yarCanım kurban olsun kıymet bilene yar / Ay gibi ...</p>",
-  "sozler_duz": "Yanıyor mu yeşil köşkün lambası yarHiç bitmiyor şu gönlümün kavgası yarBenim yarim kırmızı gül goncası yarAy gibi parlak gün gibi doğanım geliyorCepkeni kırmalı saçları sırmalım geliyorAba da bir çuha da bir giyene yarGüzel de bir çirkin de bir sevene yarCanım kurban olsun kıymet bilene yar / Ay gibi ...",
+  "sozler_html": "<p>Yanıyor mu yeşil köşkün lambası yar</p><p>Hiç bitmiyor şu gönlümün kavgası yar</p><p>Benim yarim kırmızı gül goncası yar</p><p><br></p><p><b>Ay gibi parlak gün gibi doğanım geliyor</b></p><p><b>Cepkeni kırmalı saçları sırmalım geliyor</b></p><p><br></p><p>Aba da bir çuha da bir giyene yar</p><p>Güzel de bir çirkin de bir sevene yar</p><p>Canım kurban olsun kıymet bilene yar&nbsp;</p><p><br></p><p><b>Ay gibi ...</b></p>",
+  "sozler_duz": "Yanıyor mu yeşil köşkün lambası yar\n\nHiç bitmiyor şu gönlümün kavgası yar\n\nBenim yarim kırmızı gül goncası yar\n\nAy gibi parlak gün gibi doğanım geliyor\n\nCepkeni kırmalı saçları sırmalım geliyor\n\nAba da bir çuha da bir giyene yar\n\nGüzel de bir çirkin de bir sevene yar\n\nCanım kurban olsun kıymet bilene yar \n\nAy gibi ...",
   "meta": {
-    "yore": "?                     Hüzzam / Aksak",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?                     Hüzzam / Aksak",
-    "aciklama": ""
+    "yore": "İstanbul",
+    "turu": "TSM",
+    "diger_bilgiler": "?                     Hüzzam / Aksak"
   },
   "sistem": {
     "eski_id": 6613,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-28T18:00:50.943Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
