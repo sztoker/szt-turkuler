@@ -1,26 +1,17 @@
 {
   "id": "yapma",
   "baslik": "YAPMA",
-  "sozler_html": "<p>Her gün manşetlerde aslanlarYakıp yıkıp kulak toplayanlar          2Üniformasında buldu kendini -oySoluksuz tarihsiz olanlarOo-oy yapma – oy yapmaAyaklanır duygularım ayaklanırŞuramda bir kuş kanatlanırKimin elleri kiminin gözleri -oyHer gün pencerenizden dalgalanır / Oo- ooy yapma ...Kara çalındı adsız kitaplaraÖlüm sıradanlaştı çocuklaraElim avucum düşlerim kan revanKar yağar baktığım yamaçlara / Oo-oo yapma ...</p>",
-  "sozler_duz": "Her gün manşetlerde aslanlarYakıp yıkıp kulak toplayanlar 2Üniformasında buldu kendini -oySoluksuz tarihsiz olanlarOo-oy yapma – oy yapmaAyaklanır duygularım ayaklanırŞuramda bir kuş kanatlanırKimin elleri kiminin gözleri -oyHer gün pencerenizden dalgalanır / Oo- ooy yapma ...Kara çalındı adsız kitaplaraÖlüm sıradanlaştı çocuklaraElim avucum düşlerim kan revanKar yağar baktığım yamaçlara / Oo-oo yapma ...",
+  "sozler_html": "<p>Her gün manşetlerde aslanlar</p><p>Yakıp yıkıp kulak toplayanlar          2</p><p>Üniformasında buldu kendini -oy</p><p>Soluksuz tarihsiz olanlar</p><p>Oo-oy yapma – oy yapma</p><p>Ayaklanır duygularım ayaklanır</p><p>Şuramda bir kuş kanatlanır</p><p>Kimin elleri kiminin gözleri -oy</p><p>Her gün pencerenizden dalgalanır&nbsp;</p><p>Oo- ooy yapma ...</p><p>Kara çalındı adsız kitaplara</p><p>Ölüm sıradanlaştı çocuklara</p><p>Elim avucum düşlerim kan revan</p><p>Kar yağar baktığım yamaçlara&nbsp;</p><p>Oo-oo yapma ...</p>",
+  "sozler_duz": "Her gün manşetlerde aslanlar\n\nYakıp yıkıp kulak toplayanlar 2\n\nÜniformasında buldu kendini -oy\n\nSoluksuz tarihsiz olanlar\n\nOo-oy yapma – oy yapma\n\nAyaklanır duygularım ayaklanır\n\nŞuramda bir kuş kanatlanır\n\nKimin elleri kiminin gözleri -oy\n\nHer gün pencerenizden dalgalanır \n\nOo- ooy yapma ...\n\nKara çalındı adsız kitaplara\n\nÖlüm sıradanlaştı çocuklara\n\nElim avucum düşlerim kan revan\n\nKar yağar baktığım yamaçlara \n\nOo-oo yapma ...",
   "meta": {
-    "yore": "Metin Kahraman",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Metin Kahraman",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Metin Kahraman",
+    "muzik": "Metin Kahraman"
   },
   "sistem": {
     "eski_id": 6614,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-28T18:11:24.529Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
