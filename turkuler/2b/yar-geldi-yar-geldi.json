@@ -1,26 +1,19 @@
 {
   "id": "yar-geldi-yar-geldi",
   "baslik": "YAR GELDİ YAR GELDİ",
-  "sozler_html": "<p>Özüm özüne kurban / Gözüne bu gözüm kurbanSözüne sözüm kurban yar geldi-3Elinde ipek desmal de de kurbanın olamÇekmişem hasretini derdini mihnetiniBu mudur yoksa hayal yar geldi-3Oduna çok yanmışam / Başına dolanmışamYoluna dayanmışam  yar geldi-3  /  Elinde ...Gitme menden uzağa / Salma gönlümü firağaSevdiğim ağil ola yar geldi-3  /  Elinde ...</p>",
-  "sozler_duz": "Özüm özüne kurban / Gözüne bu gözüm kurbanSözüne sözüm kurban yar geldi-3Elinde ipek desmal de de kurbanın olamÇekmişem hasretini derdini mihnetiniBu mudur yoksa hayal yar geldi-3Oduna çok yanmışam / Başına dolanmışamYoluna dayanmışam yar geldi-3 / Elinde ...Gitme menden uzağa / Salma gönlümü firağaSevdiğim ağil ola yar geldi-3 / Elinde ...",
+  "sozler_html": "<p>Özüne özüm kurban&nbsp;</p><p>Gözüne bu gözüm kurban</p><p>Sözüne sözüm kurban yar geldi-3</p><p><br></p><p><b>Elinde ipek desmal de de kurbanın olam</b></p><p><b>Çekmişem hasretini derdini mihnetini</b></p><p><b>Bu mudur yoksa hayal yar geldi-3</b></p><p><br></p><p>Oduna çok yanmışam&nbsp;</p><p>Başına dolanmışamY</p><p>oluna dayanmışam  yar geldi-3&nbsp;</p><p><br></p><p><b>Elinde ...</b></p><p><br></p><p>Gitme menden uzağa&nbsp;</p><p>Salma gönlümü firağa</p><p>Sevdiğim ağil ola yar geldi-3&nbsp;</p><p><br></p><p><b>Elinde ...</b></p>",
+  "sozler_duz": "Özüne özüm kurban \n\nGözüne bu gözüm kurban\n\nSözüne sözüm kurban yar geldi-3\n\nElinde ipek desmal de de kurbanın olam\n\nÇekmişem hasretini derdini mihnetini\n\nBu mudur yoksa hayal yar geldi-3\n\nOduna çok yanmışam \n\nBaşına dolanmışamY\n\noluna dayanmışam yar geldi-3 \n\nElinde ...\n\nGitme menden uzağa \n\nSalma gönlümü firağa\n\nSevdiğim ağil ola yar geldi-3 \n\nElinde ...",
   "meta": {
-    "yore": "AZERİ",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AZERİ",
-    "aciklama": ""
+    "yore": "AZERBAYCAN",
+    "turu": "THM",
+    "derleyen": "Plaktan yazıldı",
+    "kaynak_kisi": "HANDAN UYSAL",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6618,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-28T18:16:13.936Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
