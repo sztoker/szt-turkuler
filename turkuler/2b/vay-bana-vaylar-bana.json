@@ -1,26 +1,19 @@
 {
   "id": "vay-bana-vaylar-bana",
-  "baslik": "Vay Bana Vaylar Bana_",
-  "sozler_html": "<p>Vay Bana Vaylar BanaYıl Oldu Aylar BanaSusadım Su İsterimSu Vermez Çaylar Bana Ömrüm Ömrüm Hopla Mavilim Vay Aman Al Beni Yanında SaklaTesbihimde MercanımNeren Ağrıyor CanımMeram'daki BağlarıSatar Sana Harcarım Ömrüm Ömrüm Hopla Mavilim Vay Aman Al Beni Yanında SaklaDerviş Geldi Hu DediÇevir Bendi Su GeldiEllere Düğün BayramBize Haktan Bu Geldi Ömrüm Ömrüm Hopla Mavilim Vay Aman Al Beni Yanında Sakla</p>",
-  "sozler_duz": "Vay Bana Vaylar BanaYıl Oldu Aylar BanaSusadım Su İsterimSu Vermez Çaylar Bana Ömrüm Ömrüm Hopla Mavilim Vay Aman Al Beni Yanında SaklaTesbihimde MercanımNeren Ağrıyor CanımMeram'daki BağlarıSatar Sana Harcarım Ömrüm Ömrüm Hopla Mavilim Vay Aman Al Beni Yanında SaklaDerviş Geldi Hu DediÇevir Bendi Su GeldiEllere Düğün BayramBize Haktan Bu Geldi Ömrüm Ömrüm Hopla Mavilim Vay Aman Al Beni Yanında Sakla",
+  "baslik": "VAY BANA VAYLAR BANA",
+  "sozler_html": "<p>Vay bana vaylar bana</p><p>Yıl oldu aylar bana</p><p>Susadım su isterim</p><p>Su vermez çaylar bana&nbsp;</p><p><br></p><p><b>Ömrüm ömrüm hopla mavilim&nbsp;</b></p><p><b>Vay aman al beni yanında sakla</b></p><p><br></p><p>Tesbihimde mercanım</p><p>Neren ağrıyor canım</p><p>Meram'daki bağları</p><p>Satar sana harcarım&nbsp;</p><p><br></p><p><b>Ömrüm ömrüm ...</b></p><p><br></p><p>Derviş geldi hu dedi</p><p>Çevir bendi su geldi</p><p>Ellere düğün bayram</p><p>Bize haktan bu geldi&nbsp;</p><p><br></p><p>Ömrüm ömrüm ...</p>",
+  "sozler_duz": "Vay bana vaylar bana\n\nYıl oldu aylar bana\n\nSusadım su isterim\n\nSu vermez çaylar bana \n\nÖmrüm ömrüm hopla mavilim \n\nVay aman al beni yanında sakla\n\nTesbihimde mercanım\n\nNeren ağrıyor canım\n\nMeram'daki bağları\n\nSatar sana harcarım \n\nÖmrüm ömrüm ...\n\nDerviş geldi hu dedi\n\nÇevir bendi su geldi\n\nEllere düğün bayram\n\nBize haktan bu geldi \n\nÖmrüm ömrüm ...",
   "meta": {
     "yore": "Konya",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Yöre Ekibi-Yücel Paşmakçı",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Yücel Paşmakçı",
+    "kaynak_kisi": "Yöre Ekibi",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6558,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-28T07:49:45.008Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
