@@ -1,26 +1,18 @@
 {
   "id": "yalan-geceler-boyu",
   "baslik": "YALAN GECELER BOYU",
-  "sozler_html": "<p>Yaşamak yalan belki * yalan delice sevmek     (2Gözlerin dudakların * o yeminler hep yalan      (2Yalan geceler boyu hep seni düşündüğüm Yalan güller şarkılar menekşeler hep yalanAcımasız ağını şimdi örüyor zamanSana inanmak kadar seni sevmek de yalanBirkaç damla gözyaşı * kurumuş birkaç çiçekNe kaldı elimizde * buruk hatıralardan / Yalan ...</p>",
-  "sozler_duz": "Yaşamak yalan belki * yalan delice sevmek (2Gözlerin dudakların * o yeminler hep yalan (2Yalan geceler boyu hep seni düşündüğüm Yalan güller şarkılar menekşeler hep yalanAcımasız ağını şimdi örüyor zamanSana inanmak kadar seni sevmek de yalanBirkaç damla gözyaşı * kurumuş birkaç çiçekNe kaldı elimizde * buruk hatıralardan / Yalan ...",
+  "sozler_html": "<p>Yaşamak yalan belki * yalan delice sevmek     (2</p><p>Gözlerin dudakların * o yeminler hep yalan      (2</p><p><br></p><p><b>Yalan geceler boyu hep seni düşündüğüm&nbsp;</b></p><p><b>Yalan güller şarkılar menekşeler hep yalan</b></p><p><b>Acımasız ağını şimdi örüyor zaman</b></p><p><b>Sana inanmak kadar seni sevmek de yalan</b></p><p><br></p><p>Birkaç damla gözyaşı * kurumuş birkaç çiçek</p><p>Ne kaldı elimizde * buruk hatıralardan&nbsp;</p><p><br></p><p><b>Yalan ...</b></p>",
+  "sozler_duz": "Yaşamak yalan belki * yalan delice sevmek (2\n\nGözlerin dudakların * o yeminler hep yalan (2\n\nYalan geceler boyu hep seni düşündüğüm \n\nYalan güller şarkılar menekşeler hep yalan\n\nAcımasız ağını şimdi örüyor zaman\n\nSana inanmak kadar seni sevmek de yalan\n\nBirkaç damla gözyaşı * kurumuş birkaç çiçek\n\nNe kaldı elimizde * buruk hatıralardan \n\nYalan ...",
   "meta": {
-    "yore": "Sadettin Öktenay / Turhan Oğuzbaş   Hicaz / Semai",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Sadettin Öktenay / Turhan Oğuzbaş   Hicaz / Semai",
-    "aciklama": ""
+    "turu": "TSM",
+    "soz": "Turhan Oğuzbaş",
+    "muzik": "Sadettin Öktenay",
+    "diger_bilgiler": "Hicaz / Semai"
   },
   "sistem": {
     "eski_id": 6598,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-28T09:46:40.222Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
