@@ -1,26 +1,19 @@
 {
   "id": "uzun-uzun-kamislar",
-  "baslik": "Uzun Uzun Kamışlar_",
-  "sozler_html": "<p>Uzun Uzun Kamışlar...Uy AmanUcunu Boyamışlar...Uy AmanBenim Nazlı Yarimi...Uy AmanGurbete Yollamışlar...Uy Amanİpin Ucu Bendedir...Uy AmanBir Ucu Da Sendedir...Uy AmanDünya Güzelle Dolsa...Uy AmanYine Gönlüm Sendedir...Uy Aman</p>",
-  "sozler_duz": "Uzun Uzun Kamışlar...Uy AmanUcunu Boyamışlar...Uy AmanBenim Nazlı Yarimi...Uy AmanGurbete Yollamışlar...Uy Amanİpin Ucu Bendedir...Uy AmanBir Ucu Da Sendedir...Uy AmanDünya Güzelle Dolsa...Uy AmanYine Gönlüm Sendedir...Uy Aman",
+  "baslik": "UZUN UZUN KAMIŞLAR",
+  "sozler_html": "<p>Uzun uzun kamışlar...uy aman</p><p>Ucunu boyamışlar...uy aman</p><p>Benim nazlı yarimi...uy aman</p><p>Gurbete yollamışlar...uy aman</p><p>&nbsp;</p><p>İpin ucu bendedir...uy aman</p><p>Bir ucu da sendedir...uy aman</p><p>Dünya güzelle dolsa...uy aman</p><p>Yine gönlüm sendedir...uy aman</p>",
+  "sozler_duz": "Uzun uzun kamışlar...uy aman\n\nUcunu boyamışlar...uy aman\n\nBenim nazlı yarimi...uy aman\n\nGurbete yollamışlar...uy aman\n\n \n\nİpin ucu bendedir...uy aman\n\nBir ucu da sendedir...uy aman\n\nDünya güzelle dolsa...uy aman\n\nYine gönlüm sendedir...uy aman",
   "meta": {
     "yore": "Şanlıurfa",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Cemil Cankat",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "MEHMET ÖZBEK",
+    "kaynak_kisi": "Cemil Cankat",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6517,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-28T07:17:23.330Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
