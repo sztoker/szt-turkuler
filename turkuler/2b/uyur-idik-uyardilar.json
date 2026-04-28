@@ -1,26 +1,17 @@
 {
   "id": "uyur-idik-uyardilar",
   "baslik": "UYUR İDİK UYARDILAR",
-  "sozler_html": "<p>Uyur idik uyardılar  /  Diriye saydılar biziKoyun olduk ses anladık  /  Sürüye saydılar biziHalımızı hal eyledik  /  Yolumuzu yol eyledik Her çiçekten bal eyledik  /  Arıya saydılar biziHalkın yoluna dizildik  /  Dost defterine yazıldıkBal olduk şerbet ezildik  /  Doluya saydılar biziPir Sultan Abdalım şunda / Çok keramet var insandaO cihanda bu cihanda /  Veliye saydılar bizi</p>",
-  "sozler_duz": "Uyur idik uyardılar / Diriye saydılar biziKoyun olduk ses anladık / Sürüye saydılar biziHalımızı hal eyledik / Yolumuzu yol eyledik Her çiçekten bal eyledik / Arıya saydılar biziHalkın yoluna dizildik / Dost defterine yazıldıkBal olduk şerbet ezildik / Doluya saydılar biziPir Sultan Abdalım şunda / Çok keramet var insandaO cihanda bu cihanda / Veliye saydılar bizi",
+  "sozler_html": "<p>Uyur idik uyardılar&nbsp;</p><p>Diriye saydılar bizi</p><p>Koyun olduk ses anladık&nbsp;</p><p>Sürüye saydılar bizi</p><p><br></p><p>Halımızı hal eyledik&nbsp;</p><p>Yolumuzu yol eyledik&nbsp;</p><p>Her çiçekten bal eyledik&nbsp;</p><p>Arıya saydılar bizi</p><p><br></p><p>Halkın yoluna dizildik&nbsp;</p><p>Dost defterine yazıldık</p><p>Bal olduk şerbet ezildik&nbsp;</p><p>Doluya saydılar bizi</p><p><br></p><p>Pir Sultan Abdalım şunda&nbsp;</p><p>Çok keramet var insanda</p><p>O cihanda bu cihanda&nbsp;</p><p>Veliye saydılar bizi</p>",
+  "sozler_duz": "Uyur idik uyardılar \n\nDiriye saydılar bizi\n\nKoyun olduk ses anladık \n\nSürüye saydılar bizi\n\nHalımızı hal eyledik \n\nYolumuzu yol eyledik \n\nHer çiçekten bal eyledik \n\nArıya saydılar bizi\n\nHalkın yoluna dizildik \n\nDost defterine yazıldık\n\nBal olduk şerbet ezildik \n\nDoluya saydılar bizi\n\nPir Sultan Abdalım şunda \n\nÇok keramet var insanda\n\nO cihanda bu cihanda \n\nVeliye saydılar bizi",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "Pir Sultan Abdal",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "derleyen": "Plaktan yazıldı",
+    "soz": "Pir Sultan Abdal",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6508,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-28T07:04:36.473Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
