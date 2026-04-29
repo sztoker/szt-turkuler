@@ -1,26 +1,17 @@
 {
   "id": "yarim-gitti-cesmeye",
   "baslik": "YARİM GİTTİ ÇEŞMEYE",
-  "sozler_html": "<p>Yarim gitti çeşmeye –amman amman ammanYaralarım deşmeye – yar yar yar yandımNeyim varsa vereyim / Elinden su içmeyeGüllerim bağda biter / Tütünüm dağda tüterBeni hasrette korsan / Olasın benden beterYarimin gelişine / Mailim gülüşüneDeli olacağım ben / Ben düşüne düşüne</p>",
-  "sozler_duz": "Yarim gitti çeşmeye –amman amman ammanYaralarım deşmeye – yar yar yar yandımNeyim varsa vereyim / Elinden su içmeyeGüllerim bağda biter / Tütünüm dağda tüterBeni hasrette korsan / Olasın benden beterYarimin gelişine / Mailim gülüşüneDeli olacağım ben / Ben düşüne düşüne",
+  "sozler_html": "<p>Yarim gitti çeşmeye –amman amman amman</p><p>Yaralarım deşmeye – yar yar yar yandım</p><p>Neyim varsa vereyim&nbsp;</p><p>Elinden su içmeye</p><p>Güllerim bağda biter&nbsp;</p><p>Tütünüm dağda tüter</p><p>Beni hasrette korsan&nbsp;</p><p>Olasın benden beter</p><p>Yarimin gelişine&nbsp;</p><p>Mailim gülüşüne</p><p>Deli olacağım ben&nbsp;</p><p>Ben düşüne düşüne</p>",
+  "sozler_duz": "Yarim gitti çeşmeye –amman amman amman\n\nYaralarım deşmeye – yar yar yar yandım\n\nNeyim varsa vereyim \n\nElinden su içmeye\n\nGüllerim bağda biter \n\nTütünüm dağda tüter\n\nBeni hasrette korsan \n\nOlasın benden beter\n\nYarimin gelişine \n\nMailim gülüşüne\n\nDeli olacağım ben \n\nBen düşüne düşüne",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "yore": "İstanbul",
+    "turu": "THM",
+    "diger_bilgiler": "Repertuar ile farklılık var, amman.. kısmı repertuarda yok."
   },
   "sistem": {
     "eski_id": 6578,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-29T18:45:58.475Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
