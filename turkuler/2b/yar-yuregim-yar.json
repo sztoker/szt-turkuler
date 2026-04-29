@@ -1,26 +1,19 @@
 {
   "id": "yar-yuregim-yar",
   "baslik": "YAR YÜREĞİM YAR",
-  "sozler_html": "<p>Yar yüreğim yar gör ki neler varBu halkın içinde bize güler varO gülen gülsün hak bizim olsunGafil (nadan) ne bilsin halkı sever varGirdik bu yola aşk ile bileGurbetlik ile bizi salar varEr ki merdana gelsin meydaneKalmasın yane kimde hüner varYunusem burda meydan istemeMeydan içinde merdaneler var</p>",
-  "sozler_duz": "Yar yüreğim yar gör ki neler varBu halkın içinde bize güler varO gülen gülsün hak bizim olsunGafil (nadan) ne bilsin halkı sever varGirdik bu yola aşk ile bileGurbetlik ile bizi salar varEr ki merdana gelsin meydaneKalmasın yane kimde hüner varYunusem burda meydan istemeMeydan içinde merdaneler var",
+  "sozler_html": "<p>Yar yüreğim yar&nbsp;</p><p>Gör ki neler var</p><p>Bu halkın içinde&nbsp;</p><p>Bize güler var</p><p><br></p><p>O gülen gülsün&nbsp;</p><p>Hak bizim olsun</p><p>Gafil (nadan) ne bilsin&nbsp;</p><p>Halkı sever var</p><p><br></p><p>Girdik bu yola&nbsp;</p><p>Aşk ile bile</p><p>Gurbetlik ile&nbsp;</p><p>Bizi salar var</p><p><br></p><p>Er ki merdana&nbsp;</p><p>Gelsin meydane</p><p>Kalmasın yane&nbsp;</p><p>Kimde hüner var</p><p><br></p><p>Yunusem burda&nbsp;</p><p>Meydan isteme</p><p>Meydan içinde&nbsp;</p><p>Merdaneler var</p>",
+  "sozler_duz": "Yar yüreğim yar \n\nGör ki neler var\n\nBu halkın içinde \n\nBize güler var\n\nO gülen gülsün \n\nHak bizim olsun\n\nGafil (nadan) ne bilsin \n\nHalkı sever var\n\nGirdik bu yola \n\nAşk ile bile\n\nGurbetlik ile \n\nBizi salar var\n\nEr ki merdana \n\nGelsin meydane\n\nKalmasın yane \n\nKimde hüner var\n\nYunusem burda \n\nMeydan isteme\n\nMeydan içinde \n\nMerdaneler var",
   "meta": {
-    "yore": "URFA",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
+    "yore": "ŞANLIURFA",
+    "turu": "THM",
     "kaynak_kisi": "Yunus Emre",
-    "soz": "",
-    "muzik": "",
     "soyleyenler": "Z. Livanali",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "URFA",
-    "aciklama": ""
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6571,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-29T18:26:01.158Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
