@@ -1,26 +1,19 @@
 {
   "id": "yaratan-bizleri-insan-yaratti",
   "baslik": "YARATAN BİZLERİ İNSAN YARATTI",
-  "sozler_html": "<p>Yaratan bizleri insan yarattıMuhabbet insana cana muhabbetCümle mahlukatın üstünde tuttuMuhabbet insana cana muhabbetNe mutlu ki bize insan olmuşuzİnsan sevgisini gerçek bilmişizİnsanın dalında açıp gülmüşüz / Muhabbet ...İnsan olan insan gelsin beriyeKimi kara kimi çalar sarıyaAslolan hayattır bakma deriye / Muhabbet ...</p>",
-  "sozler_duz": "Yaratan bizleri insan yarattıMuhabbet insana cana muhabbetCümle mahlukatın üstünde tuttuMuhabbet insana cana muhabbetNe mutlu ki bize insan olmuşuzİnsan sevgisini gerçek bilmişizİnsanın dalında açıp gülmüşüz / Muhabbet ...İnsan olan insan gelsin beriyeKimi kara kimi çalar sarıyaAslolan hayattır bakma deriye / Muhabbet ...",
+  "sozler_html": "<p>Yaratan bizleri insan yarattı</p><p>Muhabbet insana cana muhabbet</p><p>Cümle mahlukatın üstünde tuttu</p><p><br></p><p><b>Muhabbet insana cana muhabbet</b></p><p><br></p><p>Ne mutlu ki bize insan olmuşuz</p><p>İnsan sevgisini gerçek bilmişiz</p><p>İnsanın dalında açıp gülmüşüz&nbsp;</p><p><br></p><p><b>Muhabbet ...</b></p><p><br></p><p>İnsan olan insan gelsin beriye</p><p>Kimi kara kimi çalar sarıya</p><p>Aslolan hayattır bakma deriye&nbsp;</p><p><br></p><p><b>Muhabbet ...</b></p>",
+  "sozler_duz": "Yaratan bizleri insan yarattı\n\nMuhabbet insana cana muhabbet\n\nCümle mahlukatın üstünde tuttu\n\nMuhabbet insana cana muhabbet\n\nNe mutlu ki bize insan olmuşuz\n\nİnsan sevgisini gerçek bilmişiz\n\nİnsanın dalında açıp gülmüşüz \n\nMuhabbet ...\n\nİnsan olan insan gelsin beriye\n\nKimi kara kimi çalar sarıya\n\nAslolan hayattır bakma deriye \n\nMuhabbet ...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "yore": "Beste",
+    "turu": "THM",
+    "soz": "Ruhi Su",
+    "muzik": "Ruhi Su",
+    "soyleyenler": "Ruhi Su"
   },
   "sistem": {
     "eski_id": 6576,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-29T18:39:31.695Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
