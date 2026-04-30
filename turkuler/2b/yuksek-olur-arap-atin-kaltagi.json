@@ -1,26 +1,17 @@
 {
   "id": "yuksek-olur-arap-atin-kaltagi",
   "baslik": "YÜKSEK OLUR ARAP ATIN KALTAĞI",
-  "sozler_html": "<p>Yüksek olur Arap atın kaltağıIssız kalmaz koç yiğidin yatağıGelir değer bir kötünün eteğiGeri dur hoy benli dilber geri durArap at üstünde atlas postumuzKavlimizden döndü m’ola dostumuzBir gün olur kara toprak üstümüzÇürütür hoy benli dilber çürütürŞu görünen bir güzelin dağıdırDibindeki mor sümbüllü bağıdırSenin sevdan yüreğimin yağıdırEritir hoy benli dilber eritir</p>",
-  "sozler_duz": "Yüksek olur Arap atın kaltağıIssız kalmaz koç yiğidin yatağıGelir değer bir kötünün eteğiGeri dur hoy benli dilber geri durArap at üstünde atlas postumuzKavlimizden döndü m’ola dostumuzBir gün olur kara toprak üstümüzÇürütür hoy benli dilber çürütürŞu görünen bir güzelin dağıdırDibindeki mor sümbüllü bağıdırSenin sevdan yüreğimin yağıdırEritir hoy benli dilber eritir",
+  "sozler_html": "<p>Yüksek olur Arap atın kaltağı</p><p>Issız kalmaz koç yiğidin yatağı</p><p>Gelir değer bir kötünün eteği</p><p>Geri dur hoy benli dilber geri dur</p><p>Arap at üstünde atlas postumuz</p><p>Kavlimizden döndü m’ola dostumuz</p><p>Bir gün olur kara toprak üstümüz</p><p>Çürütür hoy benli dilber çürütür</p><p>Şu görünen bir güzelin dağıdır</p><p>Dibindeki mor sümbüllü bağıdır</p><p>Senin sevdan yüreğimin yağıdır</p><p>Eritir hoy benli dilber eritir</p>",
+  "sozler_duz": "Yüksek olur Arap atın kaltağı\n\nIssız kalmaz koç yiğidin yatağı\n\nGelir değer bir kötünün eteği\n\nGeri dur hoy benli dilber geri dur\n\nArap at üstünde atlas postumuz\n\nKavlimizden döndü m’ola dostumuz\n\nBir gün olur kara toprak üstümüz\n\nÇürütür hoy benli dilber çürütür\n\nŞu görünen bir güzelin dağıdır\n\nDibindeki mor sümbüllü bağıdır\n\nSenin sevdan yüreğimin yağıdır\n\nEritir hoy benli dilber eritir",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Anonim",
+    "kaynak_kisi": "Anonim"
   },
   "sistem": {
     "eski_id": 6712,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T17:45:10.533Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
