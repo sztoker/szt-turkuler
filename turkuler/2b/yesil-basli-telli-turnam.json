@@ -1,26 +1,19 @@
 {
   "id": "yesil-basli-telli-turnam",
   "baslik": "YEŞİL BAŞLI TELLİ TURNAM",
-  "sozler_html": "<p>Yeşil başlı telli turnam / Şimdi bizim elde uçtuAklımı başımdan aldı / Aman aman (4 –heyGitti başka göle düştü –vay vayBir yar sevdim içerimden / Kan damlıyor gözlerimdenNazlı yar gitti elimden / Aman aman (4 –heyO da gurbet ele düştü –vay vay</p>",
-  "sozler_duz": "Yeşil başlı telli turnam / Şimdi bizim elde uçtuAklımı başımdan aldı / Aman aman (4 –heyGitti başka göle düştü –vay vayBir yar sevdim içerimden / Kan damlıyor gözlerimdenNazlı yar gitti elimden / Aman aman (4 –heyO da gurbet ele düştü –vay vay",
+  "sozler_html": "<p>Yeşil başlı telli turnam&nbsp;</p><p>Şimdi bizim elde uçtu</p><p>Aklımı başımdan aldı aman aman (4 –hey</p><p>Gitti başka göle düştü –vay vay</p><p><br></p><p>Bir yar sevdim içerimden&nbsp;</p><p>Kan damlıyor gözlerimden</p><p>Nazlı yar gitti elimden aman aman (4 –hey</p><p>O da gurbet ele düştü –vay vay</p>",
+  "sozler_duz": "Yeşil başlı telli turnam \n\nŞimdi bizim elde uçtu\n\nAklımı başımdan aldı aman aman (4 –hey\n\nGitti başka göle düştü –vay vay\n\nBir yar sevdim içerimden \n\nKan damlıyor gözlerimden\n\nNazlı yar gitti elimden aman aman (4 –hey\n\nO da gurbet ele düştü –vay vay",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "yore": "Şanlıurfa",
+    "turu": "THM",
+    "derleyen": "SELAHATTİN ERORHAN",
+    "kaynak_kisi": "BEDİRHAN KIRMIZI",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6661,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T15:13:30.569Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
