@@ -1,26 +1,15 @@
 {
   "id": "yekte",
   "baslik": "YEKTE",
-  "sozler_html": "<p>Bakmaya doymadım o gül yüzüneSevdalandım bir çift tatlı sözüneBaşım koyup uzanaydım dizineBen ölsem de gönlüm sende / Bir güzel yekteYekte yavrum yekte / Pastırmalar tekteKızlar oynamakta / Ne olursa olsun delikenlılıktaSuya gider su testisi doldururGöze (eve) gelir gül benzini soldururİflah etmez bu dert beni öldürür / Ben ölsem de ...Karşıdan gösterdin o beyaz teniDeli ettin sevdiceğim sen beniEmin ol dünyada değişmem seni / Ben ölsem de ...</p>",
-  "sozler_duz": "Bakmaya doymadım o gül yüzüneSevdalandım bir çift tatlı sözüneBaşım koyup uzanaydım dizineBen ölsem de gönlüm sende / Bir güzel yekteYekte yavrum yekte / Pastırmalar tekteKızlar oynamakta / Ne olursa olsun delikenlılıktaSuya gider su testisi doldururGöze (eve) gelir gül benzini soldururİflah etmez bu dert beni öldürür / Ben ölsem de ...Karşıdan gösterdin o beyaz teniDeli ettin sevdiceğim sen beniEmin ol dünyada değişmem seni / Ben ölsem de ...",
+  "sozler_html": "<p>Bakmaya doymadım o gül yüzüne</p><p>Sevdalandım bir çift tatlı sözüne</p><p>Başım koyup uzanaydım dizine</p><p><br></p><p><b>Ben ölsem de gönlüm sende&nbsp;</b></p><p><b>Bir güzel yekte</b></p><p><b>Yekte yavrum yekte&nbsp;</b></p><p><b>Pastırmalar tekte</b></p><p><b>Kızlar oynamakta&nbsp;</b></p><p><b>Ne olursa olsun delikenlılıkta</b></p><p><br></p><p>Suya gider su testisi doldurur</p><p>Göze (eve) gelir gül benzini soldurur</p><p>İflah etmez bu dert beni öldürür&nbsp;</p><p><br></p><p><b>Ben ölsem de ...</b></p><p><br></p><p>Karşıdan gösterdin o beyaz teni</p><p>Deli ettin sevdiceğim sen beni</p><p>Emin ol dünyada değişmem seni&nbsp;</p><p><b><br></b></p><p><b>Ben ölsem de ...</b></p>",
+  "sozler_duz": "Bakmaya doymadım o gül yüzüne\n\nSevdalandım bir çift tatlı sözüne\n\nBaşım koyup uzanaydım dizine\n\nBen ölsem de gönlüm sende \n\nBir güzel yekte\n\nYekte yavrum yekte \n\nPastırmalar tekte\n\nKızlar oynamakta \n\nNe olursa olsun delikenlılıkta\n\nSuya gider su testisi doldurur\n\nGöze (eve) gelir gül benzini soldurur\n\nİflah etmez bu dert beni öldürür \n\nBen ölsem de ...\n\nKarşıdan gösterdin o beyaz teni\n\nDeli ettin sevdiceğim sen beni\n\nEmin ol dünyada değişmem seni \n\nBen ölsem de ...",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "soyleyenler": "Kubat"
   },
   "sistem": {
     "eski_id": 6650,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T14:38:36.954Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
