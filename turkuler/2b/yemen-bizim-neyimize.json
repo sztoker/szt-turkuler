@@ -1,8 +1,8 @@
 {
   "id": "yemen-bizim-neyimize",
   "baslik": "YEMEN BİZİM NEYİMİZE",
-  "sozler_html": "<p>Yemen Bizim Neyimize?</p><p>Şivan Düştü Evimize</p><p>Bak Yavrular Yetim Kaldı</p><p>Güvenmeyin Beyinize</p><p>Basma Fistan Kirlenirse</p><p>Başta Lecek Düglenirse</p><p>Ya Kimlere Baba Desin</p><p>Yetim Yavrum Dillenirse</p><p>Günden Yanı Soldu M'ola</p><p>Yerden Yanı Uludu M'ola</p><p>Yiğidimin Ala Gözün</p><p>Karıncalar Oydu M'ola</p>",
-  "sozler_duz": "Yemen Bizim Neyimize?\n\nŞivan Düştü Evimize\n\nBak Yavrular Yetim Kaldı\n\nGüvenmeyin Beyinize\n\nBasma Fistan Kirlenirse\n\nBaşta Lecek Düglenirse\n\nYa Kimlere Baba Desin\n\nYetim Yavrum Dillenirse\n\nGünden Yanı Soldu M'ola\n\nYerden Yanı Uludu M'ola\n\nYiğidimin Ala Gözün\n\nKarıncalar Oydu M'ola",
+  "sozler_html": "<p>Yemen bizim neyimize?</p><p>Şivan düştü evimize</p><p>Bak yavrular yetim kaldı</p><p>Güvenmeyin beyinize</p><p><br></p><p>Basma fistan kirlenirse</p><p>Başta lecek düglenirse</p><p>Ya kimlere baba desin</p><p>Yetim yavrum dillenirse</p><p><br></p><p>Günden yanı soldu m'ola</p><p>Yerden yanı uludu m'ola</p><p>Yiğidimin ala gözün</p><p>Karıncalar oydu m'ola</p>",
+  "sozler_duz": "Yemen bizim neyimize?\n\nŞivan düştü evimize\n\nBak yavrular yetim kaldı\n\nGüvenmeyin beyinize\n\nBasma fistan kirlenirse\n\nBaşta lecek düglenirse\n\nYa kimlere baba desin\n\nYetim yavrum dillenirse\n\nGünden yanı soldu m'ola\n\nYerden yanı uludu m'ola\n\nYiğidimin ala gözün\n\nKarıncalar oydu m'ola",
   "meta": {
     "turu": "THM",
     "soz": "Anonim",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 6651,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-30T14:46:15.220Z",
+    "son_degisiklik": "2026-04-30T14:47:45.721Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
