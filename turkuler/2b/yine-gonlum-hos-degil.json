@@ -1,26 +1,18 @@
 {
   "id": "yine-gonlum-hos-degil",
   "baslik": "YİNE GÖNLÜM HOŞ DEĞİL",
-  "sozler_html": "<p>Bugün dost yaralanmış / Yine gönlüm hoş değilHer yanı parelenmiş / Yine gönlüm hoş değilDost hasreti zor imiş / Her dem ahuzar imişDert adamı yer imiş / Yine gönlüm hoş değilAkarsu’yum yansam da / Kül olup savrulsam daBazı bazı gülsem de / Yine gönlüm hoş değil</p>",
-  "sozler_duz": "Bugün dost yaralanmış / Yine gönlüm hoş değilHer yanı parelenmiş / Yine gönlüm hoş değilDost hasreti zor imiş / Her dem ahuzar imişDert adamı yer imiş / Yine gönlüm hoş değilAkarsu’yum yansam da / Kül olup savrulsam daBazı bazı gülsem de / Yine gönlüm hoş değil",
+  "sozler_html": "<p>Bugün dost yaralanmış&nbsp;</p><p>Yine gönlüm hoş değil</p><p>Her yanı parelenmiş&nbsp;</p><p>Yine gönlüm hoş değil</p><p><br></p><p>Dost hasreti zor imiş&nbsp;</p><p>Her dem ahuzar imiş</p><p>Dert adamı yer imiş&nbsp;</p><p>Yine gönlüm hoş değil</p><p><br></p><p>Akarsu’yum yansam da&nbsp;</p><p>Kül olup savrulsam da</p><p>Bazı bazı gülsem de&nbsp;</p><p>Yine gönlüm hoş değil</p>",
+  "sozler_duz": "Bugün dost yaralanmış \n\nYine gönlüm hoş değil\n\nHer yanı parelenmiş \n\nYine gönlüm hoş değil\n\nDost hasreti zor imiş \n\nHer dem ahuzar imiş\n\nDert adamı yer imiş \n\nYine gönlüm hoş değil\n\nAkarsu’yum yansam da \n\nKül olup savrulsam da\n\nBazı bazı gülsem de \n\nYine gönlüm hoş değil",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
+    "yore": "Sivas",
+    "derleyen": "Banttan yazıldı",
     "kaynak_kisi": "Muhlis Akarsu",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6675,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T16:23:05.592Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
