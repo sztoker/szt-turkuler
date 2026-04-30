@@ -1,26 +1,19 @@
 {
   "id": "yarim-istanbulu-mesken-mi-tuttun",
-  "baslik": "Yarim İstanbul’u Mesken Mi Tuttun_",
-  "sozler_html": "<p>Yarim İstanbul’u Mesken Mi TuttunGördün Güzelleri Beni UnuttunSılaya Gelmeye Yemin Mi EttinGayri Dayanacak Özüm KalmadıMektuba Yazacak Sözüm KalmadıYarim Sen Gideli Yedi Yıl OlduDiktiğin Fidanlar Meyveye GeldiSeninle Gidenler Sılaya DöndüGayri Dayanacak Özüm KalmadıGençlik Elden Uçtu Gitti, Gelmene Lüzum Kalmadı.</p>",
-  "sozler_duz": "Yarim İstanbul’u Mesken Mi TuttunGördün Güzelleri Beni UnuttunSılaya Gelmeye Yemin Mi EttinGayri Dayanacak Özüm KalmadıMektuba Yazacak Sözüm KalmadıYarim Sen Gideli Yedi Yıl OlduDiktiğin Fidanlar Meyveye GeldiSeninle Gidenler Sılaya DöndüGayri Dayanacak Özüm KalmadıGençlik Elden Uçtu Gitti, Gelmene Lüzum Kalmadı.",
+  "baslik": "YARİM İSTANBUL'U MESKEN Mİ TUTTUN",
+  "sozler_html": "<p>Yarim İstanbul’u mesken mi tuttun<o:p></o:p></p><p>Gördün güzelleri beni unuttun<o:p></o:p></p><p>Sılaya gelmeye yemin mi ettin<o:p></o:p></p><p><br></p><p><b>Gayri dayanacak özüm kalmadı<o:p></o:p></b></p><p><b>Mektuba yazacak sözüm kalmadı<o:p></o:p></b></p><p><br></p><p>Yarim sen gideli yedi yıl oldu<o:p></o:p></p><p>Diktiğin fidanlar meyveye geldi<o:p></o:p></p><p>Seninle gidenler sılaya döndü<o:p></o:p></p><p><br></p><p><b>Gayri dayanacak ...</b></p>",
+  "sozler_duz": "Yarim İstanbul’u mesken mi tuttun\n\nGördün güzelleri beni unuttun\n\nSılaya gelmeye yemin mi ettin\n\nGayri dayanacak özüm kalmadı\n\nMektuba yazacak sözüm kalmadı\n\nYarim sen gideli yedi yıl oldu\n\nDiktiğin fidanlar meyveye geldi\n\nSeninle gidenler sılaya döndü\n\nGayri dayanacak ...",
   "meta": {
     "yore": "Kayseri",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ahmet Gazi Ayhan-Ahmet Gazi Ayhan",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Ahmet Gazi Ayhan",
+    "kaynak_kisi": "Ahmet Gazi Ayhan",
+    "karar": "Si"
   },
   "sistem": {
     "eski_id": 6580,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T13:15:49.394Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
