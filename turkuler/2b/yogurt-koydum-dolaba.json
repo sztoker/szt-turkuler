@@ -1,26 +1,20 @@
 {
   "id": "yogurt-koydum-dolaba",
-  "baslik": "Yoğurt Koydum Dolaba_",
-  "sozler_html": "<p>Yoğurt Koydum Dolaba Ellere VayBugün Başım Kalaba Ellere VayEllere Hanım Canım Ellere VayGiymiş Pembe Şalvarı Ellere VaySallanır Saçakları Yerlere VayKalaylı Tas Yoğurdu Ellere VaySeni Kimler Doğurdu Ellere VaySeni Doğuran Ana Ellere VayBal İlen Mi Doğurdu Ellere VayYoğurdun Üstü Kaymak Ellere VayOlur Mu Yare Doymak Ellere VayYare Doydum Diyenin Ellere VayCaizdir Boynun Vurmak Ellere Vay</p>",
-  "sozler_duz": "Yoğurt Koydum Dolaba Ellere VayBugün Başım Kalaba Ellere VayEllere Hanım Canım Ellere VayGiymiş Pembe Şalvarı Ellere VaySallanır Saçakları Yerlere VayKalaylı Tas Yoğurdu Ellere VaySeni Kimler Doğurdu Ellere VaySeni Doğuran Ana Ellere VayBal İlen Mi Doğurdu Ellere VayYoğurdun Üstü Kaymak Ellere VayOlur Mu Yare Doymak Ellere VayYare Doydum Diyenin Ellere VayCaizdir Boynun Vurmak Ellere Vay",
+  "baslik": "YOĞURT KOYDUM DOLABA",
+  "sozler_html": "<p>Yoğurt Koydum Dolaba Ellere Vay</p><p>Bugün Başım Kalaba Ellere Vay</p><p>Ellere Hanım Canım Ellere Vay</p><p>Giymiş Pembe Şalvarı Sallanır Saçakları&nbsp;</p><p>Yerlere Vay</p><p><br></p><p>Kalaylı Tas Yoğurdu Ellere Vay</p><p>Seni Kimler Doğurdu Ellere Vay</p><p>Seni Doğuran Ana Ellere Vay</p><p>Bal İlen Mi yoğurdu Ellere Vay</p><p><br></p><p>Yoğurdun Üstü Kaymak Ellere Vay</p><p>Olur Mu Yare Doymak Ellere Vay</p><p>Yare Doydum Diyenin Ellere Vay</p><p>Caizdir Boynun Vurmak Ellere Vay</p>",
+  "sozler_duz": "Yoğurt Koydum Dolaba Ellere Vay\n\nBugün Başım Kalaba Ellere Vay\n\nEllere Hanım Canım Ellere Vay\n\nGiymiş Pembe Şalvarı Sallanır Saçakları \n\nYerlere Vay\n\nKalaylı Tas Yoğurdu Ellere Vay\n\nSeni Kimler Doğurdu Ellere Vay\n\nSeni Doğuran Ana Ellere Vay\n\nBal İlen Mi yoğurdu Ellere Vay\n\nYoğurdun Üstü Kaymak Ellere Vay\n\nOlur Mu Yare Doymak Ellere Vay\n\nYare Doydum Diyenin Ellere Vay\n\nCaizdir Boynun Vurmak Ellere Vay",
   "meta": {
-    "yore": "Elazığ",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Hafız Osman Öge-Banttan Yazıldı",
-    "aciklama": ""
+    "yore": "Kilis",
+    "turu": "THM",
+    "derleyen": "MUZAFFER SARISÖZEN",
+    "kaynak_kisi": "NAİL ASLANPAY",
+    "karar": "La",
+    "diger_bilgiler": "Hafız Osman Öge-Banttan Yazıldı"
   },
   "sistem": {
     "eski_id": 6678,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T16:53:14.878Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
