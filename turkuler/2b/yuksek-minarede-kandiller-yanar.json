@@ -1,26 +1,19 @@
 {
   "id": "yuksek-minarede-kandiller-yanar",
-  "baslik": "Yüksek Minarede Kandiller Yanar_",
-  "sozler_html": "<p>Yüksek Minarede Kandiller YanarKandilin Şavkına Bülbüller KonarHerkes Sevdiğine Böyle Mi YanarGül İle Bülbülün Har Davası Var Ellerin Benim İle Canım Ne Kavgası VarYüksek Eyvanlarda Yatmış UyumuşEla Gözlerini Uyku BürümüşEvvel Küçücekti Şimdi BüyümüşGül İle Bülbülün Har Davası Var Ellerin Benim İle Canım Ne Kavgası Var</p>",
-  "sozler_duz": "Yüksek Minarede Kandiller YanarKandilin Şavkına Bülbüller KonarHerkes Sevdiğine Böyle Mi YanarGül İle Bülbülün Har Davası Var Ellerin Benim İle Canım Ne Kavgası VarYüksek Eyvanlarda Yatmış UyumuşEla Gözlerini Uyku BürümüşEvvel Küçücekti Şimdi BüyümüşGül İle Bülbülün Har Davası Var Ellerin Benim İle Canım Ne Kavgası Var",
+  "baslik": "YÜKSEK MİNAREDE KANDİLLER YANAR",
+  "sozler_html": "<p>Yüksek minarede kandiller\nyanar</p><p>Kandilin şavkına bülbüller konar</p><p>Herkes sevdiğine böyle mi yanar</p><p><br></p><p><b>Gül ile bülbülün har davası\nvar&nbsp;</b></p><p><b>Ellerin benim ile canım ne\nkavgası var</b></p><p><br></p><p>Yüksek eyvanlarda yatmış uyumuş</p><p>Ela gözlerini uyku bürümüş</p><p>Evvel küçücekti şimdi büyümüş</p><p><br></p><p><b>Gül ile ...</b></p>",
+  "sozler_duz": "Yüksek minarede kandiller yanar\n\nKandilin şavkına bülbüller konar\n\nHerkes sevdiğine böyle mi yanar\n\nGül ile bülbülün har davası var \n\nEllerin benim ile canım ne kavgası var\n\nYüksek eyvanlarda yatmış uyumuş\n\nEla gözlerini uyku bürümüş\n\nEvvel küçücekti şimdi büyümüş\n\nGül ile ...",
   "meta": {
     "yore": "Elazığ/Harput",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Abdullah Tunç-Mehmet Özbek",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Mehmet Özbek",
+    "kaynak_kisi": "Abdullah Tunç",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6711,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T17:42:19.531Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
