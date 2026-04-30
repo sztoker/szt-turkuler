@@ -1,26 +1,19 @@
 {
   "id": "yavuz-geliyor-yavuz",
-  "baslik": "Yavuz Geliyor Yavuz_",
-  "sozler_html": "<p>Yavuz Geliyor Yavuz (Da)Denizi Yara YaraKız Seni Alacağım (Da)Başına Vura VuraGemim Geliyor Gemim (De)Vona Burnundan BeriKız Allahı Seversen (De)At Başından Çemberi</p>",
-  "sozler_duz": "Yavuz Geliyor Yavuz (Da)Denizi Yara YaraKız Seni Alacağım (Da)Başına Vura VuraGemim Geliyor Gemim (De)Vona Burnundan BeriKız Allahı Seversen (De)At Başından Çemberi",
+  "baslik": "YAVUZ GELİYOR YAVUZ",
+  "sozler_html": "<p>Yavuz Geliyor Yavuz (Da)</p><p>Denizi Yara Yara</p><p>Kız Seni Alacağım (Da)</p><p>Başına Vura Vura</p><p><br></p><p>Gemim Geliyor Gemim (De)</p><p>Vona Burnundan Beri</p><p>Kız Allahı Seversen (De)</p><p>At Başından Çemberi</p>",
+  "sozler_duz": "Yavuz Geliyor Yavuz (Da)\n\nDenizi Yara Yara\n\nKız Seni Alacağım (Da)\n\nBaşına Vura Vura\n\nGemim Geliyor Gemim (De)\n\nVona Burnundan Beri\n\nKız Allahı Seversen (De)\n\nAt Başından Çemberi",
   "meta": {
     "yore": "Karadeniz",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ferhat Özyakuboğlu-Muzaffer Sarısözen",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Ferhat Özyakuboğlu",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6630,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T13:31:21.348Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
