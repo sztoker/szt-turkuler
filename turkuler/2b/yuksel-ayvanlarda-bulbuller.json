@@ -1,26 +1,19 @@
 {
   "id": "yuksel-ayvanlarda-bulbuller",
   "baslik": "YÜKSEL AYVANLARDA BÜLBÜLLER ...",
-  "sozler_html": "<p>Yüksek ayvanlarda bülbüller öterBülbülün figanı aleme yeterBenim çektiklerim ölümden beterGel anam gel bacım gelin olasınÇarşamba gecesi bize gelesinElinin kınasın al eylemişlerGözünün sürmesin bol eylemişlerSeni bir yiğide mal eylemişler / Gel anam ...</p>",
-  "sozler_duz": "Yüksek ayvanlarda bülbüller öterBülbülün figanı aleme yeterBenim çektiklerim ölümden beterGel anam gel bacım gelin olasınÇarşamba gecesi bize gelesinElinin kınasın al eylemişlerGözünün sürmesin bol eylemişlerSeni bir yiğide mal eylemişler / Gel anam ...",
+  "sozler_html": "<p>Yüksek ayvanlarda bülbüller öter</p><p>Bülbülün figanı aleme yeter</p><p>Benim çektiklerim ölümden beter</p><p><b>Gel anam gel bacım gelin olasın</b></p><p><b>Çarşamba gecesi bize gelesin</b></p><p><br></p><p>Elinin kınasın al eylemişler</p><p>Gözünün sürmesin bol eylemişler</p><p>Seni bir yiğide mal eylemişler&nbsp;</p><p><br></p><p>Gel anam ...</p>",
+  "sozler_duz": "Yüksek ayvanlarda bülbüller öter\n\nBülbülün figanı aleme yeter\n\nBenim çektiklerim ölümden beter\n\nGel anam gel bacım gelin olasın\n\nÇarşamba gecesi bize gelesin\n\nElinin kınasın al eylemişler\n\nGözünün sürmesin bol eylemişler\n\nSeni bir yiğide mal eylemişler \n\nGel anam ...",
   "meta": {
     "yore": "MALATYA",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "MALATYA",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "MUZAFFER SARISÖZEN",
+    "kaynak_kisi": "HAKKI COŞKUN",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6715,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T17:47:57.801Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
