@@ -1,26 +1,20 @@
 {
   "id": "yillar-sonra-rastladim-cocukluk-sevgilime",
   "baslik": "YILLAR SONRA RASTLADIM ÇOCUKLUK SEVGİLİME",
-  "sozler_html": "<p>Yıllar sonra rastladım çocukluk sevgilimeO aşina bakışlar içimi deldi yineO bakış ki götürür beni yıllarca geriHatıramda canlandı –ah- ilk aşkımın günleriGelmez o günler –dönmez o günler- mazide kaldı hepVerilen ilk mektuplar ilk yeminler ilk sözlerMazimde kanatlandı içimi yakan gözlerAnladım gelmez geri o çocukluk günleriBir bakış ki o kadar –ah- yaşadım mazim kadar / Gelmez</p>",
-  "sozler_duz": "Yıllar sonra rastladım çocukluk sevgilimeO aşina bakışlar içimi deldi yineO bakış ki götürür beni yıllarca geriHatıramda canlandı –ah- ilk aşkımın günleriGelmez o günler –dönmez o günler- mazide kaldı hepVerilen ilk mektuplar ilk yeminler ilk sözlerMazimde kanatlandı içimi yakan gözlerAnladım gelmez geri o çocukluk günleriBir bakış ki o kadar –ah- yaşadım mazim kadar / Gelmez",
+  "sozler_html": "<p>Yıllar sonra rastladım çocukluk sevgilime</p><p>O aşina bakışlar içimi deldi yine</p><p>O bakış ki götürür beni yıllarca geri</p><p>Hatıramda canlandı –ah- ilk aşkımın günleri</p><p><br></p><p><b>Gelmez o günler –dönmez o günler- mazide kaldı hep</b></p><p><br></p><p>Verilen ilk mektuplar ilk yeminler ilk sözler</p><p>Mazimde kanatlandı içimi yakan gözler</p><p>Anladım gelmez geri o çocukluk günleri</p><p>Bir bakış ki o kadar –ah- yaşadım mazim kadar&nbsp;</p><p><br></p><p><b>Gelmez...</b></p>",
+  "sozler_duz": "Yıllar sonra rastladım çocukluk sevgilime\n\nO aşina bakışlar içimi deldi yine\n\nO bakış ki götürür beni yıllarca geri\n\nHatıramda canlandı –ah- ilk aşkımın günleri\n\nGelmez o günler –dönmez o günler- mazide kaldı hep\n\nVerilen ilk mektuplar ilk yeminler ilk sözler\n\nMazimde kanatlandı içimi yakan gözler\n\nAnladım gelmez geri o çocukluk günleri\n\nBir bakış ki o kadar –ah- yaşadım mazim kadar \n\nGelmez...",
   "meta": {
-    "yore": "Yıldırım Gürses               Acemkürdi / Düyek-Se",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Yıldırım Gürses               Acemkürdi / Düyek-Se",
-    "aciklama": ""
+    "yore": "Acemkürdi / Düyek-Se",
+    "turu": "TSM",
+    "soz": "Yıldırım Gürses",
+    "muzik": "Yıldırım Gürses",
+    "soyleyenler": "Yıldırım Gürses",
+    "diger_bilgiler": "Acemkürdi / Düyek-Se"
   },
   "sistem": {
     "eski_id": 6671,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T15:18:05.723Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
