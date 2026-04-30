@@ -1,26 +1,17 @@
 {
   "id": "yol-verin-oy-daglar",
   "baslik": "YOL VERİN OY DAĞLAR",
-  "sozler_html": "<p>Dağlar dağlar iniler / Derdi yarem yenilerYardan ayrı kalırsam / Yüreğime kor inerYol verin oy dağlar / Gurbette yarim ağlarYarimin gözün yaşı / Sinemi kor kor bağlarSevda kokar gülünüz / Hasret eser yelinizYare giden yolunuz / Kar boran olur dağlar / Yol verin...</p>",
-  "sozler_duz": "Dağlar dağlar iniler / Derdi yarem yenilerYardan ayrı kalırsam / Yüreğime kor inerYol verin oy dağlar / Gurbette yarim ağlarYarimin gözün yaşı / Sinemi kor kor bağlarSevda kokar gülünüz / Hasret eser yelinizYare giden yolunuz / Kar boran olur dağlar / Yol verin...",
+  "sozler_html": "<p>Dağlar dağlar iniler&nbsp;</p><p>Derdi yarem yeniler</p><p>Yardan ayrı kalırsam&nbsp;</p><p>Yüreğime kor iner</p><p><br></p><p><b>Yol verin oy dağlar&nbsp;</b></p><p><b>Gurbette yarim ağlar</b></p><p><b>Yarimin gözün yaşı&nbsp;</b></p><p><b>Sinemi kor kor bağlar</b></p><p><br></p><p>Sevda kokar gülünüz&nbsp;</p><p>Hasret eser yeliniz</p><p>Yare giden yolunuz&nbsp;</p><p>Kar boran olur dağlar&nbsp;</p><p><br></p><p><b>Yol verin...</b></p>",
+  "sozler_duz": "Dağlar dağlar iniler \n\nDerdi yarem yeniler\n\nYardan ayrı kalırsam \n\nYüreğime kor iner\n\nYol verin oy dağlar \n\nGurbette yarim ağlar\n\nYarimin gözün yaşı \n\nSinemi kor kor bağlar\n\nSevda kokar gülünüz \n\nHasret eser yeliniz\n\nYare giden yolunuz \n\nKar boran olur dağlar \n\nYol verin...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Gülbahar Uluer",
-    "muzik": "Ermeni Halk Ezgisi",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "muzik": "Ermeni Halk Ezgisi?",
+    "soyleyenler": "Salkım Söğüt"
   },
   "sistem": {
     "eski_id": 6688,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T17:17:42.268Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
