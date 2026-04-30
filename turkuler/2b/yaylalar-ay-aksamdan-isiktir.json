@@ -1,26 +1,19 @@
 {
   "id": "yaylalar-ay-aksamdan-isiktir",
   "baslik": "YAYLALAR (AY Akşamdan Işıktır)",
-  "sozler_html": "<p>Ay akşamdan ışıktır - yaylalar yaylalarYüküm şimşir kaşıktır - dılo dılo yaylalarKomşu kızını zapteyle - yaylalar yaylalarBizim oğlan aşıktır - dılo dılo yaylalarAy akşamdan aş da gel / Cılga yola düş de gelEğer anan koymazsa  /  Vicdanan danış da gelAyın önünde yıldız  /  Nerden gelirsin baldızSen git de ablan gelsin /  Duramiram yalınız</p>",
-  "sozler_duz": "Ay akşamdan ışıktır - yaylalar yaylalarYüküm şimşir kaşıktır - dılo dılo yaylalarKomşu kızını zapteyle - yaylalar yaylalarBizim oğlan aşıktır - dılo dılo yaylalarAy akşamdan aş da gel / Cılga yola düş de gelEğer anan koymazsa / Vicdanan danış da gelAyın önünde yıldız / Nerden gelirsin baldızSen git de ablan gelsin / Duramiram yalınız",
+  "sozler_html": "<p>Ay akşamdan ışıktır - yaylalar yaylalar</p><p>Yüküm şimşir kaşıktır - dılo dılo yaylalar</p><p>Komşu kızını zapteyle - yaylalar yaylalar</p><p>Bizim oğlan aşıktır - dılo dılo yaylalar</p><p><br></p><p>Ay akşamdan aş da gel - yaylalar yaylalar</p><p>Cılga yola düş de gel- dılo dılo yaylalar</p><p>Eğer anan koymazsa - yaylalar yaylalar</p><p>Vicdanan danış da gel- dılo dılo yaylalar</p><p><br></p><p>Ayın önünde yıldız - yaylalar yaylalar</p><p>Nerden gelirsin baldız- dılo dılo yaylalar</p><p>Sen git de ablan gelsin - yaylalar yaylalar</p><p>Duramiram yalınız- dılo dılo yaylalar</p>",
+  "sozler_duz": "Ay akşamdan ışıktır - yaylalar yaylalar\n\nYüküm şimşir kaşıktır - dılo dılo yaylalar\n\nKomşu kızını zapteyle - yaylalar yaylalar\n\nBizim oğlan aşıktır - dılo dılo yaylalar\n\nAy akşamdan aş da gel - yaylalar yaylalar\n\nCılga yola düş de gel- dılo dılo yaylalar\n\nEğer anan koymazsa - yaylalar yaylalar\n\nVicdanan danış da gel- dılo dılo yaylalar\n\nAyın önünde yıldız - yaylalar yaylalar\n\nNerden gelirsin baldız- dılo dılo yaylalar\n\nSen git de ablan gelsin - yaylalar yaylalar\n\nDuramiram yalınız- dılo dılo yaylalar",
   "meta": {
-    "yore": "AŞKALE / ERZURUM     Ali Atıcı-Muharrem Akkuş",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AŞKALE / ERZURUM     Ali Atıcı-Muharrem Akkuş",
-    "aciklama": ""
+    "yore": "ERZURUM/AŞKALE",
+    "turu": "THM",
+    "derleyen": "Muharrem Akkuş",
+    "kaynak_kisi": "Ali Atıcı",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6636,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T13:35:17.693Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
