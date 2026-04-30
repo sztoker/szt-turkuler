@@ -1,26 +1,18 @@
 {
   "id": "yoksun-diye-bahcemde",
   "baslik": "YOKSUN DİYE BAHÇEMDE",
-  "sozler_html": "<p>Yoksun diye bahçemde * çiçekler açmıyor bak     (2Gel görün açılsınlar * devşirip göğsüne tak     (2Öyle yalnız ki gönlüm * aylardır seni özlerGeleceksin * döneceksin * seveceksin diyerekHer an yolunu gözlerSensiz doğan güneşin * yüzünde kareler var Her bahar ve her çiçek * aşkımı söyler ağlar / Öyle ...</p>",
-  "sozler_duz": "Yoksun diye bahçemde * çiçekler açmıyor bak (2Gel görün açılsınlar * devşirip göğsüne tak (2Öyle yalnız ki gönlüm * aylardır seni özlerGeleceksin * döneceksin * seveceksin diyerekHer an yolunu gözlerSensiz doğan güneşin * yüzünde kareler var Her bahar ve her çiçek * aşkımı söyler ağlar / Öyle ...",
+  "sozler_html": "<p>Yoksun diye bahçemde * çiçekler açmıyor bak     (2</p><p>Gel görün açılsınlar * devşirip göğsüne tak     (2</p><p><br></p><p><b>Öyle yalnız ki gönlüm * aylardır seni özler</b></p><p><b>Geleceksin * döneceksin * seveceksin diyerek</b></p><p><b>Her an yolunu gözler</b></p><p><br></p><p>Sensiz doğan güneşin * yüzünde kareler var&nbsp;</p><p>Her bahar ve her çiçek * aşkımı söyler ağlar&nbsp;</p><p><br></p><p><b>Öyle ...</b></p>",
+  "sozler_duz": "Yoksun diye bahçemde * çiçekler açmıyor bak (2\n\nGel görün açılsınlar * devşirip göğsüne tak (2\n\nÖyle yalnız ki gönlüm * aylardır seni özler\n\nGeleceksin * döneceksin * seveceksin diyerek\n\nHer an yolunu gözler\n\nSensiz doğan güneşin * yüzünde kareler var \n\nHer bahar ve her çiçek * aşkımı söyler ağlar \n\nÖyle ...",
   "meta": {
-    "yore": "Erol Sayan / Yılmaz Topuz              Rast / Sema",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Erol Sayan / Yılmaz Topuz              Rast / Sema",
-    "aciklama": ""
+    "turu": "TSm",
+    "soz": "Yılmaz Topuz",
+    "muzik": "Erol Sayan",
+    "diger_bilgiler": "Rast / Sema"
   },
   "sistem": {
     "eski_id": 6679,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T16:56:24.722Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
