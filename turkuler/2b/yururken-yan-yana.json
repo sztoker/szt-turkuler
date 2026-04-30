@@ -1,26 +1,18 @@
 {
   "id": "yururken-yan-yana",
   "baslik": "YÜRÜRKEN YAN YANA",
-  "sozler_html": "<p>Nice yıllar nice aylar nice günler arasındaBu acılar bu yaralar bu hüzünler arasındaMekik dokur hayatımız karanlıktan aydınlığaBu umutlar bu mapuslar bu sürgünler arasındaSenin sevdan güç verir banaSevdan yürürken yan yanaIşığı getirir bana -yürürken yanyana (2Nice dostlar nice canlar nice kinler arasındaBu dikenler bu çalılar bu zeytinler arasındaMekik dokur hayatımız karanlıktan aydınlığaBu çakallar bu şahinler güvercinler arasındaSenin sevdan ...</p>",
-  "sozler_duz": "Nice yıllar nice aylar nice günler arasındaBu acılar bu yaralar bu hüzünler arasındaMekik dokur hayatımız karanlıktan aydınlığaBu umutlar bu mapuslar bu sürgünler arasındaSenin sevdan güç verir banaSevdan yürürken yan yanaIşığı getirir bana -yürürken yanyana (2Nice dostlar nice canlar nice kinler arasındaBu dikenler bu çalılar bu zeytinler arasındaMekik dokur hayatımız karanlıktan aydınlığaBu çakallar bu şahinler güvercinler arasındaSenin sevdan ...",
+  "sozler_html": "<p>Nice yıllar nice aylar nice günler arasında</p><p>Bu acılar bu yaralar bu hüzünler arasında</p><p>Mekik dokur hayatımız karanlıktan aydınlığa</p><p>Bu umutlar bu mapuslar bu sürgünler arasında</p><p><br></p><p><b>Senin sevdan güç verir bana</b></p><p><b>Sevdan yürürken yan yana</b></p><p><b>Işığı getirir bana -yürürken yanyana (2</b></p><p><br></p><p>Nice dostlar nice canlar nice kinler arasında</p><p>Bu dikenler bu çalılar bu zeytinler arasında</p><p>Mekik dokur hayatımız karanlıktan aydınlığa</p><p>Bu çakallar bu şahinler güvercinler arasında</p><p><br></p><p><b>Senin sevdan ...</b></p>",
+  "sozler_duz": "Nice yıllar nice aylar nice günler arasında\n\nBu acılar bu yaralar bu hüzünler arasında\n\nMekik dokur hayatımız karanlıktan aydınlığa\n\nBu umutlar bu mapuslar bu sürgünler arasında\n\nSenin sevdan güç verir bana\n\nSevdan yürürken yan yana\n\nIşığı getirir bana -yürürken yanyana (2\n\nNice dostlar nice canlar nice kinler arasında\n\nBu dikenler bu çalılar bu zeytinler arasında\n\nMekik dokur hayatımız karanlıktan aydınlığa\n\nBu çakallar bu şahinler güvercinler arasında\n\nSenin sevdan ...",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Zülfü Livaneli & Mikis Theodorakis",
+    "muzik": "Zülfü Livaneli & Mikis Theodorakis",
+    "soyleyenler": "Zülfü Livaneli & Mikis Theodorakis"
   },
   "sistem": {
     "eski_id": 6726,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T18:16:07.476Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
