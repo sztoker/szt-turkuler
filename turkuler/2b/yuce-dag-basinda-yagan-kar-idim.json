@@ -1,26 +1,18 @@
 {
   "id": "yuce-dag-basinda-yagan-kar-idim",
-  "baslik": "Yüce Dağ Başında Yağan Kar İdim_",
-  "sozler_html": "<p>Yüce Dağ Başında Yağan Kar İdimYağdı Yağmur Güneş Vurdu EridimEvvel Yarin Sevdiğide Ben İdimŞimdi Uzaklardan Bakan Ben OldumYüce Dağ Başında Yatmış UyumuşEla Gözlerini Uyku BürümüşEvvel Güçcüğüdü Şimdi BüyümüşŞimdi Uzaklardan Bakan Ben Oldum</p>",
-  "sozler_duz": "Yüce Dağ Başında Yağan Kar İdimYağdı Yağmur Güneş Vurdu EridimEvvel Yarin Sevdiğide Ben İdimŞimdi Uzaklardan Bakan Ben OldumYüce Dağ Başında Yatmış UyumuşEla Gözlerini Uyku BürümüşEvvel Güçcüğüdü Şimdi BüyümüşŞimdi Uzaklardan Bakan Ben Oldum",
+  "baslik": "YÜCE DAĞ BAŞINDA YAĞAN KAR İDİM",
+  "sozler_html": "<p>Yüce dağ başında yağan kar\nidim</p><p>Yağdı yağmur güneş vurdu eridim</p><p>Evvel yarin sevdiği de ben idim</p><p>Şimdi uzaklardan bakan ben oldum</p><p>&nbsp;</p><p>Yüce dağ başında yatmış uyumuş</p><p>Ela gözlerini uyku bürümüş</p><p>Evvel güçcüğüdü şimdi büyümüş</p><p>Şimdi uzaklardan bakan ben oldum</p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>&nbsp;</p>",
+  "sozler_duz": "Yüce dağ başında yağan kar idim\n\nYağdı yağmur güneş vurdu eridim\n\nEvvel yarin sevdiği de ben idim\n\nŞimdi uzaklardan bakan ben oldum\n\n \n\nYüce dağ başında yatmış uyumuş\n\nEla gözlerini uyku bürümüş\n\nEvvel güçcüğüdü şimdi büyümüş\n\nŞimdi uzaklardan bakan ben oldum",
   "meta": {
     "yore": "Kırıkkale/Keskin",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Hacı Taşan-Plaktan Yazıldı",
-    "aciklama": ""
+    "turu": "thm",
+    "derleyen": "Plaktan Yazıldı",
+    "kaynak_kisi": "Hacı Taşan"
   },
   "sistem": {
     "eski_id": 6708,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T17:35:10.561Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
