@@ -1,16 +1,19 @@
 {
   "id": "yesil-ayna-takindin-mi-beline",
   "baslik": "YEŞİL AYNA TAKINDIN MI BELİNE",
-  "sozler_html": "<p>Yeşil ayna takındın mı belineGelin kurban olam tatlı dilineSen düşürdün beni alem dilineKendi melül melül gözü yaşlı da yar / Sen sefa geldinBenim ile mercimeği taşlı da yar / Sen sefa geldinÇarşıdan aldırdım yeşil aynayıBoşa çiğnemişim yalan dünyayıNe İstanbul koydum ne de Konya'yıKendime münasip yar bulamadın / Sen sefa geldin</p>",
-  "sozler_duz": "Yeşil ayna takındın mı belineGelin kurban olam tatlı dilineSen düşürdün beni alem dilineKendi melül melül gözü yaşlı da yar / Sen sefa geldinBenim ile mercimeği taşlı da yar / Sen sefa geldinÇarşıdan aldırdım yeşil aynayıBoşa çiğnemişim yalan dünyayıNe İstanbul koydum ne de Konya'yıKendime münasip yar bulamadın / Sen sefa geldin",
+  "sozler_html": "<p>Yeşil ayna takındın mı beline</p><p>Gelin kurban olam tatlı diline</p><p>Sen düşürdün beni alem diline</p><p>Kendi melül melül gözü yaşlı da yar, sen sefa geldin</p><p>Benim ile mercimeği taşlı da yar, sen sefa geldin</p><p><br></p><p>Çarşıdan aldırdım yeşil aynayı</p><p>Boşa çiğnemişim yalan dünyayı</p><p>Ne İstanbul koydum ne de Konya'yı</p><p>Kendime münasip yar bulamadın, sen sefa geldin</p>",
+  "sozler_duz": "Yeşil ayna takındın mı beline\n\nGelin kurban olam tatlı diline\n\nSen düşürdün beni alem diline\n\nKendi melül melül gözü yaşlı da yar, sen sefa geldin\n\nBenim ile mercimeği taşlı da yar, sen sefa geldin\n\nÇarşıdan aldırdım yeşil aynayı\n\nBoşa çiğnemişim yalan dünyayı\n\nNe İstanbul koydum ne de Konya'yı\n\nKendime münasip yar bulamadın, sen sefa geldin",
   "meta": {
+    "yore": "Yozgat",
+    "turu": "THM",
     "derleyen": "Nida Tüfekçi",
-    "kaynak_kisi": "Fahri Akbilek"
+    "kaynak_kisi": "Fahri Akbilek",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6658,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T13:16:14.922Z",
+    "son_degisiklik": "2026-04-30T15:03:19.641Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
