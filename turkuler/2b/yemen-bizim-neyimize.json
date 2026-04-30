@@ -1,26 +1,17 @@
 {
   "id": "yemen-bizim-neyimize",
-  "baslik": "Yemen Bizim Neyimize_",
-  "sozler_html": "<p>Yemen Bizim Neyimize?Şivan Düştü EvimizeBak Yavrular Yetim KaldıGüvenmeyin BeyinizeBasma Fistan KirlenirseBaşta Lecek DüglenirseYa Kimlere Baba DesinYetim Yavrum DillenirseGünden Yanı Soldu M'olaYerden Yanı Uludu M'olaYiğidimin Ala GözünKarıncalar Oydu M'ola</p>",
-  "sozler_duz": "Yemen Bizim Neyimize?Şivan Düştü EvimizeBak Yavrular Yetim KaldıGüvenmeyin BeyinizeBasma Fistan KirlenirseBaşta Lecek DüglenirseYa Kimlere Baba DesinYetim Yavrum DillenirseGünden Yanı Soldu M'olaYerden Yanı Uludu M'olaYiğidimin Ala GözünKarıncalar Oydu M'ola",
+  "baslik": "YEMEN BİZİM NEYİMİZE",
+  "sozler_html": "<p>Yemen Bizim Neyimize?</p><p>Şivan Düştü Evimize</p><p>Bak Yavrular Yetim Kaldı</p><p>Güvenmeyin Beyinize</p><p>Basma Fistan Kirlenirse</p><p>Başta Lecek Düglenirse</p><p>Ya Kimlere Baba Desin</p><p>Yetim Yavrum Dillenirse</p><p>Günden Yanı Soldu M'ola</p><p>Yerden Yanı Uludu M'ola</p><p>Yiğidimin Ala Gözün</p><p>Karıncalar Oydu M'ola</p>",
+  "sozler_duz": "Yemen Bizim Neyimize?\n\nŞivan Düştü Evimize\n\nBak Yavrular Yetim Kaldı\n\nGüvenmeyin Beyinize\n\nBasma Fistan Kirlenirse\n\nBaşta Lecek Düglenirse\n\nYa Kimlere Baba Desin\n\nYetim Yavrum Dillenirse\n\nGünden Yanı Soldu M'ola\n\nYerden Yanı Uludu M'ola\n\nYiğidimin Ala Gözün\n\nKarıncalar Oydu M'ola",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "İsmail Özden",
-    "aciklama": ""
+    "turu": "THM",
+    "soz": "Anonim",
+    "muzik": "Kemal Algün"
   },
   "sistem": {
     "eski_id": 6651,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T14:46:15.220Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
