@@ -1,26 +1,18 @@
 {
   "id": "yine-bir-gariplik-dustu-serime",
   "baslik": "YİNE BİR GARİPLİK DÜŞTÜ SERİME",
-  "sozler_html": "<p>Yine bir gariplik düştü serimeBen de bilmem ya nice olur halımızAt sürüp bu ellerden gitmek isterimBelki tuz ekmektir de bağlar yolumuzVakti gelmeyince kervanlar göçmezBariden habersiz yavru kuş uçmazGönül yeğin attan da dilberden geçmezİçegördüm eksilmiyor dolumuzKul Halil’im der de nekes gülmesinİyiler gidip de kemler kalmasınHerkes bildiğinden de geri durmasınAllah sana da malum olsun halımız</p>",
-  "sozler_duz": "Yine bir gariplik düştü serimeBen de bilmem ya nice olur halımızAt sürüp bu ellerden gitmek isterimBelki tuz ekmektir de bağlar yolumuzVakti gelmeyince kervanlar göçmezBariden habersiz yavru kuş uçmazGönül yeğin attan da dilberden geçmezİçegördüm eksilmiyor dolumuzKul Halil’im der de nekes gülmesinİyiler gidip de kemler kalmasınHerkes bildiğinden de geri durmasınAllah sana da malum olsun halımız",
+  "sozler_html": "<p>Yine bir gariplik düştü serime</p><p>Ben de bilmem ya nice olur halımız</p><p>At sürüp bu ellerden gitmek isterim</p><p>Belki tuz ekmektir de bağlar yolumuz</p><p><br></p><p>Vakti gelmeyince kervanlar göçmez</p><p>Bariden habersiz yavru kuş uçmaz</p><p>Gönül yeğin attan da dilberden geçmez</p><p>İçegördüm eksilmiyor dolumuz</p><p><br></p><p>Kul Halil’im der de nekes gülmesin</p><p>İyiler gidip de kemler kalmasın</p><p>Herkes bildiğinden de geri durmasın</p><p>Allah sana da malum olsun halımız</p>",
+  "sozler_duz": "Yine bir gariplik düştü serime\n\nBen de bilmem ya nice olur halımız\n\nAt sürüp bu ellerden gitmek isterim\n\nBelki tuz ekmektir de bağlar yolumuz\n\nVakti gelmeyince kervanlar göçmez\n\nBariden habersiz yavru kuş uçmaz\n\nGönül yeğin attan da dilberden geçmez\n\nİçegördüm eksilmiyor dolumuz\n\nKul Halil’im der de nekes gülmesin\n\nİyiler gidip de kemler kalmasın\n\nHerkes bildiğinden de geri durmasın\n\nAllah sana da malum olsun halımız",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "Kul Halil",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "yore": "Anonim",
+    "turu": "THM",
+    "soz": "Kul Halil",
+    "muzik": "Ruhi Su"
   },
   "sistem": {
     "eski_id": 6673,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T16:11:50.618Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
