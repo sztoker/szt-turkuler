@@ -1,26 +1,18 @@
 {
   "id": "yenge-kizin-bir-tane",
-  "baslik": "Yenge Kızın Bir Tane_",
-  "sozler_html": "<p>Yenge Kızın Bir TaneSaçları Tane TaneYenge Kızın İkidirKüçüğü BenimkidirYenge Kızın Üç OlduBiri Bana Güç OlduYenge Kızın Dört OlduBiri Bana Dert OlduYenge Kızın Beş OlduBiri Bana Eş OlduYenge Kızın AltıdırYanakları TatlıdırYenge Kızın YedidirBir Tanesi DertlidirYenge Kızın SekizdirBir Tanesi SemizdirYenge Kızın DokuzdurBir Büyüğü DomuzdurYenge Kızın On TamamBayıldım Aman Aman</p>",
-  "sozler_duz": "Yenge Kızın Bir TaneSaçları Tane TaneYenge Kızın İkidirKüçüğü BenimkidirYenge Kızın Üç OlduBiri Bana Güç OlduYenge Kızın Dört OlduBiri Bana Dert OlduYenge Kızın Beş OlduBiri Bana Eş OlduYenge Kızın AltıdırYanakları TatlıdırYenge Kızın YedidirBir Tanesi DertlidirYenge Kızın SekizdirBir Tanesi SemizdirYenge Kızın DokuzdurBir Büyüğü DomuzdurYenge Kızın On TamamBayıldım Aman Aman",
+  "baslik": "YENGE KIZIN BİR TANE",
+  "sozler_html": "<p>Yenge Kızın Bir Tane</p><p>Saçları Tane Tane</p><p>Yenge Kızın İkidir</p><p>Küçüğü Benimkidir</p><p>Yenge Kızın Üç Oldu</p><p>Biri Bana Güç Oldu</p><p>Yenge Kızın Dört Oldu</p><p>Biri Bana Dert Oldu</p><p>Yenge Kızın Beş Oldu</p><p>Biri Bana Eş Oldu</p><p>Yenge Kızın Altıdır</p><p>Yanakları Tatlıdır</p><p>Yenge Kızın Yedidir</p><p>Bir Tanesi Dertlidir</p><p>Yenge Kızın Sekizdir</p><p>Bir Tanesi Semizdir</p><p>Yenge Kızın Dokuzdur</p><p>Bir Büyüğü Domuzdur</p><p>Yenge Kızın On Tamam</p><p>Bayıldım Aman Aman</p>",
+  "sozler_duz": "Yenge Kızın Bir Tane\n\nSaçları Tane Tane\n\nYenge Kızın İkidir\n\nKüçüğü Benimkidir\n\nYenge Kızın Üç Oldu\n\nBiri Bana Güç Oldu\n\nYenge Kızın Dört Oldu\n\nBiri Bana Dert Oldu\n\nYenge Kızın Beş Oldu\n\nBiri Bana Eş Oldu\n\nYenge Kızın Altıdır\n\nYanakları Tatlıdır\n\nYenge Kızın Yedidir\n\nBir Tanesi Dertlidir\n\nYenge Kızın Sekizdir\n\nBir Tanesi Semizdir\n\nYenge Kızın Dokuzdur\n\nBir Büyüğü Domuzdur\n\nYenge Kızın On Tamam\n\nBayıldım Aman Aman",
   "meta": {
     "yore": "Rize",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Hasan Sözeri-Muzaffer Sarısözen",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Hasan Sözeri"
   },
   "sistem": {
     "eski_id": 6653,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T14:58:29.411Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
