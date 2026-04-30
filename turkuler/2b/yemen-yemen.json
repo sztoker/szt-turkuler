@@ -1,26 +1,17 @@
 {
   "id": "yemen-yemen",
   "baslik": "YEMEN YEMEN",
-  "sozler_html": "<p>Yemen Yemen şanlı Yemen / Toprakları kanlı YemenBen Yemen'e dayanamam / Nazlı yardan ayrılamamGitme Yemen'e Yemen'e  / Yemen sıcak dayanamanKalk (tan) borusu çalınınca  / Sen küçüksün uyanaman</p>",
-  "sozler_duz": "Yemen Yemen şanlı Yemen / Toprakları kanlı YemenBen Yemen'e dayanamam / Nazlı yardan ayrılamamGitme Yemen'e Yemen'e / Yemen sıcak dayanamanKalk (tan) borusu çalınınca / Sen küçüksün uyanaman",
+  "sozler_html": "<p>Yemen Yemen şanlı Yemen&nbsp;</p><p>Toprakları kanlı Yemen</p><p>Ben Yemen'e dayanamam&nbsp;</p><p>Nazlı yardan ayrılamam</p><p><br></p><p>Gitme Yemen'e Yemen'e&nbsp;</p><p>Yemen sıcak dayanaman</p><p>Kalk (tan) borusu çalınınca&nbsp;</p><p>Sen küçüksün uyanaman</p>",
+  "sozler_duz": "Yemen Yemen şanlı Yemen \n\nToprakları kanlı Yemen\n\nBen Yemen'e dayanamam \n\nNazlı yardan ayrılamam\n\nGitme Yemen'e Yemen'e \n\nYemen sıcak dayanaman\n\nKalk (tan) borusu çalınınca \n\nSen küçüksün uyanaman",
   "meta": {
     "yore": "RUMELİ (Yugoslavya)",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "Nimetullah Hafız’dan",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "RUMELİ (Yugoslavya)",
-    "aciklama": ""
+    "kaynak_kisi": "Nimetullah Yılmaz",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6652,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T14:50:34.713Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
