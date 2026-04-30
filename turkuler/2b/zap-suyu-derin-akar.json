@@ -1,26 +1,19 @@
 {
   "id": "zap-suyu-derin-akar",
-  "baslik": "Zap Suyu  Derin Akar_",
-  "sozler_html": "<p>Zap Suyu  Derin Akar  Oy Sinem Mi Sinem MiCan Alır Yürek Yakar ; Oy Sinem Mi Sinem MiBen Sevip Eller Ala ; ; ; ; Oy Sinem Mi Sinem MiBana Da Kimler Bakar ; Oy Sinem Mi Sinem Mi,Oy Sinem Mi Sinem Mi,Yar Sinem Mi Sinem Mi,Yar Sinem Sinem Sinem Mi,Yar Sinem Mi Sinem Mi.Zap Suyu Aktı Geçti ; ; Oy Sinem Mi Sinem MiSinemi Yaktı Geçti ; ; ; ; Oy Sinem Mi Sinem Mi,Güzellerin İçinden ; ; ; ; ; Oy Sinem Mi Sinem MiBenim Yarimi Seçti ; ; ; ; Oy Sinem Mi Sinem Mi.Oy Sinem Mi Sinem Mi,Yar Sinem Mi Sinem Mi,Yar Sinem Sinem Sinem Mi,Yar Sinem Mi Sinem MiZap Suyu Geçit Vermez ; Oy Sinem Mi Sinem MiSırrına Akıl Ermez ; ; ; ; ; ; ; ; Oy Sinem Mi Sinem MiÖyle Bir Yare Düştüm ; ; ; ; Oy Sinem Mi Sinem Mi,Dünyada Yüzüm Gülmez ; Oy Sinem Mi Sinem Mi.Oy Sinem Mi Sinem Mi,Yar Sinem Mi Sinem Mi,Yar Sinem Sinem Sinem Mi,Yar Sinem Mi Sinem Mi.</p>",
-  "sozler_duz": "Zap Suyu Derin Akar Oy Sinem Mi Sinem MiCan Alır Yürek Yakar ; Oy Sinem Mi Sinem MiBen Sevip Eller Ala ; ; ; ; Oy Sinem Mi Sinem MiBana Da Kimler Bakar ; Oy Sinem Mi Sinem Mi,Oy Sinem Mi Sinem Mi,Yar Sinem Mi Sinem Mi,Yar Sinem Sinem Sinem Mi,Yar Sinem Mi Sinem Mi.Zap Suyu Aktı Geçti ; ; Oy Sinem Mi Sinem MiSinemi Yaktı Geçti ; ; ; ; Oy Sinem Mi Sinem Mi,Güzellerin İçinden ; ; ; ; ; Oy Sinem Mi Sinem MiBenim Yarimi Seçti ; ; ; ; Oy Sinem Mi Sinem Mi.Oy Sinem Mi Sinem Mi,Yar Sinem Mi Sinem Mi,Yar Sinem Sinem Sinem Mi,Yar Sinem Mi Sinem MiZap Suyu Geçit Vermez ; Oy Sinem Mi Sinem MiSırrına Akıl Ermez ; ; ; ; ; ; ; ; Oy Sinem Mi Sinem MiÖyle Bir Yare Düştüm ; ; ; ; Oy Sinem Mi Sinem Mi,Dünyada Yüzüm Gülmez ; Oy Sinem Mi Sinem Mi.Oy Sinem Mi Sinem Mi,Yar Sinem Mi Sinem Mi,Yar Sinem Sinem Sinem Mi,Yar Sinem Mi Sinem Mi.",
+  "baslik": "ZAP SUYU DERİN AKAR",
+  "sozler_html": "<p>Zap suyu derin akar oy sinem\nmi sinem mi</p><p>Can alır yürek yakar oy sinem mi\nsinem mi</p><p>Ben sevip eller ala oy sinem mi\nsinem mi</p><p>Bana da kimler bakar oy sinem mi\nsinem mi,</p><p>&nbsp;</p><p><b>Oy sinem mi sinem mi,</b></p><p><b>Yar sinem mi sinem mi,</b></p><p><b>Yar sinem sinem sinem mi,</b></p><p><b>Yar sinem mi sinem mi.</b></p><p>&nbsp;</p><p>Zap suyu aktı geçti oy sinem mi\nsinem mi</p><p>Sinemi yaktı geçti oy sinem mi\nsinem mi</p><p>Güzellerin içinden oy sinem\nmi sinem mi</p><p>Benim yarimi seçti oy sinem mi\nsinem mi</p><p>&nbsp;</p><p><b>Oy sinem ...</b></p><p>&nbsp;</p><p>Zap suyu geçit vermez oy sinem mi\nsinem mi</p><p>Sırrına akıl ermez oy sinem mi\nsinem mi</p><p>Öyle bir yare düştüm oy sinem mi\nsinem mi</p><p>Dünyada yüzüm gülmez oy sinem mi\nsinem mi</p><p>&nbsp;</p><p><b>Oy sinem&nbsp;…</b></p>",
+  "sozler_duz": "Zap suyu derin akar oy sinem mi sinem mi\n\nCan alır yürek yakar oy sinem mi sinem mi\n\nBen sevip eller ala oy sinem mi sinem mi\n\nBana da kimler bakar oy sinem mi sinem mi,\n\n \n\nOy sinem mi sinem mi,\n\nYar sinem mi sinem mi,\n\nYar sinem sinem sinem mi,\n\nYar sinem mi sinem mi.\n\n \n\nZap suyu aktı geçti oy sinem mi sinem mi\n\nSinemi yaktı geçti oy sinem mi sinem mi\n\nGüzellerin içinden oy sinem mi sinem mi\n\nBenim yarimi seçti oy sinem mi sinem mi\n\n \n\nOy sinem ...\n\n \n\nZap suyu geçit vermez oy sinem mi sinem mi\n\nSırrına akıl ermez oy sinem mi sinem mi\n\nÖyle bir yare düştüm oy sinem mi sinem mi\n\nDünyada yüzüm gülmez oy sinem mi sinem mi\n\n \n\nOy sinem …",
   "meta": {
     "yore": "Van",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Sami Yılmaztürk-İlhan Erten",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "İlhan Erten",
+    "kaynak_kisi": "SAMİ DOĞAN YILMAZTÜRK",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6739,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T18:28:47.209Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
