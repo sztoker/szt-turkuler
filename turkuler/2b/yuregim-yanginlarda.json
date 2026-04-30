@@ -1,16 +1,18 @@
 {
   "id": "yuregim-yanginlarda",
   "baslik": "YÜREĞİM YANGINLARDA",
-  "sozler_html": "<p>Yüreğim yangınlarda / baş edemedim</p><p>Yar beni terk eylemiş / alışamadım</p><p><br></p><p>Halimi sorma derdimi sorma her günüm duman oy</p><p><br></p><p>Gide gele in çık yollar / Teselli muhabbetler</p><p>Kar etmez sorma dindirmez sorma her günüm duman oy</p><p><br></p><p>Saçlarım ağarıyor / sabredemedim</p><p>Dönecek biliyorum / dinletemedim&nbsp;</p><p><br></p><p>Halimi sorma ...</p>",
+  "sozler_html": "<p>Yüreğim yangınlarda / baş edemedim</p><p>Yar beni terk eylemiş / alışamadım</p><p><br></p><p><b>Halimi sorma derdimi sorma her günüm duman oy</b></p><p><b>Gide gele in çık yollar / Teselli muhabbetler</b></p><p><b>Kar etmez sorma dindirmez sorma her günüm duman oy</b></p><p><br></p><p>Saçlarım ağarıyor / sabredemedim</p><p>Dönecek biliyorum / dinletemedim&nbsp;</p><p><br></p><p><b>Halimi sorma ...</b></p>",
   "sozler_duz": "Yüreğim yangınlarda / baş edemedim\n\nYar beni terk eylemiş / alışamadım\n\nHalimi sorma derdimi sorma her günüm duman oy\n\nGide gele in çık yollar / Teselli muhabbetler\n\nKar etmez sorma dindirmez sorma her günüm duman oy\n\nSaçlarım ağarıyor / sabredemedim\n\nDönecek biliyorum / dinletemedim \n\nHalimi sorma ...",
   "meta": {
-    "yore": "S – M : Efkan Şeşen",
-    "diger_bilgiler": "S – M : Efkan Şeşen"
+    "turu": "Özgün",
+    "soz": "Efkan Şeşen",
+    "muzik": "Efkan Şeşen",
+    "soyleyenler": "Efkan Şeşen"
   },
   "sistem": {
     "eski_id": 6716,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-30T17:52:29.918Z",
+    "son_degisiklik": "2026-04-30T17:53:57.112Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
