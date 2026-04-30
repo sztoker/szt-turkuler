@@ -1,26 +1,17 @@
 {
   "id": "yaz-demedim-kis-demedim",
   "baslik": "YAZ DEMEDİM KIŞ DEMEDİM",
-  "sozler_html": "<p>Yaz demedim kış demedim eğlendimRakı içtim şarap içtim sallandım -a canım sallandımAğzım yandı artık benden sevda pasGene dünya (Urfa) eski hamam eski tasKız demedim dul demedim evlendimGide gide bir kötüye bağlandım / Ağzım yandı ...</p>",
-  "sozler_duz": "Yaz demedim kış demedim eğlendimRakı içtim şarap içtim sallandım -a canım sallandımAğzım yandı artık benden sevda pasGene dünya (Urfa) eski hamam eski tasKız demedim dul demedim evlendimGide gide bir kötüye bağlandım / Ağzım yandı ...",
+  "sozler_html": "<p>Yaz demedim kış demedim eğlendim</p><p>Rakı içtim şarap içtim sallandım -a canım sallandım</p><p><br></p><p><b>Ağzım yandı artık benden sevda pas</b></p><p><b>Gene dünya (Urfa) eski hamam eski tas</b></p><p><br></p><p>Kız demedim dul demedim evlendim</p><p>Gide gide bir kötüye bağlandım&nbsp;</p><p><br></p><p><b>Ağzım yandı ...</b></p>",
+  "sozler_duz": "Yaz demedim kış demedim eğlendim\n\nRakı içtim şarap içtim sallandım -a canım sallandım\n\nAğzım yandı artık benden sevda pas\n\nGene dünya (Urfa) eski hamam eski tas\n\nKız demedim dul demedim evlendim\n\nGide gide bir kötüye bağlandım \n\nAğzım yandı ...",
   "meta": {
-    "yore": "URFA",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "URFA",
-    "aciklama": ""
+    "yore": "ŞANLIURFA",
+    "turu": "THM",
+    "kaynak_kisi": "Kazancı Bedih"
   },
   "sistem": {
     "eski_id": 6647,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T14:32:18.158Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
