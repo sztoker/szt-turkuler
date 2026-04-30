@@ -1,26 +1,17 @@
 {
   "id": "yasamak",
   "baslik": "YAŞAMAK",
-  "sozler_html": "<p>Yüzünde bir iz bulur / Aydınlanır genişler ufukBir gün kapanır bütün kapılar Öksüz bir dünyada / Yalnız bir dünyadaBakar kalırsın çaresizİşte böyle hüzün dolu / İşte böyle kırık bir şey / YaşamakTanıdık geceler / Bildik kaygılarKentler köprüler uzayan yollarKendi düşlerinden yorgun bir ozan (2Direnir acıya tek başınaİşte böyle onurlu bir şey  (2  / YaşamakDamarda akan kanın hışırtısıPenceremin dışında tomurcuk baharHavada taze somun kokusuHerşeye rağmen (2 / Hayatta kalmanın mutluluğuİşte böyle delicesine/İşte böyle coşkulu bir şey yaşamak</p>",
-  "sozler_duz": "Yüzünde bir iz bulur / Aydınlanır genişler ufukBir gün kapanır bütün kapılar Öksüz bir dünyada / Yalnız bir dünyadaBakar kalırsın çaresizİşte böyle hüzün dolu / İşte böyle kırık bir şey / YaşamakTanıdık geceler / Bildik kaygılarKentler köprüler uzayan yollarKendi düşlerinden yorgun bir ozan (2Direnir acıya tek başınaİşte böyle onurlu bir şey (2 / YaşamakDamarda akan kanın hışırtısıPenceremin dışında tomurcuk baharHavada taze somun kokusuHerşeye rağmen (2 / Hayatta kalmanın mutluluğuİşte böyle delicesine/İşte böyle coşkulu bir şey yaşamak",
+  "sozler_html": "<p>Yüzünde bir iz bulur&nbsp;</p><p>Aydınlanır genişler ufuk</p><p>Bir gün kapanır bütün kapılar&nbsp;</p><p>Öksüz bir dünyada&nbsp;</p><p>Yalnız bir dünyada</p><p>Bakar kalırsın çaresiz</p><p><br></p><p><b>İşte böyle hüzün dolu&nbsp;</b></p><p><b>İşte böyle kırık bir şey,&nbsp;</b></p><p><b>Yaşamak</b></p><p><br></p><p>Tanıdık geceler&nbsp;</p><p>Bildik kaygılar</p><p>Kentler köprüler&nbsp;</p><p>Uzayan yollarK</p><p>endi düşlerinden yorgun bir ozan (2</p><p>Direnir acıya tek başına</p><p><br></p><p><b>İşte böyle onurlu bir şey  (2&nbsp;</b></p><p><b>Yaşamak</b></p><p><br></p><p>Damarda akan kanın hışırtısı</p><p>Penceremin dışında tomurcuk bahar</p><p>Havada taze somun kokusu</p><p>Herşeye rağmen (2&nbsp;</p><p>Hayatta kalmanın mutluluğu</p><p><br></p><p><b>İşte böyle delicesine</b></p><p><b>İşte böyle coşkulu bir şey&nbsp;</b></p><p><b>Yaşamak</b></p>",
+  "sozler_duz": "Yüzünde bir iz bulur \n\nAydınlanır genişler ufuk\n\nBir gün kapanır bütün kapılar \n\nÖksüz bir dünyada \n\nYalnız bir dünyada\n\nBakar kalırsın çaresiz\n\nİşte böyle hüzün dolu \n\nİşte böyle kırık bir şey, \n\nYaşamak\n\nTanıdık geceler \n\nBildik kaygılar\n\nKentler köprüler \n\nUzayan yollarK\n\nendi düşlerinden yorgun bir ozan (2\n\nDirenir acıya tek başına\n\nİşte böyle onurlu bir şey (2 \n\nYaşamak\n\nDamarda akan kanın hışırtısı\n\nPenceremin dışında tomurcuk bahar\n\nHavada taze somun kokusu\n\nHerşeye rağmen (2 \n\nHayatta kalmanın mutluluğu\n\nİşte böyle delicesine\n\nİşte böyle coşkulu bir şey \n\nYaşamak",
   "meta": {
-    "yore": "S – M : Zülfü Livanali",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S – M : Zülfü Livanali",
-    "aciklama": ""
+    "soz": "Zülfü Livaneli",
+    "muzik": "Zülfü Livaneli",
+    "soyleyenler": "Zülfü Livaneli"
   },
   "sistem": {
     "eski_id": 6623,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T13:23:00.728Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
