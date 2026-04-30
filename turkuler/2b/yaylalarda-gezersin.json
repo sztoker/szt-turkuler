@@ -1,8 +1,8 @@
 {
   "id": "yaylalarda-gezersin",
   "baslik": "YAYLALARDA GEZERSİN",
-  "sozler_html": "<p>Yaylalarda Gezersin</p><p>Keklik Gibi Sekersin</p><p>Ak Kayanın Başında</p><p>Yanık Yanık Ötersin</p><p><br></p><p><b>Çıktım Yayla Yoluna</b></p><p><b>Varem Gidem Yanına</b></p><p><b>Şu Yörüğün Kızının</b></p><p><b>Necap Girem Koluna</b></p><p><br></p><p>Yaylalarda İnersin</p><p>Al Bas Malar Giyersin</p><p>Akşamlarda Olunca</p><p>Nerelerde Dönersin</p><p><br></p><p><b>Çıktım Yayla ...</b></p><p><br></p><p>Yaylaların Ayranı</p><p>Bugün Kurban Bayramı</p><p>Gız Annenden İstesem&nbsp;</p><p>Acep Gönlün Olma Mı</p><p><br></p><p><b>Çıktım Yayla ...</b></p><p><br></p><p>Yaylalarda Kekiğim</p><p>Al Gınalı Kekliğim</p><p>Güzel Gızlar Geliyor</p><p>Nerelerde Bekleyim</p><p><br></p><p><b>Çıktım Yayla ...</b></p><p><br></p>",
-  "sozler_duz": "Yaylalarda Gezersin\n\nKeklik Gibi Sekersin\n\nAk Kayanın Başında\n\nYanık Yanık Ötersin\n\nÇıktım Yayla Yoluna\n\nVarem Gidem Yanına\n\nŞu Yörüğün Kızının\n\nNecap Girem Koluna\n\nYaylalarda İnersin\n\nAl Bas Malar Giyersin\n\nAkşamlarda Olunca\n\nNerelerde Dönersin\n\nÇıktım Yayla ...\n\nYaylaların Ayranı\n\nBugün Kurban Bayramı\n\nGız Annenden İstesem \n\nAcep Gönlün Olma Mı\n\nÇıktım Yayla ...\n\nYaylalarda Kekiğim\n\nAl Gınalı Kekliğim\n\nGüzel Gızlar Geliyor\n\nNerelerde Bekleyim\n\nÇıktım Yayla ...",
+  "sozler_html": "<p>Yaylalarda gezersin</p><p>Keklik gibi\nsekersin</p><p>Ak kayanın\nbaşında</p><p>Yanık yanık\nötersin</p><p>&nbsp;</p><p><b>Çıktım yayla yoluna</b></p><p><b>Varem gidem yanına</b></p><p><b>Şu yörüğün kızının</b></p><p><b>Necap girem koluna</b></p><p>&nbsp;</p><p>Yaylalarda\ninersin</p><p>Al bas malar\ngiyersin</p><p>Akşamlarda\nolunca</p><p>Nerelerde\ndönersin</p><p>&nbsp;</p><p><b>Çıktım yayla ...</b></p><p>&nbsp;</p><p>Yaylaların\nayranı</p><p>Bugün kurban\nbayramı</p><p>Gız annenden\nistesem&nbsp;</p><p>Acep gönlün olma\nmı</p><p>&nbsp;</p><p><b>Çıktım yayla ...</b></p><p>&nbsp;</p><p>Yaylalarda\nkekiğim</p><p>Al gınalı\nkekliğim</p><p>Güzel gızlar\ngeliyor</p><p>Nerelerde\nbekleyim</p><p>&nbsp;</p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p><b>Çıktım yayla ...</b></p>",
+  "sozler_duz": "Yaylalarda gezersin\n\nKeklik gibi sekersin\n\nAk kayanın başında\n\nYanık yanık ötersin\n\n \n\nÇıktım yayla yoluna\n\nVarem gidem yanına\n\nŞu yörüğün kızının\n\nNecap girem koluna\n\n \n\nYaylalarda inersin\n\nAl bas malar giyersin\n\nAkşamlarda olunca\n\nNerelerde dönersin\n\n \n\nÇıktım yayla ...\n\n \n\nYaylaların ayranı\n\nBugün kurban bayramı\n\nGız annenden istesem \n\nAcep gönlün olma mı\n\n \n\nÇıktım yayla ...\n\n \n\nYaylalarda kekiğim\n\nAl gınalı kekliğim\n\nGüzel gızlar geliyor\n\nNerelerde bekleyim\n\n \n\nÇıktım yayla ...",
   "meta": {
     "yore": "Denizli/Acıpayam",
     "turu": "THM",
@@ -13,7 +13,7 @@
   "sistem": {
     "eski_id": 6641,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-30T14:17:25.601Z",
+    "son_degisiklik": "2026-04-30T14:18:05.533Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
