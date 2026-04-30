@@ -1,26 +1,19 @@
 {
   "id": "yol-ver-daglar-yol-ver-bana",
   "baslik": "YOL VER DAĞLAR YOL VER BANA",
-  "sozler_html": "<p>Başı duman pare pare / Yol ver dağlar yol ver banaGönlüm gitmek ister yare / Yol ver dağlar yol ver banaÖmrümün uzun yolu / Geçip gitsem yare doğruGözlerim yaş dolu dolu / Yol ver ...Aşık olmak benim karım / Çok aradım nazlı yarimDudu dillim sitemkarım / Yol ver ...Karlı dağından esmedim / Ben o yare hiç küsmedimDaha ümidim kesmedim / Yol ver ...</p>",
-  "sozler_duz": "Başı duman pare pare / Yol ver dağlar yol ver banaGönlüm gitmek ister yare / Yol ver dağlar yol ver banaÖmrümün uzun yolu / Geçip gitsem yare doğruGözlerim yaş dolu dolu / Yol ver ...Aşık olmak benim karım / Çok aradım nazlı yarimDudu dillim sitemkarım / Yol ver ...Karlı dağından esmedim / Ben o yare hiç küsmedimDaha ümidim kesmedim / Yol ver ...",
+  "sozler_html": "<p>Başı duman pare pare&nbsp;</p><p>Yol ver dağlar yol ver bana</p><p>Gönlüm gitmek ister yare&nbsp;</p><p><b>Yol ver dağlar yol ver bana</b></p><p><br></p><p>Ömrümün uzun yolu&nbsp;</p><p>Geçip gitsem yare doğru</p><p>Gözlerim yaş dolu dolu&nbsp;</p><p><b>Yol ver ...</b></p><p><br></p><p>Aşık olmak benim karım&nbsp;</p><p>Çok aradım nazlı yarim</p><p>Dudu dillim sitemkarım&nbsp;</p><p><b>Yol ver ...</b></p><p><br></p><p>Karlı dağından esmedim&nbsp;</p><p>Ben o yare hiç küsmedim</p><p>Daha ümidim kesmedim&nbsp;</p><p><b>Yol ver ...</b></p>",
+  "sozler_duz": "Başı duman pare pare \n\nYol ver dağlar yol ver bana\n\nGönlüm gitmek ister yare \n\nYol ver dağlar yol ver bana\n\nÖmrümün uzun yolu \n\nGeçip gitsem yare doğru\n\nGözlerim yaş dolu dolu \n\nYol ver ...\n\nAşık olmak benim karım \n\nÇok aradım nazlı yarim\n\nDudu dillim sitemkarım \n\nYol ver ...\n\nKarlı dağından esmedim \n\nBen o yare hiç küsmedim\n\nDaha ümidim kesmedim \n\nYol ver ...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "Aşık Yener",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "yore": "Erzincan",
+    "turu": "THM",
+    "soz": "Aşık Yener",
+    "muzik": "İSMAİL ÖZDEN",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6685,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T17:07:09.492Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
