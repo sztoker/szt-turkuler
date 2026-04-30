@@ -1,26 +1,19 @@
 {
   "id": "yaylalarda-gezersin",
-  "baslik": "Yaylalarda Gezersin_",
-  "sozler_html": "<p>Yaylalarda GezersinKeklik Gibi SekersinAk Kayanın BaşındaYanık Yanık ÖtersinÇıktım Yayla YolunaVarem Gidem YanınaŞu Yörüğün KızınınNecap Girem KolunaYaylalarda İnersinAl Bas Malar GiyersinAkşamlarda OluncaNerelerde DönersinÇıktım Yayla YolunaVarem Gidem YanınaŞu Yörüğün KızınınNecap Girem KolunaYaylaların AyranıBugün Kurban BayramıGız Annenden İstesem Acep Gönlün Olma MıÇıktım Yayla YolunaVarem Gidem YanınaŞu Yörüğün KızınınNecap Girem KolunaYaylalarda KekiğimAl Gınalı KekliğimGüzel Gızlar GeliyorNerelerde BekleyimÇıktım Yayla YolunaVarem Gidem YanınaŞu Yörüğün KızınınNecap Girem Koluna</p>",
-  "sozler_duz": "Yaylalarda GezersinKeklik Gibi SekersinAk Kayanın BaşındaYanık Yanık ÖtersinÇıktım Yayla YolunaVarem Gidem YanınaŞu Yörüğün KızınınNecap Girem KolunaYaylalarda İnersinAl Bas Malar GiyersinAkşamlarda OluncaNerelerde DönersinÇıktım Yayla YolunaVarem Gidem YanınaŞu Yörüğün KızınınNecap Girem KolunaYaylaların AyranıBugün Kurban BayramıGız Annenden İstesem Acep Gönlün Olma MıÇıktım Yayla YolunaVarem Gidem YanınaŞu Yörüğün KızınınNecap Girem KolunaYaylalarda KekiğimAl Gınalı KekliğimGüzel Gızlar GeliyorNerelerde BekleyimÇıktım Yayla YolunaVarem Gidem YanınaŞu Yörüğün KızınınNecap Girem Koluna",
+  "baslik": "YAYLALARDA GEZERSİN",
+  "sozler_html": "<p>Yaylalarda Gezersin</p><p>Keklik Gibi Sekersin</p><p>Ak Kayanın Başında</p><p>Yanık Yanık Ötersin</p><p><br></p><p><b>Çıktım Yayla Yoluna</b></p><p><b>Varem Gidem Yanına</b></p><p><b>Şu Yörüğün Kızının</b></p><p><b>Necap Girem Koluna</b></p><p><br></p><p>Yaylalarda İnersin</p><p>Al Bas Malar Giyersin</p><p>Akşamlarda Olunca</p><p>Nerelerde Dönersin</p><p><br></p><p><b>Çıktım Yayla ...</b></p><p><br></p><p>Yaylaların Ayranı</p><p>Bugün Kurban Bayramı</p><p>Gız Annenden İstesem&nbsp;</p><p>Acep Gönlün Olma Mı</p><p><br></p><p><b>Çıktım Yayla ...</b></p><p><br></p><p>Yaylalarda Kekiğim</p><p>Al Gınalı Kekliğim</p><p>Güzel Gızlar Geliyor</p><p>Nerelerde Bekleyim</p><p><br></p><p><b>Çıktım Yayla ...</b></p><p><br></p>",
+  "sozler_duz": "Yaylalarda Gezersin\n\nKeklik Gibi Sekersin\n\nAk Kayanın Başında\n\nYanık Yanık Ötersin\n\nÇıktım Yayla Yoluna\n\nVarem Gidem Yanına\n\nŞu Yörüğün Kızının\n\nNecap Girem Koluna\n\nYaylalarda İnersin\n\nAl Bas Malar Giyersin\n\nAkşamlarda Olunca\n\nNerelerde Dönersin\n\nÇıktım Yayla ...\n\nYaylaların Ayranı\n\nBugün Kurban Bayramı\n\nGız Annenden İstesem \n\nAcep Gönlün Olma Mı\n\nÇıktım Yayla ...\n\nYaylalarda Kekiğim\n\nAl Gınalı Kekliğim\n\nGüzel Gızlar Geliyor\n\nNerelerde Bekleyim\n\nÇıktım Yayla ...",
   "meta": {
     "yore": "Denizli/Acıpayam",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Şinasi Uslu-Mansur Kaymak",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Mansur Kaymak",
+    "kaynak_kisi": "Şinasi Uslu",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6641,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T14:17:25.601Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
