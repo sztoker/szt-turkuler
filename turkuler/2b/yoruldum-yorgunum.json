@@ -1,26 +1,17 @@
 {
   "id": "yoruldum-yorgunum",
-  "baslik": "Yoruldum Yorgunum_",
-  "sozler_html": "<p>Yoruldum Yorgunum Fazla GidememNeler Etti Kahır Beni Zulm BeniKolay Değil Ben Bu Derdi ÇekememZalimin Elinde Koydu Hal BeniArsız Değilidim Arsız EttilerSaldılar Gurbete Yurtsuz EttilerYardan Ayırdılar Yarsız EttilerŞimdi Gizli Gizli Kınar El BeniAkarsuyu Aşka Yaktı YaradanÖmür Bir Gün Gibi Geçti Aradanİşte Geldim Gidiyorum DünyadanOturmuş Bekliyor Kuru Sal Beni</p>",
-  "sozler_duz": "Yoruldum Yorgunum Fazla GidememNeler Etti Kahır Beni Zulm BeniKolay Değil Ben Bu Derdi ÇekememZalimin Elinde Koydu Hal BeniArsız Değilidim Arsız EttilerSaldılar Gurbete Yurtsuz EttilerYardan Ayırdılar Yarsız EttilerŞimdi Gizli Gizli Kınar El BeniAkarsuyu Aşka Yaktı YaradanÖmür Bir Gün Gibi Geçti Aradanİşte Geldim Gidiyorum DünyadanOturmuş Bekliyor Kuru Sal Beni",
+  "baslik": "YORULDUM YORGUNUM",
+  "sozler_html": "<p>Yoruldum yorgunum fazla\ngidemem</p><p>Neler etti kahır beni zulm beni</p><p>Kolay değil ben bu derdi çekemem</p><p>Zalimin elinde koydu hal beni</p><p>&nbsp;</p><p>Arsız değilidim arsız ettiler</p><p>Saldılar gurbete yurtsuz ettiler</p><p>Yardan ayırdılar yarsız ettiler</p><p>Şimdi gizli gizli kınar el beni</p><p>&nbsp;</p><p>Akarsuyu aşka yaktı yaradan</p><p>Ömür bir gün gibi geçti aradan</p><p>İşte geldim gidiyorum dünyadan</p><p>Oturmuş bekliyor kuru sal beni</p>",
+  "sozler_duz": "Yoruldum yorgunum fazla gidemem\n\nNeler etti kahır beni zulm beni\n\nKolay değil ben bu derdi çekemem\n\nZalimin elinde koydu hal beni\n\n \n\nArsız değilidim arsız ettiler\n\nSaldılar gurbete yurtsuz ettiler\n\nYardan ayırdılar yarsız ettiler\n\nŞimdi gizli gizli kınar el beni\n\n \n\nAkarsuyu aşka yaktı yaradan\n\nÖmür bir gün gibi geçti aradan\n\nİşte geldim gidiyorum dünyadan\n\nOturmuş bekliyor kuru sal beni",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Muhlis Akarsu",
-    "aciklama": ""
+    "turu": "THM",
+    "soz": "Muhlis Akarsu",
+    "muzik": "Muhlis Akarsu"
   },
   "sistem": {
     "eski_id": 6692,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-04-30T17:33:05.349Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
