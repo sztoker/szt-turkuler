@@ -1,26 +1,19 @@
 {
   "id": "zeytin-yapragi-yesil",
-  "baslik": "Zeytin Yaprağı Yeşil_",
-  "sozler_html": "<p>Zeytin Yaprağı Yeşil (Aman Bir Yar Elinden)Altında Kahve Pişir (Yandım Bir Yar Elinden)Beni Sana Vermezler (Aman Bir Yar Elinden)Aklın Başına Devşir (Oy Nerelere Gidem Elinden)Aman Bir Var Elinden Var Eli Var ElindenOy Seni Sallamayım Da Aman Da Bir Var ElindenZülfünün Telinden Ov Nerelere Gidem ElindenAman Bir Yar Elinden Yar Eli Yar ElindenYar Bahçeye Girdin Mi (Aman Bir Yar Elinden)Sevdiğini Gördün Mü (Yandım Bir Yar Elinden)Sevdiğini Görünce (Aman Bir Yar Elinden)Saçlarını Ördün Mü (Oy Nerelere Gidem Elinden)Aman Bir Var Elinden Var Eli Var ElindenOy Seni Sallamayım Da Aman Da Bir Var ElindenZülfünün Telinden Ov Nerelere Gidem ElindenAman Bir Yar Elinden Yar Eli Yar Elinden</p>",
-  "sozler_duz": "Zeytin Yaprağı Yeşil (Aman Bir Yar Elinden)Altında Kahve Pişir (Yandım Bir Yar Elinden)Beni Sana Vermezler (Aman Bir Yar Elinden)Aklın Başına Devşir (Oy Nerelere Gidem Elinden)Aman Bir Var Elinden Var Eli Var ElindenOy Seni Sallamayım Da Aman Da Bir Var ElindenZülfünün Telinden Ov Nerelere Gidem ElindenAman Bir Yar Elinden Yar Eli Yar ElindenYar Bahçeye Girdin Mi (Aman Bir Yar Elinden)Sevdiğini Gördün Mü (Yandım Bir Yar Elinden)Sevdiğini Görünce (Aman Bir Yar Elinden)Saçlarını Ördün Mü (Oy Nerelere Gidem Elinden)Aman Bir Var Elinden Var Eli Var ElindenOy Seni Sallamayım Da Aman Da Bir Var ElindenZülfünün Telinden Ov Nerelere Gidem ElindenAman Bir Yar Elinden Yar Eli Yar Elinden",
+  "baslik": "ZEYTİN YAPRAĞI YEŞİL",
+  "sozler_html": "<p>Zeytin yaprağı yeşil (aman\nbir yar elinden)</p><p>Altında kahve pişir (yandım bir\nyar elinden)</p><p>Beni sana vermezler (aman bir yar\nelinden)</p><p>Aklın başına devşir (oy nerelere\ngidem elinden)</p><p>&nbsp;</p><p><b>Aman bir var elinden yar eli yar\nelinden</b></p><p><b>Oy seni sallamayım da aman da bir\nvar elinden</b></p><p><b>Zülfünün telinden ov nerelere\ngidem elinden</b></p><p><b>Aman bir yar elinden yar eli yar\nelinden</b></p><p>&nbsp;</p><p>Yar bahçeye girdin mi (aman bir\nyar elinden)</p><p>Sevdiğini gördün mü (yandım bir\nyar elinden)</p><p>Sevdiğini görünce (aman bir yar\nelinden)</p><p>Saçlarını ördün mü (oy nerelere\ngidem elinden)</p><p>&nbsp;</p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p><b>Aman bir ...</b></p>",
+  "sozler_duz": "Zeytin yaprağı yeşil (aman bir yar elinden)\n\nAltında kahve pişir (yandım bir yar elinden)\n\nBeni sana vermezler (aman bir yar elinden)\n\nAklın başına devşir (oy nerelere gidem elinden)\n\n \n\nAman bir var elinden yar eli yar elinden\n\nOy seni sallamayım da aman da bir var elinden\n\nZülfünün telinden ov nerelere gidem elinden\n\nAman bir yar elinden yar eli yar elinden\n\n \n\nYar bahçeye girdin mi (aman bir yar elinden)\n\nSevdiğini gördün mü (yandım bir yar elinden)\n\nSevdiğini görünce (aman bir yar elinden)\n\nSaçlarını ördün mü (oy nerelere gidem elinden)\n\n \n\nAman bir ...",
   "meta": {
     "yore": "Kilis",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Nevin Akol",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "NEVİN AKOL",
+    "kaynak_kisi": "NEVİN AKOL",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 6747,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-01T12:07:56.386Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
