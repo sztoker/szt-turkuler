@@ -1,26 +1,15 @@
 {
   "id": "zepur-gi-tarnam-meltem-olurum",
   "baslik": "ZEPÜR GI TARNAM (Meltem olurum)",
-  "sozler_html": "<p>Zepür gı tarnam - meğmig annımanSarerits içnem - nısdem ko tıranSirutsıt varvadz - asbedi nımanTurıs gı tınem - ko ayku tıranU kez gı hısgem - kişer u tserekMenag te yar can - şud şud aykis yegVor nayem yes kez - garodis arnemEtko garodin – ah menag mernemKarun gı tarnam - mıdnem ko aykinBılbuli nıman - parvem ko vartinKo şahenın em yar - hazar kgagerovYegel em turıt  - madağ ko gyankin / U kez gı ...--------------------------------Meltem olurum hafif eşsiz / Dağlardan inerim kapında otururumSevginden yanmış şövalye gibi / Kılıcımı koyarım bağının kapısınaVe sana belçilik ederim gece gündüz / Yeter ki tez bağa gel yar canBakıp sana hasret gidereyim / Sevginden sarhoş öleyim kapındaİlkbaharda döneyim bağına gireyim / Bülbül gibi sarılayım gülüneBinlerce oyunla yar senin şahininim /Kapına gelmişim boyuna kurban</p>",
-  "sozler_duz": "Zepür gı tarnam - meğmig annımanSarerits içnem - nısdem ko tıranSirutsıt varvadz - asbedi nımanTurıs gı tınem - ko ayku tıranU kez gı hısgem - kişer u tserekMenag te yar can - şud şud aykis yegVor nayem yes kez - garodis arnemEtko garodin – ah menag mernemKarun gı tarnam - mıdnem ko aykinBılbuli nıman - parvem ko vartinKo şahenın em yar - hazar kgagerovYegel em turıt - madağ ko gyankin / U kez gı ...--------------------------------Meltem olurum hafif eşsiz / Dağlardan inerim kapında otururumSevginden yanmış şövalye gibi / Kılıcımı koyarım bağının kapısınaVe sana belçilik ederim gece gündüz / Yeter ki tez bağa gel yar canBakıp sana hasret gidereyim / Sevginden sarhoş öleyim kapındaİlkbaharda döneyim bağına gireyim / Bülbül gibi sarılayım gülüneBinlerce oyunla yar senin şahininim /Kapına gelmişim boyuna kurban",
+  "sozler_html": "<p>Zepür gı tarnam - meğmig annıman</p><p>Sarerits içnem - nısdem ko tıran</p><p>Sirutsıt varvadz - asbedi nıman</p><p>Turıs gı tınem - ko ayku tıran</p><p><br></p><p><b>U kez gı hısgem - kişer u tserek</b></p><p><b>Menag te yar can - şud şud aykis yeg</b></p><p><b>Vor nayem yes kez - garodis arnem</b></p><p><b>Etko garodin – ah menag mernem</b></p><p><br></p><p>Karun gı tarnam - mıdnem ko aykin</p><p>Bılbuli nıman - parvem ko vartin</p><p>Ko şahenın em yar - hazar kgagerov</p><p>Yegel em turıt  - madağ ko gyankin&nbsp;</p><p><br></p><p><b>U kez gı ...</b></p><p><br></p><p>Meltem olurum hafif eşsiz&nbsp;</p><p>Dağlardan inerim kapında otururum</p><p>Sevginden yanmış şövalye gibi&nbsp;</p><p>Kılıcımı koyarım bağının kapısına</p><p><br></p><p>Ve sana belçilik ederim gece gündüz&nbsp;</p><p>Yeter ki tez bağa gel yar can</p><p>Bakıp sana hasret gidereyim&nbsp;</p><p>Sevginden sarhoş öleyim kapında</p><p><br></p><p>İlkbaharda döneyim bağına gireyim&nbsp;</p><p>Bülbül gibi sarılayım gülüne</p><p>Binlerce oyunla yar senin şahininim&nbsp;</p><p>Kapına gelmişim boyuna kurban</p>",
+  "sozler_duz": "Zepür gı tarnam - meğmig annıman\n\nSarerits içnem - nısdem ko tıran\n\nSirutsıt varvadz - asbedi nıman\n\nTurıs gı tınem - ko ayku tıran\n\nU kez gı hısgem - kişer u tserek\n\nMenag te yar can - şud şud aykis yeg\n\nVor nayem yes kez - garodis arnem\n\nEtko garodin – ah menag mernem\n\nKarun gı tarnam - mıdnem ko aykin\n\nBılbuli nıman - parvem ko vartin\n\nKo şahenın em yar - hazar kgagerov\n\nYegel em turıt - madağ ko gyankin \n\nU kez gı ...\n\nMeltem olurum hafif eşsiz \n\nDağlardan inerim kapında otururum\n\nSevginden yanmış şövalye gibi \n\nKılıcımı koyarım bağının kapısına\n\nVe sana belçilik ederim gece gündüz \n\nYeter ki tez bağa gel yar can\n\nBakıp sana hasret gidereyim \n\nSevginden sarhoş öleyim kapında\n\nİlkbaharda döneyim bağına gireyim \n\nBülbül gibi sarılayım gülüne\n\nBinlerce oyunla yar senin şahininim \n\nKapına gelmişim boyuna kurban",
   "meta": {
-    "yore": "ERMENİCE",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ERMENİCE",
-    "aciklama": ""
+    "yore": "ERMENİCE"
   },
   "sistem": {
     "eski_id": 6741,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-01T12:04:01.122Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
