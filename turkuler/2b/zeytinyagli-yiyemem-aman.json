@@ -1,17 +1,18 @@
 {
   "id": "zeytinyagli-yiyemem-aman",
   "baslik": "Zeytinyağlı Yiyemem Aman",
-  "sozler_html": "<p>Zeytin Yağlı Yiyemem Aman</p>\n<p>Basma Da Fistan Giyemem Aman</p>\n<p>Senin Gibi Cahile</p>\n<p>Ben Efendim Diyemem Aman</p>\n<p class=\"bos\"></p>\n<p>Kaldım Domaniç Dağlarında</p>\n<p>Sevgili Yarim Nerelerde</p>\n<p class=\"bos\"></p>\n<p>Kara Üzüm Asması</p>\n<p>Yeşil Olur Yazması</p>\n<p>Ben Yarimden Ayrılmam</p>\n<p>Kara Yazı Yazması.</p>\n<p class=\"bos\"></p>\n<p>Kaldım Domaniç Dağlarında</p>\n<p>Sevgili Yarim Nerelerde</p>\n<p class=\"bos\"></p>\n<p>Asmadan Üzüm Aldım</p>\n<p>Sapını Uzun Aldım</p>\n<p>Verin Benim Yarimi</p>\n<p>Annemden İzin Aldım.</p>\n<p class=\"bos\"></p>\n<p>Kaldım Domaniç Dağlarında</p>\n<p>Sevgili Yarim Nerelerde</p>",
-  "sozler_duz": "Zeytin Yağlı Yiyemem Aman\n\nBasma Da Fistan Giyemem Aman\n\nSenin Gibi Cahile\n\nBen Efendim Diyemem Aman\n\nKaldım Domaniç Dağlarında\n\nSevgili Yarim Nerelerde\n\nKara Üzüm Asması\n\nYeşil Olur Yazması\n\nBen Yarimden Ayrılmam\n\nKara Yazı Yazması.\n\nKaldım Domaniç Dağlarında\n\nSevgili Yarim Nerelerde\n\nAsmadan Üzüm Aldım\n\nSapını Uzun Aldım\n\nVerin Benim Yarimi\n\nAnnemden İzin Aldım.\n\nKaldım Domaniç Dağlarında\n\nSevgili Yarim Nerelerde",
+  "sozler_html": "<p>Zeytin yağlı yiyemem aman</p><p>Basma da fistan giyemem aman</p><p>Senin gibi cahile</p><p>Ben efendim diyemem aman</p><p><br></p><p><b>Kaldım duman içi dağlarda</b></p><p><b>Sevgili yarim nerelerde</b></p><p><br></p><p>Kara üzüm asması</p><p>Yeşil olur yazması</p><p>Ben yarimden ayrılmam</p><p>Kara yazı yazması.</p><p><br></p><p>Kaldım duman...</p><p><br></p><p>Asmadan üzüm aldım</p><p>Sapını uzun aldım</p><p>Verin benim yarimi</p><p>Annemden izin aldım.</p><p><br></p><p>Kaldım duman...</p><p><br></p>",
+  "sozler_duz": "Zeytin yağlı yiyemem aman\n\nBasma da fistan giyemem aman\n\nSenin gibi cahile\n\nBen efendim diyemem aman\n\nKaldım duman içi dağlarda\n\nSevgili yarim nerelerde\n\nKara üzüm asması\n\nYeşil olur yazması\n\nBen yarimden ayrılmam\n\nKara yazı yazması.\n\nKaldım duman...\n\nAsmadan üzüm aldım\n\nSapını uzun aldım\n\nVerin benim yarimi\n\nAnnemden izin aldım.\n\nKaldım duman...",
   "meta": {
     "yore": "Bursa",
     "derleyen": "Muzaffer Sarısözen",
-    "kaynak_kisi": "İhsan Kaplayan"
+    "kaynak_kisi": "İhsan Kaplayan",
+    "karar": "Si"
   },
   "sistem": {
     "eski_id": 6746,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T13:22:29.098Z",
+    "son_degisiklik": "2026-05-01T12:10:49.743Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
