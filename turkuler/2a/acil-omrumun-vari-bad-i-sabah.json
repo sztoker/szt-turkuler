@@ -1,26 +1,19 @@
 {
   "id": "acil-omrumun-vari-bad-i-sabah",
-  "baslik": "AÇIL ÖMRÜMÜN VARI   (BAD-I SABAH)",
-  "sozler_html": "<p>Açıl ömrümün varı –yarim hey hey</p>\n<p>Bad-ı sabah olmadan –yürü yürü yürü</p>\n<p>Bad-ı sabah olmadan –ömrüm belalım aslanım yürü</p>\n<p>Atladım girdim bağa / Başım değdi yaprağa</p>\n<p>Kız yanımda olmazsan / Koymasınlar toprağa</p>\n<p class=\"bos\"></p>\n<p>Al beni burdan kaçır – yarim hey hey</p>\n<p>Devriyeler basmadan – yürü yürü yürü</p>\n<p>Zaptiyeler basmadan –ömrüm belalım aslanım yürü</p>\n<p>Arabası dört teker / Beyoğlu’na kum çeker</p>\n<p>Yari çirkin olanlar / İçer içer  ah çeker</p>\n<p>Yari güzel olanlar / Gece gündüz oh çeker</p>",
-  "sozler_duz": "Açıl ömrümün varı –yarim hey hey Bad-ı sabah olmadan –yürü yürü yürü Bad-ı sabah olmadan –ömrüm belalım aslanım yürü Atladım girdim bağa / Başım değdi yaprağa Kız yanımda olmazsan / Koymasınlar toprağa Al beni burdan kaçır – yarim hey hey Devriyeler basmadan – yürü yürü yürü Zaptiyeler basmadan –ömrüm belalım aslanım yürü Arabası dört teker / Beyoğlu’na kum çeker Yari çirkin olanlar / İçer içer ah çeker Yari güzel olanlar / Gece gündüz oh çeker",
+  "baslik": "AÇIL ÖMRÜMÜN VARI   (Bad-ı sabah)",
+  "sozler_html": "<p>Açıl ömrümün varı –yarim hey hey</p>\n<p>Bad-ı sabah olmadan –yürü yürü yürü</p>\n<p>Bad-ı sabah olmadan –ömrüm belalım aslanım yürü</p><p><br></p>\n<p><b>Atladım girdim bağa / Başım değdi yaprağa</b></p>\n<p><b>Kız yanımda olmazsan / Koymasınlar toprağa</b></p>\n<p class=\"bos\"></p>\n<p>Al beni burdan kaçır – yarim hey hey</p>\n<p>Devriyeler basmadan – yürü yürü yürü</p>\n<p>Zaptiyeler basmadan –ömrüm belalım aslanım yürü</p>\n<p><br></p><p><b>Arabası dört teker / Beyoğlu’na kum çeker</b></p>\n<p><b>Yari çirkin olanlar / İçer içer  ah çeker</b></p>\n<p><b>Yari güzel olanlar / Gece gündüz oh çeker</b></p>",
+  "sozler_duz": "Açıl ömrümün varı –yarim hey hey\n\nBad-ı sabah olmadan –yürü yürü yürü\n\nBad-ı sabah olmadan –ömrüm belalım aslanım yürü\n\nAtladım girdim bağa / Başım değdi yaprağa\n\nKız yanımda olmazsan / Koymasınlar toprağa\n\nAl beni burdan kaçır – yarim hey hey\n\nDevriyeler basmadan – yürü yürü yürü\n\nZaptiyeler basmadan –ömrüm belalım aslanım yürü\n\nArabası dört teker / Beyoğlu’na kum çeker\n\nYari çirkin olanlar / İçer içer ah çeker\n\nYari güzel olanlar / Gece gündüz oh çeker",
   "meta": {
     "yore": "ORTA ANADOLU",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
+    "turu": "THM",
+    "derleyen": "Banttan yazıldı",
     "kaynak_kisi": "Ahmet Gazi Ayhan",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "karar": "Fa #"
   },
   "sistem": {
     "eski_id": 377,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-02T07:46:45.382Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
