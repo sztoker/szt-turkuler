@@ -1,26 +1,19 @@
 {
   "id": "adalardan-ciktim-yayan",
-  "baslik": "Adalardan Çıktım Yayan",
-  "sozler_html": "<p>Adalardan Çıktım Yayan</p>\n<p>Gardas Atlı Bacı Yayan</p>\n<p>Di Gel Bu Dertlere Dayan</p>\n<p class=\"bos\"></p>\n<p>Nenni Nenni Nenni Nenni</p>\n<p>Nenni Nenni Nenni Bebek Ey</p>\n<p class=\"bos\"></p>\n<p>Bebeğin Beşiği Çamdan</p>\n<p>Yuvarlandı Düştü Damdan</p>\n<p>Bey Babası Gelir Van'dan</p>\n<p class=\"bos\"></p>\n<p>Nenni Nenni Nenni Nenni</p>\n<p>Nenni Nenni Nenni Bebek Ey</p>\n<p class=\"bos\"></p>\n<p>Bebeğin Beşiği Bakır</p>\n<p>Yerinden Kalkmıyor Ağır</p>\n<p>Ben Sallarım Takır Takır</p>\n<p class=\"bos\"></p>\n<p>Nenni Nenni Nenni Nenni</p>\n<p>Nenni Nenni Nenni Bebek Ey</p>",
-  "sozler_duz": "Adalardan Çıktım Yayan Gardas Atlı Bacı Yayan Di Gel Bu Dertlere Dayan Nenni Nenni Nenni Nenni Nenni Nenni Nenni Bebek Ey Bebeğin Beşiği Çamdan Yuvarlandı Düştü Damdan Bey Babası Gelir Van'dan Nenni Nenni Nenni Nenni Nenni Nenni Nenni Bebek Ey Bebeğin Beşiği Bakır Yerinden Kalkmıyor Ağır Ben Sallarım Takır Takır Nenni Nenni Nenni Nenni Nenni Nenni Nenni Bebek Ey",
+  "baslik": "ADALARDAN ÇIKTIM YAYAN",
+  "sozler_html": "<p>Adalardan çıktım\nyayan<o:p></o:p></p><p>Gardas atlı bacı\nyayan<o:p></o:p></p><p>Di gel bu dertlere\ndayan<o:p></o:p></p><p><br></p><p><b>Nenni nenni nenni\nnenni<o:p></o:p></b></p><p><b>Nenni nenni nenni\nbebek ey<o:p></o:p></b></p><p><br></p><p>Bebeğin beşiği\nçamdan<o:p></o:p></p><p>Yuvarlandı düştü\ndamdan<o:p></o:p></p><p>Bey babası gelir\nvan'dan<o:p></o:p></p><p><br></p><p><b>Nenni nenni ...</b></p><p><br></p><p>Bebeğin beşiği\nbakır<o:p></o:p></p><p>Yerinden kalkmıyor\nağır<o:p></o:p></p><p>Ben sallarım takır\ntakır<o:p></o:p></p><p><br></p><p><b><br>Nenni nenni ...</b></p><p>&nbsp;</p>",
+  "sozler_duz": "Adalardan çıktım yayan\n\nGardas atlı bacı yayan\n\nDi gel bu dertlere dayan\n\nNenni nenni nenni nenni\n\nNenni nenni nenni bebek ey\n\nBebeğin beşiği çamdan\n\nYuvarlandı düştü damdan\n\nBey babası gelir van'dan\n\nNenni nenni ...\n\nBebeğin beşiği bakır\n\nYerinden kalkmıyor ağır\n\nBen sallarım takır takır\n\nNenni nenni ...",
   "meta": {
     "yore": "Erzurum/Pasinler",
-    "turu": "",
-    "turu2": "s",
+    "turu": "THM",
     "derleyen": "Muzaffer Sarısözen",
     "kaynak_kisi": "Cafer Kırmızı",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 3261,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-02T07:52:18.568Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
