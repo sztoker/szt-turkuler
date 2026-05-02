@@ -1,26 +1,19 @@
 {
   "id": "antalyanin-mor-uzumu",
   "baslik": "ANTALYA'NIN MOR ÜZÜMÜ",
-  "sozler_html": "<p>Antalya'nın mor üzümü / Severler boyu uzunu -a leylim</p>\n<p>İmamın küçük kızını</p>\n<p>Sarsam (ne zaman-3 / sevsem (ne zaman-3</p>\n<p>Saran (2-seven) kollar yorulur mu bir zaman</p>\n<p class=\"bos\"></p>\n<p>Antalya'nın kuyuları / Çayır çimen kıyıları</p>\n<p>Avdan gelir dayıları / Sarsam ...</p>\n<p class=\"bos\"></p>\n<p>Antalya'nın altı bakır  /  Atlar gelir şakır şakır</p>\n<p>Sevdiğimin gözü çakır  /  Sarsam ...</p>",
-  "sozler_duz": "Antalya'nın mor üzümü / Severler boyu uzunu -a leylim İmamın küçük kızını Sarsam (ne zaman-3 / sevsem (ne zaman-3 Saran (2-seven) kollar yorulur mu bir zaman Antalya'nın kuyuları / Çayır çimen kıyıları Avdan gelir dayıları / Sarsam ... Antalya'nın altı bakır / Atlar gelir şakır şakır Sevdiğimin gözü çakır / Sarsam ...",
+  "sozler_html": "<p>Antalya'nın mor üzümü&nbsp;</p><p>Severler boyu uzunu -a leylim</p>\n<p>İmamın küçük kızını</p>\n<p><br></p><p><b>Sarsam (ne zaman-3 / sevsem (ne zaman-3</b></p>\n<p><b>Saran (2-seven) kollar yorulur mu bir zaman</b></p>\n<p class=\"bos\"></p>\n<p>Antalya'nın kuyuları / Çayır çimen kıyıları</p>\n<p>Avdan gelir dayıları&nbsp;</p><p><br></p><p><b>Sarsam ...</b></p>\n<p class=\"bos\"></p>\n<p>Antalya'nın altı bakır&nbsp;</p><p>Atlar gelir şakır şakır</p>\n<p>Sevdiğimin gözü çakır&nbsp;</p><p><br></p><p><b>Sarsam ...</b></p>",
+  "sozler_duz": "Antalya'nın mor üzümü \n\nSeverler boyu uzunu -a leylim\n\nİmamın küçük kızını\n\nSarsam (ne zaman-3 / sevsem (ne zaman-3\n\nSaran (2-seven) kollar yorulur mu bir zaman\n\nAntalya'nın kuyuları / Çayır çimen kıyıları\n\nAvdan gelir dayıları \n\nSarsam ...\n\nAntalya'nın altı bakır \n\nAtlar gelir şakır şakır\n\nSevdiğimin gözü çakır \n\nSarsam ...",
   "meta": {
-    "yore": "ANTALYA     Hüseyin- Nimet Balkan     Neriman Tüfe",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ANTALYA     Hüseyin- Nimet Balkan     Neriman Tüfe",
-    "aciklama": ""
+    "yore": "ANTALYA/Akseki",
+    "turu": "THM",
+    "derleyen": "NERİMAN ALTINDAĞ TÜFEKÇİ",
+    "kaynak_kisi": "HÜSEYİN BALKAN-NİMET BALKAN",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 430,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-02T08:34:15.518Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
