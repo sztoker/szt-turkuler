@@ -1,15 +1,18 @@
 {
   "id": "aynalar",
   "baslik": "AYNALAR",
-  "sozler_html": "<p>Harmanım ben harmanım / Kırk satırlık fermanım</p>\n<p>Yok dizimde dermanım</p>\n<p>Eyletmen beni * söyletmen beni * ağlatman beni</p>\n<p>Aynalar - aynalar</p>\n<p class=\"bos\"></p>\n<p>Hüznüm size görünür / Saçım beyaz örülür</p>\n<p>Yaşarken de ölünür / Eyletmen beni ...</p>\n<p class=\"bos\"></p>\n<p>Yüzümde hep çizgiler / İçimde hep ezgiler</p>\n<p>Uçtu gitti seneler / Eyletmen beni ...</p>",
-  "sozler_duz": "Harmanım ben harmanım / Kırk satırlık fermanım\n\nYok dizimde dermanım\n\nEyletmen beni * söyletmen beni * ağlatman beni\n\nAynalar - aynalar\n\nHüznüm size görünür / Saçım beyaz örülür\n\nYaşarken de ölünür / Eyletmen beni ...\n\nYüzümde hep çizgiler / İçimde hep ezgiler\n\nUçtu gitti seneler / Eyletmen beni ...",
+  "sozler_html": "<p>Harmanım ben harmanım&nbsp;</p><p>Kırk satırlık fermanım</p>\n<p>Yok dizimde dermanım</p>\n<p><br></p><p><b>Eyletmen beni * söyletmen beni * ağlatman beni</b></p>\n<p><b>Aynalar - aynalar</b></p>\n<p class=\"bos\"></p>\n<p>Hüznüm size görünür&nbsp;</p><p>&nbsp;Saçım beyaz örülür</p>\n<p>Yaşarken de ölünür&nbsp;</p><p><br></p><p><b>Eyletmen beni ...</b></p>\n<p class=\"bos\"></p>\n<p>Yüzümde hep çizgiler&nbsp;</p><p>İçimde hep ezgiler</p>\n<p>Uçtu gitti seneler&nbsp;</p><p><br></p><p><b>Eyletmen beni ...</b></p>",
+  "sozler_duz": "Harmanım ben harmanım \n\nKırk satırlık fermanım\n\nYok dizimde dermanım\n\nEyletmen beni * söyletmen beni * ağlatman beni\n\nAynalar - aynalar\n\nHüznüm size görünür \n\n Saçım beyaz örülür\n\nYaşarken de ölünür \n\nEyletmen beni ...\n\nYüzümde hep çizgiler \n\nİçimde hep ezgiler\n\nUçtu gitti seneler \n\nEyletmen beni ...",
   "meta": {
-    "diger_bilgiler": "Salim Dündar"
+    "turu": "POP",
+    "soz": "Ziya Metin Eryürek",
+    "muzik": "Ziya Metin Eryürek",
+    "soyleyenler": "Salim Dündar"
   },
   "sistem": {
     "eski_id": 471,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T18:15:47.696Z",
+    "son_degisiklik": "2026-05-02T08:45:56.007Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
