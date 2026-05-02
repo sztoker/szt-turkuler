@@ -1,26 +1,18 @@
 {
   "id": "adalardan-bir-yar-gelir-hos-yaratmis-allah",
   "baslik": "ADALARDAN BİR YAR GELİR ( Hoş yaratmış Allah )",
-  "sozler_html": "<p>Adalardan bir yar gelir bizlere</p>\n<p>Aman Allah gözlere bak gözlere</p>\n<p>İpek de çorap varsın düşsün dizlere –hey yallah</p>\n<p>Hoş yaratmış Allah / Pek şirindir billah</p>\n<p>İşvebazdır vallah / Çapkınlardan kolla</p>\n<p class=\"bos\"></p>\n<p>Adalar’ın ıssız tenha yolları</p>\n<p>Boynumda kaldı o yarin kolları</p>\n<p>Menekşelerden biçilmiştir şalvarı / Hoş yaratmış ...</p>",
-  "sozler_duz": "Adalardan bir yar gelir bizlere Aman Allah gözlere bak gözlere İpek de çorap varsın düşsün dizlere –hey yallah Hoş yaratmış Allah / Pek şirindir billah İşvebazdır vallah / Çapkınlardan kolla Adalar’ın ıssız tenha yolları Boynumda kaldı o yarin kolları Menekşelerden biçilmiştir şalvarı / Hoş yaratmış ...",
+  "sozler_html": "<p>Adalardan bir yar gelir bizlere</p>\n<p>Aman Allah gözlere bak gözlere</p>\n<p>İpek de çorap varsın düşsün dizlere –hey yallah</p>\n<p><br></p><p><b>Hoş yaratmış Allah&nbsp;</b></p><p><b>Pek şirindir billah</b></p>\n<p><b>İşvebazdır vallah&nbsp;</b></p><p><b>Çapkınlardan kolla</b></p>\n<p class=\"bos\"></p>\n<p>Adalar’ın ıssız tenha yolları</p>\n<p>Boynumda kaldı o yarin kolları</p>\n<p>Menekşelerden biçilmiştir şalvarı&nbsp;</p><p><br></p><p><b>Hoş yaratmış ...</b></p>",
+  "sozler_duz": "Adalardan bir yar gelir bizlere\n\nAman Allah gözlere bak gözlere\n\nİpek de çorap varsın düşsün dizlere –hey yallah\n\nHoş yaratmış Allah \n\nPek şirindir billah\n\nİşvebazdır vallah \n\nÇapkınlardan kolla\n\nAdalar’ın ıssız tenha yolları\n\nBoynumda kaldı o yarin kolları\n\nMenekşelerden biçilmiştir şalvarı \n\nHoş yaratmış ...",
   "meta": {
-    "yore": "",
     "turu": "TSM",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Yesari Asım Arsoy",
     "muzik": "Yesari Asım Arsoy",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Hicaz / Sofyan",
-    "aciklama": ""
+    "diger_bilgiler": "Hicaz / Sofyan"
   },
   "sistem": {
     "eski_id": 381,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-02T07:49:13.504Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
