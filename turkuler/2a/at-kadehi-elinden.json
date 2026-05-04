@@ -1,8 +1,8 @@
 {
   "id": "at-kadehi-elinden",
   "baslik": "AT KADEHİ ELİNDEN",
-  "sozler_html": "<p>Bu gece son gecemiz&nbsp;</p><p>Acı günler yakında</p>\n<p>Bir ömür böyle geçti&nbsp;</p><p>Olamadık farkında</p><p><br></p>\n<p>At kadehi elinden&nbsp;</p><p>Bin parçaya bölünsün</p>\n<p>Dökülsün meyler yere&nbsp;</p><p>Hatıralar gömülsün</p>\n<p class=\"bos\"></p>\n<p>Dolu dolu içerdik&nbsp;</p><p>&nbsp;Kadehlerde aşkı biz</p>\n<p>Güneş bize doğardı&nbsp;</p><p>Ne mutluyduk ikimiz</p><p><br></p><p>At kadehi...</p>\n<p class=\"bos\"></p>\n<p>Geçmişi yad etmeye&nbsp;</p><p>Bilmem fayda var mı ki</p>\n<p>Bugün beni sevmeye&nbsp;</p><p>Vefalı mı o yar ki</p><p><br></p><p>At kadehi...</p><br>",
-  "sozler_duz": "Bu gece son gecemiz \n\nAcı günler yakında\n\nBir ömür böyle geçti \n\nOlamadık farkında\n\nAt kadehi elinden \n\nBin parçaya bölünsün\n\nDökülsün meyler yere \n\nHatıralar gömülsün\n\nDolu dolu içerdik \n\n Kadehlerde aşkı biz\n\nGüneş bize doğardı \n\nNe mutluyduk ikimiz\n\nAt kadehi...\n\nGeçmişi yad etmeye \n\nBilmem fayda var mı ki\n\nBugün beni sevmeye \n\nVefalı mı o yar ki\n\nAt kadehi...",
+  "sozler_html": "<p>Bu gece son gecemiz&nbsp;</p><p>Acı günler yakında</p>\n<p>Bir ömür böyle geçti&nbsp;</p><p>Olamadık farkında</p><p><br></p>\n<p><b>At kadehi elinden&nbsp;</b></p><p><b>Bin parçaya bölünsün</b></p>\n<p><b>Dökülsün meyler yere&nbsp;</b></p><p><b>Hatıralar gömülsün</b></p>\n<p class=\"bos\"></p>\n<p>Dolu dolu içerdik&nbsp;</p><p>Kadehlerde aşkı biz</p>\n<p>Güneş bize doğardı&nbsp;</p><p>Ne mutluyduk ikimiz</p><p><br></p><p><b>At kadehi...</b></p>\n<p class=\"bos\"></p>\n<p>Geçmişi yad etmeye&nbsp;</p><p>Bilmem fayda var mı ki</p>\n<p>Bugün beni sevmeye&nbsp;</p><p>Vefalı mı o yar ki</p><p><br></p><p><b>At kadehi...</b></p><br>",
+  "sozler_duz": "Bu gece son gecemiz \n\nAcı günler yakında\n\nBir ömür böyle geçti \n\nOlamadık farkında\n\nAt kadehi elinden \n\nBin parçaya bölünsün\n\nDökülsün meyler yere \n\nHatıralar gömülsün\n\nDolu dolu içerdik \n\nKadehlerde aşkı biz\n\nGüneş bize doğardı \n\nNe mutluyduk ikimiz\n\nAt kadehi...\n\nGeçmişi yad etmeye \n\nBilmem fayda var mı ki\n\nBugün beni sevmeye \n\nVefalı mı o yar ki\n\nAt kadehi...",
   "meta": {
     "turu": "TSM",
     "soz": "Hasan Özcan Balın",
@@ -12,7 +12,7 @@
   "sistem": {
     "eski_id": 450,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-02T08:40:30.503Z",
+    "son_degisiklik": "2026-05-04T23:56:59.571Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
