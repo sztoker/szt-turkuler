@@ -1,8 +1,8 @@
 {
   "id": "bahcalarda-zerdali",
   "baslik": "BAHÇALARDA ZERDALİ",
-  "sozler_html": "<p>Ahhh - Bahçalarda zerdali&nbsp;</p><p>Benim yârim gül dalı&nbsp;</p><p>Kiraz gibi dudakları&nbsp;</p><p>Şeker ezer dilleri&nbsp;</p><p>Güllü yar</p><p>A benim allı yarim * yanağı güllü yârim</p><p>Ben sana git mi dedim&nbsp;</p><p>Ellerde yat mı dedim&nbsp;</p><p>Güllü yar&nbsp;</p><p>Ahhh- Bahçalarda gül dalı&nbsp;</p><p>Var git ellerin yari</p><p>Sen bana yâr olmazsın&nbsp;</p><p>Yüzüme gülme bari&nbsp;</p><p>Güllü yar</p><p>A benim allı yârim ...</p>",
-  "sozler_duz": "Ahhh - Bahçalarda zerdali \n\nBenim yârim gül dalı \n\nKiraz gibi dudakları \n\nŞeker ezer dilleri \n\nGüllü yar\n\nA benim allı yarim * yanağı güllü yârim\n\nBen sana git mi dedim \n\nEllerde yat mı dedim \n\nGüllü yar \n\nAhhh- Bahçalarda gül dalı \n\nVar git ellerin yari\n\nSen bana yâr olmazsın \n\nYüzüme gülme bari \n\nGüllü yar\n\nA benim allı yârim ...",
+  "sozler_html": "<p>Ahhh - Bahçalarda zerdali&nbsp;</p><p>Benim yârim gül dalı&nbsp;</p><p>Kiraz gibi dudakları&nbsp;</p><p>Şeker ezer dilleri güllü yar</p><p><br></p><p><b>A benim allı yarim *&nbsp;</b></p><p><b>Yanağı güllü yârim</b></p><p><b>Ben sana git mi dedim&nbsp;</b></p><p><b>Ellerde yat mı dedim&nbsp;</b></p><p><br></p><p>Ahhh- Bahçalarda gül dalı&nbsp;</p><p>Var git ellerin yari</p><p>Sen bana yâr olmazsın&nbsp;</p><p>Yüzüme gülme bari güllü yar</p><p><br></p><p><b>A benim allı yârim ...</b></p>",
+  "sozler_duz": "Ahhh - Bahçalarda zerdali \n\nBenim yârim gül dalı \n\nKiraz gibi dudakları \n\nŞeker ezer dilleri güllü yar\n\nA benim allı yarim * \n\nYanağı güllü yârim\n\nBen sana git mi dedim \n\nEllerde yat mı dedim \n\nAhhh- Bahçalarda gül dalı \n\nVar git ellerin yari\n\nSen bana yâr olmazsın \n\nYüzüme gülme bari güllü yar\n\nA benim allı yârim ...",
   "meta": {
     "yore": "GAZİANTEP",
     "turu": "THM",
@@ -13,7 +13,7 @@
   "sistem": {
     "eski_id": 488,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-05T09:57:31.249Z",
+    "son_degisiklik": "2026-05-05T13:44:15.206Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
