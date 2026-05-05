@@ -1,26 +1,19 @@
 {
   "id": "bahcalarda-barim-var-kara-goz",
   "baslik": "BAHÇALARDA BARIM VAR (Kara Göz)",
-  "sozler_html": "<p>Bahçalarda barım var / Bir ayva (heyva) bir narım varKalem kaş kara gözlü / Hoş bakışlı yarım varBeri gel kara göz Gel gel kara göz / Üreğimde yara göz Derdime sen çare göz / Beri gel kara gözYandırdı güneş meni / Günü günden aş meniMeni gözlerin yaktı / Yandırmaz ataş meni / Beri gel ...Özüm kesme özünden / Sözüm kesme sözündenYar yadınan oynaşır / Aklım gitti özümden / Beri gel ...</p>",
-  "sozler_duz": "Bahçalarda barım var / Bir ayva (heyva) bir narım varKalem kaş kara gözlü / Hoş bakışlı yarım varBeri gel kara göz Gel gel kara göz / Üreğimde yara göz Derdime sen çare göz / Beri gel kara gözYandırdı güneş meni / Günü günden aş meniMeni gözlerin yaktı / Yandırmaz ataş meni / Beri gel ...Özüm kesme özünden / Sözüm kesme sözündenYar yadınan oynaşır / Aklım gitti özümden / Beri gel ...",
+  "sozler_html": "<p>Bahçalarda barım var&nbsp;</p><p>Bir ayva (heyva) bir narım var</p><p>Kalem kaş kara gözlü&nbsp;</p><p>Hoş bakışlı yarım var</p><p><br></p><p><b>Beri gel kara göz&nbsp;</b></p><p><b>Gel gel kara göz&nbsp;</b></p><p><b>Üreğimde yara göz&nbsp;</b></p><p><b>Derdime sen çare göz&nbsp;</b></p><p><b>Beri gel kara göz</b></p><p><br></p><p>Yandırdı güneş meni&nbsp;</p><p>Günü günden aş meni</p><p>Meni gözlerin yaktı&nbsp;</p><p>Yandırmaz ataş meni&nbsp;</p><p><br></p><p><b>Beri gel ...</b></p><p><br></p><p>Özüm kesme özünden&nbsp;</p><p>Sözüm kesme sözünden</p><p>Yar yadınan oynaşır&nbsp;</p><p>Aklım gitti özümden&nbsp;</p><p><br></p><p><b>Beri gel ...</b></p>",
+  "sozler_duz": "Bahçalarda barım var \n\nBir ayva (heyva) bir narım var\n\nKalem kaş kara gözlü \n\nHoş bakışlı yarım var\n\nBeri gel kara göz \n\nGel gel kara göz \n\nÜreğimde yara göz \n\nDerdime sen çare göz \n\nBeri gel kara göz\n\nYandırdı güneş meni \n\nGünü günden aş meni\n\nMeni gözlerin yaktı \n\nYandırmaz ataş meni \n\nBeri gel ...\n\nÖzüm kesme özünden \n\nSözüm kesme sözünden\n\nYar yadınan oynaşır \n\nAklım gitti özümden \n\nBeri gel ...",
   "meta": {
-    "yore": "S-M: Fatih Kısaparmak",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S-M: Fatih Kısaparmak",
-    "aciklama": ""
+    "yore": "Iğdır",
+    "turu": "THM",
+    "derleyen": "ERKAN SÜRMEN",
+    "kaynak_kisi": "Fatih Kısaparmak",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 487,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-05T09:39:39.180Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
