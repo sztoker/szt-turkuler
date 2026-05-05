@@ -1,26 +1,17 @@
 {
   "id": "bedava-yasiyoruz",
   "baslik": "BEDAVA YAŞIYORUZ",
-  "sozler_html": "<p>Bedava yaşıyoruz / Dostlar bedavaHava bedava / Bulut bedavaDere tepe bedava / Yağmur çamur bedava     (((2Otomobillerin dışı / Sinemaların kapısı          (2Camekanlar / Onlar bedava          (2Peynir ekmek değil ama / Acı su bedavaKelle fiyatına hürriyet / Esirlik bedava     ((2Bedava yaşıyoruz / Dostla bedava</p>",
-  "sozler_duz": "Bedava yaşıyoruz / Dostlar bedavaHava bedava / Bulut bedavaDere tepe bedava / Yağmur çamur bedava (((2Otomobillerin dışı / Sinemaların kapısı (2Camekanlar / Onlar bedava (2Peynir ekmek değil ama / Acı su bedavaKelle fiyatına hürriyet / Esirlik bedava ((2Bedava yaşıyoruz / Dostla bedava",
+  "sozler_html": "<p>Bedava yaşıyoruz&nbsp;</p><p>Dostlar bedava</p><p>Hava bedava&nbsp;</p><p>Bulut bedava</p><p>Dere tepe bedava&nbsp;</p><p>Yağmur çamur bedava     (((2</p><p>Bedava yaşıyoruz&nbsp;</p><p>Dostlar bedava</p><p>Otomobillerin dışı&nbsp;</p><p>Sinemaların kapısı          (2</p><p>Camekanlar&nbsp;</p><p>Onlar bedava          (2</p><p>Peynir ekmek değil ama&nbsp;</p><p>Acı su bedava</p><p>Kelle fiyatına hürriyet&nbsp;</p><p>Esirlik bedava     ((2</p><p>Bedava yaşıyoruz&nbsp;</p><p>Dostlar bedava</p>",
+  "sozler_duz": "Bedava yaşıyoruz \n\nDostlar bedava\n\nHava bedava \n\nBulut bedava\n\nDere tepe bedava \n\nYağmur çamur bedava (((2\n\nBedava yaşıyoruz \n\nDostlar bedava\n\nOtomobillerin dışı \n\nSinemaların kapısı (2\n\nCamekanlar \n\nOnlar bedava (2\n\nPeynir ekmek değil ama \n\nAcı su bedava\n\nKelle fiyatına hürriyet \n\nEsirlik bedava ((2\n\nBedava yaşıyoruz \n\nDostlar bedava",
   "meta": {
-    "yore": "S: Orhan Veli Kanık     Y : Cem Karaca",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S: Orhan Veli Kanık     Y : Cem Karaca",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Orhan Veli Kanık",
+    "muzik": "Cem Karaca"
   },
   "sistem": {
     "eski_id": 498,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-05T14:20:03.084Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
