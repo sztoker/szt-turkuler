@@ -1,26 +1,17 @@
 {
   "id": "be-hey-kardes",
   "baslik": "BE HEY KARDEŞ",
-  "sozler_html": "<p>Be hey kardeş Hak’kı bulam mı dersin –imanımHak’ka yarar amel işlemeyinceBu sırrın ötesi duyam mı dersin –imanımMürşid-i kamile başlamayıncaGel hey kardeş gel sen birliğe özeBirliktir her nefsin kal’asın bozarHiç kendi kendine kaynar mı kazanÇevre yanın ateş eylemeyinceAtei ateşi geldi yüreğim harlarAşkı olan insan kendini ne’ylerBe hey Yunus sana söyleme derlerYa ben öleyim mi söylemeyince</p>",
-  "sozler_duz": "Be hey kardeş Hak’kı bulam mı dersin –imanımHak’ka yarar amel işlemeyinceBu sırrın ötesi duyam mı dersin –imanımMürşid-i kamile başlamayıncaGel hey kardeş gel sen birliğe özeBirliktir her nefsin kal’asın bozarHiç kendi kendine kaynar mı kazanÇevre yanın ateş eylemeyinceAtei ateşi geldi yüreğim harlarAşkı olan insan kendini ne’ylerBe hey Yunus sana söyleme derlerYa ben öleyim mi söylemeyince",
+  "sozler_html": "<p>Be hey kardeş Hak’kı bulam mı dersin –imanım</p><p>Hak’ka yarar amel işlemeyince</p><p>Bu sırrın ötesi duyam mı dersin –imanım</p><p>Mürşid-i kamile başlamayınca</p><p><br></p><p>Gel hey kardeş gel sen birliğe özen</p><p>Birliktir her nefsin kal’asın bozar</p><p>Hiç kendi kendine kaynar mı kazan</p><p>Çevre yanın ateş eylemeyince</p><p><br></p><p>Atei ateşi geldi yüreğim harlar</p><p>Aşkı olan insan kendini ne’yler</p><p>Be hey Yunus sana söyleme derler</p><p>Ya ben öleyim mi söylemeyince</p>",
+  "sozler_duz": "Be hey kardeş Hak’kı bulam mı dersin –imanım\n\nHak’ka yarar amel işlemeyince\n\nBu sırrın ötesi duyam mı dersin –imanım\n\nMürşid-i kamile başlamayınca\n\nGel hey kardeş gel sen birliğe özen\n\nBirliktir her nefsin kal’asın bozar\n\nHiç kendi kendine kaynar mı kazan\n\nÇevre yanın ateş eylemeyince\n\nAtei ateşi geldi yüreğim harlar\n\nAşkı olan insan kendini ne’yler\n\nBe hey Yunus sana söyleme derler\n\nYa ben öleyim mi söylemeyince",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "Yunus Emre",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "turu": "THM",
+    "soz": "Yunus Emre",
+    "muzik": "Ruhi Su"
   },
   "sistem": {
     "eski_id": 362,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-05T14:15:15.382Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
