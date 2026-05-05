@@ -1,26 +1,19 @@
 {
   "id": "bahcalarda-zerdali",
   "baslik": "BAHÇALARDA ZERDALİ",
-  "sozler_html": "<p>Ahhh - Bahçalarda zerdali / Benim yârim gül dalı Kiraz gibi dudakları / Şeker ezer dilleri / Güllü yarA benim allı yarim * yanağı güllü yârimBen sana git mi dedim / Ellerde yat mı dedim / Güllü yar Ahhh- Bahçalarda gül dalı / Var git ellerin yariSen bana yâr olmazsın / Yüzüme gülme bari / Güllü yarA benim allı yârim ...</p>",
-  "sozler_duz": "Ahhh - Bahçalarda zerdali / Benim yârim gül dalı Kiraz gibi dudakları / Şeker ezer dilleri / Güllü yarA benim allı yarim * yanağı güllü yârimBen sana git mi dedim / Ellerde yat mı dedim / Güllü yar Ahhh- Bahçalarda gül dalı / Var git ellerin yariSen bana yâr olmazsın / Yüzüme gülme bari / Güllü yarA benim allı yârim ...",
+  "sozler_html": "<p>Ahhh - Bahçalarda zerdali&nbsp;</p><p>Benim yârim gül dalı&nbsp;</p><p>Kiraz gibi dudakları&nbsp;</p><p>Şeker ezer dilleri&nbsp;</p><p>Güllü yar</p><p>A benim allı yarim * yanağı güllü yârim</p><p>Ben sana git mi dedim&nbsp;</p><p>Ellerde yat mı dedim&nbsp;</p><p>Güllü yar&nbsp;</p><p>Ahhh- Bahçalarda gül dalı&nbsp;</p><p>Var git ellerin yari</p><p>Sen bana yâr olmazsın&nbsp;</p><p>Yüzüme gülme bari&nbsp;</p><p>Güllü yar</p><p>A benim allı yârim ...</p>",
+  "sozler_duz": "Ahhh - Bahçalarda zerdali \n\nBenim yârim gül dalı \n\nKiraz gibi dudakları \n\nŞeker ezer dilleri \n\nGüllü yar\n\nA benim allı yarim * yanağı güllü yârim\n\nBen sana git mi dedim \n\nEllerde yat mı dedim \n\nGüllü yar \n\nAhhh- Bahçalarda gül dalı \n\nVar git ellerin yari\n\nSen bana yâr olmazsın \n\nYüzüme gülme bari \n\nGüllü yar\n\nA benim allı yârim ...",
   "meta": {
-    "yore": "GAZİANTEP          K : Hüseyin Yıkıcı",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "GAZİANTEP          K : Hüseyin Yıkıcı",
-    "aciklama": ""
+    "yore": "GAZİANTEP",
+    "turu": "THM",
+    "derleyen": "MUZAFFER SARISÖZEN",
+    "kaynak_kisi": "Hüseyin Yıkıcı",
+    "karar": "Sol"
   },
   "sistem": {
     "eski_id": 488,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-05T09:57:31.249Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
