@@ -1,26 +1,18 @@
 {
   "id": "bastim-da-kirildi-igdenin-dali",
   "baslik": "BASTIM DA KIRILDI İĞDENİN DALI",
-  "sozler_html": "<p>Bastım da kırıldı iğdenin dalı -vay dalıKötüye düşenin böyl'olur hali -dillerDiller oynaksın diller / Diller kaymaksın dillerDiller açılsın güller / Diller sarılsın kollarDiller ne bilsin eller / Narinay ninay nayArabacı arabanı yillendirŞeker al da şu bebeği dillendir / Diller ...Sabahınan esen seher yeli miBenim gönlüm divane mi deli mi / Diller ...Arabacı arabanı koş getirBen ölüyom mezarıma taş getir / Diller ...</p>",
-  "sozler_duz": "Bastım da kırıldı iğdenin dalı -vay dalıKötüye düşenin böyl'olur hali -dillerDiller oynaksın diller / Diller kaymaksın dillerDiller açılsın güller / Diller sarılsın kollarDiller ne bilsin eller / Narinay ninay nayArabacı arabanı yillendirŞeker al da şu bebeği dillendir / Diller ...Sabahınan esen seher yeli miBenim gönlüm divane mi deli mi / Diller ...Arabacı arabanı koş getirBen ölüyom mezarıma taş getir / Diller ...",
+  "sozler_html": "<p>Bastım da kırıldı iğdenin dalı -vay dalı</p><p>Kötüye düşenin böyl'olur hali -diller</p><p><br></p><p><b>Diller oynaksın diller&nbsp;</b></p><p><b>Diller kaymaksın diller</b></p><p><b>Diller açılsın güller&nbsp;</b></p><p><b>Diller sarılsın kollar</b></p><p><b>Diller ne bilsin eller&nbsp;</b></p><p><b>Narinay ninay nay</b></p><p><br></p><p>Arabacı arabanı yillendir</p><p>Şeker al da şu bebeği dillendir&nbsp;</p><p><br></p><p><b>Diller ...</b></p><p><br></p><p>Sabahınan esen seher yeli mi</p><p>Benim gönlüm divane mi deli mi&nbsp;</p><p><br></p><p><b>Diller ...</b></p><p><br></p><p>Arabacı arabanı koş getir</p><p>Ben ölüyom mezarıma taş getir&nbsp;</p><p><br></p><p><b>Diller ...</b></p>",
+  "sozler_duz": "Bastım da kırıldı iğdenin dalı -vay dalı\n\nKötüye düşenin böyl'olur hali -diller\n\nDiller oynaksın diller \n\nDiller kaymaksın diller\n\nDiller açılsın güller \n\nDiller sarılsın kollar\n\nDiller ne bilsin eller \n\nNarinay ninay nay\n\nArabacı arabanı yillendir\n\nŞeker al da şu bebeği dillendir \n\nDiller ...\n\nSabahınan esen seher yeli mi\n\nBenim gönlüm divane mi deli mi \n\nDiller ...\n\nArabacı arabanı koş getir\n\nBen ölüyom mezarıma taş getir \n\nDiller ...",
   "meta": {
-    "yore": "YOZGAT",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "YOZGAT",
-    "aciklama": ""
+    "yore": "Ortaanadolu",
+    "derleyen": "İCLAL AKKAPLAN",
+    "kaynak_kisi": "SABİHA KUBİLAY",
+    "karar": "Si"
   },
   "sistem": {
     "eski_id": 494,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-05T14:05:24.208Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
