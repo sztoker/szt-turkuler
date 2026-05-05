@@ -1,26 +1,17 @@
 {
   "id": "basimda-bir-sevda-doner",
-  "baslik": "Başımda Bir Sevda Döner_",
-  "sozler_html": "<p>Başımda Bir Sevda DönerBen Yanarım Kül OlurumDokunduğum Sular DonarBen Yanarım Kül OlurumDumanım Var Arşa ÇıkarIrmağım Var Serin AkarAtaşım Var Beni YakarBen Yanarım Kül OlurumYunus İle Çıktım YolaDergahında Çektim ÇileAşık Oldum Bile BileBen Yanarım Kül OlurumKarşı Dağlar Düzün DüzünUfka Doğru Bakar GözümPoyraz Yemiş Titrer SazımBen Yanarım Kül Olurum</p>",
-  "sozler_duz": "Başımda Bir Sevda DönerBen Yanarım Kül OlurumDokunduğum Sular DonarBen Yanarım Kül OlurumDumanım Var Arşa ÇıkarIrmağım Var Serin AkarAtaşım Var Beni YakarBen Yanarım Kül OlurumYunus İle Çıktım YolaDergahında Çektim ÇileAşık Oldum Bile BileBen Yanarım Kül OlurumKarşı Dağlar Düzün DüzünUfka Doğru Bakar GözümPoyraz Yemiş Titrer SazımBen Yanarım Kül Olurum",
+  "baslik": "BAŞIMDA BİR SEVDA DÖNER",
+  "sozler_html": "<p>Başımda bir sevda döner</p><p>Ben yanarım kül olurum</p><p>Dokunduğum sular donar</p><p>Ben yanarım kül olurum</p><p>&nbsp;</p><p>Dumanım var arşa çıkar</p><p>Irmağım var serin akar</p><p>Ataşım var beni yakar</p><p>Ben yanarım kül olurum</p><p>&nbsp;</p><p>Yunus ile çıktım yola</p><p>Dergahında çektim çile</p><p>Aşık oldum bile bile</p><p>Ben yanarım kül olurum</p><p>&nbsp;</p><p>Karşı dağlar düzün düzün</p><p>Ufka doğru bakar gözüm</p><p>Poyraz yemiş titrer sazım</p><p>Ben yanarım kül olurum</p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>&nbsp;</p>",
+  "sozler_duz": "Başımda bir sevda döner\n\nBen yanarım kül olurum\n\nDokunduğum sular donar\n\nBen yanarım kül olurum\n\n \n\nDumanım var arşa çıkar\n\nIrmağım var serin akar\n\nAtaşım var beni yakar\n\nBen yanarım kül olurum\n\n \n\nYunus ile çıktım yola\n\nDergahında çektim çile\n\nAşık oldum bile bile\n\nBen yanarım kül olurum\n\n \n\nKarşı dağlar düzün düzün\n\nUfka doğru bakar gözüm\n\nPoyraz yemiş titrer sazım\n\nBen yanarım kül olurum",
   "meta": {
-    "yore": "Ahmet Çelik",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Musa Eroğlu",
-    "aciklama": ""
+    "turu": "THM",
+    "soz": "Ahmet Çelik",
+    "muzik": "Musa Eroğlu"
   },
   "sistem": {
     "eski_id": 3466,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-05T13:54:14.324Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
