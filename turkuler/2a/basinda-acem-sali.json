@@ -1,26 +1,19 @@
 {
   "id": "basinda-acem-sali",
-  "baslik": "Başında Acem Şalı_",
-  "sozler_html": "<p>Başında Acem Şalı (Vay Sevdalı Sevdalı Sevdalım)Sen Ol Başımın Tacı (Belalım)Gözlerin Benim Olsa (Vay Sevdalı Sevdalı Sevdalım) İstemem Dünya Malı (Belalım)Vay Sevdalı Sevdalı SevdalımNedir Senin Hallerin BelalımDeniz Dalgası Gibi SevdalımYalpa Vurur Şalvarın BelalımBaşına Şal Takıyo (Vay Sevdalı Sevdalı Sevdalım)Pencereden Bakıyo (Belalım)Ela Gözün Endamın (Vay Sevdalı Sevdalı Sevdalım)Cümle Alemi Yakıyo (Belalım)Vay Sevdalı Sevdalı SevdalımNedir Senin Hallerin BelalımDeniz Dalgası Gibi SevdalımYalpa Vurur Şalvarın Belalım</p>",
-  "sozler_duz": "Başında Acem Şalı (Vay Sevdalı Sevdalı Sevdalım)Sen Ol Başımın Tacı (Belalım)Gözlerin Benim Olsa (Vay Sevdalı Sevdalı Sevdalım) İstemem Dünya Malı (Belalım)Vay Sevdalı Sevdalı SevdalımNedir Senin Hallerin BelalımDeniz Dalgası Gibi SevdalımYalpa Vurur Şalvarın BelalımBaşına Şal Takıyo (Vay Sevdalı Sevdalı Sevdalım)Pencereden Bakıyo (Belalım)Ela Gözün Endamın (Vay Sevdalı Sevdalı Sevdalım)Cümle Alemi Yakıyo (Belalım)Vay Sevdalı Sevdalı SevdalımNedir Senin Hallerin BelalımDeniz Dalgası Gibi SevdalımYalpa Vurur Şalvarın Belalım",
+  "baslik": "BAŞINDA ACEM ŞALI",
+  "sozler_html": "<p>Başında acem şalı (vay\nsevdalı sevdalı sevdalım)</p><p>Sen ol başımın tacı (belalım)</p><p>Gözlerin benim olsa (vay sevdalı\nsevdalı sevdalım) İstemem dünya malı (belalım)</p><p>&nbsp;</p><p><b>Vay sevdalı sevdalı sevdalım</b></p><p><b>Nedir senin hallerin belalım</b></p><p><b>Deniz dalgası gibi sevdalım</b></p><p><b>Yalpa vurur şalvarın belalım</b></p><p>&nbsp;</p><p>Başına şal takıyo (vay sevdalı\nsevdalı sevdalım)</p><p>Pencereden bakıyo (belalım)</p><p>Ela gözün endamın (vay sevdalı\nsevdalı sevdalım)</p><p>Cümle alemi yakıyo (belalım)</p><p>&nbsp;</p><p><b>Vay sevdalı ...</b></p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>&nbsp;</p>",
+  "sozler_duz": "Başında acem şalı (vay sevdalı sevdalı sevdalım)\n\nSen ol başımın tacı (belalım)\n\nGözlerin benim olsa (vay sevdalı sevdalı sevdalım) İstemem dünya malı (belalım)\n\n \n\nVay sevdalı sevdalı sevdalım\n\nNedir senin hallerin belalım\n\nDeniz dalgası gibi sevdalım\n\nYalpa vurur şalvarın belalım\n\n \n\nBaşına şal takıyo (vay sevdalı sevdalı sevdalım)\n\nPencereden bakıyo (belalım)\n\nEla gözün endamın (vay sevdalı sevdalı sevdalım)\n\nCümle alemi yakıyo (belalım)\n\n \n\nVay sevdalı ...",
   "meta": {
     "yore": "Ankara/Çubuk/Karaköy",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Burhan Gökalp",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Burhan Gökalp",
+    "kaynak_kisi": "Burhan Gökalp",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 3471,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-05T13:57:04.240Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
