@@ -7,12 +7,13 @@
     "yore": "KIRŞEHİR",
     "turu": "THM",
     "derleyen": "TURAN ENGİN",
-    "kaynak_kisi": "Neşet Ertaş"
+    "kaynak_kisi": "Neşet Ertaş",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 3439,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-05T09:30:27.635Z",
+    "son_degisiklik": "2026-05-05T09:30:38.134Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
