@@ -1,26 +1,19 @@
 {
   "id": "basindaki-tellere-lo",
   "baslik": "BAŞINDAKİ TELLERE LO",
-  "sozler_html": "<p>Başındaki tellere lo / Bak şu esen yellereKıymet verip kim bakar lo / Sen var iken ellereAğam o yar elinden / Paşam o yar elindenNasıl edem nere gidem / Şu zalımın elindenEle demedim mi ben / Sana demedim mi benİçen içen mest olun lo / İçme demedim mi benKevene bak kevene lo / Yazık sene seveneSeni seven divane lo / Senin nene güvene / Ağam ...</p>",
-  "sozler_duz": "Başındaki tellere lo / Bak şu esen yellereKıymet verip kim bakar lo / Sen var iken ellereAğam o yar elinden / Paşam o yar elindenNasıl edem nere gidem / Şu zalımın elindenEle demedim mi ben / Sana demedim mi benİçen içen mest olun lo / İçme demedim mi benKevene bak kevene lo / Yazık sene seveneSeni seven divane lo / Senin nene güvene / Ağam ...",
+  "sozler_html": "<p>Başındaki tellere lo&nbsp;</p><p>Bak şu esen yellere</p><p>Kıymet verip kim bakar lo&nbsp;</p><p>Sen var iken ellere</p><p><br></p><p><b>Ağam o yar elinden&nbsp;</b></p><p><b>Paşam o yar elinden</b></p><p><b>Nasıl edem nere gidem&nbsp;</b></p><p><b>Şu zalımın elinden</b></p><p><b>Ele demedim mi ben&nbsp;</b></p><p><b>Sana demedim mi ben</b></p><p><b>İçen içen mest olun lo&nbsp;</b></p><p><b>İçme demedim mi ben</b></p><p><br></p><p>Kevene bak kevene lo&nbsp;</p><p>Yazık sene sevene</p><p>Seni seven divane lo&nbsp;</p><p>Senin nene güvene&nbsp;</p><p><br></p><p><b>Ağam ...</b></p>",
+  "sozler_duz": "Başındaki tellere lo \n\nBak şu esen yellere\n\nKıymet verip kim bakar lo \n\nSen var iken ellere\n\nAğam o yar elinden \n\nPaşam o yar elinden\n\nNasıl edem nere gidem \n\nŞu zalımın elinden\n\nEle demedim mi ben \n\nSana demedim mi ben\n\nİçen içen mest olun lo \n\nİçme demedim mi ben\n\nKevene bak kevene lo \n\nYazık sene sevene\n\nSeni seven divane lo \n\nSenin nene güvene \n\nAğam ...",
   "meta": {
     "yore": "DİYARBAKIR",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "DİYARBAKIR",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "AHMET YAMACI",
+    "kaynak_kisi": "ZEHRA BİLİR",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 496,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-05T13:59:51.049Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
