@@ -6,12 +6,13 @@
   "meta": {
     "turu": "Özgün",
     "soz": "Nazım Hikmet",
+    "muzik": "Hüsnü Özbilgi(Tahsin İncirci)",
     "soyleyenler": "Sümeyra Çakır"
   },
   "sistem": {
     "eski_id": 6677,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-30T16:40:02.334Z",
+    "son_degisiklik": "2026-05-06T09:57:11.010Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
