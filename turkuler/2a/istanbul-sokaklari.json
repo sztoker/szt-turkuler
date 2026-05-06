@@ -1,26 +1,18 @@
 {
   "id": "istanbul-sokaklari",
   "baslik": "İSTANBUL SOKAKLARI",
-  "sozler_html": "<p>Söyleyin sevgilim nerde / İstanbul sokaklarıÇare bulun bu derde / İstanbul sokaklarıOnu benden siz aldınız / Onu benden siz çaldınızŞimdi yalnız bıraktınız / İstanbul sokaklarıSevgilimi verin bana / İstanbul sokaklarıDünyam döndü zindana / İstanbul sokakları / Onu ...</p>",
-  "sozler_duz": "Söyleyin sevgilim nerde / İstanbul sokaklarıÇare bulun bu derde / İstanbul sokaklarıOnu benden siz aldınız / Onu benden siz çaldınızŞimdi yalnız bıraktınız / İstanbul sokaklarıSevgilimi verin bana / İstanbul sokaklarıDünyam döndü zindana / İstanbul sokakları / Onu ...",
+  "sozler_html": "<p>Söyleyin sevgilim nerde&nbsp;</p><p>İstanbul sokakları</p><p>Çare bulun bu derde&nbsp;</p><p>İstanbul sokakları</p><p><br></p><p><b>Onu benden siz aldınız&nbsp;</b></p><p><b>Onu benden siz çaldınız</b></p><p><b>Şimdi yalnız bıraktınız&nbsp;</b></p><p><b>İstanbul sokakları</b></p><p><br></p><p>Sevgilimi verin bana&nbsp;</p><p>İstanbul sokakları</p><p>Dünyam döndü zindana&nbsp;</p><p>İstanbul sokakları&nbsp;</p><p><br></p><p><b>Onu ...</b></p>",
+  "sozler_duz": "Söyleyin sevgilim nerde \n\nİstanbul sokakları\n\nÇare bulun bu derde \n\nİstanbul sokakları\n\nOnu benden siz aldınız \n\nOnu benden siz çaldınız\n\nŞimdi yalnız bıraktınız \n\nİstanbul sokakları\n\nSevgilimi verin bana \n\nİstanbul sokakları\n\nDünyam döndü zindana \n\nİstanbul sokakları \n\nOnu ...",
   "meta": {
-    "yore": "Selahattin Sarıkaya                    Muhayyerkür",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Selahattin Sarıkaya                    Muhayyerkür",
-    "aciklama": ""
+    "turu": "TSM",
+    "soz": "Selahattin Sarıkaya",
+    "muzik": "Selahattin Sarıkaya",
+    "diger_bilgiler": "Muhayyerkür"
   },
   "sistem": {
     "eski_id": 5682,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-06T17:56:46.259Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
