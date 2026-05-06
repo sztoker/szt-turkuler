@@ -1,26 +1,20 @@
 {
   "id": "indim-havuz-basina",
   "baslik": "İNDİM HAVUZ BAŞINA",
-  "sozler_html": "<p>İndim havuz başına / Bir kız çıktı karşımaSevda nedir bilmezdim / O da geldi başımaGelemem ben gidemem benHer güzele meyil veremem benAç kolların sar boynumaÜşüdüm üşüdüm saramam benHavuz başında hurma / Çapkın karşımda durmaKirpiklerin ok olmuş / Yeter kalbimi vurma / Gelemem ...</p>",
-  "sozler_duz": "İndim havuz başına / Bir kız çıktı karşımaSevda nedir bilmezdim / O da geldi başımaGelemem ben gidemem benHer güzele meyil veremem benAç kolların sar boynumaÜşüdüm üşüdüm saramam benHavuz başında hurma / Çapkın karşımda durmaKirpiklerin ok olmuş / Yeter kalbimi vurma / Gelemem ...",
+  "sozler_html": "<p>İndim havuz başına&nbsp;</p><p>Bir kız çıktı karşıma</p><p>Sevda nedir bilmezdim&nbsp;</p><p>O da geldi başıma</p><p><br></p><p><b>Gelemem ben gidemem ben</b></p><p><b>Her güzele meyil veremem ben</b></p><p><b>Aç kolların sar boynuma</b></p><p><b>Üşüdüm üşüdüm saramam ben</b></p><p><br></p><p>Havuz başında hurma&nbsp;</p><p>Çapkın karşımda durma</p><p>Kirpiklerin ok olmuş&nbsp;</p><p>Yeter kalbimi vurma&nbsp;</p><p><br></p><p><b>Gelemem ...</b></p>",
+  "sozler_duz": "İndim havuz başına \n\nBir kız çıktı karşıma\n\nSevda nedir bilmezdim \n\nO da geldi başıma\n\nGelemem ben gidemem ben\n\nHer güzele meyil veremem ben\n\nAç kolların sar boynuma\n\nÜşüdüm üşüdüm saramam ben\n\nHavuz başında hurma \n\nÇapkın karşımda durma\n\nKirpiklerin ok olmuş \n\nYeter kalbimi vurma \n\nGelemem ...",
   "meta": {
-    "yore": "(T)                  Hüzzam / Sofyan",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "(T)                  Hüzzam / Sofyan",
-    "aciklama": ""
+    "yore": "İstanbul",
+    "turu": "THM",
+    "derleyen": "AHMET YAMACI",
+    "kaynak_kisi": "AHMET YAMACI",
+    "karar": "Si",
+    "diger_bilgiler": "TSM yorumu da var Hüzzam / Sofyan"
   },
   "sistem": {
     "eski_id": 5668,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-06T18:59:21.874Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
