@@ -1,26 +1,17 @@
 {
   "id": "iki-parca-can",
   "baslik": "İKİ PARÇA CAN",
-  "sozler_html": "<p>Rüya bütün gördüğümüz / Rüya kahrım rüya zindanNasıl da yılları buldu / Bir mısra boyu maceraBilmezler nasıl aradık birbirimizi / Bilmezler nasıl sevdikİki yitik hasret iki parça can</p>",
-  "sozler_duz": "Rüya bütün gördüğümüz / Rüya kahrım rüya zindanNasıl da yılları buldu / Bir mısra boyu maceraBilmezler nasıl aradık birbirimizi / Bilmezler nasıl sevdikİki yitik hasret iki parça can",
+  "sozler_html": "<p>Rüya bütün gördüğümüz&nbsp;</p><p>Rüya kahrım rüya zindan</p><p>Nasıl da yılları buldu&nbsp;</p><p>Bir mısra boyu maceraM</p><p><br></p><p>Bilmezler nasıl aradık birbirimizi&nbsp;</p><p>Bilmezler nasıl sevdik</p><p>İki yitik hasret&nbsp;</p><p>İki parça can</p>",
+  "sozler_duz": "Rüya bütün gördüğümüz \n\nRüya kahrım rüya zindan\n\nNasıl da yılları buldu \n\nBir mısra boyu maceraM\n\nBilmezler nasıl aradık birbirimizi \n\nBilmezler nasıl sevdik\n\nİki yitik hasret \n\nİki parça can",
   "meta": {
-    "yore": "Fikret Kızılok",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Fikret Kızılok",
-    "aciklama": ""
+    "turu": "POP",
+    "soz": "HMET HAMDI ÖNAL",
+    "muzik": "Fikret Kızılok"
   },
   "sistem": {
     "eski_id": 5649,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-06T19:49:32.132Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
