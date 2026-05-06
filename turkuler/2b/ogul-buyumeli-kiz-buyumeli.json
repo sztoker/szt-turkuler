@@ -7,12 +7,13 @@
     "turu": "Özgün",
     "soz": "Fazıl Hüsnü Dağlarca",
     "muzik": "Sadık Gürbüz",
-    "soyleyenler": "Sadık Gürbüz-Edip Akbayram"
+    "soyleyenler": "Sadık Gürbüz-Edip Akbayram",
+    "diger_bilgiler": "Lütfü Gültekin ve Ekrem Ataer besteleri de bulunmaktadır."
   },
   "sistem": {
     "eski_id": 6083,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-23T09:17:15.872Z",
+    "son_degisiklik": "2026-05-06T08:26:55.871Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
