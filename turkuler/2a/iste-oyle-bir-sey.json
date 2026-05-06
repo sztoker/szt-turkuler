@@ -1,26 +1,17 @@
 {
   "id": "iste-oyle-bir-sey",
   "baslik": "İŞTE ÖYLE BİR ŞEY",
-  "sozler_html": "<p>Seni düşündüm * dün akşam yineSonsuz bir umut * doldu içimeBir de kendimi * düşündüm sonraBir garip duygu * çöktü omzumaHani ıssız bir yoldan geçerkenHani bir korku duyar da insanHani bir şarkı söyler  içinden / İşte öyle bir şey     2Hani eski bir resme bakarkenHani yılları sayar da insanHani gözleri dolar ya birdenİşte öyle bir şey (2- işte öyle bir şey     2Seni düşündüm * dün akşam yineSonsuz bir huzur * doldu kalbimeBir de kendimi * düşündüm sonraBir garip duygu * çöktü omzumaHani yıldızlar yanıp sönerkenHani bir yıldız kayar ve insanHani bir telaş duyar ya birden / İşte öyle bir şeyHani bir yağmur yağar da bazenHani gök gürler ya arkasındanHani şimşekler çakar peşindenİşte öyle bir şey (2-işte öyle bir şey</p>",
-  "sozler_duz": "Seni düşündüm * dün akşam yineSonsuz bir umut * doldu içimeBir de kendimi * düşündüm sonraBir garip duygu * çöktü omzumaHani ıssız bir yoldan geçerkenHani bir korku duyar da insanHani bir şarkı söyler içinden / İşte öyle bir şey 2Hani eski bir resme bakarkenHani yılları sayar da insanHani gözleri dolar ya birdenİşte öyle bir şey (2- işte öyle bir şey 2Seni düşündüm * dün akşam yineSonsuz bir huzur * doldu kalbimeBir de kendimi * düşündüm sonraBir garip duygu * çöktü omzumaHani yıldızlar yanıp sönerkenHani bir yıldız kayar ve insanHani bir telaş duyar ya birden / İşte öyle bir şeyHani bir yağmur yağar da bazenHani gök gürler ya arkasındanHani şimşekler çakar peşindenİşte öyle bir şey (2-işte öyle bir şey",
+  "sozler_html": "<p>Seni düşündüm * dün akşam yine</p><p>Sonsuz bir umut * doldu içime</p><p>Bir de kendimi * düşündüm sonra</p><p>Bir garip duygu * çöktü omzuma</p><p><br></p><p><b>Hani ıssız bir yoldan geçerken</b></p><p><b>Hani bir korku duyar da insan</b></p><p><b>Hani bir şarkı söyler  içinden&nbsp;</b></p><p><b>İşte öyle bir şey     2</b></p><p><b>Hani eski bir resme bakarken</b></p><p><b>Hani yılları sayar da insan</b></p><p><b>Hani gözleri dolar ya birden</b></p><p><b>İşte öyle bir şey (2-&nbsp;</b></p><p><br></p><p>Seni düşündüm * dün akşam yine</p><p>Sonsuz bir huzur * doldu kalbime</p><p>Bir de kendimi * düşündüm sonra</p><p>Bir garip duygu * çöktü omzuma</p><p><br></p><p>Hani ıssız...</p>",
+  "sozler_duz": "Seni düşündüm * dün akşam yine\n\nSonsuz bir umut * doldu içime\n\nBir de kendimi * düşündüm sonra\n\nBir garip duygu * çöktü omzuma\n\nHani ıssız bir yoldan geçerken\n\nHani bir korku duyar da insan\n\nHani bir şarkı söyler içinden \n\nİşte öyle bir şey 2\n\nHani eski bir resme bakarken\n\nHani yılları sayar da insan\n\nHani gözleri dolar ya birden\n\nİşte öyle bir şey (2- \n\nSeni düşündüm * dün akşam yine\n\nSonsuz bir huzur * doldu kalbime\n\nBir de kendimi * düşündüm sonra\n\nBir garip duygu * çöktü omzuma\n\nHani ıssız...",
   "meta": {
-    "yore": "Y: Erol Evgin          M: Melih Kibar",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Y: Erol Evgin          M: Melih Kibar",
-    "aciklama": ""
+    "turu": "POP",
+    "soz": "Çiğdem Talu",
+    "muzik": "Melih Kibar"
   },
   "sistem": {
     "eski_id": 5693,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-06T17:44:13.518Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
