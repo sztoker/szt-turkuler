@@ -1,26 +1,18 @@
 {
   "id": "ilkbahar-geldi",
   "baslik": "İLKBAHAR GELDİ",
-  "sozler_html": "<p>Seve seve gezdim bu elleri / Tele tele düzdüm men gülleriBaka baka yollara / Ahtarıram seni men          (2Şirin sözüm gelmedin / İki gözüm gelmedin     (2Könül verip sevdiğim / Harda kaldın gelmedin     (2Gelmedin / İlkbahar geldi * durnalar geldiTekçe sen gelip çıkmadın / Harda kalmırsan     2Ezel günde derdi eşke düşüp men bir bela gördümÖzümden geyri sagi belaya müptela gördüm-müptela gördümDolandım alemi * bir yari hem dem görmedim billahCefasın çektim yarın / Özüme müptela gördüm-müptela gördümSensiz könlüm evi yar odlanaTez gel galbim dözlüm yar hicranaBaka baka yollara * ahtarıram seni men          (2Şirin sözüm gelmedi * iki gözüm gelmedi...</p>",
-  "sozler_duz": "Seve seve gezdim bu elleri / Tele tele düzdüm men gülleriBaka baka yollara / Ahtarıram seni men (2Şirin sözüm gelmedin / İki gözüm gelmedin (2Könül verip sevdiğim / Harda kaldın gelmedin (2Gelmedin / İlkbahar geldi * durnalar geldiTekçe sen gelip çıkmadın / Harda kalmırsan 2Ezel günde derdi eşke düşüp men bir bela gördümÖzümden geyri sagi belaya müptela gördüm-müptela gördümDolandım alemi * bir yari hem dem görmedim billahCefasın çektim yarın / Özüme müptela gördüm-müptela gördümSensiz könlüm evi yar odlanaTez gel galbim dözlüm yar hicranaBaka baka yollara * ahtarıram seni men (2Şirin sözüm gelmedi * iki gözüm gelmedi...",
+  "sozler_html": "<p>Seve seve gezdim bu elleri&nbsp;</p><p>Tele tele düzdüm men gülleri</p><p><br></p><p><b>Baka baka yollara&nbsp;</b></p><p><b>Ahtarıram seni men          (2</b></p><p><b>Şirin sözüm gelmedin&nbsp;</b></p><p><b>İki gözüm gelmedin     (2</b></p><p><b>Könül verip sevdiğim&nbsp;</b></p><p><b>Harda kaldın gelmedin     (2</b></p><p><b>Gelmedin&nbsp;</b></p><p><b>İlkbahar geldi * durnalar geldi</b></p><p><b>Tekçe sen gelip çıkmadın&nbsp;</b></p><p><b>Harda kalmışsan     2</b></p><p><br></p><p>Ezel günde derdi eşke düşüp men bir bela gördüm</p><p>Özümden geyri sagi belaya müptela gördüm-müptela gördüm</p><p>Dolandım alemi * bir yari hem dem görmedim billah</p><p>Cefasın çektim yarın&nbsp;</p><p>Özüme müptela gördüm-müptela gördüm</p><p><br></p><p>Sensiz könlüm evi yar odlana</p><p>Tez gel galbim dözlüm yar hicrana</p><p><br></p><p><b>Baka baka&nbsp;</b><b>...</b></p>",
+  "sozler_duz": "Seve seve gezdim bu elleri \n\nTele tele düzdüm men gülleri\n\nBaka baka yollara \n\nAhtarıram seni men (2\n\nŞirin sözüm gelmedin \n\nİki gözüm gelmedin (2\n\nKönül verip sevdiğim \n\nHarda kaldın gelmedin (2\n\nGelmedin \n\nİlkbahar geldi * durnalar geldi\n\nTekçe sen gelip çıkmadın \n\nHarda kalmışsan 2\n\nEzel günde derdi eşke düşüp men bir bela gördüm\n\nÖzümden geyri sagi belaya müptela gördüm-müptela gördüm\n\nDolandım alemi * bir yari hem dem görmedim billah\n\nCefasın çektim yarın \n\nÖzüme müptela gördüm-müptela gördüm\n\nSensiz könlüm evi yar odlana\n\nTez gel galbim dözlüm yar hicrana\n\nBaka baka ...",
   "meta": {
-    "yore": "AZERİ   S:Molla Penah Vağif     M:Cihangir Cihangi",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AZERİ   S:Molla Penah Vağif     M:Cihangir Cihangi",
-    "aciklama": ""
+    "yore": "AZERBAYCAN",
+    "turu": "THM",
+    "soz": "ZEYNAL ELIABASOVIC Cabarov",
+    "muzik": "CAHANGIR CAHANGIROV(Anonim)"
   },
   "sistem": {
     "eski_id": 5655,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-06T19:41:43.151Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
