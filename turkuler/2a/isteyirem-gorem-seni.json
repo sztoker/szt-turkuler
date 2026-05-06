@@ -1,26 +1,16 @@
 {
   "id": "isteyirem-gorem-seni",
   "baslik": "İSTEYİREM GÖREM SENİ",
-  "sozler_html": "<p>Bahar geldi göy çemene yar / İsteyirem görem seniEtir saçın yasemenler yar / İsteyirem görem seniİnan uymaz gönlüm yada / Eşkin salıp meni odaGece yatıp uykumda da / İsteyirem görem seniVay balam görem seni – görem seniSaf aşkınla yanıram men yar / İsteyirem görem seniHayalınla uçuram men yar / İsteyirem görem seni</p>",
-  "sozler_duz": "Bahar geldi göy çemene yar / İsteyirem görem seniEtir saçın yasemenler yar / İsteyirem görem seniİnan uymaz gönlüm yada / Eşkin salıp meni odaGece yatıp uykumda da / İsteyirem görem seniVay balam görem seni – görem seniSaf aşkınla yanıram men yar / İsteyirem görem seniHayalınla uçuram men yar / İsteyirem görem seni",
+  "sozler_html": "<p>Bahar geldi göy çemene yar&nbsp;</p><p>İsteyirem görem seni</p><p>Etir saçın yasemenler yar&nbsp;</p><p>İsteyirem görem seni</p><p>İnan uymaz gönlüm yada&nbsp;</p><p>Eşkin salıp meni oda</p><p>Gece yatıp uykumda da&nbsp;</p><p>İsteyirem görem seni</p><p>Vay balam görem seni – görem seni</p><p>Saf aşkınla yanıram men yar&nbsp;</p><p>İsteyirem görem seni</p><p>Hayalınla uçuram men yar&nbsp;</p><p>İsteyirem görem seni</p>",
+  "sozler_duz": "Bahar geldi göy çemene yar \n\nİsteyirem görem seni\n\nEtir saçın yasemenler yar \n\nİsteyirem görem seni\n\nİnan uymaz gönlüm yada \n\nEşkin salıp meni oda\n\nGece yatıp uykumda da \n\nİsteyirem görem seni\n\nVay balam görem seni – görem seni\n\nSaf aşkınla yanıram men yar \n\nİsteyirem görem seni\n\nHayalınla uçuram men yar \n\nİsteyirem görem seni",
   "meta": {
     "yore": "AZERİ",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AZERİ",
-    "aciklama": ""
+    "diger_bilgiler": "AZERİ"
   },
   "sistem": {
     "eski_id": 5690,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-06T10:11:19.566Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
