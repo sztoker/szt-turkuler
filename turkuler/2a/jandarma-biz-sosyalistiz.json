@@ -1,26 +1,16 @@
 {
   "id": "jandarma-biz-sosyalistiz",
   "baslik": "JANDARMA BİZ SOSYALİSTİZ",
-  "sozler_html": "<p>Ay ışığı jandarmanın süngüsünü yakıyorMapus yoldaş pencereden jandarmaya bakıyorVe diyor ki o: Jandarma sen kardeşimsin köylümsünKırlarından salgın gezen köyden geldin belki dünJandarma biz sosyalistiz dostuz yalnız biz sanaKurtuluşun bizimledir elini uzatsanaJandarma sen ah bir bilsen / Sana ne iş verdilerBelki bir gün zabit sana / Köylünü kurşunla derAnan karın çocukların / Köyünde aç kaldılarNe hükümet el uzatır / Ne ağadan medet varJandarma biz ...</p>",
-  "sozler_duz": "Ay ışığı jandarmanın süngüsünü yakıyorMapus yoldaş pencereden jandarmaya bakıyorVe diyor ki o: Jandarma sen kardeşimsin köylümsünKırlarından salgın gezen köyden geldin belki dünJandarma biz sosyalistiz dostuz yalnız biz sanaKurtuluşun bizimledir elini uzatsanaJandarma sen ah bir bilsen / Sana ne iş verdilerBelki bir gün zabit sana / Köylünü kurşunla derAnan karın çocukların / Köyünde aç kaldılarNe hükümet el uzatır / Ne ağadan medet varJandarma biz ...",
+  "sozler_html": "<p>Ay ışığı jandarmanın süngüsünü yakıyor</p><p>Mapus yoldaş pencereden jandarmaya bakıyor</p><p>Ve diyor ki o:&nbsp;</p><p>Jandarma sen kardeşimsin köylümsün</p><p>Kırlarından salgın gezen köyden geldin belki dün</p><p><br></p><p><b>Jandarma biz sosyalistiz dostuz yalnız biz sana</b></p><p><b>Kurtuluşun bizimledir elini uzatsana</b></p><p><br></p><p>Jandarma sen ah bir bilsen&nbsp;</p><p>Sana ne iş verdiler</p><p>Belki bir gün zabit sana&nbsp;</p><p>Köylünü kurşunla der</p><p>Anan karın çocukların&nbsp;</p><p>Köyünde aç kaldılar</p><p>Ne hükümet el uzatır&nbsp;</p><p>Ne ağadan medet var</p><p><br></p><p><b>Jandarma biz ...</b></p>",
+  "sozler_duz": "Ay ışığı jandarmanın süngüsünü yakıyor\n\nMapus yoldaş pencereden jandarmaya bakıyor\n\nVe diyor ki o: \n\nJandarma sen kardeşimsin köylümsün\n\nKırlarından salgın gezen köyden geldin belki dün\n\nJandarma biz sosyalistiz dostuz yalnız biz sana\n\nKurtuluşun bizimledir elini uzatsana\n\nJandarma sen ah bir bilsen \n\nSana ne iş verdiler\n\nBelki bir gün zabit sana \n\nKöylünü kurşunla der\n\nAnan karın çocukların \n\nKöyünde aç kaldılar\n\nNe hükümet el uzatır \n\nNe ağadan medet var\n\nJandarma biz ...",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soyleyenler": "Rahmi Saltuk"
   },
   "sistem": {
     "eski_id": 5697,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-06T10:10:00.522Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
