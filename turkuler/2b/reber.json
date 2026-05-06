@@ -1,26 +1,17 @@
 {
   "id": "reber",
   "baslik": "REBER",
-  "sozler_html": "<p>Ezni zanım dıjmın kiye / Vılin ma jıdost sanuçiyeReya rasti vindıka ribe / Reber vere ezne zalımEzni zanike gındıme / Şivaneke ne handimeRiço nuçe fer-mayime / Reber vere ezne zalımYakun diya bajarime / Faşiya kı jebırimeEzaniyem bin neserime / Reber vere ezne zalımGınkırin be hostanebe / Zana gurbe hıdın nabeHişti nambe reber nabe / Reber vere ezne zalımReber dı be kırba verde / Jipo mılete şervan beReber dı be kırba verde / Jipo şape şeroş kere şervan be</p>",
-  "sozler_duz": "Ezni zanım dıjmın kiye / Vılin ma jıdost sanuçiyeReya rasti vindıka ribe / Reber vere ezne zalımEzni zanike gındıme / Şivaneke ne handimeRiço nuçe fer-mayime / Reber vere ezne zalımYakun diya bajarime / Faşiya kı jebırimeEzaniyem bin neserime / Reber vere ezne zalımGınkırin be hostanebe / Zana gurbe hıdın nabeHişti nambe reber nabe / Reber vere ezne zalımReber dı be kırba verde / Jipo mılete şervan beReber dı be kırba verde / Jipo şape şeroş kere şervan be",
+  "sozler_html": "<p>Ez nizanım dıjmın ki ye / Vılin ma jıdost sanuçiyeReya rasti vindıka ribe / Reber vere ezne zalımEzni zanike gındıme / Şivaneke ne handimeRiço nuçe fer-mayime / Reber vere ezne zalımYakun diya bajarime / Faşiya kı jebırimeEzaniyem bin neserime / Reber vere ezne zalımGınkırin be hostanebe / Zana gurbe hıdın nabeHişti nambe reber nabe / Reber vere ezne zalımReber dı be kırba verde / Jipo mılete şervan beReber dı be kırba verde / Jipo şape şeroş kere şervan be</p>",
+  "sozler_duz": "Ez nizanım dıjmın ki ye / Vılin ma jıdost sanuçiyeReya rasti vindıka ribe / Reber vere ezne zalımEzni zanike gındıme / Şivaneke ne handimeRiço nuçe fer-mayime / Reber vere ezne zalımYakun diya bajarime / Faşiya kı jebırimeEzaniyem bin neserime / Reber vere ezne zalımGınkırin be hostanebe / Zana gurbe hıdın nabeHişti nambe reber nabe / Reber vere ezne zalımReber dı be kırba verde / Jipo mılete şervan beReber dı be kırba verde / Jipo şape şeroş kere şervan be",
   "meta": {
-    "yore": "KÜRTÇE (Kulaktan, Türkçe gibi yazıldı)",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "KÜRTÇE (Kulaktan, Türkçe gibi yazıldı)",
-    "aciklama": ""
+    "soz": "Mellen Hesen",
+    "muzik": "Hakan Alak",
+    "diger_bilgiler": "KÜRTÇE (Kulaktan, Türkçe gibi yazıldı)"
   },
   "sistem": {
     "eski_id": 6189,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-06T08:37:56.916Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
