@@ -1,18 +1,20 @@
 {
   "id": "yuru-bre-hizir-pasa",
   "baslik": "YÜRÜ BRE HIZIR PAŞA",
-  "sozler_html": "<p>Yürü bre hızır paşa<br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Senin de çarkın kırılır</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Süvendiğin padişahın</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Gün gelir o da devrilir</span><br>\n<br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Şahı sevmek suç mu bana</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Kem bildirdin beni hana</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Kan için yalvarmam sana</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Şeyhim şah bana darılır</span><br>\n<br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Ben musa'yım sen firavun</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">İkrarsız şeytani lain</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Üçüncü ölmem bu hayın</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Pir sultan ölür dirilir</span></p>",
+  "sozler_html": "<p>Yürü bre hızır paşa<br>\nSenin de çarkın kırılır<br>\nSüvendiğin padişahın<br>\nGün gelir o da devrilir<br>\n<br>\nŞahı sevmek suç mu bana<br>\nKem bildirdin beni hana<br>\nKan için yalvarmam sana<br>\nŞeyhim şah bana darılır<br>\n<br>\nBen musa'yım sen firavun<br>\nİkrarsız şeytani lain<br>\nÜçüncü ölmem bu hayın<br>\nPir sultan ölür dirilir</p>",
   "sozler_duz": "Yürü bre hızır paşa\nSenin de çarkın kırılır\nSüvendiğin padişahın\nGün gelir o da devrilir\n\nŞahı sevmek suç mu bana\nKem bildirdin beni hana\nKan için yalvarmam sana\nŞeyhim şah bana darılır\n\nBen musa'yım sen firavun\nİkrarsız şeytani lain\nÜçüncü ölmem bu hayın\nPir sultan ölür dirilir",
   "meta": {
     "turu": "THM",
     "derleyen": "Anonim",
     "soz": "Pir Sultan Abdal",
-    "karar": "La"
+    "muzik": "İlkay Akkaya",
+    "karar": "La",
+    "diger_bilgiler": "Söyleyene göre farklı besteciler bulunmakta, Ruhi Su, Ali Ekber Eren, Ali Çağan, Ayhan Çabuk"
   },
   "sistem": {
     "eski_id": 6717,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-30T17:59:25.353Z",
+    "son_degisiklik": "2026-05-06T10:02:21.529Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
