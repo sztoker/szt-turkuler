@@ -1,8 +1,8 @@
 {
   "id": "istanbul-sokaklari",
   "baslik": "İSTANBUL SOKAKLARI",
-  "sozler_html": "<p>Söyleyin sevgilim nerde&nbsp;</p><p>İstanbul sokakları</p><p>Çare bulun bu derde&nbsp;</p><p>İstanbul sokakları</p><p><br></p><p><b>Onu benden siz aldınız&nbsp;</b></p><p><b>Onu benden siz çaldınız</b></p><p><b>Şimdi yalnız bıraktınız&nbsp;</b></p><p><b>İstanbul sokakları</b></p><p><br></p><p>Sevgilimi verin bana&nbsp;</p><p>İstanbul sokakları</p><p>Dünyam döndü zindana&nbsp;</p><p>İstanbul sokakları&nbsp;</p><p><br></p><p><b>Onu ...</b></p>",
-  "sozler_duz": "Söyleyin sevgilim nerde \n\nİstanbul sokakları\n\nÇare bulun bu derde \n\nİstanbul sokakları\n\nOnu benden siz aldınız \n\nOnu benden siz çaldınız\n\nŞimdi yalnız bıraktınız \n\nİstanbul sokakları\n\nSevgilimi verin bana \n\nİstanbul sokakları\n\nDünyam döndü zindana \n\nİstanbul sokakları \n\nOnu ...",
+  "sozler_html": "<p>Söyleyin sevgilim nerde&nbsp;</p><p>İstanbul sokakları</p><p>Çare bulun bu derde&nbsp;</p><p>İstanbul sokakları</p><p><br></p><p><b>Onu benden siz aldınız&nbsp;</b></p><p><b>Onu benden siz çaldınız</b></p><p><b>Şimdi yalnız bıraktınız&nbsp;</b></p><p><b>İstanbul sokakları</b></p><p><br></p><p>Sevgilimi verin bana</p><p>İstanbul sokakları</p><p>Dünyam döndü zindana&nbsp;</p><p>İstanbul sokakları&nbsp;</p><p><br></p><p><b>Onu ...</b></p>",
+  "sozler_duz": "Söyleyin sevgilim nerde \n\nİstanbul sokakları\n\nÇare bulun bu derde \n\nİstanbul sokakları\n\nOnu benden siz aldınız \n\nOnu benden siz çaldınız\n\nŞimdi yalnız bıraktınız \n\nİstanbul sokakları\n\nSevgilimi verin bana\n\nİstanbul sokakları\n\nDünyam döndü zindana \n\nİstanbul sokakları \n\nOnu ...",
   "meta": {
     "turu": "TSM",
     "soz": "Selahattin Sarıkaya",
@@ -12,7 +12,7 @@
   "sistem": {
     "eski_id": 5682,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-07T21:15:00.084Z",
+    "son_degisiklik": "2026-05-07T21:15:08.376Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
