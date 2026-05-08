@@ -1,26 +1,18 @@
 {
   "id": "icin-icin-yaniyor-bu-gonlum",
   "baslik": "İÇİN İÇİN YANIYOR BU GÖNLÜM",
-  "sozler_html": "<p>İçin için yanıyor * yanıyor bu gönlümOnu niçin arıyor * arıyor bu gönlümO bir vefasızdı * o bir hayırsızdı * neden gönül arıyorAçık yeşildi gözü * güneş gibiydi yüzüO çok güzeldi amma * yalancının biriydiAh – Unut onu gönlüm unut onu sen deNeden niçin arıyor * arıyor bu gönlümOnu niçin soruyor * soruyor bu gönlüm / O bir ...</p>",
-  "sozler_duz": "İçin için yanıyor * yanıyor bu gönlümOnu niçin arıyor * arıyor bu gönlümO bir vefasızdı * o bir hayırsızdı * neden gönül arıyorAçık yeşildi gözü * güneş gibiydi yüzüO çok güzeldi amma * yalancının biriydiAh – Unut onu gönlüm unut onu sen deNeden niçin arıyor * arıyor bu gönlümOnu niçin soruyor * soruyor bu gönlüm / O bir ...",
+  "sozler_html": "<p>İçin için yanıyor * yanıyor bu gönlüm</p><p>Onu niçin arıyor * arıyor bu gönlüm</p><p><br></p><p><b>O bir vefasızdı * o bir hayırsızdı&nbsp;</b></p><p><b>Neden gönül arıyor</b></p><p><br></p><p>Açık yeşildi gözü * güneş gibiydi yüzü</p><p>O çok güzeldi amma * yalancının biriydi</p><p><br></p><p>Ah – Unut onu gönlüm unut onu sen de</p><p>Neden niçin arıyor * arıyor bu gönlüm</p><p>Onu niçin soruyor * soruyor bu gönlüm&nbsp;</p><p><br></p><p><b>O bir ...</b></p>",
+  "sozler_duz": "İçin için yanıyor * yanıyor bu gönlüm\n\nOnu niçin arıyor * arıyor bu gönlüm\n\nO bir vefasızdı * o bir hayırsızdı \n\nNeden gönül arıyor\n\nAçık yeşildi gözü * güneş gibiydi yüzü\n\nO çok güzeldi amma * yalancının biriydi\n\nAh – Unut onu gönlüm unut onu sen de\n\nNeden niçin arıyor * arıyor bu gönlüm\n\nOnu niçin soruyor * soruyor bu gönlüm \n\nO bir ...",
   "meta": {
-    "yore": "Şekip Ayhan Özışık         Muhayyerkürdi / Düyek",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Şekip Ayhan Özışık         Muhayyerkürdi / Düyek",
-    "aciklama": ""
+    "turu": "TSM",
+    "soz": "Şekip Ayhan Özışık",
+    "muzik": "Şekip Ayhan Özışık",
+    "diger_bilgiler": "Muhayyerkürdi / Düyek"
   },
   "sistem": {
     "eski_id": 5629,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-08T18:22:24.021Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
