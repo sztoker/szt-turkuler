@@ -1,26 +1,19 @@
 {
   "id": "hekimoglu-derler-benim-aslima",
-  "baslik": "Hekimoğlu Derler Benim Aslıma_",
-  "sozler_html": "<p>Hekimoğlu Derler Benim AslımaAynalı Martin Yaptırdım Da (Narinim) Kendi Neslime.Hekim Oğlu Derler Bir Küçük Uşak,Bir Omuzdan Bir Omuza (Narinim) On Arma Fişek.Konaklar Yaptırdım Mermer Direkli,Hekimoğlu Dediğin De (Narinim) Aslan Yürekli.Konaklar Yaptırdım Döşetemedim,Ünye Fatsa Bir Oldu Da(Narinim) Baş Edemedim.Ünye Fatsa Arası Ordu'da Kuruldu,Hekimoğlu Dediğin (Narinim) O Da Vuruldu</p>",
-  "sozler_duz": "Hekimoğlu Derler Benim AslımaAynalı Martin Yaptırdım Da (Narinim) Kendi Neslime.Hekim Oğlu Derler Bir Küçük Uşak,Bir Omuzdan Bir Omuza (Narinim) On Arma Fişek.Konaklar Yaptırdım Mermer Direkli,Hekimoğlu Dediğin De (Narinim) Aslan Yürekli.Konaklar Yaptırdım Döşetemedim,Ünye Fatsa Bir Oldu Da(Narinim) Baş Edemedim.Ünye Fatsa Arası Ordu'da Kuruldu,Hekimoğlu Dediğin (Narinim) O Da Vuruldu",
+  "baslik": "HEKİMOĞLU DERLER BENİM ASLIMA",
+  "sozler_html": "<p>Hekimoğlu derler benim aslıma</p><p>Aynalı martin yaptırdım da\n(narinim)&nbsp;</p><p>Kendi neslime.</p><p>&nbsp;</p><p>Hekim oğlu derler bir ufak uşak,</p><p>Bir omuzdan bir omuza\n(narinim)&nbsp;</p><p>On arma fişek.</p><p>&nbsp;</p><p>Konaklar yaptırdım mermer\ndirekli,</p><p>Hekimoğlu dediğin de\n(narinim)&nbsp;</p><p>Aslan yürekli.</p><p>&nbsp;</p><p>Konaklar yaptırdım döşetemedim,</p><p>Ünye fatsa bir oldu\nda(narinim)&nbsp;</p><p>Baş edemedim.</p><p>&nbsp;</p><p>Ünye fatsa arası ordu'da kuruldu,</p><p>Hekimoğlu dediğin (narinim)&nbsp;</p><p>O da vuruldu</p>",
+  "sozler_duz": "Hekimoğlu derler benim aslıma\n\nAynalı martin yaptırdım da (narinim) \n\nKendi neslime.\n\n \n\nHekim oğlu derler bir ufak uşak,\n\nBir omuzdan bir omuza (narinim) \n\nOn arma fişek.\n\n \n\nKonaklar yaptırdım mermer direkli,\n\nHekimoğlu dediğin de (narinim) \n\nAslan yürekli.\n\n \n\nKonaklar yaptırdım döşetemedim,\n\nÜnye fatsa bir oldu da(narinim) \n\nBaş edemedim.\n\n \n\nÜnye fatsa arası ordu'da kuruldu,\n\nHekimoğlu dediğin (narinim) \n\nO da vuruldu",
   "meta": {
-    "yore": "Ordu",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Fatsa - Kadir İnanır-Ümit Tokcan",
-    "aciklama": ""
+    "yore": "Ordu/Fatsa",
+    "turu": "THM",
+    "derleyen": "Ümit Tokcan",
+    "kaynak_kisi": "Kadir İnanır",
+    "karar": "Do"
   },
   "sistem": {
     "eski_id": 5584,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-08T19:52:24.014Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
