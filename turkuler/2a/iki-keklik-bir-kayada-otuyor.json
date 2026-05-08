@@ -1,26 +1,19 @@
 {
   "id": "iki-keklik-bir-kayada-otuyor",
-  "baslik": "İki Keklik Bir Kayada Ötüyor_",
-  "sozler_html": "<p>İki De Keklik Bir Kayada ÖtüyorÖtme De Keklik Derdim Bana YetiyorAman Aman Yetiyor.Annesine Kara Da Haber Gidiyor.Yazması Oyalı Kundurası BoyalıYar Benim Aman Aman Yar BenimUzun Da Geceler Yar Boynuma Sar Benim.Aman Aman Sar Beniİki De Keklik Bir Derede Su İçerDertli De Keklik Dertsizlere Dert AçarAman Aman Dert Açar.Ona Yanık Sevda Derler Tez GeçerYazması Oyalı Kundurası Boyalı,Yar Benim Aman Aman Yar BenimUzun Da Geceler Yar Boynuma Sar Benim.Aman Aman Sar Beni</p>",
-  "sozler_duz": "İki De Keklik Bir Kayada ÖtüyorÖtme De Keklik Derdim Bana YetiyorAman Aman Yetiyor.Annesine Kara Da Haber Gidiyor.Yazması Oyalı Kundurası BoyalıYar Benim Aman Aman Yar BenimUzun Da Geceler Yar Boynuma Sar Benim.Aman Aman Sar Beniİki De Keklik Bir Derede Su İçerDertli De Keklik Dertsizlere Dert AçarAman Aman Dert Açar.Ona Yanık Sevda Derler Tez GeçerYazması Oyalı Kundurası Boyalı,Yar Benim Aman Aman Yar BenimUzun Da Geceler Yar Boynuma Sar Benim.Aman Aman Sar Beni",
+  "baslik": "İKİ KEKLİK BİR KAYADA ÖTÜYOR",
+  "sozler_html": "<p>İki de keklik bir kayada\nötüyor</p><p>Ötme de keklik derdim bana\nyetiyor</p><p>Aman aman yetiyor.</p><p>Annesine kara da haber gidiyor.</p><p>&nbsp;</p><p><b>Yazması oyalı kundurası boyalı</b></p><p><b>Yar benim aman aman yar benim</b></p><p><b>Uzun da geceler yar boynuma sar\nbenim.</b></p><p><b>Aman aman sar benim</b></p><p>&nbsp;</p><p>İki de keklik bir derede su içer</p><p>Dertli de keklik dertsizlere dert\naçar</p><p>Aman aman dert açar.</p><p>Ona yanık sevda derler tez geçer</p><p>&nbsp;</p><p><b>Yazması oyalı ...</b></p><p>&nbsp;</p><p>İki keklik bir kayada\nyaslanır<br>\nTeke de bıçak gümüş kında paslanır </p><p>Aman aman paslanır</p><p>\nBir gün olur deli de gönül uslanır</p><p><br></p><p>Yazması oyalı ...</p><p>&nbsp;</p>",
+  "sozler_duz": "İki de keklik bir kayada ötüyor\n\nÖtme de keklik derdim bana yetiyor\n\nAman aman yetiyor.\n\nAnnesine kara da haber gidiyor.\n\n \n\nYazması oyalı kundurası boyalı\n\nYar benim aman aman yar benim\n\nUzun da geceler yar boynuma sar benim.\n\nAman aman sar benim\n\n \n\nİki de keklik bir derede su içer\n\nDertli de keklik dertsizlere dert açar\n\nAman aman dert açar.\n\nOna yanık sevda derler tez geçer\n\n \n\nYazması oyalı ...\n\n \n\nİki keklik bir kayada yaslanır\nTeke de bıçak gümüş kında paslanır\n\nAman aman paslanır\n\nBir gün olur deli de gönül uslanır\n\nYazması oyalı ...",
   "meta": {
     "yore": "Balıkesir",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Mustafa Sarı-Muzaffer Sarısözen",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Mustafa Sarı",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5645,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-08T18:01:53.839Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
