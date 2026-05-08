@@ -1,26 +1,19 @@
 {
   "id": "his-hisi-hancer-boynuma",
-  "baslik": "Hış Hışı Hançer Boynuma_",
-  "sozler_html": "<p>Hış Hışı HançerBoynuma Le LeSürmeli Kızlar YanımaBen HalayınBaşıyam Le Leİncirli Küpe TaşıyamÇekin HalayDizilsin Le LeMahmur Gözler SüzülsünBen HalayınBaşıyam Le Leİncirli Küpe Taşıyam</p>",
-  "sozler_duz": "Hış Hışı HançerBoynuma Le LeSürmeli Kızlar YanımaBen HalayınBaşıyam Le Leİncirli Küpe TaşıyamÇekin HalayDizilsin Le LeMahmur Gözler SüzülsünBen HalayınBaşıyam Le Leİncirli Küpe Taşıyam",
+  "baslik": "HIŞ HIŞI HANÇER BOYNUMA",
+  "sozler_html": "<p>Hış hışı hançer boynuma le le</p><p>Küpeli kızlar yanıma</p><p>&nbsp;</p><p><b>Ben halayın başıyam le le</b></p><p><b>İncili küpe taşıyam</b></p><p>&nbsp;</p><p>Çekin halaydizilsin le le</p><p>Mahmur gözler süzülsün</p><p>&nbsp;</p><p><b>Ben halayın...</b></p>",
+  "sozler_duz": "Hış hışı hançer boynuma le le\n\nKüpeli kızlar yanıma\n\n \n\nBen halayın başıyam le le\n\nİncili küpe taşıyam\n\n \n\nÇekin halaydizilsin le le\n\nMahmur gözler süzülsün\n\n \n\nBen halayın...",
   "meta": {
     "yore": "Gaziantep",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Azmi Körükçü-M.Sarısözen",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Azmi Körükçü",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5603,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-08T19:15:19.369Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
