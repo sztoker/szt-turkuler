@@ -1,26 +1,20 @@
 {
   "id": "huma-kusu",
   "baslik": "HUMA KUŞU",
-  "sozler_html": "<p>Yavri yavri- Huma kuşu yükseklerden seslenirYar koynunda bir çift suna beslenir -beslenirYavri yavri- Sen ağlama kirpiklerin ıslanırBen ağlım ki belki deli gönül uslanır -uslanırBen ağlım ki -gülüm eylen eylen eylen - belki gönül uslanırSen bağ ol ki ben bağında gül olimLayık mıdır yanim yanim kül olimSen efendi ben kapında kul olimKo desinler bu da bunun kuludur</p>",
-  "sozler_duz": "Yavri yavri- Huma kuşu yükseklerden seslenirYar koynunda bir çift suna beslenir -beslenirYavri yavri- Sen ağlama kirpiklerin ıslanırBen ağlım ki belki deli gönül uslanır -uslanırBen ağlım ki -gülüm eylen eylen eylen - belki gönül uslanırSen bağ ol ki ben bağında gül olimLayık mıdır yanim yanim kül olimSen efendi ben kapında kul olimKo desinler bu da bunun kuludur",
+  "sozler_html": "<p>Yavri yavri-&nbsp;</p><p>Huma kuşu yükseklerden seslenir</p><p>Yar koynunda bir çift suna beslenir -beslenir</p><p>Yavri yavri-&nbsp;</p><p>Sen ağlama kirpiklerin ıslanır</p><p>Ben ağlım ki belki deli gönül uslanır -uslanır</p><p>Ben ağlım ki -gülüm eylen eylen eylen -&nbsp;</p><p>Belki gönül uslanır</p><p><br></p><p>Yavri yavri-&nbsp;</p><p>Sen bağ ol ki ben bağında gül olim</p><p>Layık mıdır yanim yanim kül olim</p><p>Sen efendim ben kapında kul olim</p><p>Ko desinler bu da bunun kuludur</p><p>Ko desinler gülüm eylen eylen eylen</p><p>Bu da bunun kuludur</p>",
+  "sozler_duz": "Yavri yavri- \n\nHuma kuşu yükseklerden seslenir\n\nYar koynunda bir çift suna beslenir -beslenir\n\nYavri yavri- \n\nSen ağlama kirpiklerin ıslanır\n\nBen ağlım ki belki deli gönül uslanır -uslanır\n\nBen ağlım ki -gülüm eylen eylen eylen - \n\nBelki gönül uslanır\n\nYavri yavri- \n\nSen bağ ol ki ben bağında gül olim\n\nLayık mıdır yanim yanim kül olim\n\nSen efendim ben kapında kul olim\n\nKo desinler bu da bunun kuludur\n\nKo desinler gülüm eylen eylen eylen\n\nBu da bunun kuludur",
   "meta": {
     "yore": "ERZURUM",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ERZURUM",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "TRT MÜZİK DAİ. BŞK.",
+    "kaynak_kisi": "HULUSİ SEVEN",
+    "karar": "La",
+    "diger_bilgiler": "ERZURUM"
   },
   "sistem": {
     "eski_id": 5609,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-08T18:58:21.797Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
