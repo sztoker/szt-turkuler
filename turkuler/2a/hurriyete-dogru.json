@@ -1,26 +1,19 @@
 {
   "id": "hurriyete-dogru",
   "baslik": "HÜRRİYETE DOĞRU",
-  "sozler_html": "<p>Gün doğmadan Deniz daha bembeyazken çıkacaksın yolaKürekleri tutmanın şehveti avuçlarındaİçinde bir iş görmenin saadetiGideceksin ırıpların çalkantısındaMartıların sustuğu vakit kayalıklardaBalıklar çıkacak yoluna karşıcı / SevineceksinDenizkızları mı dersin kuşlar balıklar mıBayramlar seyranlar donanmalar mıHey / Ne duruyorsun be / At kendini denizeGeride bekleyenin varmış aldırmaGörmüyor musun her yanda hürriyetRüzgar ol yelken ol dümen ol balık ol Git gidebildiğin yere</p>",
-  "sozler_duz": "Gün doğmadan Deniz daha bembeyazken çıkacaksın yolaKürekleri tutmanın şehveti avuçlarındaİçinde bir iş görmenin saadetiGideceksin ırıpların çalkantısındaMartıların sustuğu vakit kayalıklardaBalıklar çıkacak yoluna karşıcı / SevineceksinDenizkızları mı dersin kuşlar balıklar mıBayramlar seyranlar donanmalar mıHey / Ne duruyorsun be / At kendini denizeGeride bekleyenin varmış aldırmaGörmüyor musun her yanda hürriyetRüzgar ol yelken ol dümen ol balık ol Git gidebildiğin yere",
+  "sozler_html": "<p>Gün doğmadan&nbsp;<o:p></o:p></p><p>Deniz daha bembeyazken çıkacaksın yola<o:p></o:p></p><p>&nbsp;</p><p>Kürekleri tutmanın şehveti avuçlarında<o:p></o:p></p><p>İçinde bir iş görmenin saadeti<o:p></o:p></p><p>Gideceksin ırıpların çalkantısında<o:p></o:p></p><p>Balıklar çıkacak yoluna karşıcı&nbsp;<o:p></o:p></p><p>Sevineceksin<o:p></o:p></p><p>&nbsp;</p><p>Ağları silkeledikçe deniz gelecek eline pul pul<o:p></o:p></p><p>Ruhları&nbsp;sustuğu vakit martıların<o:p></o:p></p><p>Kayalıklardaki mezarlarında<br>\n<!--[if !supportLineBreakNewLine]--><br>\n<!--[endif]--><o:p></o:p></p><p>Birden,<o:p></o:p></p><p>Bir kıyamettir kopacak ufuklarda <o:p></o:p></p><p>Denizkızları mı dersin, kuşlar mı dersin;<o:p></o:p></p><p>Bayramlar seyranlar mı dersin, şenlikler cümbüşler mi?<o:p></o:p></p><p>Gelin alayları, teller, duvaklar, donanmalar mı<o:p></o:p></p><p>&nbsp;</p><p>Hey&nbsp;<o:p></o:p></p><p>Ne duruyorsun be&nbsp;<o:p></o:p></p><p>At kendini denize<o:p></o:p></p><p>Geride bekleyenin varmış aldırma<o:p></o:p></p><p>Görmüyor musun her yanda hürriyet<o:p></o:p></p><p>&nbsp;</p><p>Yelken ol kürek ol dümen ol balık ol su ol<o:p></o:p></p><p>Git gidebildiğin yere<o:p></o:p></p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>&nbsp;</p>",
+  "sozler_duz": "Gün doğmadan \n\nDeniz daha bembeyazken çıkacaksın yola\n\n \n\nKürekleri tutmanın şehveti avuçlarında\n\nİçinde bir iş görmenin saadeti\n\nGideceksin ırıpların çalkantısında\n\nBalıklar çıkacak yoluna karşıcı \n\nSevineceksin\n\n \n\nAğları silkeledikçe deniz gelecek eline pul pul\n\nRuhları sustuğu vakit martıların\n\nKayalıklardaki mezarlarında\n\nBirden,\n\nBir kıyamettir kopacak ufuklarda\n\nDenizkızları mı dersin, kuşlar mı dersin;\n\nBayramlar seyranlar mı dersin, şenlikler cümbüşler mi?\n\nGelin alayları, teller, duvaklar, donanmalar mı\n\n \n\nHey \n\nNe duruyorsun be \n\nAt kendini denize\n\nGeride bekleyenin varmış aldırma\n\nGörmüyor musun her yanda hürriyet\n\n \n\nYelken ol kürek ol dümen ol balık ol su ol\n\nGit gidebildiğin yere",
   "meta": {
-    "yore": "S: Orhan Veli Kanık      M: Ezginin Günlüğü",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S: Orhan Veli Kanık      M: Ezginin Günlüğü",
-    "aciklama": ""
+    "turu": "Özgün",
+    "soz": "Orhan Veli Kanık",
+    "muzik": "Nadir Göktürk",
+    "soyleyenler": "Ezginin Günlüğü, Haluk Levent",
+    "diger_bilgiler": "Ayrıca Timur Selçuk, Murat Özyüksel ve Esin Engin besteleri de var."
   },
   "sistem": {
     "eski_id": 5612,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-08T18:41:14.299Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
