@@ -1,26 +1,18 @@
 {
   "id": "hicbir-seyde-gozum-yok",
-  "baslik": "HIÇBIR ŞEYDE GÖZÜM YOK",
-  "sozler_html": "<p>Hiçbir şeyde gözüm yok / Sen yanımda ol yeterKapkaranlık geceme / Mehtap gibi dol yeterYağmur vururken cama / Dalarken gece gamaÖzleyen kollarıma / Usulca sokul yeterSızlayan her yerimin / Şu çileli seriminSahipsiz dertlerimin / Çaresini bul yeter / Yağmur ...</p>",
-  "sozler_duz": "Hiçbir şeyde gözüm yok / Sen yanımda ol yeterKapkaranlık geceme / Mehtap gibi dol yeterYağmur vururken cama / Dalarken gece gamaÖzleyen kollarıma / Usulca sokul yeterSızlayan her yerimin / Şu çileli seriminSahipsiz dertlerimin / Çaresini bul yeter / Yağmur ...",
+  "baslik": "HİÇBİR ŞEYDE GÖZÜM YOK",
+  "sozler_html": "<p>Hiçbir şeyde gözüm yok&nbsp;</p><p>Sen yanımda ol yeter</p><p>Kapkaranlık odama&nbsp;</p><p>Mehtap gibi dol yeter</p><p><br></p><p><b>Yağmur vururken cama&nbsp;</b></p><p><b>Dalarken gece gama</b></p><p><b>Özleyen kollarıma&nbsp;</b></p><p><b>Usulca sokul yeter</b></p><p><br></p><p>Sızlayan her yerimin&nbsp;</p><p>Şu çileli serimin</p><p>Sahipsiz dertlerimin&nbsp;</p><p>Çaresini bul yeter&nbsp;</p><p><br></p><p><b>Yağmur ...</b></p>",
+  "sozler_duz": "Hiçbir şeyde gözüm yok \n\nSen yanımda ol yeter\n\nKapkaranlık odama \n\nMehtap gibi dol yeter\n\nYağmur vururken cama \n\nDalarken gece gama\n\nÖzleyen kollarıma \n\nUsulca sokul yeter\n\nSızlayan her yerimin \n\nŞu çileli serimin\n\nSahipsiz dertlerimin \n\nÇaresini bul yeter \n\nYağmur ...",
   "meta": {
-    "yore": "Fethi Karamahmudoğlu                      Hicaz /",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Fethi Karamahmudoğlu                      Hicaz /",
-    "aciklama": ""
+    "turu": "TSM",
+    "soz": "Fethi Karamahmutoğlu",
+    "muzik": "Fethi Karamahmutoğlu",
+    "diger_bilgiler": "Hicaz"
   },
   "sistem": {
     "eski_id": 5601,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-08T19:19:20.789Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
