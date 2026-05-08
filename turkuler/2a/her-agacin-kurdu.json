@@ -1,26 +1,20 @@
 {
   "id": "her-agacin-kurdu",
   "baslik": "HER AĞACIN KURDU",
-  "sozler_html": "<p>Her ağacın kurdu özünden olurYiğidin kemliği sözünden olurEl için ağlayan gözünden olurAğlayan gözlerim selinden olduPir Sultan pirinin gam elin tutarGün olur koç yiğit menzile yeterHavada turnalar çığrışıp öterÖten telli turnam telinden oldu</p>",
-  "sozler_duz": "Her ağacın kurdu özünden olurYiğidin kemliği sözünden olurEl için ağlayan gözünden olurAğlayan gözlerim selinden olduPir Sultan pirinin gam elin tutarGün olur koç yiğit menzile yeterHavada turnalar çığrışıp öterÖten telli turnam telinden oldu",
+  "sozler_html": "<p>Her ağacın kurdu özünden olur</p><p>Yiğidin kemliği sözünden olur</p><p>El için ağlayan gözünden olur</p><p>Ağlayan gözlerim selinden oldu</p><p><br></p><p>Pir Sultan pirinin gam elin tutar</p><p>Gün olur koç yiğit menzile yeter</p><p>Havada turnalar çığrışıp öter</p><p>Öten telli turnam telinden oldu</p>",
+  "sozler_duz": "Her ağacın kurdu özünden olur\n\nYiğidin kemliği sözünden olur\n\nEl için ağlayan gözünden olur\n\nAğlayan gözlerim selinden oldu\n\nPir Sultan pirinin gam elin tutar\n\nGün olur koç yiğit menzile yeter\n\nHavada turnalar çığrışıp öter\n\nÖten telli turnam telinden oldu",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
+    "yore": "ERZİNCAN/Tercan",
+    "turu": "THM",
+    "derleyen": "Aşık Daimi",
     "kaynak_kisi": "Pir Sultan Abdal",
-    "soz": "",
-    "muzik": "",
     "soyleyenler": "Z. Livaneli",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5591,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-08T19:29:42.292Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
