@@ -1,26 +1,16 @@
 {
   "id": "iki-dagin-arasinda-kalmisam",
   "baslik": "İKİ DAĞIN ARASINDA KALMIŞAM",
-  "sozler_html": "<p>İki dağın arasında kalmışamBülbül gibi daldan dala konmuşam -oy konmuşam oy(2Ne gün görmüş ne de murat almışamAna beni bir çocuğa verdiler –oy verdiler oyVerdiler de günahıma girdiler –oy girdiler oyDağlarınan daşlarınan (2 / Uçam gidem guşlarınan –oy (2-amanEller sılasına döndü (2 / Ben kaldım gözyaşlarınan (2-amanAl eyvana yatak serdim yumuşakEmmim oğlu yanıma geldi bir uşak –oy bir uşak oyÖpmesi yok sevmesi yok konuşak / Ana beni bir çocuğa ...</p>",
-  "sozler_duz": "İki dağın arasında kalmışamBülbül gibi daldan dala konmuşam -oy konmuşam oy(2Ne gün görmüş ne de murat almışamAna beni bir çocuğa verdiler –oy verdiler oyVerdiler de günahıma girdiler –oy girdiler oyDağlarınan daşlarınan (2 / Uçam gidem guşlarınan –oy (2-amanEller sılasına döndü (2 / Ben kaldım gözyaşlarınan (2-amanAl eyvana yatak serdim yumuşakEmmim oğlu yanıma geldi bir uşak –oy bir uşak oyÖpmesi yok sevmesi yok konuşak / Ana beni bir çocuğa ...",
+  "sozler_html": "<p>İki dağın arasında kalmışam</p><p>Bülbül gibi daldan dala konmuşam -oy konmuşam oy(2</p><p>Ne gün görmüş ne de murat almışam</p><p><br></p><p>Ana beni bir çocuğa verdiler –oy verdiler oy</p><p>Verdiler de günahıma girdiler –oy girdiler oy</p><p><br></p><p>Dağlarınan daşlarınan (2&nbsp;</p><p>Uçam gidem guşlarınan –oy (2-aman</p><p>Eller sılasına döndü (2&nbsp;</p><p>Ben kaldım gözyaşlarınan (2-aman</p><p><br></p><p>Al eyvana yatak serdim yumuşak</p><p>Emmim oğlu yanıma geldi bir uşak –oy bir uşak oy</p><p>Öpmesi yok sevmesi yok konuşak&nbsp;</p><p><br></p><p>Ana beni bir çocuğa ...</p>",
+  "sozler_duz": "İki dağın arasında kalmışam\n\nBülbül gibi daldan dala konmuşam -oy konmuşam oy(2\n\nNe gün görmüş ne de murat almışam\n\nAna beni bir çocuğa verdiler –oy verdiler oy\n\nVerdiler de günahıma girdiler –oy girdiler oy\n\nDağlarınan daşlarınan (2 \n\nUçam gidem guşlarınan –oy (2-aman\n\nEller sılasına döndü (2 \n\nBen kaldım gözyaşlarınan (2-aman\n\nAl eyvana yatak serdim yumuşak\n\nEmmim oğlu yanıma geldi bir uşak –oy bir uşak oy\n\nÖpmesi yok sevmesi yok konuşak \n\nAna beni bir çocuğa ...",
   "meta": {
     "yore": "Güneydoğu",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Güneydoğu",
-    "aciklama": ""
+    "diger_bilgiler": "Mehmet Özbek tarafından söylenip derlenen aynı adlı türkünün ilk kıtası aynı, 3. kıta ise Gaziantep yöresinin \"Al eyvana yatak serdim yumuşaktürküsü ile aynı."
   },
   "sistem": {
     "eski_id": 5637,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-08T18:15:30.858Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
