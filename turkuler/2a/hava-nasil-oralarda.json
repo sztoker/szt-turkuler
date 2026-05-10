@@ -1,26 +1,18 @@
 {
   "id": "hava-nasil-oralarda",
   "baslik": "HAVA NASIL ORALARDA",
-  "sozler_html": "<p>Senden ayrı geçen günler / Ha bugün ha yarın biterOmzumda bunca yük varken / Biri iner biri biner.Sen her gece rüyalarımda / Gelip bana ağlıyorsunKim bilir beni kimlerden / Sorup haber alıyorsunNe haldeyim biliyor musunHava nasıl oralarda üşüyor musunKar yağıyor saçlarıma bilmiyor musunBildiğim pek çok doğru var / Gittiğim bir tek yolum varŞu yürekte kaç yangın var / Biri söner biri yanarSen her gece rüyalarımda / Gelip bana ağlıyorsunBense bir türkü tutturmuş / Gece gündüz söylüyorumGelip beni dinliyor musun / Hava nasıl ...</p>",
-  "sozler_duz": "Senden ayrı geçen günler / Ha bugün ha yarın biterOmzumda bunca yük varken / Biri iner biri biner.Sen her gece rüyalarımda / Gelip bana ağlıyorsunKim bilir beni kimlerden / Sorup haber alıyorsunNe haldeyim biliyor musunHava nasıl oralarda üşüyor musunKar yağıyor saçlarıma bilmiyor musunBildiğim pek çok doğru var / Gittiğim bir tek yolum varŞu yürekte kaç yangın var / Biri söner biri yanarSen her gece rüyalarımda / Gelip bana ağlıyorsunBense bir türkü tutturmuş / Gece gündüz söylüyorumGelip beni dinliyor musun / Hava nasıl ...",
+  "sozler_html": "<p>Senden ayrı geçen günler&nbsp;</p><p>Ha bugün ha yarın biter</p><p>Omzumda bunca yük varken&nbsp;</p><p>Biri iner biri biner.</p><p><br></p><p>Sen her gece rüyalarımda&nbsp;</p><p>Gelip bana ağlıyorsun</p><p>Kim bilir beni kimlerden&nbsp;</p><p>Sorup haber alıyorsun</p><p>Ne haldeyim biliyor musun</p><p><br></p><p><b>Hava nasıl oralarda üşüyor musun</b></p><p><b>Kar yağıyor saçlarıma bilmiyor musun</b></p><p><br></p><p>Bildiğim pek çok doğru var&nbsp;</p><p>Gittiğim bir tek yolum var</p><p>Şu yürekte kaç yangın var&nbsp;</p><p>Biri söner biri yanar</p><p><br></p><p>Sen her gece rüyalarımda&nbsp;</p><p>Gelip bana ağlıyorsun</p><p>Bense bir türkü tutturmuş&nbsp;</p><p>Gece gündüz söylüyorum</p><p>Gelip beni dinliyor musun&nbsp;</p><p><br></p><p><b>Hava nasıl ...</b></p>",
+  "sozler_duz": "Senden ayrı geçen günler \n\nHa bugün ha yarın biter\n\nOmzumda bunca yük varken \n\nBiri iner biri biner.\n\nSen her gece rüyalarımda \n\nGelip bana ağlıyorsun\n\nKim bilir beni kimlerden \n\nSorup haber alıyorsun\n\nNe haldeyim biliyor musun\n\nHava nasıl oralarda üşüyor musun\n\nKar yağıyor saçlarıma bilmiyor musun\n\nBildiğim pek çok doğru var \n\nGittiğim bir tek yolum var\n\nŞu yürekte kaç yangın var \n\nBiri söner biri yanar\n\nSen her gece rüyalarımda \n\nGelip bana ağlıyorsun\n\nBense bir türkü tutturmuş \n\nGece gündüz söylüyorum\n\nGelip beni dinliyor musun \n\nHava nasıl ...",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "turu": "POP",
+    "soz": "ADNAN ERGIL ETHEM",
+    "muzik": "ADNAN ERGIL ETHEM",
+    "soyleyenler": "Edip AKBAYRAM"
   },
   "sistem": {
     "eski_id": 5571,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-10T17:53:27.540Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
