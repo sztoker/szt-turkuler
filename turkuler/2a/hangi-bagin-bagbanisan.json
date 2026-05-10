@@ -1,26 +1,19 @@
 {
   "id": "hangi-bagin-bagbanisan",
   "baslik": "HANGİ BAĞIN BAĞBANISAN ...",
-  "sozler_html": "<p>Hangi bağın bağbanısan gülüsen -gülüsenAldın aklım beni ettin deli sen -ammanKırk yıl geçse (kalsa) yine kendi malımsan -malımsanİsterem ki bir gün evvel gelesen -ammanÖldüm bittim eridim kül oldum -ammanO senin aşkın elinden bayıldım -ammaaanSesin aldım yüzünü de gördüm ayıldım -ammanDiyarbekir etrafında bağlar varFitil işler  yüreğimde (ciğerimde) yaram var Sen gidersen benim başka kimim varİsterem ki bir gün evvel gelesen /  Öldüm ...</p>",
-  "sozler_duz": "Hangi bağın bağbanısan gülüsen -gülüsenAldın aklım beni ettin deli sen -ammanKırk yıl geçse (kalsa) yine kendi malımsan -malımsanİsterem ki bir gün evvel gelesen -ammanÖldüm bittim eridim kül oldum -ammanO senin aşkın elinden bayıldım -ammaaanSesin aldım yüzünü de gördüm ayıldım -ammanDiyarbekir etrafında bağlar varFitil işler yüreğimde (ciğerimde) yaram var Sen gidersen benim başka kimim varİsterem ki bir gün evvel gelesen / Öldüm ...",
+  "sozler_html": "<p>Hangi bağın bağbanısan gülüsen&nbsp;</p><p>Aldın aklım beni ettin deli sen -amman</p><p>Kırk yıl geçse (kalsa) yine kendi malımsan&nbsp;</p><p>İsterem ki bir gün evvel gelesen -amman</p><p><br></p><p><b>Öldüm bittim eridim tutuştum(kül oldum)-amman</b></p><p><b>O senin aşkın elinden bayıldım -ammaaan</b></p><p><b>Sesin aldım yüzünü de gördüm ayıldım -amman</b></p><p><br></p><p>Diyarbekir etrafında bağlar var</p><p>Fitil işler  yüreğimde (ciğerimde) yare var&nbsp;</p><p>Sen gidersen benim başka kimim var</p><p>İsterem ki bir gün evvel gelesen&nbsp;</p><p><br></p><p><b>Öldüm ...</b></p>",
+  "sozler_duz": "Hangi bağın bağbanısan gülüsen \n\nAldın aklım beni ettin deli sen -amman\n\nKırk yıl geçse (kalsa) yine kendi malımsan \n\nİsterem ki bir gün evvel gelesen -amman\n\nÖldüm bittim eridim tutuştum(kül oldum)-amman\n\nO senin aşkın elinden bayıldım -ammaaan\n\nSesin aldım yüzünü de gördüm ayıldım -amman\n\nDiyarbekir etrafında bağlar var\n\nFitil işler yüreğimde (ciğerimde) yare var \n\nSen gidersen benim başka kimim var\n\nİsterem ki bir gün evvel gelesen \n\nÖldüm ...",
   "meta": {
     "yore": "DİYARBAKIR",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "Celal Güzelses",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "DİYARBAKIR",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "AHMET YAMACI",
+    "kaynak_kisi": "RAMAZAN ŞENSES",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5541,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-10T19:05:58.286Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
