@@ -1,8 +1,8 @@
 {
   "id": "harman-yeri-tozlu-tasli",
   "baslik": "HARMAN YERİ TOZLU TAŞLI",
-  "sozler_html": "<p>Harman yeri tozlu taşlı&nbsp;</p><p>Mendilimde adın işli</p><p>Durulup düşen terimde -2&nbsp;</p><p>Özgür ülkemiz nakışlı –2 (2</p><p><br></p><p>Yangınlarda yol bulanı</p><p>Sevdiğine kul olalı</p><p>Üşütür mü kara toprak&nbsp;</p><p>Ölümü yere çalanı</p><p><br></p><p><b>Toprağı eken gülüm&nbsp;</b></p><p><b>Ekini biçenler gülüm (2</b></p><p><b>Akıyor harman yerine</b></p><p><b>Harman yeri düğün yeri gel gülüm&nbsp;&nbsp;</b></p><p><b>De gülüm</b></p><p><br></p><p>İzim var yol üstünde</p><p>Sözüm var dil üstünde</p><p>Kör geceler neylesin</p><p>Közüm var kül üstüne&nbsp;</p><p>De gülüm&nbsp;</p><p><br></p><p><b>Toprağı eken ...</b></p>",
-  "sozler_duz": "Harman yeri tozlu taşlı \n\nMendilimde adın işli\n\nDurulup düşen terimde -2 \n\nÖzgür ülkemiz nakışlı –2 (2\n\nYangınlarda yol bulanı\n\nSevdiğine kul olalı\n\nÜşütür mü kara toprak \n\nÖlümü yere çalanı\n\nToprağı eken gülüm \n\nEkini biçenler gülüm (2\n\nAkıyor harman yerine\n\nHarman yeri düğün yeri gel gülüm  \n\nDe gülüm\n\nİzim var yol üstünde\n\nSözüm var dil üstünde\n\nKör geceler neylesin\n\nKözüm var kül üstüne \n\nDe gülüm \n\nToprağı eken ...",
+  "sozler_html": "<p>Harman yeri tozlu taşlı -2</p><p>Mendilimde adın işli -2</p><p>Vurulup düşen teninde -2&nbsp;</p><p>Özgür ülkemiz nakışlı –2 (2</p><p><br></p><p>Yangınlarda yol bulanı</p><p>Sevdiğine kul olalı</p><p>Üşütür mü kara toprak&nbsp;</p><p>Ölümü yere çalanı</p><p><br></p><p><b>Toprağı eken gülüm&nbsp;</b></p><p><b>Ekini biçenler gülüm (2</b></p><p><b>Akıyor harman yerine</b></p><p><b>Harman yeri düğün yeri gel gülüm&nbsp;&nbsp;</b></p><p><b>De yürü</b></p><p>İzim var yol üstünde</p><p>Sözüm var dil üstünde</p><p>Kör geceler neylesin</p><p>Közüm var kül üstüne&nbsp;</p><p>De yürü&nbsp;</p><p><br></p><p><b>Toprağı eken ...</b></p>",
+  "sozler_duz": "Harman yeri tozlu taşlı -2\n\nMendilimde adın işli -2\n\nVurulup düşen teninde -2 \n\nÖzgür ülkemiz nakışlı –2 (2\n\nYangınlarda yol bulanı\n\nSevdiğine kul olalı\n\nÜşütür mü kara toprak \n\nÖlümü yere çalanı\n\nToprağı eken gülüm \n\nEkini biçenler gülüm (2\n\nAkıyor harman yerine\n\nHarman yeri düğün yeri gel gülüm  \n\nDe yürü\n\nİzim var yol üstünde\n\nSözüm var dil üstünde\n\nKör geceler neylesin\n\nKözüm var kül üstüne \n\nDe yürü \n\nToprağı eken ...",
   "meta": {
     "turu": "Özgün",
     "soz": "İbrahim Karaca",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 5553,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-10T18:50:23.994Z",
+    "son_degisiklik": "2026-05-10T18:54:28.455Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
