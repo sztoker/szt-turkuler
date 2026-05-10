@@ -1,26 +1,19 @@
 {
   "id": "havada-bulut-yok-bu-ne-dumandir",
-  "baslik": "Havada Bulut Yok Bu Ne Dumandır_",
-  "sozler_html": "<p>Havada Bulut Yok Bu Ne DumandırMehlede Ölüm Yok Bu Ne ŞivandırŞu Yemen Elleri Ne De YamandırAno Yemen'dir Gülü ÇemendirGiden Gelmiyor Acep NedendirŞu Dağın Ardında Redif Sesi VarVarın Bakın Çantasında Nesi VarBir Çift Pabuç İle Bir De Fesi VarBurası Huş'tur Yolu YokuşturGiden Gelmiyor Acep Ne İştirKışlanın Önünde Çalınır SazlarAyağım Yalınayak Yüreğim SızlarYemen'e Gidene Ağlıyor KızlarBurası Huş'tur Yolu YokuşturGiden Gelmiyor Acep Ne İştirHuş: Yemen'in Başkenti Sane İle Taiz Şehirleri Arasındaki Bir Türk Kalesinin İsmidirTürkü Eski Türkçe İle Yazılırken Huş'un Üzerindeki Nokta Zamanla Unutulmuş Böylece Huş Sözcüğü Muş Oluvermiş Ve Dolayısıyla Da Bu Türkü Muş'la Bütünleşmiştir</p>",
-  "sozler_duz": "Havada Bulut Yok Bu Ne DumandırMehlede Ölüm Yok Bu Ne ŞivandırŞu Yemen Elleri Ne De YamandırAno Yemen'dir Gülü ÇemendirGiden Gelmiyor Acep NedendirŞu Dağın Ardında Redif Sesi VarVarın Bakın Çantasında Nesi VarBir Çift Pabuç İle Bir De Fesi VarBurası Huş'tur Yolu YokuşturGiden Gelmiyor Acep Ne İştirKışlanın Önünde Çalınır SazlarAyağım Yalınayak Yüreğim SızlarYemen'e Gidene Ağlıyor KızlarBurası Huş'tur Yolu YokuşturGiden Gelmiyor Acep Ne İştirHuş: Yemen'in Başkenti Sane İle Taiz Şehirleri Arasındaki Bir Türk Kalesinin İsmidirTürkü Eski Türkçe İle Yazılırken Huş'un Üzerindeki Nokta Zamanla Unutulmuş Böylece Huş Sözcüğü Muş Oluvermiş Ve Dolayısıyla Da Bu Türkü Muş'la Bütünleşmiştir",
+  "baslik": "HAVADA BULUT YOK BU NE DUMANDIR",
+  "sozler_html": "<p>Havada bulut yok bu ne\ndumandır</p><p>Mehlede ölüm yok bu ne şivandır</p><p>Şu yemen elleri ne de yamandır</p><p>&nbsp;</p><p><b>Anom Yemen'dir&nbsp;</b></p><p><b>Gülü çemendir</b></p><p><b>Giden gelmiyor&nbsp;</b></p><p><b>Acep nedendir</b></p><p>&nbsp;</p><p>Şu dağın ardında redif sesi&nbsp;</p><p>Varın bakın çantasında nesi var</p><p>Bir çift pabuç ile bir de fesi\nvar</p><p>&nbsp;</p><p><b>Burası Huş'tur (Muş'tur)</b></p><p><b>Yolu yokuştur</b></p><p><b>Giden gelmiyor&nbsp;</b></p><p><b>Acep ne iştir</b></p><p>&nbsp;</p><p>Kışlanın önünde çalınır sazlar</p><p>Ayağım yalınayak yüreğim sızlar</p><p>Yemen'e gidene ağlıyor kızlar</p><p>&nbsp;</p><p><b>Burası Huş'tur&nbsp;</b></p><p>&nbsp;</p><p>Huş: Yemen'in başkenti Sana ile\nTaiz şehirleri arasındaki bir Türk kalesinin ismidir.</p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>&nbsp;</p>",
+  "sozler_duz": "Havada bulut yok bu ne dumandır\n\nMehlede ölüm yok bu ne şivandır\n\nŞu yemen elleri ne de yamandır\n\n \n\nAnom Yemen'dir \n\nGülü çemendir\n\nGiden gelmiyor \n\nAcep nedendir\n\n \n\nŞu dağın ardında redif sesi \n\nVarın bakın çantasında nesi var\n\nBir çift pabuç ile bir de fesi var\n\n \n\nBurası Huş'tur (Muş'tur)\n\nYolu yokuştur\n\nGiden gelmiyor \n\nAcep ne iştir\n\n \n\nKışlanın önünde çalınır sazlar\n\nAyağım yalınayak yüreğim sızlar\n\nYemen'e gidene ağlıyor kızlar\n\n \n\nBurası Huş'tur \n\n \n\nHuş: Yemen'in başkenti Sana ile Taiz şehirleri arasındaki bir Türk kalesinin ismidir.",
   "meta": {
     "yore": "Muş",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Düriye Keskin-Muzaffer Sarısözen",
-    "aciklama": ""
+    "turu": "THM",
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Düriye Keskin",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5572,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-10T17:50:14.348Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
