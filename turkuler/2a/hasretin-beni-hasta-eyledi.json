@@ -1,26 +1,19 @@
 {
   "id": "hasretin-beni-hasta-eyledi",
   "baslik": "HASRETİN BENİ HASTA EYLEDİ",
-  "sozler_html": "<p>Hasretin beni hasta eyledi –hasta eylediHalimi sormaya dost sen mi geldinBu garip gönlümün bağı destanı –bağı destanıAyvası turuncu dost sen mi geldin –dost sen mi geldinBülbüller ötüyor dostun bağındaArzularım kaldı göksunarımda (?Ellerim kelepçe cellat uğrundaKollarım çözmeye dost sen mi geldinAbdal Pir Sultanım sen seni düşünGüzelsin sultanım bulunmaz eşinGiyinmiş kuşanmış türlü kumaşınBezenmiş bedestan şah sen mi geldin</p>",
-  "sozler_duz": "Hasretin beni hasta eyledi –hasta eylediHalimi sormaya dost sen mi geldinBu garip gönlümün bağı destanı –bağı destanıAyvası turuncu dost sen mi geldin –dost sen mi geldinBülbüller ötüyor dostun bağındaArzularım kaldı göksunarımda (?Ellerim kelepçe cellat uğrundaKollarım çözmeye dost sen mi geldinAbdal Pir Sultanım sen seni düşünGüzelsin sultanım bulunmaz eşinGiyinmiş kuşanmış türlü kumaşınBezenmiş bedestan şah sen mi geldin",
+  "sozler_html": "<p>Hasretin beni hasta eyledi&nbsp;</p><p>Halimi sormaya dost sen mi geldin</p><p>Bu garip gönlümün bağı bostanı&nbsp;</p><p>Ayvası turuncu dost sen mi geldin&nbsp;</p><p><br></p><p>Bülbüller ötüyor dostun bağında</p><p>Arzumanım kaldı göğsün ağında&nbsp;</p><p>Ellerim kelepçe cellat uğrunda</p><p>Kollarım çözmeye dost sen mi geldin</p><p><br></p><p>Abdal Pir Sultanım sen seni düşün</p><p>Güzelsin sultanım bulunmaz eşin</p><p>Giyinmiş kuşanmış türlü kumaşın</p><p>Bezenmiş bedestan şar sen mi geldin</p>",
+  "sozler_duz": "Hasretin beni hasta eyledi \n\nHalimi sormaya dost sen mi geldin\n\nBu garip gönlümün bağı bostanı \n\nAyvası turuncu dost sen mi geldin \n\nBülbüller ötüyor dostun bağında\n\nArzumanım kaldı göğsün ağında \n\nEllerim kelepçe cellat uğrunda\n\nKollarım çözmeye dost sen mi geldin\n\nAbdal Pir Sultanım sen seni düşün\n\nGüzelsin sultanım bulunmaz eşin\n\nGiyinmiş kuşanmış türlü kumaşın\n\nBezenmiş bedestan şar sen mi geldin",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "yore": "ERZİNCAN",
+    "turu": "THM",
+    "derleyen": "Kayıttan yazıldı",
+    "kaynak_kisi": "YAVUZ TOP",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5560,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-10T18:36:52.551Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
