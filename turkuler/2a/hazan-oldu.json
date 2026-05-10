@@ -1,6 +1,6 @@
 {
   "id": "hazan-oldu",
-  "baslik": "Hazan Oldu_",
+  "baslik": "HAZAN OLDU",
   "sozler_html": "<p>İki gözüm yalan mıydı</p><p>Bu hasretlik sonum oldu</p><p>Sen gelmedin hiç gelmedin</p><p>Ne kıymetim kadrim bildin</p><p>&nbsp;</p><p><b>Hazan oldu hazan oldu</b></p><p><b>Bahar geçti hazan oldu</b></p><p><b>Gonca güldüm yar bağında</b></p><p><b>Gülüm soldu hazan oldu</b></p><p>&nbsp;</p><p>Uçan kuşlar esen yeller</p><p>Yare benden selam söyler</p><p>Yine hicran yine akşam</p><p>Duman duman doldu gözler</p><p>&nbsp;</p><p><b>Hazan oldu ...</b></p><p>&nbsp;</p>",
   "sozler_duz": "İki gözüm yalan mıydı\n\nBu hasretlik sonum oldu\n\nSen gelmedin hiç gelmedin\n\nNe kıymetim kadrim bildin\n\n \n\nHazan oldu hazan oldu\n\nBahar geçti hazan oldu\n\nGonca güldüm yar bağında\n\nGülüm soldu hazan oldu\n\n \n\nUçan kuşlar esen yeller\n\nYare benden selam söyler\n\nYine hicran yine akşam\n\nDuman duman doldu gözler\n\n \n\nHazan oldu ...",
   "meta": {
@@ -12,7 +12,7 @@
   "sistem": {
     "eski_id": 5583,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-10T17:32:12.770Z",
+    "son_degisiklik": "2026-05-10T17:32:29.393Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
