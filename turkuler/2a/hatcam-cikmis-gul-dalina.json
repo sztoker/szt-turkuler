@@ -1,18 +1,19 @@
 {
   "id": "hatcam-cikmis-gul-dalina",
   "baslik": "HATÇAM ÇIKMIŞ GÜL DALINA",
-  "sozler_html": "<p>Hatçam çıkmış da -aman da- gül dağına-amanın Hatçam çıkmış da gül dağınaGüller sokunmuş Hatçam da gerdanınaGitme dedim Hatçam da Odun Dağına-amanın gitme dedim Hatçam da Odun DağınaÇıkan çoğolur Hatçam da senin yolunaUyma dedim Hatçam da eller sözüne-amanın uyma dedim Hatçam da eller sözüneOynadırlar seni Hatçam da curayınan sazınan</p>",
-  "sozler_duz": "Hatçam çıkmış da -aman da- gül dağına-amanın Hatçam çıkmış da gül dağınaGüller sokunmuş Hatçam da gerdanınaGitme dedim Hatçam da Odun Dağına-amanın gitme dedim Hatçam da Odun DağınaÇıkan çoğolur Hatçam da senin yolunaUyma dedim Hatçam da eller sözüne-amanın uyma dedim Hatçam da eller sözüneOynadırlar seni Hatçam da curayınan sazınan",
+  "sozler_html": "<p>Hatçam çıkmış da -aman da- gül dağına-</p><p>Amanın Hatçam çıkmış da gül dağına</p><p>Güller sokunmuş Hatçam da gerdanına</p><p><br></p><p>Gitme dedim Hatçam da Odun Dağına-</p><p>Amanın gitme dedim Hatçam da Odun Dağına</p><p>Çıkan çoğolur Hatçam da senin yoluna</p><p><br></p><p>Uyma dedim Hatçam da eller sözüne-</p><p>Amanın uyma dedim Hatçam da eller sözüne</p><p>Oynadırlar seni Hatçam da curayınan sazınan</p>",
+  "sozler_duz": "Hatçam çıkmış da -aman da- gül dağına-\n\nAmanın Hatçam çıkmış da gül dağına\n\nGüller sokunmuş Hatçam da gerdanına\n\nGitme dedim Hatçam da Odun Dağına-\n\nAmanın gitme dedim Hatçam da Odun Dağına\n\nÇıkan çoğolur Hatçam da senin yoluna\n\nUyma dedim Hatçam da eller sözüne-\n\nAmanın uyma dedim Hatçam da eller sözüne\n\nOynadırlar seni Hatçam da curayınan sazınan",
   "meta": {
-    "yore": "AFYON",
+    "yore": "AFYON/Dinar",
+    "turu": "THM",
     "derleyen": "Talip Özkan",
     "kaynak_kisi": "Saffet Uysal",
-    "diger_bilgiler": "AFYON"
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5566,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T11:56:03.165Z",
+    "son_degisiklik": "2026-05-10T18:17:33.031Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
