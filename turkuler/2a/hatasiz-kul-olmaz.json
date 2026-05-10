@@ -1,26 +1,18 @@
 {
   "id": "hatasiz-kul-olmaz",
   "baslik": "HATASIZ KUL OLMAZ",
-  "sozler_html": "<p>Hatasız * kul olmaz / Hatamla * sev beniDermansız * dert olmaz / Dermana * sal beniKaybettim * kendimi / Ne olur * bul beniYoruldum * halim yok / Sen gel de * al beniFeryada * gücüm yok / Feryatsız * duy beniSevenlerin * aşkına / Ne olur * sev beni -sev beniiiiBu feryat * bu hasret / Öldürür * aşk beniUzaktan * olsa da / Razıyım * sev beni –razıyım sev beniÜmitsiz * yaşanmaz / Sevmemek * elde miCan demek * sen demek / Gel de gör * bende miSözünde * sitem var /  Kalpte mi * dilde miTez elden * haber ver / O gönlün * elde miFeryada * gücüm yok / Feryatsız * duy beniKaybettim * kendimi / Ne olur * bul beni-sev beniii</p>",
-  "sozler_duz": "Hatasız * kul olmaz / Hatamla * sev beniDermansız * dert olmaz / Dermana * sal beniKaybettim * kendimi / Ne olur * bul beniYoruldum * halim yok / Sen gel de * al beniFeryada * gücüm yok / Feryatsız * duy beniSevenlerin * aşkına / Ne olur * sev beni -sev beniiiiBu feryat * bu hasret / Öldürür * aşk beniUzaktan * olsa da / Razıyım * sev beni –razıyım sev beniÜmitsiz * yaşanmaz / Sevmemek * elde miCan demek * sen demek / Gel de gör * bende miSözünde * sitem var / Kalpte mi * dilde miTez elden * haber ver / O gönlün * elde miFeryada * gücüm yok / Feryatsız * duy beniKaybettim * kendimi / Ne olur * bul beni-sev beniii",
+  "sozler_html": "<p>Hatasız * kul olmaz&nbsp;</p><p>Hatamla * sev beni</p><p>Dermansız * dert olmaz&nbsp;</p><p>Dermana * sal beni</p><p>Kaybettim * kendimi&nbsp;</p><p>Ne olur * bul beni</p><p>Yoruldum * halim yok&nbsp;</p><p>Sen gel de * al beni</p><p><br></p><p><b>Feryada * gücüm yok&nbsp;</b></p><p><b>Feryatsız * duy beni</b></p><p><b>Sevenlerin * aşkına&nbsp;</b></p><p><b>Ne olur * sev beni -sev beniiii</b></p><p><br></p><p>Bu feryat * bu hasret&nbsp;</p><p>Öldürür * aşk beni</p><p>Uzaktan * olsa da&nbsp;</p><p>Razıyım * sev beni –razıyım sev beni</p><p>Ümitsiz * yaşanmaz&nbsp;</p><p>Sevmemek * elde mi</p><p>Can demek * sen demek&nbsp;</p><p>Gel de gör * bende mi</p><p>Sözünde * sitem var&nbsp;</p><p>Kalpte mi * dilde mi</p><p>Tez elden * haber ver&nbsp;</p><p>O gönlün * elde mi</p><p><br></p><p><b>Feryada * gücüm yok&nbsp;</b></p><p><b>Feryatsız * duy beni</b></p><p><b>Kaybettim * kendimi&nbsp;</b></p><p><b>Ne olur * bul beni-sev beniii</b></p>",
+  "sozler_duz": "Hatasız * kul olmaz \n\nHatamla * sev beni\n\nDermansız * dert olmaz \n\nDermana * sal beni\n\nKaybettim * kendimi \n\nNe olur * bul beni\n\nYoruldum * halim yok \n\nSen gel de * al beni\n\nFeryada * gücüm yok \n\nFeryatsız * duy beni\n\nSevenlerin * aşkına \n\nNe olur * sev beni -sev beniiii\n\nBu feryat * bu hasret \n\nÖldürür * aşk beni\n\nUzaktan * olsa da \n\nRazıyım * sev beni –razıyım sev beni\n\nÜmitsiz * yaşanmaz \n\nSevmemek * elde mi\n\nCan demek * sen demek \n\nGel de gör * bende mi\n\nSözünde * sitem var \n\nKalpte mi * dilde mi\n\nTez elden * haber ver \n\nO gönlün * elde mi\n\nFeryada * gücüm yok \n\nFeryatsız * duy beni\n\nKaybettim * kendimi \n\nNe olur * bul beni-sev beniii",
   "meta": {
-    "yore": "Orhan Gencebay",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Orhan Gencebay",
-    "aciklama": ""
+    "turu": "Arabesk",
+    "soz": "Orhan Gencebay",
+    "muzik": "Orhan Gencebay",
+    "soyleyenler": "Orhan Gencebay"
   },
   "sistem": {
     "eski_id": 5565,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-10T18:20:32.876Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
