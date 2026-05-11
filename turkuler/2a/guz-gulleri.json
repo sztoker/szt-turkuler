@@ -1,26 +1,17 @@
 {
   "id": "guz-gulleri",
   "baslik": "GÜZ GÜLLERİ",
-  "sozler_html": "<p>İnan ki ağlamadım * hüzünlüyüm sadeceGözlerimdeki yaşlar çığ gibi * akar böyle her geceGüz gülleri gibiyim * hiç bahar yaşamadımYa sevmeyi bilmedim yıllarca * ya sevince geç kaldımŞimdi delicesine * sevmek istesem bileSonbahar sisi çökmüş üstüme * sevincim buruk yineGüz gülleri gibiyim ...</p>",
-  "sozler_duz": "İnan ki ağlamadım * hüzünlüyüm sadeceGözlerimdeki yaşlar çığ gibi * akar böyle her geceGüz gülleri gibiyim * hiç bahar yaşamadımYa sevmeyi bilmedim yıllarca * ya sevince geç kaldımŞimdi delicesine * sevmek istesem bileSonbahar sisi çökmüş üstüme * sevincim buruk yineGüz gülleri gibiyim ...",
+  "sozler_html": "<p>İnan ki ağlamadım&nbsp;</p><p>Hüzünlüyüm sadece</p><p>Gözlerimdeki yaşlar çığ gibi&nbsp;</p><p>Akar böyle her gece</p><p><br></p><p><b>Güz gülleri gibiyim&nbsp;</b></p><p><b>Hiç bahar yaşamadım</b></p><p><b>Ya sevmeyi bilmedim yıllarca&nbsp;</b></p><p><b>Ya sevince geç kaldım</b></p><p><br></p><p>Şimdi delicesine&nbsp;</p><p>Sevmek istesem bile</p><p>Sonbahar sisi çökmüş üstüme&nbsp;</p><p>Sevincim buruk yine</p><p><br></p><p><b>Güz gülleri gibiyim ...</b></p>",
+  "sozler_duz": "İnan ki ağlamadım \n\nHüzünlüyüm sadece\n\nGözlerimdeki yaşlar çığ gibi \n\nAkar böyle her gece\n\nGüz gülleri gibiyim \n\nHiç bahar yaşamadım\n\nYa sevmeyi bilmedim yıllarca \n\nYa sevince geç kaldım\n\nŞimdi delicesine \n\nSevmek istesem bile\n\nSonbahar sisi çökmüş üstüme \n\nSevincim buruk yine\n\nGüz gülleri gibiyim ...",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "turu": "TSM",
+    "soz": "Selim Öztaş",
+    "muzik": "Selim Öztaş"
   },
   "sistem": {
     "eski_id": 5516,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-11T11:24:33.768Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
