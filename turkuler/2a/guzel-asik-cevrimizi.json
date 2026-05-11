@@ -1,26 +1,16 @@
 {
   "id": "guzel-asik-cevrimizi",
-  "baslik": "GÜZEL AŞIK CEVRİMİZİ ...",
-  "sozler_html": "<p>Güzel aşık cevrimizi / Çekemezsin demedim miBu bir rıza lokmasıdır / Yiyemezsin demedim miDemedim mi demedim mi yiyemezsin demedim miYemeyenler kalır naçar / Gözlerinden kavlar saçarBu bir demdir gelir geçer / Doyamazsın demedim miDemedim mi ...Gidelim meydan yerine / Çıkalım dostun seyrineCanın  başı dost yoluna / Koyamazsın demedim miDemedim mi ...Pir Sultan Abdal şahımız / Hakka ulaşır ahımızOn ik’imam katarımız / Uyamazsın demedim miDemedim mi ...</p>",
-  "sozler_duz": "Güzel aşık cevrimizi / Çekemezsin demedim miBu bir rıza lokmasıdır / Yiyemezsin demedim miDemedim mi demedim mi yiyemezsin demedim miYemeyenler kalır naçar / Gözlerinden kavlar saçarBu bir demdir gelir geçer / Doyamazsın demedim miDemedim mi ...Gidelim meydan yerine / Çıkalım dostun seyrineCanın başı dost yoluna / Koyamazsın demedim miDemedim mi ...Pir Sultan Abdal şahımız / Hakka ulaşır ahımızOn ik’imam katarımız / Uyamazsın demedim miDemedim mi ...",
+  "baslik": "GÜZEL AŞIK CEVRİMİZİ",
+  "sozler_html": "<p>Güzel aşık cevrimizi&nbsp;</p><p>Çekemezsin demedim mi</p><p>Bu bir rıza lokmasıdır&nbsp;</p><p>Yiyemezsin demedim mi</p><p><br></p><p><b>Demedim mi demedim mi&nbsp;</b></p><p><b>Yiyemezsin demedim mi</b></p><p><br></p><p>Yemeyenler kalır naçar&nbsp;</p><p>Gözlerinden kavlar saçar</p><p>Bu bir demdir gelir geçer&nbsp;</p><p>Doyamazsın demedim mi</p><p><br></p><p><b>Demedim mi ...</b></p><p><br></p><p>Gidelim meydan yerine&nbsp;</p><p>Çıkalım dostun seyrine</p><p>Canın  başı dost yoluna&nbsp;</p><p>Koyamazsın demedim mi</p><p><br></p><p><b>Demedim mi ...</b></p><p><br></p><p>Pir Sultan Abdal şahımız&nbsp;</p><p>Hakka ulaşır ahımız</p><p>On ik’imam katarımız&nbsp;</p><p>Uyamazsın demedim mi</p><p><br></p><p><b>Demedim mi ...</b></p>",
+  "sozler_duz": "Güzel aşık cevrimizi \n\nÇekemezsin demedim mi\n\nBu bir rıza lokmasıdır \n\nYiyemezsin demedim mi\n\nDemedim mi demedim mi \n\nYiyemezsin demedim mi\n\nYemeyenler kalır naçar \n\nGözlerinden kavlar saçar\n\nBu bir demdir gelir geçer \n\nDoyamazsın demedim mi\n\nDemedim mi ...\n\nGidelim meydan yerine \n\nÇıkalım dostun seyrine\n\nCanın başı dost yoluna \n\nKoyamazsın demedim mi\n\nDemedim mi ...\n\nPir Sultan Abdal şahımız \n\nHakka ulaşır ahımız\n\nOn ik’imam katarımız \n\nUyamazsın demedim mi\n\nDemedim mi ...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "Pir Sultan Abdal",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "turu": "THM",
+    "soz": "Pir Sultan Abdal"
   },
   "sistem": {
     "eski_id": 5518,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-11T11:21:19.792Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
