@@ -1,26 +1,18 @@
 {
   "id": "gurbet-o-kadar-aci-ki",
   "baslik": "GURBET O KADAR ACI Kİ",
-  "sozler_html": "<p>Gurbet o kadar acı ki * ne varsa içinde          (2Hepsi bana yabancı * hepsi başka biçimde      (2Ne bir arzum ne emelim * yaralanmış bir elimBen gurbette değilim * gurbet benim içimdeEriyorum git gide * elveda her ümideGurbet benliğimi de * bitirdi bir biçimde / Ne bir arzum ...</p>",
-  "sozler_duz": "Gurbet o kadar acı ki * ne varsa içinde (2Hepsi bana yabancı * hepsi başka biçimde (2Ne bir arzum ne emelim * yaralanmış bir elimBen gurbette değilim * gurbet benim içimdeEriyorum git gide * elveda her ümideGurbet benliğimi de * bitirdi bir biçimde / Ne bir arzum ...",
+  "sozler_html": "<p>Gurbet o kadar acı ki * ne varsa içinde          (2</p><p>Hepsi bana yabancı * hepsi başka biçimde      (2</p><p><br></p><p><b>Ne bir arzum ne emelim * yaralanmış bir elim</b></p><p><b>Ben gurbette değilim * gurbet benim içimde</b></p><p><br></p><p>Eriyorum git gide * elveda her ümide</p><p>Gurbet benliğimi de * bitirdi bir biçimde&nbsp;</p><p><br></p><p><b>Ne bir arzum ...</b></p>",
+  "sozler_duz": "Gurbet o kadar acı ki * ne varsa içinde (2\n\nHepsi bana yabancı * hepsi başka biçimde (2\n\nNe bir arzum ne emelim * yaralanmış bir elim\n\nBen gurbette değilim * gurbet benim içimde\n\nEriyorum git gide * elveda her ümide\n\nGurbet benliğimi de * bitirdi bir biçimde \n\nNe bir arzum ...",
   "meta": {
-    "yore": "Yıldırım Gürses / Kemalettin Kamu   Uşşak / Semai",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Yıldırım Gürses / Kemalettin Kamu   Uşşak / Semai",
-    "aciklama": ""
+    "turu": "TSM",
+    "soz": "Kemalettin Kamu",
+    "muzik": "Yıldırım Gürses",
+    "diger_bilgiler": "Uşşak / Semai"
   },
   "sistem": {
     "eski_id": 5486,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-11T11:34:06.447Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
