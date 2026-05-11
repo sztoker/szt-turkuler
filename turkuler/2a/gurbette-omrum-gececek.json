@@ -1,26 +1,17 @@
 {
   "id": "gurbette-omrum-gececek",
   "baslik": "GURBETTE ÖMRÜM GEÇECEK",
-  "sozler_html": "<p>Gurbette ömrüm geçecek / Bir daracık yerim de yokOturup derdim dökecek / Bir vefalı yarim de yokAman-4 Bir vefalı yarim de yokGönlüm bir güzele düştü  /  Sarf edecek malım da yokÖzendim derviş olmaya /Hırka ile şalım da yok /Aman ...Dünya diyorlar ki fani  / Toprak emer tatlı canıHastalandım ilaç hani  / Bir acısız ölüm de yok /Aman ...</p>",
-  "sozler_duz": "Gurbette ömrüm geçecek / Bir daracık yerim de yokOturup derdim dökecek / Bir vefalı yarim de yokAman-4 Bir vefalı yarim de yokGönlüm bir güzele düştü / Sarf edecek malım da yokÖzendim derviş olmaya /Hırka ile şalım da yok /Aman ...Dünya diyorlar ki fani / Toprak emer tatlı canıHastalandım ilaç hani / Bir acısız ölüm de yok /Aman ...",
+  "sozler_html": "<p>Gurbette ömrüm geçecek&nbsp;</p><p>Bir daracık yerim de yok</p><p>Oturup derdim dökecek&nbsp;</p><p>Bir vefalı yarim de yok</p><p><br></p><p><b>Aman-4&nbsp;</b></p><p><b>Bir vefalı yarim de yok</b></p><p><br></p><p>Dünya diyorlar ki fani&nbsp;</p><p>Toprak emer tatlı canı</p><p>Hastalandım ilaç hani&nbsp;</p><p>Bir acısız ölüm de yok&nbsp;</p><p><br></p><p><b>Aman ...</b></p><p><b><br></b></p><p><b><br></b></p><p><br></p><p><i>Gönlüm bir güzele düştü&nbsp;</i></p><p><i>Sarf edecek malım da yok</i></p><p><i>Özendim derviş olmaya&nbsp;</i></p><p><i>Hırka ile şalım da yok&nbsp;</i></p><p><i><br></i></p><p><i>Aman ...</i></p>",
+  "sozler_duz": "Gurbette ömrüm geçecek \n\nBir daracık yerim de yok\n\nOturup derdim dökecek \n\nBir vefalı yarim de yok\n\nAman-4 \n\nBir vefalı yarim de yok\n\nDünya diyorlar ki fani \n\nToprak emer tatlı canı\n\nHastalandım ilaç hani \n\nBir acısız ölüm de yok \n\nAman ...\n\nGönlüm bir güzele düştü \n\nSarf edecek malım da yok\n\nÖzendim derviş olmaya \n\nHırka ile şalım da yok \n\nAman ...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "Nurettin Çamlidağ",
-    "muzik": "Nurettin Çamlidağ",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "soz": "ATINÇ EMNALAR",
+    "muzik": "ATINÇ EMNALAR",
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 5487,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-11T11:29:37.810Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
