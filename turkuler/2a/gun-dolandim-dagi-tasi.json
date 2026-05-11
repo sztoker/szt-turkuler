@@ -1,26 +1,19 @@
 {
   "id": "gun-dolandim-dagi-tasi",
   "baslik": "GÜN DOLANDIM DAĞI TAŞI",
-  "sozler_html": "<p>Gün olaydı tan olaydı / Gittiğin yer bağ olaydıYattığın yer han olaydı –oyGün dolandım dağı taşı / Dinmiyor gözüm yaşıDağın başı duman duman / Zalim gurbet vermez amanGurbet elde hayli zaman –oy  / Gün dolandım ...</p>",
-  "sozler_duz": "Gün olaydı tan olaydı / Gittiğin yer bağ olaydıYattığın yer han olaydı –oyGün dolandım dağı taşı / Dinmiyor gözüm yaşıDağın başı duman duman / Zalim gurbet vermez amanGurbet elde hayli zaman –oy / Gün dolandım ...",
+  "sozler_html": "<p>Gün olaydı tan olaydı&nbsp;</p><p>Gittiğin yer Van olaydı</p><p>Yattığın yer han olaydı –oy</p><p><br></p><p><b>Gün dolandım dağı taşı&nbsp;</b></p><p><b>Dinmiyor gözüm yaşı</b></p><p><br></p><p>Dağın başı duman duman&nbsp;</p><p>Zalim gurbet vermez aman</p><p>Gurbet elde hayli zaman –oy&nbsp;</p><p><br></p><p><b>Gün dolandım ...</b></p>",
+  "sozler_duz": "Gün olaydı tan olaydı \n\nGittiğin yer Van olaydı\n\nYattığın yer han olaydı –oy\n\nGün dolandım dağı taşı \n\nDinmiyor gözüm yaşı\n\nDağın başı duman duman \n\nZalim gurbet vermez aman\n\nGurbet elde hayli zaman –oy \n\nGün dolandım ...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "yore": "Sivas",
+    "turu": "THM",
+    "soz": "Hasret Gültekin",
+    "muzik": "Hasret Gültekin",
+    "soyleyenler": "Hasret Gültekin"
   },
   "sistem": {
     "eski_id": 5507,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-11T11:57:27.722Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
