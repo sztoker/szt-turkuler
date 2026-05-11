@@ -1,26 +1,18 @@
 {
   "id": "gulusun-gulden-guzel-hop-ninnayi",
-  "baslik": "GÜLÜŞÜN GÜLDEN GÜZEL -HOP NİNNAYI",
-  "sozler_html": "<p>Gülüşün gülden güzel / Sevgim gönülden güzelSeverim sakınırım / Ben seni elden güzelHop ninnayı ninnayı * gel oynayı oynayıSenin için terkederim * büsbütün bu dünyayıGözlerin aklımı aldı / Beni sevdaya saldıCanım asıldı kaldı ah /  Zülfün telinden güzel / Hop ninnayı...Saçların bağrıma ser / Kollarını boynuma sarGel derdime derman ver / Tatlı dilinden güzel / Hop ninnayı...</p>",
-  "sozler_duz": "Gülüşün gülden güzel / Sevgim gönülden güzelSeverim sakınırım / Ben seni elden güzelHop ninnayı ninnayı * gel oynayı oynayıSenin için terkederim * büsbütün bu dünyayıGözlerin aklımı aldı / Beni sevdaya saldıCanım asıldı kaldı ah / Zülfün telinden güzel / Hop ninnayı...Saçların bağrıma ser / Kollarını boynuma sarGel derdime derman ver / Tatlı dilinden güzel / Hop ninnayı...",
+  "baslik": "GÜLÜŞÜN GÜLDEN GÜZEL (Hop ninnayı)",
+  "sozler_html": "<p>Gülüşün gülden güzel&nbsp;</p><p>Sevgim gönülden güzel</p><p>Severim sakınırım&nbsp;</p><p>Ben seni elden güzel</p><p><br></p><p><b>Hop ninnayı ninnayı&nbsp;</b></p><p><b>Gel oynayı oynayı</b></p><p><b>Senin için terkederim&nbsp;</b></p><p><b>Büsbütün bu dünyayı</b></p><p><br></p><p>Gözlerin aklımı aldı&nbsp;</p><p>Beni sevdaya saldı</p><p>Canım asıldı kaldı ah&nbsp;</p><p>Zülfün telinden güzel&nbsp;</p><p><br></p><p><b>Hop ninnayı...</b></p><p><br></p><p>Saçların bağrıma ser&nbsp;</p><p>Kollarını boynuma sar</p><p>Gel derdime derman ver&nbsp;</p><p>Tatlı dilinden güzel&nbsp;</p><p><br></p><p><b>Hop ninnayı...</b></p>",
+  "sozler_duz": "Gülüşün gülden güzel \n\nSevgim gönülden güzel\n\nSeverim sakınırım \n\nBen seni elden güzel\n\nHop ninnayı ninnayı \n\nGel oynayı oynayı\n\nSenin için terkederim \n\nBüsbütün bu dünyayı\n\nGözlerin aklımı aldı \n\nBeni sevdaya saldı\n\nCanım asıldı kaldı ah \n\nZülfün telinden güzel \n\nHop ninnayı...\n\nSaçların bağrıma ser \n\nKollarını boynuma sar\n\nGel derdime derman ver \n\nTatlı dilinden güzel \n\nHop ninnayı...",
   "meta": {
-    "yore": "KIRŞEHİR-Neşet Ertaş",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "KIRŞEHİR-Neşet Ertaş",
-    "aciklama": ""
+    "yore": "KIRŞEHİR",
+    "turu": "THM",
+    "soz": "Neşet Ertaş",
+    "muzik": "Neşet Ertaş"
   },
   "sistem": {
     "eski_id": 5504,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-11T12:00:47.435Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
