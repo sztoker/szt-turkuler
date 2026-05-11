@@ -1,26 +1,18 @@
 {
   "id": "hak-bana-bir-omur-vermis",
-  "baslik": "Hak Bana Bir Ömür Vermiş_",
-  "sozler_html": "<p>Hak Bana Bir Ömür VermişBoşu Boşuna Boşu BoşunaVücuduma Bir Can GirmişBoşu Boşuna Boşu Boşunaİsa Meryeme mi KanmışMusa Asadan Ne BulmuşSüleyman Bir Sultan OlmuşBoşu Boşuna Boşu BoşunaGahi Gittim Gahi GeldimAradım Kendimi BuldumBir Mahzuni Şerif OldumBoşu Boşuna Boşu Boşuna</p>",
-  "sozler_duz": "Hak Bana Bir Ömür VermişBoşu Boşuna Boşu BoşunaVücuduma Bir Can GirmişBoşu Boşuna Boşu Boşunaİsa Meryeme mi KanmışMusa Asadan Ne BulmuşSüleyman Bir Sultan OlmuşBoşu Boşuna Boşu BoşunaGahi Gittim Gahi GeldimAradım Kendimi BuldumBir Mahzuni Şerif OldumBoşu Boşuna Boşu Boşuna",
+  "baslik": "HAK  BANA BİR ÖMÜR VERMİŞ",
+  "sozler_html": "<p>Hak bana bir ömür vermiş</p><p>Boşu boşuna boşu boşuna</p><p>Vücuduma bir can girmiş</p><p>Boşu boşuna boşu boşuna</p><p>&nbsp;</p><p>İsa Meryem'e mi kanmış</p><p>Musa asadan ne bulmuş</p><p>Süleyman bir sultan olmuş</p><p>Boşu boşuna boşu boşuna</p><p>&nbsp;</p><p>Gahi gittim gahi geldim</p><p>Aradım kendimi buldum</p><p>Bir Mahzuni Şerif oldum</p><p>Boşu boşuna boşu boşuna</p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>&nbsp;</p>",
+  "sozler_duz": "Hak bana bir ömür vermiş\n\nBoşu boşuna boşu boşuna\n\nVücuduma bir can girmiş\n\nBoşu boşuna boşu boşuna\n\n \n\nİsa Meryem'e mi kanmış\n\nMusa asadan ne bulmuş\n\nSüleyman bir sultan olmuş\n\nBoşu boşuna boşu boşuna\n\n \n\nGahi gittim gahi geldim\n\nAradım kendimi buldum\n\nBir Mahzuni Şerif oldum\n\nBoşu boşuna boşu boşuna",
   "meta": {
     "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aşık Mahzuni Şerif",
-    "aciklama": ""
+    "soz": "Aşık Mahzuni Şerif",
+    "muzik": "Aşık Mahzuni Şerif",
+    "soyleyenler": "Aşık Mahzuni Şerif"
   },
   "sistem": {
     "eski_id": 5527,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-11T07:02:35.033Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
