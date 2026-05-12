@@ -1,26 +1,18 @@
 {
   "id": "gozleri-aska-bedel",
   "baslik": "GÖZLERİ AŞKA BEDEL",
-  "sozler_html": "<p>Gözleri aşka gülen * taze söğüt dalısınGel bana her gece sen * gönlüme dolmalısınTatlı gülüş * pek yaraşır / Gözleri ömre bedelAh ne güzel ne güzel seni sevmek / Ah ne güzel ne güzelSensiz elem bana yar –ah Doğ benim ömrüme doğ da güneş gibi aşkımı tazele gelTatlı gülüş ...Bekleme sonbaharı * bir acı rüzgar eserGel bana her gece sen * saçların bağrıma serTatlı gülüş ...   /   Sensiz elem ...</p>",
-  "sozler_duz": "Gözleri aşka gülen * taze söğüt dalısınGel bana her gece sen * gönlüme dolmalısınTatlı gülüş * pek yaraşır / Gözleri ömre bedelAh ne güzel ne güzel seni sevmek / Ah ne güzel ne güzelSensiz elem bana yar –ah Doğ benim ömrüme doğ da güneş gibi aşkımı tazele gelTatlı gülüş ...Bekleme sonbaharı * bir acı rüzgar eserGel bana her gece sen * saçların bağrıma serTatlı gülüş ... / Sensiz elem ...",
+  "sozler_html": "<p>Gözleri aşka gülen * taze söğüt dalısın</p><p>Gel bana her gece sen * gönlüme dolmalısın</p><p><br></p><p><b>Tatlı gülüş * pek yaraşır&nbsp;</b></p><p><b>Gözleri ömre bedel</b></p><p><b>Ah ne güzel ne güzel seni sevmek</b></p><p><b>Ah ne güzel ne güzel</b></p><p><b><br></b></p><p><b>Sensiz elem bana yar –ah&nbsp;</b></p><p><b>Doğ benim ömrüme doğ da güneş gibi&nbsp;</b></p><p><b>Aşkımı tazele gel</b></p><p><b><br></b></p><p><b>Tatlı gülüş ...</b></p><p><br></p><p>Bekleme sonbaharı * bir acı rüzgar eser</p><p>Gel bana her gece sen * saçların bağrıma ser</p><p><br></p><p><b>Tatlı gülüş ...&nbsp;</b></p><p><b><br></b></p><p><b>Sensiz elem ...</b></p>",
+  "sozler_duz": "Gözleri aşka gülen * taze söğüt dalısın\n\nGel bana her gece sen * gönlüme dolmalısın\n\nTatlı gülüş * pek yaraşır \n\nGözleri ömre bedel\n\nAh ne güzel ne güzel seni sevmek\n\nAh ne güzel ne güzel\n\nSensiz elem bana yar –ah \n\nDoğ benim ömrüme doğ da güneş gibi \n\nAşkımı tazele gel\n\nTatlı gülüş ...\n\nBekleme sonbaharı * bir acı rüzgar eser\n\nGel bana her gece sen * saçların bağrıma ser\n\nTatlı gülüş ... \n\nSensiz elem ...",
   "meta": {
-    "yore": "Gündoğdu Duran         Nihavent / Nim Sofyan",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Gündoğdu Duran         Nihavent / Nim Sofyan",
-    "aciklama": ""
+    "turu": "TSM",
+    "soz": "Gündoğdu Duran",
+    "muzik": "Gündoğdu Duran",
+    "diger_bilgiler": "Nihavent / Nim Sofyan"
   },
   "sistem": {
     "eski_id": 5479,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-12T09:03:25.956Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
