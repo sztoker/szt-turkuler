@@ -1,26 +1,16 @@
 {
   "id": "gokteki-yildizlari",
-  "baslik": "GÖKTEKİ YILDIZLARİ ",
-  "sozler_html": "<p>Gökteki yıldızlari * pay edelum kızlari          (2Aldilar güzelleri * kaldi yaramazlari –da kaldi yaramazlari     (2Gökte uçan kuşlara da * arkadaş olamadumUçan kuş yuva yapti * kuş kadar olamadumUçan kuş tutulur mi da* sevda unutulur miCan çıkti boğazuma * aşağa yutulur mi</p>",
-  "sozler_duz": "Gökteki yıldızlari * pay edelum kızlari (2Aldilar güzelleri * kaldi yaramazlari –da kaldi yaramazlari (2Gökte uçan kuşlara da * arkadaş olamadumUçan kuş yuva yapti * kuş kadar olamadumUçan kuş tutulur mi da* sevda unutulur miCan çıkti boğazuma * aşağa yutulur mi",
+  "baslik": "GÖKTEKİ YILDIZLARİ",
+  "sozler_html": "<p>Gökteki yıldızlari * pay edelum kızlari          (2</p><p>Aldilar güzelleri * kaldi yaramazlari –da kaldi yaramazlari     (2</p><p><br></p><p>Gökte uçan kuşlara da * arkadaş olamadum</p><p>Uçan kuş yuva yapti * kuş kadar olamadum</p><p><br></p><p>Uçan kuş tutulur mi da* sevda unutulur mi</p><p>Can çıkti boğazuma * aşağa yutulur mi</p>",
+  "sozler_duz": "Gökteki yıldızlari * pay edelum kızlari (2\n\nAldilar güzelleri * kaldi yaramazlari –da kaldi yaramazlari (2\n\nGökte uçan kuşlara da * arkadaş olamadum\n\nUçan kuş yuva yapti * kuş kadar olamadum\n\nUçan kuş tutulur mi da* sevda unutulur mi\n\nCan çıkti boğazuma * aşağa yutulur mi",
   "meta": {
-    "yore": "KARADENİZ",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "KARADENİZ",
-    "aciklama": ""
+    "yore": "Trabzon/Beşikdüzü",
+    "kaynak_kisi": "Kadriye Cora"
   },
   "sistem": {
     "eski_id": 5466,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-12T09:28:01.016Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
