@@ -1,26 +1,18 @@
 {
   "id": "gozlerin-bir-icim-su",
   "baslik": "GÖZLERİN BİR İÇİM SU",
-  "sozler_html": "<p>Gözlerin bir içim su / İçim yandı doğrusuÖpeyim gözlerinden / Kalmaz gönül korkusuAman güzelim canım güzelim / Ben sana yanmışımYeşil gözlerine güzel sözlerine /  Hep aldanmışımSaçların ipek midir / İpek mi çiçek midirYoksa omuzlarına düşen kelebek midir / Aman ...</p>",
-  "sozler_duz": "Gözlerin bir içim su / İçim yandı doğrusuÖpeyim gözlerinden / Kalmaz gönül korkusuAman güzelim canım güzelim / Ben sana yanmışımYeşil gözlerine güzel sözlerine / Hep aldanmışımSaçların ipek midir / İpek mi çiçek midirYoksa omuzlarına düşen kelebek midir / Aman ...",
+  "sozler_html": "<p>Gözlerin bir içim su&nbsp;</p><p>İçim yandı doğrusu</p><p>Öpeyim gözlerinden&nbsp;</p><p>Kalmaz gönül korkusu</p><p><br></p><p><b>Aman güzelim canım güzelim&nbsp;</b></p><p><b>Ben sana yanmışım</b></p><p><b>Yeşil gözlerine güzel sözlerine&nbsp;</b></p><p><b>Hep aldanmışım</b></p><p><br></p><p>Saçların ipek midir&nbsp;</p><p>İpek mi çiçek midir</p><p>Yoksa omuzlarına&nbsp;</p><p>Düşen kelebek midir&nbsp;</p><p><br></p><p><b>Aman ...</b></p>",
+  "sozler_duz": "Gözlerin bir içim su \n\nİçim yandı doğrusu\n\nÖpeyim gözlerinden \n\nKalmaz gönül korkusu\n\nAman güzelim canım güzelim \n\nBen sana yanmışım\n\nYeşil gözlerine güzel sözlerine \n\nHep aldanmışım\n\nSaçların ipek midir \n\nİpek mi çiçek midir\n\nYoksa omuzlarına \n\nDüşen kelebek midir \n\nAman ...",
   "meta": {
-    "yore": "M:Ferit Sıdal /S:Kemal Şakir Yakar    Suzinak / Ak",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "M:Ferit Sıdal /S:Kemal Şakir Yakar    Suzinak / Ak",
-    "aciklama": ""
+    "turu": "TSM",
+    "soz": "Şemsi Kemalettin Yakar",
+    "muzik": "Ferit Sıdal",
+    "diger_bilgiler": "Suzinak / Aksak"
   },
   "sistem": {
     "eski_id": 5482,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-12T08:53:42.161Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
