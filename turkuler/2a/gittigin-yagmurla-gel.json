@@ -1,26 +1,18 @@
 {
   "id": "gittigin-yagmurla-gel",
   "baslik": "GİTTİĞİN YAĞMURLA GEL",
-  "sozler_html": "<p>Geldiğin vapurla hasretin dönerGeldiğin yangınım yangınım sönerAğırıma gidiyor sensiz geçen günlerYüreğime kazınmış o güzel günlerGittiğin yağmurla gel / Küskünüm yağmurlaraGittiğin yağmurla gel / Böylesi daha güzel</p>",
-  "sozler_duz": "Geldiğin vapurla hasretin dönerGeldiğin yangınım yangınım sönerAğırıma gidiyor sensiz geçen günlerYüreğime kazınmış o güzel günlerGittiğin yağmurla gel / Küskünüm yağmurlaraGittiğin yağmurla gel / Böylesi daha güzel",
+  "sozler_html": "<p>Geldiğin vapurla hasretin döner</p><p>Geldiğin yangınım yangınım söner</p><p>Ağırıma gidiyor sensiz geçen günler</p><p>Yüreğime kazınmış o güzel günler</p><p><br></p><p>Gittiğin yağmurla gel&nbsp;</p><p>Küskünüm yağmurlara</p><p>Gittiğin yağmurla gel&nbsp;</p><p>Böylesi daha güzel</p>",
+  "sozler_duz": "Geldiğin vapurla hasretin döner\n\nGeldiğin yangınım yangınım söner\n\nAğırıma gidiyor sensiz geçen günler\n\nYüreğime kazınmış o güzel günler\n\nGittiğin yağmurla gel \n\nKüskünüm yağmurlara\n\nGittiğin yağmurla gel \n\nBöylesi daha güzel",
   "meta": {
-    "yore": "AYNA",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AYNA",
-    "aciklama": ""
+    "turu": "POP",
+    "soz": "Samim Erhan GÜLERYÜZ",
+    "muzik": "Samim Erhan GÜLERYÜZ",
+    "soyleyenler": "AYNA"
   },
   "sistem": {
     "eski_id": 5453,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-12T09:40:57.696Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
