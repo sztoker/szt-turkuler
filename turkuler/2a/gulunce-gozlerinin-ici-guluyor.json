@@ -1,26 +1,19 @@
 {
   "id": "gulunce-gozlerinin-ici-guluyor",
   "baslik": "GÜLÜNCE GÖZLERİNİN İÇİ GÜLÜYOR",
-  "sozler_html": "<p>Gülünce gözlerinin içi gülüyor Kendimi senden alamıyorumBilmem bakışların neler söylüyorCesaretim yok ki soramıyorumİçime dert oldu mahzun bakışınSeni düşünmeden duramıyorumBeni öylesine aldın ki bendenKendimi arayıp bulamıyorum</p>",
-  "sozler_duz": "Gülünce gözlerinin içi gülüyor Kendimi senden alamıyorumBilmem bakışların neler söylüyorCesaretim yok ki soramıyorumİçime dert oldu mahzun bakışınSeni düşünmeden duramıyorumBeni öylesine aldın ki bendenKendimi arayıp bulamıyorum",
+  "sozler_html": "<p>Gülünce gözlerinin içi gülüyor&nbsp;</p><p>Kendimi senden alamıyorum</p><p>Bilmem bakışların neler söylüyor</p><p>Cesaretim yok ki soramıyorum</p><p><br></p><p>İçime dert oldu mahzun bakışın</p><p>Seni düşünmeden duramıyorum</p><p>Beni öylesine aldın ki benden</p><p>Kendimi arayıp bulamıyorum</p>",
+  "sozler_duz": "Gülünce gözlerinin içi gülüyor \n\nKendimi senden alamıyorum\n\nBilmem bakışların neler söylüyor\n\nCesaretim yok ki soramıyorum\n\nİçime dert oldu mahzun bakışın\n\nSeni düşünmeden duramıyorum\n\nBeni öylesine aldın ki benden\n\nKendimi arayıp bulamıyorum",
   "meta": {
-    "yore": "İrfan Özbakır / ...                   Hicaz / Sema",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "İrfan Özbakır / ...                   Hicaz / Sema",
-    "aciklama": ""
+    "yore": "Hicaz / Sema",
+    "turu": "TSM",
+    "soz": "Ülkü Aker",
+    "muzik": "İrfan Özbakır",
+    "diger_bilgiler": "Hicaz / Sema"
   },
   "sistem": {
     "eski_id": 5503,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-12T08:36:36.716Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
