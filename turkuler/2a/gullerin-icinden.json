@@ -1,26 +1,19 @@
 {
   "id": "gullerin-icinden",
   "baslik": "GÜLLERİN İÇİNDEN",
-  "sozler_html": "<p>Güllerin içinden –canım-     Koşarak koşarak gel bana gelO güzel gözlerini –canım-     Süzerek süzerek gel bana gelDayanamadım gayrı döndüm –canım-     Diyerek diyerek gel bana gelO küskün yüzün gayrı gülsün –canım-     Gülerek gülerek gel bana gel / Ah ah ah</p>",
-  "sozler_duz": "Güllerin içinden –canım- Koşarak koşarak gel bana gelO güzel gözlerini –canım- Süzerek süzerek gel bana gelDayanamadım gayrı döndüm –canım- Diyerek diyerek gel bana gelO küskün yüzün gayrı gülsün –canım- Gülerek gülerek gel bana gel / Ah ah ah",
+  "sozler_html": "<p>Güllerin içinden –canım&nbsp;</p><p>Koşarak koşarak gel bana gel</p><p>O güzel gözlerini –canım-</p><p>&nbsp;Süzerek süzerek gel bana gel</p><p>Dayanamadım gayrı döndüm –canım</p><p>&nbsp;Diyerek diyerek gel bana gel</p><p>O küskün yüzün gayrı gülsün –canım</p><p>Gülerek gülerek gel bana gel&nbsp;</p><p>Ah ah ah</p>",
+  "sozler_duz": "Güllerin içinden –canım \n\nKoşarak koşarak gel bana gel\n\nO güzel gözlerini –canım-\n\n Süzerek süzerek gel bana gel\n\nDayanamadım gayrı döndüm –canım\n\n Diyerek diyerek gel bana gel\n\nO küskün yüzün gayrı gülsün –canım\n\nGülerek gülerek gel bana gel \n\nAh ah ah",
   "meta": {
     "yore": "Mazher Fuat Özkan",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Mazher Fuat Özkan",
-    "aciklama": ""
+    "turu": "POP",
+    "soz": "Mazhar ALANSON",
+    "muzik": "Mazhar ALANSON",
+    "soyleyenler": "Mazher Fuat Özkan"
   },
   "sistem": {
     "eski_id": 5499,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-12T08:39:39.391Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
