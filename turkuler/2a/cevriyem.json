@@ -1,26 +1,13 @@
 {
   "id": "cevriyem",
   "baslik": "CEVRİYEM",
-  "sozler_html": "<p>Karakolda ayna var -ayna var / Kız kolunda damga varGözlerinden bellidir -Cevriyem / Sende kara sevda varMoriye de fosforlum -sende kara sevda varDenizlerin kumuyum -kumuyum / Balıkların puluyumAç koynunu ben geldim -Cevriyem Ben de allah kuluyum  /  Moriye de ...</p>",
-  "sozler_duz": "Karakolda ayna var -ayna var / Kız kolunda damga varGözlerinden bellidir -Cevriyem / Sende kara sevda varMoriye de fosforlum -sende kara sevda varDenizlerin kumuyum -kumuyum / Balıkların puluyumAç koynunu ben geldim -Cevriyem Ben de allah kuluyum / Moriye de ...",
-  "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Karakolda ayna var -ayna var&nbsp;</p><p>Kız kolunda damga var</p><p>Gözlerinden bellidir -Cevriyem&nbsp;</p><p>Sende kara sevda var</p><p><br></p><p><b>Moriye de fosforlum -sende kara sevda var</b></p><p><br></p><p>Denizlerin kumuyum -kumuyum&nbsp;</p><p>Balıkların puluyum</p><p>Aç koynunu ben geldim -Cevriyem&nbsp;</p><p>Ben de allah kuluyum&nbsp;</p><p><br></p><p><b>Moriye de fosforlum&nbsp;ben de allah kuluyum</b></p>",
+  "sozler_duz": "Karakolda ayna var -ayna var \n\nKız kolunda damga var\n\nGözlerinden bellidir -Cevriyem \n\nSende kara sevda var\n\nMoriye de fosforlum -sende kara sevda var\n\nDenizlerin kumuyum -kumuyum \n\nBalıkların puluyum\n\nAç koynunu ben geldim -Cevriyem \n\nBen de allah kuluyum \n\nMoriye de fosforlum ben de allah kuluyum",
+  "meta": {},
   "sistem": {
     "eski_id": 604,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T14:42:24.387Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
