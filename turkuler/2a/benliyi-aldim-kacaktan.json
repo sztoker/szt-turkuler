@@ -1,26 +1,16 @@
 {
   "id": "benliyi-aldim-kacaktan",
   "baslik": "BENLİYİ ALDIM KAÇAKTAN",
-  "sozler_html": "<p>Benliyi aldım kaçaktan (2 / Görünmez oldu saçaktanArzum almadım köçekten – benliOlur benli * olmaz benli * niçin olmazEller kınalı * gözler sürmeli – nerede bulmalı - satın almalıBenli ah * gel sürmelim gelBir incecik tütün tüter (2 / Gül dalında bülbül öterBenim yarim bana yeter – benli / Olur benli ...</p>",
-  "sozler_duz": "Benliyi aldım kaçaktan (2 / Görünmez oldu saçaktanArzum almadım köçekten – benliOlur benli * olmaz benli * niçin olmazEller kınalı * gözler sürmeli – nerede bulmalı - satın almalıBenli ah * gel sürmelim gelBir incecik tütün tüter (2 / Gül dalında bülbül öterBenim yarim bana yeter – benli / Olur benli ...",
+  "sozler_html": "<p>Benliyi aldım kaçaktan (2&nbsp;</p><p>Görünmez oldu saçaktan</p><p>Arzum almadım köçekten – benli</p><p><br></p><p><b>Olur benli * olmaz benli * niçin olmaz</b></p><p><b>Eller kınalı * gözler sürmeli – nerede bulmalı - satın almalı</b></p><p><b>Benli ah * gel sürmelim gel</b></p><p><br></p><p>Bir incecik tütün tüter (2&nbsp;</p><p>Gül dalında bülbül öter</p><p>Benim yarim bana yeter – benli&nbsp;</p><p><br></p><p><b>Olur benli ...</b></p>",
+  "sozler_duz": "Benliyi aldım kaçaktan (2 \n\nGörünmez oldu saçaktan\n\nArzum almadım köçekten – benli\n\nOlur benli * olmaz benli * niçin olmaz\n\nEller kınalı * gözler sürmeli – nerede bulmalı - satın almalı\n\nBenli ah * gel sürmelim gel\n\nBir incecik tütün tüter (2 \n\nGül dalında bülbül öter\n\nBenim yarim bana yeter – benli \n\nOlur benli ...",
   "meta": {
-    "yore": "İsmail Dede Efendi         Karcihar / Aksak (Köçek",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "İsmail Dede Efendi         Karcihar / Aksak (Köçek",
-    "aciklama": ""
+    "muzik": "İsmail Dede Efendi",
+    "diger_bilgiler": "Karcihar / Aksak (Köçek"
   },
   "sistem": {
     "eski_id": 523,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T14:01:29.393Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
