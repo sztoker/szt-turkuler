@@ -1,26 +1,15 @@
 {
   "id": "bize-de-banazda-pir-sultan-derler",
   "baslik": "BİZE DE BANAZ'DA PİR SULTAN DERLER",
-  "sozler_html": "<p>Bize de Banaz'da Pir Sultan derlerBizi de kem kişi -kişi- bellemesinlerPaşa hademine tembih -tembih- eylesinÇekip kollarımız kardaş bağlamasınlarHüseyin Gazi binse gelse -gelse- atınaİnan olmaz çarkı felek -felek- zatınaBenden selam -selam- söylen ev külfetineÇıkıp ele -ele- karşı ağlamasınlarSurrum işlemedi kaddim büküldüBeyaz vücudumun bendi söküldüÖnüm sıra kırklar pirler çekildiDaha beyler bizi dillemesinlerAla gözlüm zülfün kelep eylesinDöksün mah yüzüne mikab eylesinAli Baba hak'tan dilek dilesinBizi dar dibinde eğlemesinlerAli Baba eğer söze uyarsaEmir hüda'nındır beyler kıtarsaAla gözlü yavrularım duyarsaAlın çözüp kara bağlamasınlarPir Sultan Abdal’ım coştum akarımAkar akar dost  yoluna bakarımPirim aldım seyrangaha çıkarımDaha Yıldız Dağı’n yaylamasınlar</p>",
-  "sozler_duz": "Bize de Banaz'da Pir Sultan derlerBizi de kem kişi -kişi- bellemesinlerPaşa hademine tembih -tembih- eylesinÇekip kollarımız kardaş bağlamasınlarHüseyin Gazi binse gelse -gelse- atınaİnan olmaz çarkı felek -felek- zatınaBenden selam -selam- söylen ev külfetineÇıkıp ele -ele- karşı ağlamasınlarSurrum işlemedi kaddim büküldüBeyaz vücudumun bendi söküldüÖnüm sıra kırklar pirler çekildiDaha beyler bizi dillemesinlerAla gözlüm zülfün kelep eylesinDöksün mah yüzüne mikab eylesinAli Baba hak'tan dilek dilesinBizi dar dibinde eğlemesinlerAli Baba eğer söze uyarsaEmir hüda'nındır beyler kıtarsaAla gözlü yavrularım duyarsaAlın çözüp kara bağlamasınlarPir Sultan Abdal’ım coştum akarımAkar akar dost yoluna bakarımPirim aldım seyrangaha çıkarımDaha Yıldız Dağı’n yaylamasınlar",
+  "sozler_html": "<p>Bize de Banaz'da Pir Sultan derler</p><p>Bizi de kem kişi -kişi- bellemesinler</p><p>Paşa hademine tembih -tembih- eylesin</p><p>Çekip kollarımız kardaş bağlamasınlar</p><p><br></p><p>Hüseyin Gazi binse gelse -gelse- atına</p><p>İnan olmaz çarkı felek -felek- zatına</p><p>Benden selam -selam- söylen ev külfetine</p><p>Çıkıp ele -ele- karşı ağlamasınlar</p><p><br></p><p>Surrum işlemedi kaddim büküldü</p><p>Beyaz vücudumun bendi söküldü</p><p>Önüm sıra kırklar pirler çekildi</p><p>Daha beyler bizi dillemesinler</p><p><br></p><p>Ala gözlüm zülfün kelep eylesin</p><p>Döksün mah yüzüne mikab eylesin</p><p>Ali Baba hak'tan dilek dilesin</p><p>Bizi dar dibinde eğlemesinler</p><p><br></p><p>Ali Baba eğer söze uyarsa</p><p>Emir hüda'nındır beyler kıtarsa</p><p>Ala gözlü yavrularım duyarsa</p><p>Alın çözüp kara bağlamasınlar</p><p><br></p><p>Pir Sultan Abdal’ım coştum akarım</p><p>Akar akar dost  yoluna bakarım</p><p>Pirim aldım seyrangaha çıkarım</p><p>Daha Yıldız Dağı’n yaylamasınlar</p>",
+  "sozler_duz": "Bize de Banaz'da Pir Sultan derler\n\nBizi de kem kişi -kişi- bellemesinler\n\nPaşa hademine tembih -tembih- eylesin\n\nÇekip kollarımız kardaş bağlamasınlar\n\nHüseyin Gazi binse gelse -gelse- atına\n\nİnan olmaz çarkı felek -felek- zatına\n\nBenden selam -selam- söylen ev külfetine\n\nÇıkıp ele -ele- karşı ağlamasınlar\n\nSurrum işlemedi kaddim büküldü\n\nBeyaz vücudumun bendi söküldü\n\nÖnüm sıra kırklar pirler çekildi\n\nDaha beyler bizi dillemesinler\n\nAla gözlüm zülfün kelep eylesin\n\nDöksün mah yüzüne mikab eylesin\n\nAli Baba hak'tan dilek dilesin\n\nBizi dar dibinde eğlemesinler\n\nAli Baba eğer söze uyarsa\n\nEmir hüda'nındır beyler kıtarsa\n\nAla gözlü yavrularım duyarsa\n\nAlın çözüp kara bağlamasınlar\n\nPir Sultan Abdal’ım coştum akarım\n\nAkar akar dost yoluna bakarım\n\nPirim aldım seyrangaha çıkarım\n\nDaha Yıldız Dağı’n yaylamasınlar",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "Pir Sultan Abdal",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "soz": "Pir Sultan Abdal"
   },
   "sistem": {
     "eski_id": 247,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:49:29.392Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
