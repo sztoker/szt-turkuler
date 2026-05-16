@@ -1,26 +1,13 @@
 {
   "id": "boyle-olur-mu",
-  "baslik": "Böyle Olur Mu_",
-  "sozler_html": "<p>Beni Ağlattın GüzelDerde Bağlattın GüzelEl’e Bıraktın GüzelBöyle Olur MuDereler Çağlar OlduGözlerim Ağlar OlduGelmedin Aylar OlduBöyle Olur MuAttın Gurbet EllereBıraktın Yad EllereSaldın Dilden DillereBöyle Olur Mu</p>",
-  "sozler_duz": "Beni Ağlattın GüzelDerde Bağlattın GüzelEl’e Bıraktın GüzelBöyle Olur MuDereler Çağlar OlduGözlerim Ağlar OlduGelmedin Aylar OlduBöyle Olur MuAttın Gurbet EllereBıraktın Yad EllereSaldın Dilden DillereBöyle Olur Mu",
-  "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
-  },
+  "baslik": "Böyle Olur Mu",
+  "sozler_html": "<p>Beni\nağlattın güzel</p><p>Derde bağlattın güzel</p><p>El’e bıraktın güzel</p><p>Böyle olur mu</p><p>&nbsp;</p><p>Dereler çağlar oldu</p><p>Gözlerim ağlar oldu</p><p>Gelmedin aylar oldu</p><p>Böyle olur mu</p><p>&nbsp;</p><p>Attın gurbet ellere</p><p>Bıraktın yad ellere</p><p>Saldın dilden dillere</p><p>Böyle olur mu</p>",
+  "sozler_duz": "Beni ağlattın güzel\n\nDerde bağlattın güzel\n\nEl’e bıraktın güzel\n\nBöyle olur mu\n\n \n\nDereler çağlar oldu\n\nGözlerim ağlar oldu\n\nGelmedin aylar oldu\n\nBöyle olur mu\n\n \n\nAttın gurbet ellere\n\nBıraktın yad ellere\n\nSaldın dilden dillere\n\nBöyle olur mu",
+  "meta": {},
   "sistem": {
     "eski_id": 3573,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:34:33.333Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
