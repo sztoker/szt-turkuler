@@ -1,26 +1,16 @@
 {
   "id": "bunca-gami-bunca-derdi",
-  "baslik": "Bunca Gamı Bunca Derdi_",
-  "sozler_html": "<p>Bunca Gamı Bunca DerdiMevlam Yalnız Bana VerdiEller Muradına ErdiGitti Cananım Gelmedi Erisin Dağların Karı Geçti Ömrümün Baharı Ecel Kapımı Çalmadan Durma Gel Gönlümün VarıTakatım Yok YörümeyeGitti Cananı GörmeyeCan Başladı ÇürümeyeYine Cenanım Gelmedi Erisin Dağların Karı Geçti Ömrümün Baharı Ecel Kapımı Çalmadan Durma Gel Gönlümün VarıAli Baba Çeker ÇileFelek Vurdu Bana SilleÖmrüm Geldi Geçti BileYine Cananım Gelmedi Erisin Dağların Karı Geçti Ömrümün Baharı Ecel Kapımı Çalmadan Durma Gel Gönlümün Varı</p>",
-  "sozler_duz": "Bunca Gamı Bunca DerdiMevlam Yalnız Bana VerdiEller Muradına ErdiGitti Cananım Gelmedi Erisin Dağların Karı Geçti Ömrümün Baharı Ecel Kapımı Çalmadan Durma Gel Gönlümün VarıTakatım Yok YörümeyeGitti Cananı GörmeyeCan Başladı ÇürümeyeYine Cenanım Gelmedi Erisin Dağların Karı Geçti Ömrümün Baharı Ecel Kapımı Çalmadan Durma Gel Gönlümün VarıAli Baba Çeker ÇileFelek Vurdu Bana SilleÖmrüm Geldi Geçti BileYine Cananım Gelmedi Erisin Dağların Karı Geçti Ömrümün Baharı Ecel Kapımı Çalmadan Durma Gel Gönlümün Varı",
+  "baslik": "Bunca Gamı Bunca Derdi",
+  "sozler_html": "<p>Bunca Gamı Bunca Derdi</p><p>Mevlam Yalnız Bana Verdi</p><p>Eller Muradına Erdi</p><p>Gitti Cananım Gelmedi&nbsp;</p><p><br></p><p><b>Erisin Dağların Karı Geçti&nbsp;</b></p><p><b>Ömrümün Baharı&nbsp;</b></p><p><b>Ecel Kapımı Çalmadan&nbsp;</b></p><p><b>Durma Gel Gönlümün Varı</b></p><p><br></p><p>Takatım Yok Yörümeye</p><p>Gitti Cananı Görmeye</p><p>Can Başladı Çürümeye</p><p>Yine Cenanım Gelmedi&nbsp;</p><p><br></p><p>Erisin Dağların...</p><p><br></p><p>Ali Baba Çeker Çile</p><p>Felek Vurdu Bana Sille</p><p>Ömrüm Geldi Geçti Bile</p><p>Yine Cananım Gelmedi&nbsp;</p><p><br></p><p>Erisin Dağların...</p>",
+  "sozler_duz": "Bunca Gamı Bunca Derdi\n\nMevlam Yalnız Bana Verdi\n\nEller Muradına Erdi\n\nGitti Cananım Gelmedi \n\nErisin Dağların Karı Geçti \n\nÖmrümün Baharı \n\nEcel Kapımı Çalmadan \n\nDurma Gel Gönlümün Varı\n\nTakatım Yok Yörümeye\n\nGitti Cananı Görmeye\n\nCan Başladı Çürümeye\n\nYine Cenanım Gelmedi \n\nErisin Dağların...\n\nAli Baba Çeker Çile\n\nFelek Vurdu Bana Sille\n\nÖmrüm Geldi Geçti Bile\n\nYine Cananım Gelmedi \n\nErisin Dağların...",
   "meta": {
     "yore": "Erzincan",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aşık İsmail Aydın(Daimi)-Plaktan Yazıldı",
-    "aciklama": ""
+    "kaynak_kisi": "Aşık İsmail Aydın(Daimi)"
   },
   "sistem": {
     "eski_id": 3616,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T18:46:14.909Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
