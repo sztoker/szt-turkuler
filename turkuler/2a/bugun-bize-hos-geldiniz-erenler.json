@@ -1,26 +1,15 @@
 {
   "id": "bugun-bize-hos-geldiniz-erenler",
   "baslik": "BUGÜN BİZE HOŞ GELDİNİZ ERENLER",
-  "sozler_html": "<p>Arzu ederdiniz bir yol görmeyeBu gün bize hoş geldiniz erenlerMuhabbet bağından -hey dost- güller dermeyeBu gün bize hoş geldiniz erenlerTarihler boyunca bir milletiz bizİlimce dünyaya vermiş idik hızBüyük bir babanın -hey dost- torunlarıyız /Bu gün bize ...Hisse alın Çırakman'ın sözündenZerre kaçmaz ariflerin gözündenKemal Atatürk'ün -hey dost- aydın izinden / Bu gün bize</p>",
-  "sozler_duz": "Arzu ederdiniz bir yol görmeyeBu gün bize hoş geldiniz erenlerMuhabbet bağından -hey dost- güller dermeyeBu gün bize hoş geldiniz erenlerTarihler boyunca bir milletiz bizİlimce dünyaya vermiş idik hızBüyük bir babanın -hey dost- torunlarıyız /Bu gün bize ...Hisse alın Çırakman'ın sözündenZerre kaçmaz ariflerin gözündenKemal Atatürk'ün -hey dost- aydın izinden / Bu gün bize",
+  "sozler_html": "<p>Arzu ederdiniz bir yol görmeye</p><p>Bu gün bize hoş geldiniz erenler</p><p>Muhabbet bağından -hey dost- güller dermeye</p><p>Bu gün bize hoş geldiniz erenler</p><p><br></p><p>Tarihler boyunca bir milletiz biz</p><p>İlimce dünyaya vermiş idik hız</p><p>Büyük bir babanın -hey dost- torunlarıyız&nbsp;</p><p>Bu gün bize hoş geldiniz erenler</p><p><br></p><p>Hisse alın Çırakman'ın sözünden</p><p>Zerre kaçmaz ariflerin gözünden</p><p>Kemal Atatürk'ün -hey dost- aydın izinden&nbsp;</p><p>Bu gün bize hoş geldiniz erenler</p>",
+  "sozler_duz": "Arzu ederdiniz bir yol görmeye\n\nBu gün bize hoş geldiniz erenler\n\nMuhabbet bağından -hey dost- güller dermeye\n\nBu gün bize hoş geldiniz erenler\n\nTarihler boyunca bir milletiz biz\n\nİlimce dünyaya vermiş idik hız\n\nBüyük bir babanın -hey dost- torunlarıyız \n\nBu gün bize hoş geldiniz erenler\n\nHisse alın Çırakman'ın sözünden\n\nZerre kaçmaz ariflerin gözünden\n\nKemal Atatürk'ün -hey dost- aydın izinden \n\nBu gün bize hoş geldiniz erenler",
   "meta": {
-    "yore": "SUNGURLU / ÇORUM",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "SUNGURLU / ÇORUM",
-    "aciklama": ""
+    "yore": "SUNGURLU / ÇORUM"
   },
   "sistem": {
     "eski_id": 585,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:04:53.755Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
