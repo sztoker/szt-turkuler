@@ -1,26 +1,15 @@
 {
   "id": "bu-ask-gomulmeli",
   "baslik": "BU AŞK GÖMÜLMELİ",
-  "sozler_html": "<p>Vakti geldi / Ayrılığın ne yapsak boşKurtulamaz bir sevda bu / Amansız rüzgardanAnla beni / Geçmişteki günlerimizBirer birer hayal oldu / Birer birer yalanGözlerindeki yaşı sil canım benimBurda bırak gitGereksiz artık anlamı yok sözlerinBu aşk gömülmeliOysa senle / Çok zamanlar paylaşırdıkAcıları umutları / Hiç usanmadanYüreğimde / Saklı kalan anılarlaGidiyorum yapayalnız (bu şehirden-2)/Sevgilim hoşçakalGözlerindeki...</p>",
-  "sozler_duz": "Vakti geldi / Ayrılığın ne yapsak boşKurtulamaz bir sevda bu / Amansız rüzgardanAnla beni / Geçmişteki günlerimizBirer birer hayal oldu / Birer birer yalanGözlerindeki yaşı sil canım benimBurda bırak gitGereksiz artık anlamı yok sözlerinBu aşk gömülmeliOysa senle / Çok zamanlar paylaşırdıkAcıları umutları / Hiç usanmadanYüreğimde / Saklı kalan anılarlaGidiyorum yapayalnız (bu şehirden-2)/Sevgilim hoşçakalGözlerindeki...",
+  "sozler_html": "<p>Vakti geldi / Ayrılığın ne yapsak boş</p><p>Kurtulamaz bir sevda bu / Amansız rüzgardan</p><p>Anla beni / Geçmişteki günlerimiz</p><p>Birer birer hayal oldu / Birer birer yalan</p><p><br></p><p><b>Gözlerindeki yaşı sil canım benim</b></p><p><b>Burda bırak gitGereksiz artık anlamı yok sözlerin</b></p><p><b>Bu aşk gömülmeli</b></p><p><br></p><p>Oysa senle / Çok zamanlar paylaşırdık</p><p>Acıları umutları / Hiç usanmadan</p><p>Yüreğimde / Saklı kalan anılarla</p><p>Gidiyorum yapayalnız (bu şehirden-2)</p><p>Sevgilim hoşçakal</p><p><br></p><p><b>Gözlerindeki...</b></p>",
+  "sozler_duz": "Vakti geldi / Ayrılığın ne yapsak boş\n\nKurtulamaz bir sevda bu / Amansız rüzgardan\n\nAnla beni / Geçmişteki günlerimiz\n\nBirer birer hayal oldu / Birer birer yalan\n\nGözlerindeki yaşı sil canım benim\n\nBurda bırak gitGereksiz artık anlamı yok sözlerin\n\nBu aşk gömülmeli\n\nOysa senle / Çok zamanlar paylaşırdık\n\nAcıları umutları / Hiç usanmadan\n\nYüreğimde / Saklı kalan anılarla\n\nGidiyorum yapayalnız (bu şehirden-2)\n\nSevgilim hoşçakal\n\nGözlerindeki...",
   "meta": {
-    "yore": "Nurettin Rençber",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Nurettin Rençber",
-    "aciklama": ""
+    "soyleyenler": "Nurettin Rençber"
   },
   "sistem": {
     "eski_id": 572,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:31:58.375Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
