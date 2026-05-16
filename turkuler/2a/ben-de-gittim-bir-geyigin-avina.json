@@ -1,26 +1,17 @@
 {
   "id": "ben-de-gittim-bir-geyigin-avina",
   "baslik": "Ben De Gittim Bir Geyiğin Avına_",
-  "sozler_html": "<p>Ben De Gittim Bir Geyiğin AvınaGeyik Çekti Beni Kendi DağınaTövbeler Tövbesi Geyik AvınaSiz Gidin Kardaşlar Kaldım BuradaAman Anam BuradaSiz Gidin Avcılar Kaldım BuradaAman Anam BuradaBen Giderken Kaya Başı Kar İdiYel Vurdu Da Erim Erim EridiAk Bilekler Taş Üstünde ÇürüdüUrganım Kayada Asılı KaldıEsbabım Sandıkta Basılı KaldıNişanlım Sılada Küsülü Kaldı</p>",
-  "sozler_duz": "Ben De Gittim Bir Geyiğin AvınaGeyik Çekti Beni Kendi DağınaTövbeler Tövbesi Geyik AvınaSiz Gidin Kardaşlar Kaldım BuradaAman Anam BuradaSiz Gidin Avcılar Kaldım BuradaAman Anam BuradaBen Giderken Kaya Başı Kar İdiYel Vurdu Da Erim Erim EridiAk Bilekler Taş Üstünde ÇürüdüUrganım Kayada Asılı KaldıEsbabım Sandıkta Basılı KaldıNişanlım Sılada Küsülü Kaldı",
+  "sozler_html": "<p>Ben de\ngittim bir geyiğin avına</p><p>Geyik çekti beni kendi dağına</p><p>Tövbeler tövbesi geyik avına</p><p>&nbsp;</p><p><b>Gidin arkadaşlar\nkaldım burada</b></p><p><b>Aman aman burada</b></p><p><b>Siz gidin gardaşlar\nkaldım burada</b></p><p><b>Aman aman burada</b></p><p>&nbsp;</p><p>Ben giderken kaya başı kar idi</p><p>Yel vurdu da erim erim (ılgıt ılgıt) eridi</p><p>Ak bilekler taş üstünde çürüdü</p><p>&nbsp;</p><p><b>Gidin arkadaşlar...</b></p><p><br></p><p><br></p>",
+  "sozler_duz": "Ben de gittim bir geyiğin avına\n\nGeyik çekti beni kendi dağına\n\nTövbeler tövbesi geyik avına\n\n \n\nGidin arkadaşlar kaldım burada\n\nAman aman burada\n\nSiz gidin gardaşlar kaldım burada\n\nAman aman burada\n\n \n\nBen giderken kaya başı kar idi\n\nYel vurdu da erim erim (ılgıt ılgıt) eridi\n\nAk bilekler taş üstünde çürüdü\n\n \n\nGidin arkadaşlar...",
   "meta": {
     "yore": "Adana",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aziz Şenses-Ahmet Yamacı",
-    "aciklama": ""
+    "derleyen": "Ahmet Yamacı",
+    "kaynak_kisi": "Aziz Şenses"
   },
   "sistem": {
     "eski_id": 3492,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T13:39:09.314Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
