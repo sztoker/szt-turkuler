@@ -1,8 +1,8 @@
 {
   "id": "can-ellerinden-gelmisem",
-  "baslik": "Can Ellerinden Gelmişem_",
-  "sozler_html": "<p>Can Ellerinden Gelmişem</p><p>Fani Mekanı Neylerem</p><p>Ol Mülke Meylim Salmışam</p><p>Ben Bu Cihanı Neylerem</p><p><br></p><p>Aşkın Şarabın İçmişem</p><p>Dil Gülşenine Göçmüşem</p><p>Ben Varlığımdan Geçmişem</p><p>Namu Nişanı Neylerem</p><p><br></p><p>Hakkı Cemil Halk Eden</p><p>Müstağniyem Billahi Ben</p><p>Hallakı Alem Var İken</p><p>Halk-I Zamanı Neylerem</p>",
-  "sozler_duz": "Can Ellerinden Gelmişem\n\nFani Mekanı Neylerem\n\nOl Mülke Meylim Salmışam\n\nBen Bu Cihanı Neylerem\n\nAşkın Şarabın İçmişem\n\nDil Gülşenine Göçmüşem\n\nBen Varlığımdan Geçmişem\n\nNamu Nişanı Neylerem\n\nHakkı Cemil Halk Eden\n\nMüstağniyem Billahi Ben\n\nHallakı Alem Var İken\n\nHalk-I Zamanı Neylerem",
+  "baslik": "CAN ELLERİNDEN GELMİŞEM",
+  "sozler_html": "<p>Can\nellerinden gelmişem</p><p>Fani mekanı neylerem</p><p>Ol mülke meylim salmışam</p><p>Ben bu cihanı neylerem</p><p>&nbsp;</p><p>Aşkın şarabın içmişem</p><p>Dil gülşenine göçmüşem</p><p>Ben varlığımdan geçmişem</p><p>Namu nişanı neylerem</p><p>&nbsp;</p><p>Hakkı cemil halk eden</p><p>Müstağniyem billahi ben</p><p>Hallakı alem var iken</p><p>Halk-ı zamanı neylerem</p>",
+  "sozler_duz": "Can ellerinden gelmişem\n\nFani mekanı neylerem\n\nOl mülke meylim salmışam\n\nBen bu cihanı neylerem\n\n \n\nAşkın şarabın içmişem\n\nDil gülşenine göçmüşem\n\nBen varlığımdan geçmişem\n\nNamu nişanı neylerem\n\n \n\nHakkı cemil halk eden\n\nMüstağniyem billahi ben\n\nHallakı alem var iken\n\nHalk-ı zamanı neylerem",
   "meta": {
     "yore": "Erzurum/Pasinler",
     "derleyen": "Suat Işıklı",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 3646,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-16T15:07:13.993Z",
+    "son_degisiklik": "2026-05-16T15:08:27.361Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
