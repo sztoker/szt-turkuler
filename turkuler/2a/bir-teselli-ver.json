@@ -1,26 +1,15 @@
 {
   "id": "bir-teselli-ver",
   "baslik": "BİR TESELLİ VER",
-  "sozler_html": "<p>Bir teselli ver (2 * /Yarattığın Mecnun’a bir teselli verSevenin halinden sevenler anlar Gel gör şu halimi bir teselli verAramızda başka biri var iseTertemiz aşkımı bana geri verBen zaten her acının tiryakisi olmuşumÖmür boyu bitmeyen dert ile yoğrulmuşumGülemem * sevgilim * ben sensiz ah yaşayamamBana ne gerek (2 * /Senin aşkından başka bana ne gerekAşkın zehir olsa yine içerimYolun ecel olsa korkmaz geçerimYeter ki sevdim de ben bu aşk ileDünyanın kahrına gülüp geçerim / Ben zaten ...</p>",
-  "sozler_duz": "Bir teselli ver (2 * /Yarattığın Mecnun’a bir teselli verSevenin halinden sevenler anlar Gel gör şu halimi bir teselli verAramızda başka biri var iseTertemiz aşkımı bana geri verBen zaten her acının tiryakisi olmuşumÖmür boyu bitmeyen dert ile yoğrulmuşumGülemem * sevgilim * ben sensiz ah yaşayamamBana ne gerek (2 * /Senin aşkından başka bana ne gerekAşkın zehir olsa yine içerimYolun ecel olsa korkmaz geçerimYeter ki sevdim de ben bu aşk ileDünyanın kahrına gülüp geçerim / Ben zaten ...",
+  "sozler_html": "<p>Bir teselli ver (2 *&nbsp;</p><p>Yarattığın Mecnun’a bir teselli ver</p><p>Sevenin halinden sevenler anlar&nbsp;</p><p>Gel gör şu halimi bir teselli ver</p><p><br></p><p>Aramızda başka biri var ise</p><p>Tertemiz aşkımı bana geri ver</p><p><br></p><p><b>Ben zaten her acının tiryakisi olmuşum</b></p><p><b>Ömür boyu bitmeyen dert ile yoğrulmuşum</b></p><p><b>Gülemem * sevgilim * ben sensiz ah yaşayamam</b></p><p><br></p><p>Bana ne gerek (2 *&nbsp;</p><p>Senin aşkından başka bana ne gerek</p><p>Aşkın zehir olsa yine içerim</p><p>Yolun ecel olsa korkmaz geçerim</p><p><br></p><p>Yeter ki sevdim de ben bu aşk ile</p><p>Dünyanın kahrına gülüp geçerim&nbsp;</p><p><br></p><p><b>Ben zaten ...</b></p>",
+  "sozler_duz": "Bir teselli ver (2 * \n\nYarattığın Mecnun’a bir teselli ver\n\nSevenin halinden sevenler anlar \n\nGel gör şu halimi bir teselli ver\n\nAramızda başka biri var ise\n\nTertemiz aşkımı bana geri ver\n\nBen zaten her acının tiryakisi olmuşum\n\nÖmür boyu bitmeyen dert ile yoğrulmuşum\n\nGülemem * sevgilim * ben sensiz ah yaşayamam\n\nBana ne gerek (2 * \n\nSenin aşkından başka bana ne gerek\n\nAşkın zehir olsa yine içerim\n\nYolun ecel olsa korkmaz geçerim\n\nYeter ki sevdim de ben bu aşk ile\n\nDünyanın kahrına gülüp geçerim \n\nBen zaten ...",
   "meta": {
-    "yore": "Orhan Gencebay",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Orhan Gencebay",
-    "aciklama": ""
+    "muzik": "Orhan Gencebay"
   },
   "sistem": {
     "eski_id": 554,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:56:23.456Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
