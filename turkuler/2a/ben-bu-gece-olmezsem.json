@@ -1,26 +1,15 @@
 {
   "id": "ben-bu-gece-olmezsem",
   "baslik": "BEN BU GECE ÖLMEZSEM",
-  "sozler_html": "<p>Dünyalara değişemem sandığım Bahçelerden çiçekleri çaldığım      2Onun için ateşlere yandığım Bir zalimin ihanetiyle yandım     2Dağlar dağlar * geceleri benim için kim ağlar     2Ben bu gece ölmezsem ölmem ölmem hiçbir vakitDağ gibi bir yiğide kıydı geçti sanki vakitNe demeli şu zalime kal bu gece kal ya da gitAzrailim şu canımı al bu gece al ya da git -oyGüvendiğim şu dağlara kar yağdıAyrılık pusuda kaldı gün saydı     2Azrailim şu canımı alsaydıBir zalimin ihanetiyle yandım     2Dağlar dağlar...</p>",
-  "sozler_duz": "Dünyalara değişemem sandığım Bahçelerden çiçekleri çaldığım 2Onun için ateşlere yandığım Bir zalimin ihanetiyle yandım 2Dağlar dağlar * geceleri benim için kim ağlar 2Ben bu gece ölmezsem ölmem ölmem hiçbir vakitDağ gibi bir yiğide kıydı geçti sanki vakitNe demeli şu zalime kal bu gece kal ya da gitAzrailim şu canımı al bu gece al ya da git -oyGüvendiğim şu dağlara kar yağdıAyrılık pusuda kaldı gün saydı 2Azrailim şu canımı alsaydıBir zalimin ihanetiyle yandım 2Dağlar dağlar...",
+  "sozler_html": "<p>Dünyalara değişemem sandığım&nbsp;</p><p>Bahçelerden çiçekleri çaldığım 2</p><p>Onun için ateşlere yandığım</p><p>Bir zalimin ihanetiyle yandım     2</p><p><br></p><p><b>Dağlar dağlar * geceleri benim için kim ağlar     2</b></p><p><b>Ben bu gece ölmezsem ölmem ölmem hiçbir vakit</b></p><p><b>Dağ gibi bir yiğide kıydı geçti sanki vakit</b></p><p><b>Ne demeli şu zalime kal bu gece kal ya da git</b></p><p><b>Azrailim şu canımı al bu gece al ya da git -oy</b></p><p><br></p><p>Güvendiğim şu dağlara kar yağdı</p><p>Ayrılık pusuda kaldı gün saydı     2</p><p>Azrailim şu canımı alsaydı</p><p>Bir zalimin ihanetiyle yandım     2</p><p><br></p><p><b>Dağlar dağlar...</b></p>",
+  "sozler_duz": "Dünyalara değişemem sandığım \n\nBahçelerden çiçekleri çaldığım 2\n\nOnun için ateşlere yandığım\n\nBir zalimin ihanetiyle yandım 2\n\nDağlar dağlar * geceleri benim için kim ağlar 2\n\nBen bu gece ölmezsem ölmem ölmem hiçbir vakit\n\nDağ gibi bir yiğide kıydı geçti sanki vakit\n\nNe demeli şu zalime kal bu gece kal ya da git\n\nAzrailim şu canımı al bu gece al ya da git -oy\n\nGüvendiğim şu dağlara kar yağdı\n\nAyrılık pusuda kaldı gün saydı 2\n\nAzrailim şu canımı alsaydı\n\nBir zalimin ihanetiyle yandım 2\n\nDağlar dağlar...",
   "meta": {
-    "yore": "Haluk Levent",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Haluk Levent",
-    "aciklama": ""
+    "soyleyenler": "Haluk Levent"
   },
   "sistem": {
     "eski_id": 506,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T13:29:02.541Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
