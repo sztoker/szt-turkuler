@@ -1,26 +1,17 @@
 {
   "id": "can-ellerinden-gelmisem",
   "baslik": "Can Ellerinden Gelmişem_",
-  "sozler_html": "<p>Can Ellerinden GelmişemFani Mekanı NeyleremOl Mülke Meylim SalmışamBen Bu Cihanı NeyleremAşkın Şarabın İçmişemDil Gülşenine GöçmüşemBen Varlığımdan GeçmişemNamu Nişanı NeyleremHakkı Cemil Halk EdenMüstağniyem Billahi BenHallakı Alem Var İkenHalk-I Zamanı Neylerem</p>",
-  "sozler_duz": "Can Ellerinden GelmişemFani Mekanı NeyleremOl Mülke Meylim SalmışamBen Bu Cihanı NeyleremAşkın Şarabın İçmişemDil Gülşenine GöçmüşemBen Varlığımdan GeçmişemNamu Nişanı NeyleremHakkı Cemil Halk EdenMüstağniyem Billahi BenHallakı Alem Var İkenHalk-I Zamanı Neylerem",
+  "sozler_html": "<p>Can Ellerinden Gelmişem</p><p>Fani Mekanı Neylerem</p><p>Ol Mülke Meylim Salmışam</p><p>Ben Bu Cihanı Neylerem</p><p><br></p><p>Aşkın Şarabın İçmişem</p><p>Dil Gülşenine Göçmüşem</p><p>Ben Varlığımdan Geçmişem</p><p>Namu Nişanı Neylerem</p><p><br></p><p>Hakkı Cemil Halk Eden</p><p>Müstağniyem Billahi Ben</p><p>Hallakı Alem Var İken</p><p>Halk-I Zamanı Neylerem</p>",
+  "sozler_duz": "Can Ellerinden Gelmişem\n\nFani Mekanı Neylerem\n\nOl Mülke Meylim Salmışam\n\nBen Bu Cihanı Neylerem\n\nAşkın Şarabın İçmişem\n\nDil Gülşenine Göçmüşem\n\nBen Varlığımdan Geçmişem\n\nNamu Nişanı Neylerem\n\nHakkı Cemil Halk Eden\n\nMüstağniyem Billahi Ben\n\nHallakı Alem Var İken\n\nHalk-I Zamanı Neylerem",
   "meta": {
     "yore": "Erzurum/Pasinler",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "İbrahim Hakkı Efendi-Suat Işıklı",
-    "aciklama": ""
+    "derleyen": "Suat Işıklı",
+    "kaynak_kisi": "İbrahim Hakkı Efendi"
   },
   "sistem": {
     "eski_id": 3646,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T15:07:13.993Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
