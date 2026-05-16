@@ -1,26 +1,16 @@
 {
   "id": "bu-yil-bu-daglarin-kari-erimez",
-  "baslik": "Bu Yıl Bu Dağların Karı Erimez_",
-  "sozler_html": "<p>Bu Yıl Bu Dağların Karı ErimezEser Bâd-İ Sabâ Yel Bozuk BozukTürkmen Kalkıp Yaylasına YürümezYıkılmış Aşiret İl Bozuk BozukKızılırmak Gibi Çağladım AktımEl Vurdum Göğsümün Bendini YıktımGül Yüzlü Cerenin Bağına ÇıktımGirdim Bahçesine Gül Bozuk BozukElim Tutmaz Güllerini DermeyeDilim Tutmaz Hasta Hâlin SormayaDört Cevabin Mânasını VermeyeSazım Düzen Tutmaz Tel Bozuk BozukPir Sultan'ım Yaratıldım Kul DiyeZalim Paşa Elinden Mi Öl DiyeDostum Beni Ismarlamış Gel DiyeGideceğim Amma Yol Bozuk Bozuk</p>",
-  "sozler_duz": "Bu Yıl Bu Dağların Karı ErimezEser Bâd-İ Sabâ Yel Bozuk BozukTürkmen Kalkıp Yaylasına YürümezYıkılmış Aşiret İl Bozuk BozukKızılırmak Gibi Çağladım AktımEl Vurdum Göğsümün Bendini YıktımGül Yüzlü Cerenin Bağına ÇıktımGirdim Bahçesine Gül Bozuk BozukElim Tutmaz Güllerini DermeyeDilim Tutmaz Hasta Hâlin SormayaDört Cevabin Mânasını VermeyeSazım Düzen Tutmaz Tel Bozuk BozukPir Sultan'ım Yaratıldım Kul DiyeZalim Paşa Elinden Mi Öl DiyeDostum Beni Ismarlamış Gel DiyeGideceğim Amma Yol Bozuk Bozuk",
+  "baslik": "Bu Yıl Bu Dağların Karı Erimez",
+  "sozler_html": "<p>Bu yıl\nbu dağların karı erimez</p><p>Eser bâd-i sabâ yel bozuk bozuk</p><p>Türkmen kalkıp yaylasına yürümez</p><p>Yıkılmış aşiret il bozuk bozuk</p><p>&nbsp;</p><p>Kızılırmak gibi çağladım aktım</p><p>El vurdum göğsümün bendini yıktım</p><p>Gül yüzlü cerenin bağına çıktım</p><p>Girdim bahçesine gül bozuk bozuk</p><p>&nbsp;</p><p>Elim tutmaz güllerini dermeye</p><p>Dilim tutmaz hasta hâlin sormaya</p><p>Dört cevabin mânasını vermeye</p><p>Sazım düzen tutmaz tel bozuk bozuk</p><p>&nbsp;</p><p>Pir sultan'ım yaratıldım kul diye</p><p>Zalim paşa elinden mi öl diye</p><p>Dostum beni ısmarlamış gel diye</p><p>Gideceğim amma yol bozuk bozuk</p>",
+  "sozler_duz": "Bu yıl bu dağların karı erimez\n\nEser bâd-i sabâ yel bozuk bozuk\n\nTürkmen kalkıp yaylasına yürümez\n\nYıkılmış aşiret il bozuk bozuk\n\n \n\nKızılırmak gibi çağladım aktım\n\nEl vurdum göğsümün bendini yıktım\n\nGül yüzlü cerenin bağına çıktım\n\nGirdim bahçesine gül bozuk bozuk\n\n \n\nElim tutmaz güllerini dermeye\n\nDilim tutmaz hasta hâlin sormaya\n\nDört cevabin mânasını vermeye\n\nSazım düzen tutmaz tel bozuk bozuk\n\n \n\nPir sultan'ım yaratıldım kul diye\n\nZalim paşa elinden mi öl diye\n\nDostum beni ısmarlamış gel diye\n\nGideceğim amma yol bozuk bozuk",
   "meta": {
     "yore": "Sivas",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Feyzullah Çınar-TRT Müz. Dairesi Bşk",
-    "aciklama": ""
+    "kaynak_kisi": "Feyzullah Çınar"
   },
   "sistem": {
     "eski_id": 3593,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:09:06.411Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
