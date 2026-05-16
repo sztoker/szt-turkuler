@@ -1,8 +1,8 @@
 {
   "id": "ben-aglarim-yane-yane",
   "baslik": "BEN AĞLARIM YANE YANE",
-  "sozler_html": "<p>Ben Ağlarım Yane Yane</p><p>Aşk Boyadı Beni Kane</p><p>Ne Akılem , Ne Divane</p><p><b><i>Gel Gör Beni Aşk Neyledi</i></b></p><p><b><i>Derde Giriftar Eyledi</i></b></p><p><br></p><p>Gah Eserim Yeller Gibi</p><p>Gah Tozarım Yollar Gibi</p><p>Gah Akarım Seller Gibi</p><p><b><i>Gel Gör Beni Aşk Neyledi</i></b></p><p><b><i>Derde Giriftar Eyledi</i></b></p><p><br></p><p>Ben Yunus’u Biçareyim</p><p>Aşk Elinden Avareyim</p><p>Baştan Aşağı Yareyim</p><p><b><i>Gel Gör Beni Aşk Neyledi</i></b></p><p><b><i>Derde Giriftar Eyledi</i></b></p>",
-  "sozler_duz": "Ben Ağlarım Yane Yane\n\nAşk Boyadı Beni Kane\n\nNe Akılem , Ne Divane\n\nGel Gör Beni Aşk Neyledi\n\nDerde Giriftar Eyledi\n\nGah Eserim Yeller Gibi\n\nGah Tozarım Yollar Gibi\n\nGah Akarım Seller Gibi\n\nGel Gör Beni Aşk Neyledi\n\nDerde Giriftar Eyledi\n\nBen Yunus’u Biçareyim\n\nAşk Elinden Avareyim\n\nBaştan Aşağı Yareyim\n\nGel Gör Beni Aşk Neyledi\n\nDerde Giriftar Eyledi",
+  "sozler_html": "<p>Ben\nağlarım yane yane</p><p>Aşk boyadı beni kane</p><p>Ne akılem , ne divane</p><p><b><i>Gel gör beni aşk neyledi</i></b></p><p><b><i>Derde giriftar eyledi</i></b></p><p>&nbsp;</p><p>Gah eserim yeller gibi</p><p>Gah tozarım yollar gibi</p><p>Gah akarım seller gibi</p><p><b><i>Gel gör beni aşk neyledi</i></b></p><p><b><i>Derde giriftar eyledi</i></b></p><p>&nbsp;</p><p>Ben Yunus’u biçareyim</p><p>Aşk elinden avareyim</p><p>Baştan aşağı yareyim</p><p><b><i>Gel gör beni aşk neyledi</i></b></p><p><b><i>Derde giriftar eyledi</i></b></p>",
+  "sozler_duz": "Ben ağlarım yane yane\n\nAşk boyadı beni kane\n\nNe akılem , ne divane\n\nGel gör beni aşk neyledi\n\nDerde giriftar eyledi\n\n \n\nGah eserim yeller gibi\n\nGah tozarım yollar gibi\n\nGah akarım seller gibi\n\nGel gör beni aşk neyledi\n\nDerde giriftar eyledi\n\n \n\nBen Yunus’u biçareyim\n\nAşk elinden avareyim\n\nBaştan aşağı yareyim\n\nGel gör beni aşk neyledi\n\nDerde giriftar eyledi",
   "meta": {
     "yore": "Sivas",
     "derleyen": "Muzaffer Sarısözen"
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 3487,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-16T14:15:05.164Z",
+    "son_degisiklik": "2026-05-16T14:16:37.216Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
