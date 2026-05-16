@@ -1,26 +1,15 @@
 {
   "id": "biri-yer-biri-bakar",
   "baslik": "BİRİ YER BİRİ BAKAR",
-  "sozler_html": "<p>Dinleyin arkadaşlar bir atasözümüz varBiri yer biri bakar kıyamet ondan koparKıyamet dedikleri ha koptu ha kopacakYoksuldan halktan yana bir dünya kurulacakGörmüşler ileriyi atalarımız demekHerkese yeter dünya herkese yeter ekmek</p>",
-  "sozler_duz": "Dinleyin arkadaşlar bir atasözümüz varBiri yer biri bakar kıyamet ondan koparKıyamet dedikleri ha koptu ha kopacakYoksuldan halktan yana bir dünya kurulacakGörmüşler ileriyi atalarımız demekHerkese yeter dünya herkese yeter ekmek",
+  "sozler_html": "<p>Dinleyin arkadaşlar bir atasözümüz var</p><p>Biri yer biri bakar kıyamet ondan kopar</p><p><br></p><p>Kıyamet dedikleri ha koptu ha kopacak</p><p>Yoksuldan halktan yana bir dünya kurulacak</p><p><br></p><p>Görmüşler ileriyi atalarımız demek</p><p>Herkese yeter dünya herkese yeter ekmek</p>",
+  "sozler_duz": "Dinleyin arkadaşlar bir atasözümüz var\n\nBiri yer biri bakar kıyamet ondan kopar\n\nKıyamet dedikleri ha koptu ha kopacak\n\nYoksuldan halktan yana bir dünya kurulacak\n\nGörmüşler ileriyi atalarımız demek\n\nHerkese yeter dünya herkese yeter ekmek",
   "meta": {
-    "yore": "Ruhi Su",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ruhi Su",
-    "aciklama": ""
+    "soyleyenler": "Ruhi Su"
   },
   "sistem": {
     "eski_id": 557,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:53:03.647Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
