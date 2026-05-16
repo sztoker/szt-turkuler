@@ -2,25 +2,15 @@
   "id": "evlerinde-bir-ipekten-hali-var",
   "baslik": "EVLERİNDE BİR İPEKTEN HALI VAR",
   "sozler_html": "<p>Evlerinde bir ipekten halı var</p>\n<p>Şeker yemiş dudağında balı var</p>\n<p>Ben de bildim bir vefasız yarim var</p>\n<p class=\"bos\"></p>\n<p><b>Ayıp derler kendi düşen ağlamaz</b></p>\n<p><b>Ak üstüne kareleri bağlamaz</b></p>\n<p class=\"bos\"></p>\n<p>Sepet aldım bağa girdim üzüme</p>\n<p>Yollar uzak yar görünmez gözüme</p>\n<p>Uyma dedim uydu eller sözüne</p>\n<p class=\"bos\"></p>\n<p><b>Ayıp derler kendi düşen ağlamaz</b></p>\n<p><b>Ak üstüne kareleri bağlamaz</b></p>",
-  "sozler_duz": "Evlerinde bir ipekten halı var Şeker yemiş dudağında balı var Ben de bildim bir vefasız yarim var Ayıp derler kendi düşen ağlamaz Ak üstüne kareleri bağlamaz Sepet aldım bağa girdim üzüme Yollar uzak yar görünmez gözüme Uyma dedim uydu eller sözüne Ayıp derler kendi düşen ağlamaz Ak üstüne kareleri bağlamaz",
+  "sozler_duz": "Evlerinde bir ipekten halı var\n\nŞeker yemiş dudağında balı var\n\nBen de bildim bir vefasız yarim var\n\nAyıp derler kendi düşen ağlamaz\n\nAk üstüne kareleri bağlamaz\n\nSepet aldım bağa girdim üzüme\n\nYollar uzak yar görünmez gözüme\n\nUyma dedim uydu eller sözüne\n\nAyıp derler kendi düşen ağlamaz\n\nAk üstüne kareleri bağlamaz",
   "meta": {
     "yore": "Gaziantep",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Fırıncı Tahir-Emin Aldemir",
-    "aciklama": ""
+    "kaynak_kisi": "Fırıncı Tahir-Emin Aldemir"
   },
   "sistem": {
     "eski_id": 3948,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T11:01:04.933Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
