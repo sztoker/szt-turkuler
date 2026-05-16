@@ -1,6 +1,6 @@
 {
   "id": "bugun-dost-yaralanmis",
-  "baslik": "Bugün Dost Yaralanmış_",
+  "baslik": "Bugün Dost Yaralanmış",
   "sozler_html": "<p>Bugün\ndost yaralanmış</p><p>Yine gönlüm hoş değil</p><p>Her yanı parelenmiş</p><p>Yine gönlüm hoş değil</p><p>&nbsp;</p><p>Dost hasretin zor imiş</p><p>Her dem ahuzar imiş</p><p>Derd adamı yer imiş</p><p>Yine gönlüm hoş değil</p><p>&nbsp;</p><p>Akarsu gün görsem de</p><p>Çok sefalar sürsem de</p><p>Bazı bazı gülsem de</p><p>Yine gönlüm hoş değil</p>",
   "sozler_duz": "Bugün dost yaralanmış\n\nYine gönlüm hoş değil\n\nHer yanı parelenmiş\n\nYine gönlüm hoş değil\n\n \n\nDost hasretin zor imiş\n\nHer dem ahuzar imiş\n\nDerd adamı yer imiş\n\nYine gönlüm hoş değil\n\n \n\nAkarsu gün görsem de\n\nÇok sefalar sürsem de\n\nBazı bazı gülsem de\n\nYine gönlüm hoş değil",
   "meta": {
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 3604,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-16T19:03:26.511Z",
+    "son_degisiklik": "2026-05-16T19:03:30.014Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
