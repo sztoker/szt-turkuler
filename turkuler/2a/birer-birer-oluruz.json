@@ -1,26 +1,13 @@
 {
   "id": "birer-birer-oluruz",
   "baslik": "BİRER BİRER ÖLÜRÜZ",
-  "sozler_html": "<p>Birer birer birer birer ölürüzYana yana döne döne gelirizBiz dostu da düşmanı da bilirizVurulup düşenler darda kalmasınDağların düzünde bir kelep incirYaşları üç ile beş arasındaSuya atsan su utanır boğmayaAteş versen ateş kıymaz yakmayaDağların düzünde çelik turnalarKanadınız ölüme mi bulandıBiz kırıldık biz kırıldık öldük deHangi dağda menekşeler çoğaldı</p>",
-  "sozler_duz": "Birer birer birer birer ölürüzYana yana döne döne gelirizBiz dostu da düşmanı da bilirizVurulup düşenler darda kalmasınDağların düzünde bir kelep incirYaşları üç ile beş arasındaSuya atsan su utanır boğmayaAteş versen ateş kıymaz yakmayaDağların düzünde çelik turnalarKanadınız ölüme mi bulandıBiz kırıldık biz kırıldık öldük deHangi dağda menekşeler çoğaldı",
-  "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Birer birer birer birer ölürüz</p><p>Yana yana döne döne geliriz</p><p>Biz dostu da düşmanı da biliriz</p><p>Vurulup düşenler darda kalmasın</p><p><br></p><p>Dağların düzünde bir kelep incir</p><p>Yaşları üç ile beş arasında</p><p>Suya atsan su utanır boğmaya</p><p>Ateş versen ateş kıymaz yakmaya</p><p><br></p><p>Dağların düzünde çelik turnalar</p><p>Kanadınız ölüme mi bulandı</p><p>Biz kırıldık biz kırıldık öldük de</p><p>Hangi dağda menekşeler çoğaldı</p>",
+  "sozler_duz": "Birer birer birer birer ölürüz\n\nYana yana döne döne geliriz\n\nBiz dostu da düşmanı da biliriz\n\nVurulup düşenler darda kalmasın\n\nDağların düzünde bir kelep incir\n\nYaşları üç ile beş arasında\n\nSuya atsan su utanır boğmaya\n\nAteş versen ateş kıymaz yakmaya\n\nDağların düzünde çelik turnalar\n\nKanadınız ölüme mi bulandı\n\nBiz kırıldık biz kırıldık öldük de\n\nHangi dağda menekşeler çoğaldı",
+  "meta": {},
   "sistem": {
     "eski_id": 556,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:54:00.199Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
