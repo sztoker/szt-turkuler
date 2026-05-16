@@ -6,13 +6,12 @@
   "meta": {
     "yore": "Ortaanadolu",
     "derleyen": "İCLAL AKKAPLAN",
-    "kaynak_kisi": "SABİHA KUBİLAY",
-    "karar": "Si"
+    "kaynak_kisi": "SABİHA KUBİLAY"
   },
   "sistem": {
     "eski_id": 494,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-05T14:05:24.208Z",
+    "son_degisiklik": "2026-05-16T13:19:36.690Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
