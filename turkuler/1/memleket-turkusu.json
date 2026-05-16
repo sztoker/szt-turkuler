@@ -1,10 +1,13 @@
 {
   "id": "memleket-turkusu",
   "baslik": "MEMLEKET TÜRKÜSÜ",
-  "sozler_html": "<p>Sana kalsın yaz güneşim, mendilim tabakam yeleğim<br>Yel eser uykum dağılır, tutulur ağzımda dilim<br>Göçerim dağlar benim, deliyim dünya deli<br>Dudağımda bir türkü, elimde denizin eli<br><br>Bugün aşk burdan geçer, mendili düşer<br>Gül alır güller satar bembeyaz güller<br>Kanat kanat uçuşur göğümde eski türküler<br><br>Sana kalsın yol kilimim, asıver heybemi duvara<br>Yel eser yüreğim üşür, pazara düştüm pazara<br>Dönemem yollar duman, kalamam kalbim deli<br>Dudağımda bir türkü, elimde güneşin eli.</p>",
-  "sozler_duz": "Sana kalsın yaz güneşim, mendilim tabakam yeleğim\nYel eser uykum dağılır, tutulur ağzımda dilim\nGöçerim dağlar benim, deliyim dünya deli\nDudağımda bir türkü, elimde denizin eli\n\nBugün aşk burdan geçer, mendili düşer\nGül alır güller satar bembeyaz güller\nKanat kanat uçuşur göğümde eski türküler\n\nSana kalsın yol kilimim, asıver heybemi duvara\nYel eser yüreğim üşür, pazara düştüm pazara\nDönemem yollar duman, kalamam kalbim deli\nDudağımda bir türkü, elimde güneşin eli.",
-  "meta": {},
+  "sozler_html": "<p>Sana kalsın yaz güneşim, mendilim tabakam yeleğim<br>Yel eser uykum dağılır, tutulur ağzımda dilim<br>Göçerim dağlar benim, deliyim dünya deli<br>Dudağımda bir türkü, elimde denizin eli<br><br><b>Bugün aşk burdan geçer, mendili düşer<br>Gül alır güller satar bembeyaz güller<br>Kanat kanat uçuşur göğümde eski türküler</b><br><br>Sana kalsın yol kilimim, asıver heybemi duvara<br>Yel eser yüreğim üşür, pazara düştüm pazara<br>Dönemem yollar duman, kalamam kalbim deli<br>Dudağımda bir türkü, elimde güneşin eli</p><p><br></p><p><b>Bugün aşk burdan...</b></p>",
+  "sozler_duz": "Sana kalsın yaz güneşim, mendilim tabakam yeleğim\nYel eser uykum dağılır, tutulur ağzımda dilim\nGöçerim dağlar benim, deliyim dünya deli\nDudağımda bir türkü, elimde denizin eli\n\nBugün aşk burdan geçer, mendili düşer\nGül alır güller satar bembeyaz güller\nKanat kanat uçuşur göğümde eski türküler\n\nSana kalsın yol kilimim, asıver heybemi duvara\nYel eser yüreğim üşür, pazara düştüm pazara\nDönemem yollar duman, kalamam kalbim deli\nDudağımda bir türkü, elimde güneşin eli\n\nBugün aşk burdan...",
+  "meta": {
+    "soz": "Hüsnü ARKAN",
+    "muzik": "Hüsnü ARKAN"
+  },
   "sistem": {
-    "son_degisiklik": "2026-05-16T10:35:23.141Z"
+    "son_degisiklik": "2026-05-16T10:36:51.848Z"
   }
 }
