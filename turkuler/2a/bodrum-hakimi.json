@@ -1,26 +1,16 @@
 {
   "id": "bodrum-hakimi",
   "baslik": "BODRUM HAKİMİ",
-  "sozler_html": "<p>Bodrumlular erken biçer ekiniFeleğe kurban mı gittin (verdik) Bodrum hakimiNasıl astın Mefaret hanım ipe (2- de) kendiniAltın makas gümüş bıçak ilen doğradılar teniniŞu Bodrum’un dağlarında ceylanlar dolaşırKara haber Mefaret hanım pek tez ulaşırHakim hanımın memleketi Kütahya Tavşan (lı)Hakim hanım sen eyledin bizleri perişanNasıl kıydın Mefaret Hanım kendi kendineÇifte doktorlar dolandı o beyaz tenine</p>",
-  "sozler_duz": "Bodrumlular erken biçer ekiniFeleğe kurban mı gittin (verdik) Bodrum hakimiNasıl astın Mefaret hanım ipe (2- de) kendiniAltın makas gümüş bıçak ilen doğradılar teniniŞu Bodrum’un dağlarında ceylanlar dolaşırKara haber Mefaret hanım pek tez ulaşırHakim hanımın memleketi Kütahya Tavşan (lı)Hakim hanım sen eyledin bizleri perişanNasıl kıydın Mefaret Hanım kendi kendineÇifte doktorlar dolandı o beyaz tenine",
+  "sozler_html": "<p>Bodrumlular erken biçer ekini</p><p>Feleğe kurban mı gittin Bodrum hakimi</p><p><br></p><p>Nasıl astın Mefaret hanım ipe (2- de) kendini</p><p>Altın makas gümüş bıçak ilen doğradılar tenini</p><p><br></p><p>Şu Bodrum’un dağlarında ceylanlar dolaşır</p><p>Kara haber Mefaret hanım pek tez ulaşır</p><p><br></p><p>Hakim hanımın memleketi Kütahya Tavşan (lı)</p><p>Hakim hanım sen eyledin bizleri perişan</p><p><br></p><p>Nasıl kıydın Mefaret Hanım kendi kendine</p><p>Çifte doktorlar dolandı o beyaz tenine</p>",
+  "sozler_duz": "Bodrumlular erken biçer ekini\n\nFeleğe kurban mı gittin Bodrum hakimi\n\nNasıl astın Mefaret hanım ipe (2- de) kendini\n\nAltın makas gümüş bıçak ilen doğradılar tenini\n\nŞu Bodrum’un dağlarında ceylanlar dolaşır\n\nKara haber Mefaret hanım pek tez ulaşır\n\nHakim hanımın memleketi Kütahya Tavşan (lı)\n\nHakim hanım sen eyledin bizleri perişan\n\nNasıl kıydın Mefaret Hanım kendi kendine\n\nÇifte doktorlar dolandı o beyaz tenine",
   "meta": {
-    "yore": "BODRUM / MUĞLA     K: Nazmi Yükselen",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "BODRUM / MUĞLA     K: Nazmi Yükselen",
-    "aciklama": ""
+    "yore": "BODRUM / MUĞLA",
+    "kaynak_kisi": "Nazmi Yükselen"
   },
   "sistem": {
     "eski_id": 565,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:42:23.673Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
