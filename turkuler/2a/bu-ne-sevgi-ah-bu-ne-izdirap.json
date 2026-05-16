@@ -1,26 +1,15 @@
 {
   "id": "bu-ne-sevgi-ah-bu-ne-izdirap",
   "baslik": "BU NE SEVGİ AH BU NE IZDIRAP",
-  "sozler_html": "<p>Bu ne sevgi ah bu ne ızdırap / Zavallı kalbim ne kadar harapNasibim olsun bir yudum şarap / Sun da içeyim yarin elindenAl şu kadehi yaşla doldurma / Düşürme yeter gönlümü gamaGurubun rengi vurmadan cama / Ben de sesiyim tatlı dilindenBahtım sarılmış simsiyah tüle / Nemli gözlerle yalvardım güleUzak kalırsam bana acele / Selamlar gönder seher yelinden</p>",
-  "sozler_duz": "Bu ne sevgi ah bu ne ızdırap / Zavallı kalbim ne kadar harapNasibim olsun bir yudum şarap / Sun da içeyim yarin elindenAl şu kadehi yaşla doldurma / Düşürme yeter gönlümü gamaGurubun rengi vurmadan cama / Ben de sesiyim tatlı dilindenBahtım sarılmış simsiyah tüle / Nemli gözlerle yalvardım güleUzak kalırsam bana acele / Selamlar gönder seher yelinden",
+  "sozler_html": "<p>Bu ne sevgi ah bu ne ızdırap&nbsp;</p><p>Zavallı kalbim ne kadar harap</p><p>Nasibim olsun bir yudum şarap&nbsp;</p><p>Sun da içeyim yarin elinden</p><p><br></p><p>Al şu kadehi yaşla doldurma&nbsp;</p><p>Düşürme yeter gönlümü gama</p><p>Gurubun rengi vurmadan cama&nbsp;</p><p>Ben de sesiyim tatlı dilinden</p><p><br></p><p>Bahtım sarılmış simsiyah tüle&nbsp;</p><p>Nemli gözlerle yalvardım güle</p><p>Uzak kalırsam bana acele&nbsp;</p><p>Selamlar gönder seher yelinden</p>",
+  "sozler_duz": "Bu ne sevgi ah bu ne ızdırap \n\nZavallı kalbim ne kadar harap\n\nNasibim olsun bir yudum şarap \n\nSun da içeyim yarin elinden\n\nAl şu kadehi yaşla doldurma \n\nDüşürme yeter gönlümü gama\n\nGurubun rengi vurmadan cama \n\nBen de sesiyim tatlı dilinden\n\nBahtım sarılmış simsiyah tüle \n\nNemli gözlerle yalvardım güle\n\nUzak kalırsam bana acele \n\nSelamlar gönder seher yelinden",
   "meta": {
-    "yore": "TSM",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "TSM",
-    "aciklama": ""
+    "turu": "TSM"
   },
   "sistem": {
     "eski_id": 582,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:15:17.065Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
