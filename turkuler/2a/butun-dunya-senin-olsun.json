@@ -1,26 +1,16 @@
 {
   "id": "butun-dunya-senin-olsun",
-  "baslik": "Bütün Dünya Senin Olsun_",
-  "sozler_html": "<p>Bütün Dünya Senin OlsunBir Dost Bir Post Yeter BanaAtlas Libas Senin OlsunBir Dost Bir Post Yeter BanaBeyler Tahtından İnerlerAyaksız Ata BinerlerToprağa Gömüp DönerlerBir Dost Bir Post Yeter BanaSonu Yok Dünyada N'olurEcel Gelir Seni BulurSeyit Sefile'm İşin BilirBir Dost Bir Post Yeter Bana</p>",
-  "sozler_duz": "Bütün Dünya Senin OlsunBir Dost Bir Post Yeter BanaAtlas Libas Senin OlsunBir Dost Bir Post Yeter BanaBeyler Tahtından İnerlerAyaksız Ata BinerlerToprağa Gömüp DönerlerBir Dost Bir Post Yeter BanaSonu Yok Dünyada N'olurEcel Gelir Seni BulurSeyit Sefile'm İşin BilirBir Dost Bir Post Yeter Bana",
+  "baslik": "Bütün Dünya Senin Olsun",
+  "sozler_html": "<p>Bütün Dünya Senin Olsun</p><p>Bir Dost Bir Post Yeter Bana</p><p>Atlas Libas Senin Olsun</p><p>Bir Dost Bir Post Yeter Bana</p><p><br></p><p>Beyler Tahtından İnerler</p><p>Ayaksız Ata Binerler</p><p>Toprağa Gömüp Dönerler</p><p>Bir Dost Bir Post Yeter Bana</p><p><br></p><p>Sonu Yok Dünyada N'olur</p><p>Ecel Gelir Seni Bulur</p><p>Seyit Sefile'm İşin Bilir</p><p>Bir Dost Bir Post Yeter Bana</p>",
+  "sozler_duz": "Bütün Dünya Senin Olsun\n\nBir Dost Bir Post Yeter Bana\n\nAtlas Libas Senin Olsun\n\nBir Dost Bir Post Yeter Bana\n\nBeyler Tahtından İnerler\n\nAyaksız Ata Binerler\n\nToprağa Gömüp Dönerler\n\nBir Dost Bir Post Yeter Bana\n\nSonu Yok Dünyada N'olur\n\nEcel Gelir Seni Bulur\n\nSeyit Sefile'm İşin Bilir\n\nBir Dost Bir Post Yeter Bana",
   "meta": {
     "yore": "Erzincan",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "İpek Bayrak-Süleyman Yıldız",
-    "aciklama": ""
+    "diger_bilgiler": "İpek Bayrak-Süleyman Yıldız"
   },
   "sistem": {
     "eski_id": 3631,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T18:37:51.021Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
