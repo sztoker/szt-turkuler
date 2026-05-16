@@ -1,26 +1,16 @@
 {
   "id": "buselik-makamina",
   "baslik": "BUSELİK MAKAMINA",
-  "sozler_html": "<p>Leyladan geçme faslındayım Mevlayı bulma yollarındaMajörler tükendi minörlere yolculuk Buselik makamına * Buselik makamınaAşk için söylenen her söze kandımPervane misali ateşe yandımGördüğüm her dilber ateştir banaMecazi aşka inandım güneşli havalardaBuselik makamına * Buselik makamına</p>",
-  "sozler_duz": "Leyladan geçme faslındayım Mevlayı bulma yollarındaMajörler tükendi minörlere yolculuk Buselik makamına * Buselik makamınaAşk için söylenen her söze kandımPervane misali ateşe yandımGördüğüm her dilber ateştir banaMecazi aşka inandım güneşli havalardaBuselik makamına * Buselik makamına",
+  "sozler_html": "<p>Leyladan geçme faslındayım&nbsp;</p><p>Mevlayı bulma yollarında</p><p>Majörler tükendi minörlere yolculuk&nbsp;</p><p><br></p><p><b>Buselik makamına * Buselik makamına</b></p><p><br></p><p>Aşk için söylenen her söze kandım</p><p>Pervane misali ateşe yandım</p><p>Gördüğüm her dilber ateştir bana</p><p>Mecazi aşka inandım güneşli havalarda</p><p><br></p><p><b>Buselik makamına * Buselik makamına</b></p>",
+  "sozler_duz": "Leyladan geçme faslındayım \n\nMevlayı bulma yollarında\n\nMajörler tükendi minörlere yolculuk \n\nBuselik makamına * Buselik makamına\n\nAşk için söylenen her söze kandım\n\nPervane misali ateşe yandım\n\nGördüğüm her dilber ateştir bana\n\nMecazi aşka inandım güneşli havalarda\n\nBuselik makamına * Buselik makamına",
   "meta": {
-    "yore": "S-M : Mazhar Alanson",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S-M : Mazhar Alanson",
-    "aciklama": ""
+    "soz": "Mazhar Alanson",
+    "muzik": "Mazhar Alanson"
   },
   "sistem": {
     "eski_id": 591,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T18:39:06.647Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
