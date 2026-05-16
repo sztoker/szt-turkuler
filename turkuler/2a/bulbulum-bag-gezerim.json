@@ -1,26 +1,16 @@
 {
   "id": "bulbulum-bag-gezerim",
-  "baslik": "Bülbülüm Bağ Gezerim_",
-  "sozler_html": "<p>Bülbülüm Bağ GezerimAşığım Dağ GezerimYüz Yerde Yüz Yarem VarEl Sanır Sağ GezerimUy Uy Demeye Geldim  Yari Görmeye Geldim  Yavrum Yaran Nerende  Merhem Olmaya GeldimKaranfilsin Barın YokSen Güzelsin Yarın YokBen Seni Çok SeverimCahilsin Haberin YokUy Uy Demeye Geldim  Yari Görmeye Geldim  Yavrum Yaran Nerende  Merhem Olmaya GeldimBülbülüm KafesteyimAşıkım HevesteyimHala Sağım ÖlmedimAma Son NefesteyimUy Uy Demeye GeldimYari Görmeye GeldimYavrum Yaran NerendeMerhem Olmaya Geldim</p>",
-  "sozler_duz": "Bülbülüm Bağ GezerimAşığım Dağ GezerimYüz Yerde Yüz Yarem VarEl Sanır Sağ GezerimUy Uy Demeye Geldim Yari Görmeye Geldim Yavrum Yaran Nerende Merhem Olmaya GeldimKaranfilsin Barın YokSen Güzelsin Yarın YokBen Seni Çok SeverimCahilsin Haberin YokUy Uy Demeye Geldim Yari Görmeye Geldim Yavrum Yaran Nerende Merhem Olmaya GeldimBülbülüm KafesteyimAşıkım HevesteyimHala Sağım ÖlmedimAma Son NefesteyimUy Uy Demeye GeldimYari Görmeye GeldimYavrum Yaran NerendeMerhem Olmaya Geldim",
+  "baslik": "Bülbülüm Bağ Gezerim",
+  "sozler_html": "<p>Bülbülüm Bağ Gezerim</p><p>Aşığım Dağ Gezerim</p><p>Yüz Yerde Yüz Yarem Var</p><p>El Sanır Sağ Gezerim</p><p><br></p><p><b>Uy Uy Demeye Geldim&nbsp;</b></p><p><b>&nbsp;Yari Görmeye Geldim&nbsp;</b></p><p><b>&nbsp;Yavrum Yaran Nerende&nbsp;</b></p><p><b>&nbsp;Merhem Olmaya Geldim</b></p><p><br></p><p>Karanfilsin Barın Yok</p><p>Sen Güzelsin Yarın Yok</p><p>Ben Seni Çok Severim</p><p>Cahilsin Haberin Yok</p><p><br></p><p>Uy Uy Demeye...</p><p><br></p><p>Bülbülüm Kafesteyim</p><p>Aşıkım Hevesteyim</p><p>Hala Sağım Ölmedim</p><p>Ama Son Nefesteyim</p><p><br></p><p>Uy Uy Demeye...</p>",
+  "sozler_duz": "Bülbülüm Bağ Gezerim\n\nAşığım Dağ Gezerim\n\nYüz Yerde Yüz Yarem Var\n\nEl Sanır Sağ Gezerim\n\nUy Uy Demeye Geldim \n\n Yari Görmeye Geldim \n\n Yavrum Yaran Nerende \n\n Merhem Olmaya Geldim\n\nKaranfilsin Barın Yok\n\nSen Güzelsin Yarın Yok\n\nBen Seni Çok Severim\n\nCahilsin Haberin Yok\n\nUy Uy Demeye...\n\nBülbülüm Kafesteyim\n\nAşıkım Hevesteyim\n\nHala Sağım Ölmedim\n\nAma Son Nefesteyim\n\nUy Uy Demeye...",
   "meta": {
     "yore": "Elazığ",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Hafız Osman Öğe-Plaktan Yazıldı",
-    "aciklama": ""
+    "kaynak_kisi": "Hafız Osman Öğe"
   },
   "sistem": {
     "eski_id": 3628,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T18:51:10.185Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
