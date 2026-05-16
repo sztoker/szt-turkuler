@@ -1,26 +1,17 @@
 {
   "id": "bir-kokte-uzamis-sarmasik-gibi",
   "baslik": "BİR KÖKTE UZAMIŞ SARMAŞIK GİBİ",
-  "sozler_html": "<p>Bir kökte uzamış sarmaşık gibiDökülmüş gerdana saçların güzelUfukta gözlerin bir ışık gibiKara bulut gibi kaşların güzel –(2- kaşların güzel (2Her güzel de eda hile salınmazHuri misin melek misin bilinmezArasan dünyayı eşin bulunmazFirdevs-i alada eşlerin güzelGörünce derdimi arttırdın kat katCan alıcı gözler sanki bir cellatVeysel'i kapından eyleme azadBana yastık olsun döşlerin güzel</p>",
-  "sozler_duz": "Bir kökte uzamış sarmaşık gibiDökülmüş gerdana saçların güzelUfukta gözlerin bir ışık gibiKara bulut gibi kaşların güzel –(2- kaşların güzel (2Her güzel de eda hile salınmazHuri misin melek misin bilinmezArasan dünyayı eşin bulunmazFirdevs-i alada eşlerin güzelGörünce derdimi arttırdın kat katCan alıcı gözler sanki bir cellatVeysel'i kapından eyleme azadBana yastık olsun döşlerin güzel",
+  "sozler_html": "<p>Bir kökte uzamış sarmaşık gibi</p><p>Dökülmüş gerdana saçların güzel</p><p>Ufukta gözlerin bir ışık gibi</p><p>Kara bulut gibi kaşların güzel&nbsp;</p><p><br></p><p>Her güzel de eda hile salınmaz</p><p>Huri misin melek misin bilinmez</p><p>Arasan dünyayı eşin bulunmaz</p><p>Firdevs-i alada eşlerin güzel</p><p><br></p><p>Görünce derdimi arttırdın kat kat</p><p>Can alıcı gözler sanki bir cellat</p><p>Veysel'i kapından eyleme azad</p><p>Bana yastık olsun döşlerin güzel</p>",
+  "sozler_duz": "Bir kökte uzamış sarmaşık gibi\n\nDökülmüş gerdana saçların güzel\n\nUfukta gözlerin bir ışık gibi\n\nKara bulut gibi kaşların güzel \n\nHer güzel de eda hile salınmaz\n\nHuri misin melek misin bilinmez\n\nArasan dünyayı eşin bulunmaz\n\nFirdevs-i alada eşlerin güzel\n\nGörünce derdimi arttırdın kat kat\n\nCan alıcı gözler sanki bir cellat\n\nVeysel'i kapından eyleme azad\n\nBana yastık olsun döşlerin güzel",
   "meta": {
     "yore": "ŞARKIŞLA / SİVAS",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Aşık Veysel",
-    "muzik": "Aşık Veysel",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ŞARKIŞLA / SİVAS",
-    "aciklama": ""
+    "muzik": "Aşık Veysel"
   },
   "sistem": {
     "eski_id": 205,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T20:01:11.590Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
