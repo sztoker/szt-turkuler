@@ -1,26 +1,16 @@
 {
   "id": "bugun-bayram-gunu-derler",
-  "baslik": "Bugün Bayram Günü Derler_",
-  "sozler_html": "<p>Bugün Bayram Günü Derler Alem EğlenirSen Bizim Yaylaya Gel Başın İçinDertliler Oturmuş Derdin SöyleşirEtme İntizarı Gül Başın İçinHayran Oldum Bakakaldım YüzüneSürme Değil Rastık Çekmiş GözüneHıçkırarak Başım Koysam DizineSaçım Oksa Gönlüm Al Başın İçinDavut Suları'yem Ahd-ı AmandaBir Yıldız Doğmuştur Devr-i ZamandaSeher Bülbülüyem Ulu DivandaSen Benim Vekilim Ol Başın İçin</p>",
-  "sozler_duz": "Bugün Bayram Günü Derler Alem EğlenirSen Bizim Yaylaya Gel Başın İçinDertliler Oturmuş Derdin SöyleşirEtme İntizarı Gül Başın İçinHayran Oldum Bakakaldım YüzüneSürme Değil Rastık Çekmiş GözüneHıçkırarak Başım Koysam DizineSaçım Oksa Gönlüm Al Başın İçinDavut Suları'yem Ahd-ı AmandaBir Yıldız Doğmuştur Devr-i ZamandaSeher Bülbülüyem Ulu DivandaSen Benim Vekilim Ol Başın İçin",
+  "baslik": "Bugün Bayram Günü Derler",
+  "sozler_html": "<p>Bugün\nbayram günü derler alem eğlenir</p><p>Sen bizim yaylaya gel başın için</p><p>Dertliler oturmuş derdin söyleşir</p><p>Etme intizarı gül başın için</p><p>&nbsp;</p><p>Hayran oldum bakakaldım yüzüne</p><p>Sürme değil rastık çekmiş gözüne</p><p>Hıçkırarak başım koysam dizine</p><p>Saçım oksa gönlüm al başın için</p><p>&nbsp;</p><p>Davut suları'yem ahd-ı amanda</p><p>Bir yıldız doğmuştur devr-i zamanda</p><p>Seher bülbülüyem ulu divanda</p><p>Sen benim vekilim ol başın için</p>",
+  "sozler_duz": "Bugün bayram günü derler alem eğlenir\n\nSen bizim yaylaya gel başın için\n\nDertliler oturmuş derdin söyleşir\n\nEtme intizarı gül başın için\n\n \n\nHayran oldum bakakaldım yüzüne\n\nSürme değil rastık çekmiş gözüne\n\nHıçkırarak başım koysam dizine\n\nSaçım oksa gönlüm al başın için\n\n \n\nDavut suları'yem ahd-ı amanda\n\nBir yıldız doğmuştur devr-i zamanda\n\nSeher bülbülüyem ulu divanda\n\nSen benim vekilim ol başın için",
   "meta": {
     "yore": "Erzincan/Tercan",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aşık Davut Sulari-TRT Müz. Dair. B",
-    "aciklama": ""
+    "kaynak_kisi": "Aşık Davut Sulari"
   },
   "sistem": {
     "eski_id": 3596,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:07:20.688Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
