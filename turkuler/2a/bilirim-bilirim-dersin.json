@@ -1,26 +1,16 @@
 {
   "id": "bilirim-bilirim-dersin",
   "baslik": "BİLİRİM BİLİRİM DERSİN",
-  "sozler_html": "<p>Bilirim bilirim dersin bilene danışDanışan dağları –hey dost- aşar mı aşarDanışmadan yola çıksa bir kişiAkıbet yolundan –hey dost- şaşar mı şaşarBir altın bir puldan olur mu kailKamille oturan –hey dost- elbette kamilCahille konuşma olursun cahilKişi ayarından –hey dost- düşer mi düşerPir Sultan Abdalım böyle mi olurKişi ettiğini elbette bulur / Yırtıcı kuşların ömrü az olurZararsız akbaba yaşar mı yaşar</p>",
-  "sozler_duz": "Bilirim bilirim dersin bilene danışDanışan dağları –hey dost- aşar mı aşarDanışmadan yola çıksa bir kişiAkıbet yolundan –hey dost- şaşar mı şaşarBir altın bir puldan olur mu kailKamille oturan –hey dost- elbette kamilCahille konuşma olursun cahilKişi ayarından –hey dost- düşer mi düşerPir Sultan Abdalım böyle mi olurKişi ettiğini elbette bulur / Yırtıcı kuşların ömrü az olurZararsız akbaba yaşar mı yaşar",
+  "sozler_html": "<p>Bilirim bilirim dersin bilene danış</p><p>Danışan dağları –hey dost- aşar mı aşar</p><p>Danışmadan yola çıksa bir kişi</p><p>Akıbet yolundan –hey dost- şaşar mı şaşar</p><p><br></p><p>Bir altın bir puldan olur mu kail</p><p>Kamille oturan –hey dost- elbette kamil</p><p>Cahille konuşma olursun cahil</p><p>Kişi ayarından –hey dost- düşer mi düşer</p><p><br></p><p>Pir Sultan Abdalım böyle mi olur</p><p>Kişi ettiğini elbette bulur&nbsp;</p><p>Yırtıcı kuşların ömrü az olur</p><p>Zararsız akbaba yaşar mı yaşar</p>",
+  "sozler_duz": "Bilirim bilirim dersin bilene danış\n\nDanışan dağları –hey dost- aşar mı aşar\n\nDanışmadan yola çıksa bir kişi\n\nAkıbet yolundan –hey dost- şaşar mı şaşar\n\nBir altın bir puldan olur mu kail\n\nKamille oturan –hey dost- elbette kamil\n\nCahille konuşma olursun cahil\n\nKişi ayarından –hey dost- düşer mi düşer\n\nPir Sultan Abdalım böyle mi olur\n\nKişi ettiğini elbette bulur \n\nYırtıcı kuşların ömrü az olur\n\nZararsız akbaba yaşar mı yaşar",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
     "kaynak_kisi": "Pir Sultan Abdal",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
     "aciklama": "Ruhi Su’dan"
   },
   "sistem": {
     "eski_id": 292,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T14:11:31.740Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
