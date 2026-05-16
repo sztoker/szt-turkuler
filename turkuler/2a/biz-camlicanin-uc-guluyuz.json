@@ -1,26 +1,16 @@
 {
   "id": "biz-camlicanin-uc-guluyuz",
   "baslik": "BİZ ÇAMLICA’NIN ÜÇ GÜLÜYÜZ",
-  "sozler_html": "<p>Biz Çamlıca’nın üç gülüyüz / Aşk bahçesinin bülbülüyüzDillerde gezer söyleniriz / Gamsız yaşarız eğlenirizYalnız gezene söz atarız / Nazeyleyene biz çatarızYüz bin kokulu gül satarız / Billahi cana can katarız</p>",
-  "sozler_duz": "Biz Çamlıca’nın üç gülüyüz / Aşk bahçesinin bülbülüyüzDillerde gezer söyleniriz / Gamsız yaşarız eğlenirizYalnız gezene söz atarız / Nazeyleyene biz çatarızYüz bin kokulu gül satarız / Billahi cana can katarız",
+  "sozler_html": "<p>Biz Çamlıca’nın üç gülüyüz&nbsp;</p><p>Aşk bahçesinin bülbülüyüz</p><p>Dillerde gezer söyleniriz&nbsp;</p><p>Gamsız yaşarız eğleniriz</p><p><br></p><p>Yalnız gezene söz atarız&nbsp;</p><p>Nazeyleyene biz çatarız</p><p>Yüz bin kokulu gül satarız&nbsp;</p><p>Billahi cana can katarız</p>",
+  "sozler_duz": "Biz Çamlıca’nın üç gülüyüz \n\nAşk bahçesinin bülbülüyüz\n\nDillerde gezer söyleniriz \n\nGamsız yaşarız eğleniriz\n\nYalnız gezene söz atarız \n\nNazeyleyene biz çatarız\n\nYüz bin kokulu gül satarız \n\nBillahi cana can katarız",
   "meta": {
-    "yore": "Yesari Asım Arsoy              Sultaniyegah / Sofy",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Yesari Asım Arsoy              Sultaniyegah / Sofy",
-    "aciklama": ""
+    "muzik": "Yesari Asım Arsoy",
+    "diger_bilgiler": "Sultaniyegah / Sofy"
   },
   "sistem": {
     "eski_id": 560,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:50:44.770Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
