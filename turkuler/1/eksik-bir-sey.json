@@ -3,8 +3,11 @@
   "baslik": "EKSİK BİR ŞEY",
   "sozler_html": "<p>Eksik bir şey mi var hayatımda<br>Gözlerim neden sık sık dalıyor<br>Eksik bir şey mi var hayatımda<br>Gökyüzü bazen ciğerime doluyor<br><br>Öyle bir şey ki bu, kolay anlatamam<br>Atsan atılmaz, satsan satamam<br>Eksik bir şey mi var, anlayamam<br>Bak çayım sigaram, her şeyim tamam<br><br>Kalksam duraktan dolmuş gibi<br>Arka koltukta unutulmuş gibi<br>Terliklerimle gelsem sana<br>Sonunda aşkı bulmuş gibi</p>",
   "sozler_duz": "Eksik bir şey mi var hayatımda\nGözlerim neden sık sık dalıyor\nEksik bir şey mi var hayatımda\nGökyüzü bazen ciğerime doluyor\n\nÖyle bir şey ki bu, kolay anlatamam\nAtsan atılmaz, satsan satamam\nEksik bir şey mi var, anlayamam\nBak çayım sigaram, her şeyim tamam\n\nKalksam duraktan dolmuş gibi\nArka koltukta unutulmuş gibi\nTerliklerimle gelsem sana\nSonunda aşkı bulmuş gibi",
-  "meta": {},
+  "meta": {
+    "soz": "Nadir Göktürk",
+    "muzik": "Nadir Göktürk"
+  },
   "sistem": {
-    "son_degisiklik": "2026-05-16T10:40:08.351Z"
+    "son_degisiklik": "2026-05-16T10:40:33.522Z"
   }
 }
