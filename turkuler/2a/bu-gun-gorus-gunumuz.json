@@ -1,26 +1,15 @@
 {
   "id": "bu-gun-gorus-gunumuz",
   "baslik": "BU GÜN GÖRÜŞ GÜNÜMÜZ",
-  "sozler_html": "<p>Bu gün görüş günümüz / Dost kardeş bir aradaTelden tele mendil salla el salla merhabaSeni senden sormalara doyamam / Dayanamamİzin olsun mapushane içindeGitme dayanamam</p>",
-  "sozler_duz": "Bu gün görüş günümüz / Dost kardeş bir aradaTelden tele mendil salla el salla merhabaSeni senden sormalara doyamam / Dayanamamİzin olsun mapushane içindeGitme dayanamam",
+  "sozler_html": "<p>Bu gün görüş günümüz&nbsp;</p><p>Dost kardeş bir arada</p><p>Telden tele mendil salla el salla merhaba</p><p><br></p><p>Seni senden sormalara doyamam&nbsp;</p><p>Dayanamamİzin olsun mapushane içinde</p><p>Gitme dayanamam</p>",
+  "sozler_duz": "Bu gün görüş günümüz \n\nDost kardeş bir arada\n\nTelden tele mendil salla el salla merhaba\n\nSeni senden sormalara doyamam \n\nDayanamamİzin olsun mapushane içinde\n\nGitme dayanamam",
   "meta": {
-    "yore": "Enver Gökçe ?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Enver Gökçe ?",
-    "aciklama": ""
+    "soz": "Enver Gökçe"
   },
   "sistem": {
     "eski_id": 577,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:24:51.591Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
