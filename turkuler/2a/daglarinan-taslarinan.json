@@ -1,26 +1,16 @@
 {
   "id": "daglarinan-taslarinan",
-  "baslik": "Dağlarınan Taşlarınan_",
+  "baslik": "Dağlarınan Taşlarınan",
   "sozler_html": "<p>Dağlarınan Taşlarınan</p>\n<p>Uçam Gidem Kuşlarınan</p>\n<p>Eller Sevdiğini Almış</p>\n<p>Ben Galdım Göz Yaşlarınan</p>\n<p class=\"bos\"></p>\n<p>Kapınıza Kapınıza</p>\n<p>Hallik Koyam Yapınıza</p>\n<p>Bir Güzelin Hatrı İçin</p>\n<p>Kurban Olam Hepinize</p>\n<p class=\"bos\"></p>\n<p>Evlerinin Önü Direk</p>\n<p>Suyuda Nerden İndirek</p>\n<p>Yağdı Yağmur Yol Kapandı</p>\n<p>Selamı Kimle Gönderek</p>",
-  "sozler_duz": "Dağlarınan Taşlarınan Uçam Gidem Kuşlarınan Eller Sevdiğini Almış Ben Galdım Göz Yaşlarınan Kapınıza Kapınıza Hallik Koyam Yapınıza Bir Güzelin Hatrı İçin Kurban Olam Hepinize Evlerinin Önü Direk Suyuda Nerden İndirek Yağdı Yağmur Yol Kapandı Selamı Kimle Gönderek",
+  "sozler_duz": "Dağlarınan Taşlarınan\n\nUçam Gidem Kuşlarınan\n\nEller Sevdiğini Almış\n\nBen Galdım Göz Yaşlarınan\n\nKapınıza Kapınıza\n\nHallik Koyam Yapınıza\n\nBir Güzelin Hatrı İçin\n\nKurban Olam Hepinize\n\nEvlerinin Önü Direk\n\nSuyuda Nerden İndirek\n\nYağdı Yağmur Yol Kapandı\n\nSelamı Kimle Gönderek",
   "meta": {
     "yore": "Malatya/Arguvan",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Kerem Altıner-?",
-    "aciklama": ""
+    "diger_bilgiler": "Kerem Altıner-?"
   },
   "sistem": {
     "eski_id": 3747,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T14:26:23.564Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
