@@ -1,26 +1,16 @@
 {
   "id": "edremitin-gelini",
   "baslik": "EDREMİTİN GELİNİ",
-  "sozler_html": "<p>Edremit'in gelini</p>\n<p>Kınalamış elini (2</p>\n<p>Sarmaya doyamadım</p>\n<p>O incecik belibi (2</p>\n<p class=\"bos\"></p>\n<p><b>Hoştur cilvesi - cilvesi </b></p>\n<p><b>Elmastır fesi (2         </b></p>\n<p class=\"bos\"></p>\n<p>Edremit'in bağına</p>\n<p>Duman çökmüş dağına</p>\n<p>Huriler çadır kurmuş</p>\n<p>Cennetin ayağına</p>\n<p class=\"bos\"></p>\n<p><b>Hoştur cilvesi ...</b></p>",
-  "sozler_duz": "Edremit'in gelini Kınalamış elini (2 Sarmaya doyamadım O incecik belibi (2 Hoştur cilvesi - cilvesi Elmastır fesi (2 Edremit'in bağına Duman çökmüş dağına Huriler çadır kurmuş Cennetin ayağına Hoştur cilvesi ...",
+  "sozler_html": "<p>Edremit'in gelini</p>\n<p>Kınalamış elini (2</p>\n<p>Sarmaya doyamadım</p>\n<p>O incecik belini (2</p>\n<p class=\"bos\"></p>\n<p><b>Hoştur cilvesi - cilvesi </b></p>\n<p><b>Elmastır fesi (2         </b></p>\n<p class=\"bos\"></p>\n<p>Edremit'in bağına</p>\n<p>Duman çökmüş dağına</p>\n<p>Huriler çadır kurmuş</p>\n<p>Cennetin ayağına</p>\n<p class=\"bos\"></p>\n<p><b>Hoştur cilvesi ...</b></p>",
+  "sozler_duz": "Edremit'in gelini\n\nKınalamış elini (2\n\nSarmaya doyamadım\n\nO incecik belini (2\n\nHoştur cilvesi - cilvesi\n\nElmastır fesi (2\n\nEdremit'in bağına\n\nDuman çökmüş dağına\n\nHuriler çadır kurmuş\n\nCennetin ayağına\n\nHoştur cilvesi ...",
   "meta": {
-    "yore": "",
     "turu": "1",
-    "turu2": "T",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_22",
-    "karar": "La",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "karar": "La"
   },
   "sistem": {
     "eski_id": 3861,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T11:00:12.670Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
