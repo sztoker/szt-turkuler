@@ -1,26 +1,15 @@
 {
   "id": "bom-bili-bili-bili-bom",
   "baslik": "BOM BİLİ BİLİ BİLİ BOM",
-  "sozler_html": "<p>Şu dereler şu düzler –aman(3Kem küm dökülen sözler      –bom bili bili bili bom bomYine mi sürmelendi –aman (3Ocak söndüren gözler       –bom bili bili bili bom bomSivas’tan aldım bakır / Yosmam gözlerin çakırO çakır gözlerine / Kurban olsun bu fakirŞu derenin bükleri / Ötüşür keklikleriHiç aklımdan çıkmıyor / Yarimin dedikleri</p>",
-  "sozler_duz": "Şu dereler şu düzler –aman(3Kem küm dökülen sözler –bom bili bili bili bom bomYine mi sürmelendi –aman (3Ocak söndüren gözler –bom bili bili bili bom bomSivas’tan aldım bakır / Yosmam gözlerin çakırO çakır gözlerine / Kurban olsun bu fakirŞu derenin bükleri / Ötüşür keklikleriHiç aklımdan çıkmıyor / Yarimin dedikleri",
+  "sozler_html": "<p>Şu dereler şu düzler –aman(3</p><p>Kem küm dökülen sözler      –bom bili bili bili bom bom</p><p>Yine mi sürmelendi –aman (3</p><p>Ocak söndüren gözler       –bom bili bili bili bom bom</p><p><br></p><p>Sivas’tan aldım bakır&nbsp;</p><p>Yosmam gözlerin çakır</p><p>O çakır gözlerine&nbsp;</p><p>Kurban olsun bu fakir</p><p><br></p><p>Şu derenin bükleri&nbsp;</p><p>Ötüşür keklikleri</p><p>Hiç aklımdan çıkmıyor&nbsp;</p><p>Yarimin dedikleri</p>",
+  "sozler_duz": "Şu dereler şu düzler –aman(3\n\nKem küm dökülen sözler –bom bili bili bili bom bom\n\nYine mi sürmelendi –aman (3\n\nOcak söndüren gözler –bom bili bili bili bom bom\n\nSivas’tan aldım bakır \n\nYosmam gözlerin çakır\n\nO çakır gözlerine \n\nKurban olsun bu fakir\n\nŞu derenin bükleri \n\nÖtüşür keklikleri\n\nHiç aklımdan çıkmıyor \n\nYarimin dedikleri",
   "meta": {
-    "yore": "? TOKAT",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "? TOKAT",
-    "aciklama": ""
+    "yore": "TOKAT"
   },
   "sistem": {
     "eski_id": 566,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:39:37.375Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
