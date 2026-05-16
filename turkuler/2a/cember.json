@@ -1,26 +1,16 @@
 {
   "id": "cember",
   "baslik": "ÇEMBER",
-  "sozler_html": "<p>Ya dışındasındır çemberin / Ya da içinde yer alacaksınKendin içindeyken kafan dışındaysaÇaresi yok kardeşimHer akşam böyle içip kederlenip / Mutsuz olacaksınMeyhane kapılarında kahrolacaksınŞiirlerle şarkılarla kendini avutacaksınYa dışındasındır çemberin / Ya da içinde yer alacaksın</p>",
-  "sozler_duz": "Ya dışındasındır çemberin / Ya da içinde yer alacaksınKendin içindeyken kafan dışındaysaÇaresi yok kardeşimHer akşam böyle içip kederlenip / Mutsuz olacaksınMeyhane kapılarında kahrolacaksınŞiirlerle şarkılarla kendini avutacaksınYa dışındasındır çemberin / Ya da içinde yer alacaksın",
+  "sozler_html": "<p>Ya dışındasındır çemberin&nbsp;</p><p>Ya da içinde yer alacaksın</p><p>Kendin içindeyken kafan dışındaysa</p><p>Çaresi yok kardeşim</p><p>Her akşam böyle içip kederlenip&nbsp;</p><p>Mutsuz olacaksın</p><p>Meyhane kapılarında kahrolacaksın</p><p>Şiirlerle şarkılarla kendini avutacaksın</p><p>Ya dışındasındır çemberin&nbsp;</p><p>Ya da içinde yer alacaksın</p>",
+  "sozler_duz": "Ya dışındasındır çemberin \n\nYa da içinde yer alacaksın\n\nKendin içindeyken kafan dışındaysa\n\nÇaresi yok kardeşim\n\nHer akşam böyle içip kederlenip \n\nMutsuz olacaksın\n\nMeyhane kapılarında kahrolacaksın\n\nŞiirlerle şarkılarla kendini avutacaksın\n\nYa dışındasındır çemberin \n\nYa da içinde yer alacaksın",
   "meta": {
-    "yore": "S :Murathan Mungan     YENİ TÜRKÜ",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S :Murathan Mungan     YENİ TÜRKÜ",
-    "aciklama": ""
+    "soz": "Murathan Mungan",
+    "soyleyenler": "YENİ TÜRKÜ"
   },
   "sistem": {
     "eski_id": 622,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T14:48:50.672Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
