@@ -1,26 +1,16 @@
 {
   "id": "beni-gorup-yuzun-ote-donderme",
   "baslik": "BENİ GÖRÜP YÜZÜN ÖTE DÖNDERME",
-  "sozler_html": "<p>Beni görüp yüzün öte döndermeYine benim gönlüm sendedir sendeYıkıp hilal kaşın yere indirmeYine benim gönlüm sendedir sendeŞerbet senin dudağında dilindeArzumanım kaldı ince belindeSen bir güzelsin ki Türkmen ilindeGünah bende değil sendedir sendeSensiz Çıkıp Şu Yaylayı YaylayamamSırrın Açıp Yad Ellere SöyleyememÇok Günah İşledim İnkar EylememGünah Bende Değil Sendedir Sende</p>",
-  "sozler_duz": "Beni görüp yüzün öte döndermeYine benim gönlüm sendedir sendeYıkıp hilal kaşın yere indirmeYine benim gönlüm sendedir sendeŞerbet senin dudağında dilindeArzumanım kaldı ince belindeSen bir güzelsin ki Türkmen ilindeGünah bende değil sendedir sendeSensiz Çıkıp Şu Yaylayı YaylayamamSırrın Açıp Yad Ellere SöyleyememÇok Günah İşledim İnkar EylememGünah Bende Değil Sendedir Sende",
+  "sozler_html": "<p>Beni görüp yüzün öte dönderme</p><p>Yine benim gönlüm sendedir sende</p><p>Yıkıp hilal kaşın yere indirme</p><p>Yine benim gönlüm sendedir sende</p><p><br></p><p>Şerbet senin dudağında dilinde</p><p>Arzumanım kaldı ince belinde</p><p>Sen bir güzelsin ki Türkmen ilinde</p><p>Günah bende değil sendedir sende</p><p><br></p><p>Sensiz Çıkıp Şu Yaylayı Yaylayamam</p><p>Sırrın Açıp Yad Ellere Söyleyemem</p><p>Çok Günah İşledim İnkar Eylemem</p><p>Günah Bende Değil Sendedir Sende</p>",
+  "sozler_duz": "Beni görüp yüzün öte dönderme\n\nYine benim gönlüm sendedir sende\n\nYıkıp hilal kaşın yere indirme\n\nYine benim gönlüm sendedir sende\n\nŞerbet senin dudağında dilinde\n\nArzumanım kaldı ince belinde\n\nSen bir güzelsin ki Türkmen ilinde\n\nGünah bende değil sendedir sende\n\nSensiz Çıkıp Şu Yaylayı Yaylayamam\n\nSırrın Açıp Yad Ellere Söyleyemem\n\nÇok Günah İşledim İnkar Eylemem\n\nGünah Bende Değil Sendedir Sende",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
     "derleyen": "Nida Tüfekçi",
-    "kaynak_kisi": "Nuri Üstünses",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Nuri Üstünses"
   },
   "sistem": {
     "eski_id": 233,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T13:50:01.869Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
