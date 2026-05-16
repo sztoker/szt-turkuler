@@ -1,26 +1,15 @@
 {
   "id": "benim-kabem-insandir",
   "baslik": "BENİM KABEM İNSANDIR",
-  "sozler_html": "<p>Benim kabem insandır - Hele hele nenni dost nenniKuran da kurtaran da - Hele hele nenni dost nenniİnsanoğlu insandır  - Hele hele nenni dost nenniBenim kabem sevidirKuran da kurtaran da / Sevili insanlardırBenim kabem dünyadırKuran da kurtaran da / Dünyayı insanlardırBenim kabem emektirKuran da kurtaran da / Emekçi insanlardırEllerin kabesi var / Benim kabem insandırKuran da kurtaran da / İnsanoğlu insandırEllerin kabesi var / Benim kabem sevidirKuran da kurtaran da / Sevili insanlardırEllerin kabesi var / Benim kabem dünyadırKuran da kurtaran da / Dünyayı insanlardırEllerin kabesi var / Benim kabem emektirKuran da kurtaran da / Emekçi insanlardır</p>",
-  "sozler_duz": "Benim kabem insandır - Hele hele nenni dost nenniKuran da kurtaran da - Hele hele nenni dost nenniİnsanoğlu insandır - Hele hele nenni dost nenniBenim kabem sevidirKuran da kurtaran da / Sevili insanlardırBenim kabem dünyadırKuran da kurtaran da / Dünyayı insanlardırBenim kabem emektirKuran da kurtaran da / Emekçi insanlardırEllerin kabesi var / Benim kabem insandırKuran da kurtaran da / İnsanoğlu insandırEllerin kabesi var / Benim kabem sevidirKuran da kurtaran da / Sevili insanlardırEllerin kabesi var / Benim kabem dünyadırKuran da kurtaran da / Dünyayı insanlardırEllerin kabesi var / Benim kabem emektirKuran da kurtaran da / Emekçi insanlardır",
+  "sozler_html": "<p>Benim kabem insandır - <i>Hele hele nenni dost nenni</i></p><p>Kuran da kurtaran da -<i> Hele hele nenni dost nenni</i></p><p>İnsanoğlu insandır  - <i>Hele hele nenni dost nenni</i></p><p><br></p><p>Benim kabem sevidir</p><p>Kuran da kurtaran da&nbsp;</p><p>Sevili insanlardır</p><p><br></p><p>Benim kabem dünyadır</p><p>Kuran da kurtaran da&nbsp;</p><p>Dünyayı insanlardır</p><p><br></p><p>Benim kabem emektir</p><p>Kuran da kurtaran da&nbsp;</p><p>Emekçi insanlardır</p><p><br></p><p><i>Ellerin kabesi var&nbsp;</i></p><p><i>Benim kabem insandır</i></p><p><i>Kuran da kurtaran da&nbsp;</i></p><p><i>İnsanoğlu insandır</i></p><p><i><br></i></p><p><i>Ellerin kabesi var&nbsp;</i></p><p><i>Benim kabem sevidir</i></p><p><i>Kuran da kurtaran da&nbsp;</i></p><p><i>Sevili insanlardır</i></p><p><i><br></i></p><p><i>llerin kabesi var&nbsp;</i></p><p><i>Benim kabem dünyadır</i></p><p><i>Kuran da kurtaran da&nbsp;</i></p><p><i>Dünyayı insanlardır</i></p><p><i><br></i></p><p><i>Ellerin kabesi var&nbsp;</i></p><p><i>Benim kabem emektir</i></p><p><i>Kuran da kurtaran da&nbsp;</i></p><p><i>Emekçi insanlardır</i></p>",
+  "sozler_duz": "Benim kabem insandır - Hele hele nenni dost nenni\n\nKuran da kurtaran da - Hele hele nenni dost nenni\n\nİnsanoğlu insandır - Hele hele nenni dost nenni\n\nBenim kabem sevidir\n\nKuran da kurtaran da \n\nSevili insanlardır\n\nBenim kabem dünyadır\n\nKuran da kurtaran da \n\nDünyayı insanlardır\n\nBenim kabem emektir\n\nKuran da kurtaran da \n\nEmekçi insanlardır\n\nEllerin kabesi var \n\nBenim kabem insandır\n\nKuran da kurtaran da \n\nİnsanoğlu insandır\n\nEllerin kabesi var \n\nBenim kabem sevidir\n\nKuran da kurtaran da \n\nSevili insanlardır\n\nllerin kabesi var \n\nBenim kabem dünyadır\n\nKuran da kurtaran da \n\nDünyayı insanlardır\n\nEllerin kabesi var \n\nBenim kabem emektir\n\nKuran da kurtaran da \n\nEmekçi insanlardır",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "Ruhi Su",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "soyleyenler": "Ruhi Su"
   },
   "sistem": {
     "eski_id": 368,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T13:58:26.663Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
