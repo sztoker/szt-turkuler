@@ -1,26 +1,16 @@
 {
   "id": "cadir-alti-minare",
-  "baslik": "Çadır Altı Minare_",
-  "sozler_html": "<p>Çadır Altı MinareElettim Eski YareAnam Kurban Ben KurbandaSetre Pantollu YareHelvacı HelvaŞeker Lokum HelvaSöğütte Ot Bitmez MiÇağırsalar Bitmez MiAh Bu Senin ElindendeÇektiklerim Yetmez MiHelvacı HelvaŞeker Lokumlu Helva</p>",
-  "sozler_duz": "Çadır Altı MinareElettim Eski YareAnam Kurban Ben KurbandaSetre Pantollu YareHelvacı HelvaŞeker Lokum HelvaSöğütte Ot Bitmez MiÇağırsalar Bitmez MiAh Bu Senin ElindendeÇektiklerim Yetmez MiHelvacı HelvaŞeker Lokumlu Helva",
+  "baslik": "Çadır Altı Minare",
+  "sozler_html": "<p>Çadır Altı Minare</p><p>Elettim Eski Yare</p><p>Anam Kurban Ben Kurbanda</p><p>Setre Pantollu Yare</p><p><br></p><p><b>Helvacı Helva</b></p><p><b>Şeker Lokum Helva</b></p><p><br></p><p>Söğütte Ot Bitmez Mi</p><p>Çağırsalar Bitmez Mi</p><p>Ah Bu Senin Elindende</p><p>Çektiklerim Yetmez Mi</p><p><br></p><p><b>Helvacı Helva</b></p><p><b>Şeker Lokumlu Helva</b></p>",
+  "sozler_duz": "Çadır Altı Minare\n\nElettim Eski Yare\n\nAnam Kurban Ben Kurbanda\n\nSetre Pantollu Yare\n\nHelvacı Helva\n\nŞeker Lokum Helva\n\nSöğütte Ot Bitmez Mi\n\nÇağırsalar Bitmez Mi\n\nAh Bu Senin Elindende\n\nÇektiklerim Yetmez Mi\n\nHelvacı Helva\n\nŞeker Lokumlu Helva",
   "meta": {
     "yore": "Gaziantep",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "yöre ekibi-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen"
   },
   "sistem": {
     "eski_id": 3677,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T18:35:46.567Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
