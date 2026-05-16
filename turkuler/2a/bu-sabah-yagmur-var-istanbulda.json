@@ -1,26 +1,16 @@
 {
   "id": "bu-sabah-yagmur-var-istanbulda",
   "baslik": "BU SABAH YAĞMUR VAR İSTANBUL’DA",
-  "sozler_html": "<p>Bu sabah yağmur var İstanbul’daGözlerim dolu dolu oluyor bilinmez niyeAnne sözü dinler gibi masumAğladım bu sabahGünler dayanılmaz oldu * senden uzak oluncaMartılar mahsun oldu * onlar bile ağladılarŞarkılarda düşünmek seni bana getirmez kiSeni bana getirmez ki -2</p>",
-  "sozler_duz": "Bu sabah yağmur var İstanbul’daGözlerim dolu dolu oluyor bilinmez niyeAnne sözü dinler gibi masumAğladım bu sabahGünler dayanılmaz oldu * senden uzak oluncaMartılar mahsun oldu * onlar bile ağladılarŞarkılarda düşünmek seni bana getirmez kiSeni bana getirmez ki -2",
+  "sozler_html": "<p>Bu sabah yağmur var İstanbul’da</p><p>Gözlerim dolu dolu oluyor bilinmez niye</p><p>Anne sözü dinler gibi masum</p><p>Ağladım bu sabah</p><p>Günler dayanılmaz oldu&nbsp;</p><p>Senden uzak olunca</p><p><br></p><p>Martılar mahsun oldu&nbsp;</p><p>Onlar bile ağladılar</p><p>Şarkılarda düşünmek&nbsp;</p><p>Seni bana getirmez ki</p><p>Seni bana getirmez ki -2</p>",
+  "sozler_duz": "Bu sabah yağmur var İstanbul’da\n\nGözlerim dolu dolu oluyor bilinmez niye\n\nAnne sözü dinler gibi masum\n\nAğladım bu sabah\n\nGünler dayanılmaz oldu \n\nSenden uzak olunca\n\nMartılar mahsun oldu \n\nOnlar bile ağladılar\n\nŞarkılarda düşünmek \n\nSeni bana getirmez ki\n\nSeni bana getirmez ki -2",
   "meta": {
-    "yore": "S-M : Mazhar Alanson",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S-M : Mazhar Alanson",
-    "aciklama": ""
+    "soz": "Mazhar Alanson",
+    "muzik": "Mazhar Alanson"
   },
   "sistem": {
     "eski_id": 583,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:14:15.869Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
