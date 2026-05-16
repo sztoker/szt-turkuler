@@ -1,26 +1,16 @@
 {
   "id": "bu-guzel-nazli-guzel",
   "baslik": "BU GÜZEL NAZLI GÜZEL",
-  "sozler_html": "<p>Bir güzele gönül verdim -oy canım oySaçlarına değiverdim -oy canım oyGüzel bakar gözlerime / Ateş düşer yüreğimeKavrulur savrulur ...Bu güzel nazlı güzel / Bu güzel yaslı güzelBu güzel haslı güzel / Dudağında gonca güzel yarYüz anıma biçareyim -oy canım oyGönlüm darmış avareyim -oy canım oyNe beklerken neyi buldum / Acep nedir benim suçumGece gündüz meyhaneyim oy / Bu güzel ...</p>",
-  "sozler_duz": "Bir güzele gönül verdim -oy canım oySaçlarına değiverdim -oy canım oyGüzel bakar gözlerime / Ateş düşer yüreğimeKavrulur savrulur ...Bu güzel nazlı güzel / Bu güzel yaslı güzelBu güzel haslı güzel / Dudağında gonca güzel yarYüz anıma biçareyim -oy canım oyGönlüm darmış avareyim -oy canım oyNe beklerken neyi buldum / Acep nedir benim suçumGece gündüz meyhaneyim oy / Bu güzel ...",
+  "sozler_html": "<p>Bir güzele gönül verdim -oy canım oy</p><p>Saçlarına değiverdim -oy canım oy</p><p>Güzel bakar gözlerime / Ateş düşer yüreğime</p><p>Kavrulur savrulur&nbsp;</p><p><br></p><p><b>Bu güzel nazlı güzel / Bu güzel yaslı güzel</b></p><p><b>Bu güzel haslı güzel / Dudağında gonca güzel yar</b></p><p><br></p><p>Yüz anıma biçareyim -oy canım oy</p><p>Gönlüm darmış avareyim -oy canım oy</p><p>Ne beklerken neyi buldum / Acep nedir benim suçum</p><p>Gece gündüz meyhaneyim oy&nbsp;</p><p><br></p><p><b>Bu güzel ...</b></p>",
+  "sozler_duz": "Bir güzele gönül verdim -oy canım oy\n\nSaçlarına değiverdim -oy canım oy\n\nGüzel bakar gözlerime / Ateş düşer yüreğime\n\nKavrulur savrulur \n\nBu güzel nazlı güzel / Bu güzel yaslı güzel\n\nBu güzel haslı güzel / Dudağında gonca güzel yar\n\nYüz anıma biçareyim -oy canım oy\n\nGönlüm darmış avareyim -oy canım oy\n\nNe beklerken neyi buldum / Acep nedir benim suçum\n\nGece gündüz meyhaneyim oy \n\nBu güzel ...",
   "meta": {
-    "yore": "Efkan Şeşen",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Efkan Şeşen",
-    "aciklama": ""
+    "soz": "Efkan Şeşen",
+    "muzik": "Efkan Şeşen"
   },
   "sistem": {
     "eski_id": 578,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:22:48.870Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
