@@ -1,26 +1,15 @@
 {
   "id": "bosa-didinmek-fayda-vermez",
   "baslik": "BOŞA DİDİNMEK FAYDA VERMEZ",
-  "sozler_html": "<p>Boşa didinmek fayda vermezHer geçen gün daha beter dündenBöyle gelmiş böyle gitmezSömürü zulüm devam etmezKaldırmadıkça başlarımızı / Sefaletimiz bitmezElindeki bu boş tencere / Dolar mı kendi kendineEğer razı olursan sen / Kendi kötü kaderineKaldırmadıkça başlarımızı / Sefaletimiz bitmez</p>",
-  "sozler_duz": "Boşa didinmek fayda vermezHer geçen gün daha beter dündenBöyle gelmiş böyle gitmezSömürü zulüm devam etmezKaldırmadıkça başlarımızı / Sefaletimiz bitmezElindeki bu boş tencere / Dolar mı kendi kendineEğer razı olursan sen / Kendi kötü kaderineKaldırmadıkça başlarımızı / Sefaletimiz bitmez",
+  "sozler_html": "<p>Boşa didinmek fayda vermez</p><p>Her geçen gün daha beter dünden</p><p>Böyle gelmiş böyle gitmez</p><p>Sömürü zulüm devam etmez</p><p><br></p><p><b>Kaldırmadıkça başlarımızı&nbsp;</b></p><p><b>Sefaletimiz bitmez</b></p><p><br></p><p>Elindeki bu boş tencere&nbsp;</p><p>Dolar mı kendi kendine</p><p>Eğer razı olursan sen&nbsp;</p><p>Kendi kötü kaderine</p><p><br></p><p><b>Kaldırmadıkça başlarımızı&nbsp;</b></p><p><b>Sefaletimiz bitmez</b></p>",
+  "sozler_duz": "Boşa didinmek fayda vermez\n\nHer geçen gün daha beter dünden\n\nBöyle gelmiş böyle gitmez\n\nSömürü zulüm devam etmez\n\nKaldırmadıkça başlarımızı \n\nSefaletimiz bitmez\n\nElindeki bu boş tencere \n\nDolar mı kendi kendine\n\nEğer razı olursan sen \n\nKendi kötü kaderine\n\nKaldırmadıkça başlarımızı \n\nSefaletimiz bitmez",
   "meta": {
-    "yore": "Ruhi Su",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ruhi Su",
-    "aciklama": ""
+    "soyleyenler": "Ruhi Su"
   },
   "sistem": {
     "eski_id": 567,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:38:09.974Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
