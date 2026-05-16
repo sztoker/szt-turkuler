@@ -1,26 +1,15 @@
 {
   "id": "bilirsen-mi-senden-niye-kusmusem",
   "baslik": "BİLİRSEN Mİ SENDEN NİYE KÜSMÜŞEM",
-  "sozler_html": "<p>Bilirsen mi senden niye küsmüşemBakmadın yüzüme size gelendeBana göre bu dostluğu kesmişemKem bakirsan yüz be yüze gelendeKerem olup aşk oduna yanaramDostuma dost düşmenime yamanamMen arifem işhareden kanaramKes meni başlayıp söze gelendeNe dosta itibar var  /  Ne yarda ahtı peyman / Naçaram...</p>",
-  "sozler_duz": "Bilirsen mi senden niye küsmüşemBakmadın yüzüme size gelendeBana göre bu dostluğu kesmişemKem bakirsan yüz be yüze gelendeKerem olup aşk oduna yanaramDostuma dost düşmenime yamanamMen arifem işhareden kanaramKes meni başlayıp söze gelendeNe dosta itibar var / Ne yarda ahtı peyman / Naçaram...",
+  "sozler_html": "<p>Bilirsen mi senden niye küsmüşem</p><p>Bakmadın yüzüme size gelende</p><p>Bana göre bu dostluğu kesmişem</p><p>Kem bakirsan yüz be yüze gelende</p><p><br></p><p>Kerem olup aşk oduna yanaram</p><p>Dostuma dost düşmenime yamanam</p><p>Men arifem işhareden kanaram</p><p>Kes meni başlayıp söze gelende</p><p><br></p><p><br></p>",
+  "sozler_duz": "Bilirsen mi senden niye küsmüşem\n\nBakmadın yüzüme size gelende\n\nBana göre bu dostluğu kesmişem\n\nKem bakirsan yüz be yüze gelende\n\nKerem olup aşk oduna yanaram\n\nDostuma dost düşmenime yamanam\n\nMen arifem işhareden kanaram\n\nKes meni başlayıp söze gelende",
   "meta": {
-    "yore": "AZERİ",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AZERİ",
-    "aciklama": ""
+    "yore": "AZERİ"
   },
   "sistem": {
     "eski_id": 532,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T14:10:13.354Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
