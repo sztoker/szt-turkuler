@@ -1,26 +1,15 @@
 {
   "id": "bosu-bosuna",
   "baslik": "BOŞU BOŞUNA",
-  "sozler_html": "<p>Tanrım bana ömür vermiş -ömür vermiş- *boşu boşuna (3Vücuduma bir can girmiş -bir can girmiş- *boşu boşuna (3Su akar deryaya varır / Deryadan mayi çıkarırGökyüzünde yağmur olur (2 / Damlaları -boşu boşuna(3İsa Meryem’e mi kalmış / Musa asadan ne bulmuşSüleyman bir sultan olmuş / Saltanatı boşu boşuna</p>",
-  "sozler_duz": "Tanrım bana ömür vermiş -ömür vermiş- *boşu boşuna (3Vücuduma bir can girmiş -bir can girmiş- *boşu boşuna (3Su akar deryaya varır / Deryadan mayi çıkarırGökyüzünde yağmur olur (2 / Damlaları -boşu boşuna(3İsa Meryem’e mi kalmış / Musa asadan ne bulmuşSüleyman bir sultan olmuş / Saltanatı boşu boşuna",
+  "sozler_html": "<p>Tanrım bana ömür vermiş -ömür vermiş- *boşu boşuna (3</p><p>Vücuduma bir can girmiş -bir can girmiş- *boşu boşuna (3</p><p><br></p><p>Su akar deryaya varır&nbsp;</p><p>Deryadan mayi çıkarır</p><p>Gökyüzünde yağmur olur (2&nbsp;</p><p>Damlaları -boşu boşuna(3</p><p><br></p><p>İsa Meryem’e mi kalmış&nbsp;</p><p>Musa asadan ne bulmuş</p><p>Süleyman bir sultan olmuş&nbsp;</p><p>Saltanatı boşu boşuna</p>",
+  "sozler_duz": "Tanrım bana ömür vermiş -ömür vermiş- *boşu boşuna (3\n\nVücuduma bir can girmiş -bir can girmiş- *boşu boşuna (3\n\nSu akar deryaya varır \n\nDeryadan mayi çıkarır\n\nGökyüzünde yağmur olur (2 \n\nDamlaları -boşu boşuna(3\n\nİsa Meryem’e mi kalmış \n\nMusa asadan ne bulmuş\n\nSüleyman bir sultan olmuş \n\nSaltanatı boşu boşuna",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "soz": "Mahsuni"
   },
   "sistem": {
     "eski_id": 180,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:37:03.858Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
