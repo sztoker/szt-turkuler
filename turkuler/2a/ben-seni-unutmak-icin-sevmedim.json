@@ -1,26 +1,17 @@
 {
   "id": "ben-seni-unutmak-icin-sevmedim",
   "baslik": "BEN SENİ UNUTMAK İÇİN SEVMEDİM",
-  "sozler_html": "<p>Ben seni unutmak için sevmedimGülmen ayrılık demekmiş bilmedimBekledim sabah akşam yollarını Ölmek istedim bir türlü ölmedimAşk bu mu / Sevda bu mu / Hayat bu muKalp (aşk) acı dünya hüzün göz yaş doluŞimdi sen kim bilir nerelerdesinGelir gecelerden koşarak sesinBana en acı haber kiminlesinAdını içimden hala silemedim / Aşk bu mu ...</p>",
-  "sozler_duz": "Ben seni unutmak için sevmedimGülmen ayrılık demekmiş bilmedimBekledim sabah akşam yollarını Ölmek istedim bir türlü ölmedimAşk bu mu / Sevda bu mu / Hayat bu muKalp (aşk) acı dünya hüzün göz yaş doluŞimdi sen kim bilir nerelerdesinGelir gecelerden koşarak sesinBana en acı haber kiminlesinAdını içimden hala silemedim / Aşk bu mu ...",
+  "sozler_html": "<p>Ben seni unutmak için sevmedim</p><p>Gülmen ayrılık demekmiş bilmedim</p><p>Bekledim sabah akşam yollarını&nbsp;</p><p>Ölmek istedim bir türlü ölmedim</p><p><br></p><p><b>Aşk bu mu / Sevda bu mu / Hayat bu mu</b></p><p><b>Kalp (aşk) acı dünya hüzün göz yaş dolu</b></p><p><br></p><p>Şimdi sen kim bilir nerelerdesin</p><p>Gelir gecelerden koşarak sesin</p><p>Bana en acı haber kiminlesin</p><p>Adını içimden hala silemedim&nbsp;</p><p><br></p><p><b>Aşk bu mu ...</b></p>",
+  "sozler_duz": "Ben seni unutmak için sevmedim\n\nGülmen ayrılık demekmiş bilmedim\n\nBekledim sabah akşam yollarını \n\nÖlmek istedim bir türlü ölmedim\n\nAşk bu mu / Sevda bu mu / Hayat bu mu\n\nKalp (aşk) acı dünya hüzün göz yaş dolu\n\nŞimdi sen kim bilir nerelerdesin\n\nGelir gecelerden koşarak sesin\n\nBana en acı haber kiminlesin\n\nAdını içimden hala silemedim \n\nAşk bu mu ...",
   "meta": {
-    "yore": "Amir Ateş / İlham Behlül Pektaş         Segah / Se",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Amir Ateş / İlham Behlül Pektaş         Segah / Se",
-    "aciklama": ""
+    "soz": "İlham Behlül Pektaş",
+    "muzik": "Amir Ateş",
+    "diger_bilgiler": "Segah"
   },
   "sistem": {
     "eski_id": 514,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T13:46:35.569Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
