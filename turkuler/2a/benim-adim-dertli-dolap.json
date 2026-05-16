@@ -1,26 +1,15 @@
 {
   "id": "benim-adim-dertli-dolap",
   "baslik": "BENİM ADIM DERTLİ DOLAP",
-  "sozler_html": "<p>Benim adım dertli dolap / Suyum akar yalap yalap Böyle emreylemiş çalap / Derdim vardır inilerim Ben bu dağın ağacıyım / Ne tatlıyım ne acıyım Ben mevlâya duacıyım / Derdim vardır inilerim Dağda kestiler hezenim / Bozuldu türlü düzenim Ben usanmaz bir ozanım / Derdim vardır inilerim Yûnûs bunda gelen gülmez /  Kişi muradına ermezBu fânide kimse kalmaz / Derdim vardır inilerim</p>",
-  "sozler_duz": "Benim adım dertli dolap / Suyum akar yalap yalap Böyle emreylemiş çalap / Derdim vardır inilerim Ben bu dağın ağacıyım / Ne tatlıyım ne acıyım Ben mevlâya duacıyım / Derdim vardır inilerim Dağda kestiler hezenim / Bozuldu türlü düzenim Ben usanmaz bir ozanım / Derdim vardır inilerim Yûnûs bunda gelen gülmez / Kişi muradına ermezBu fânide kimse kalmaz / Derdim vardır inilerim",
+  "sozler_html": "<p>Benim adım dertli dolap&nbsp;</p><p>Suyum akar yalap yalap&nbsp;</p><p>Böyle emreylemiş çalap&nbsp;</p><p>Derdim vardır inilerim&nbsp;</p><p><br></p><p>Ben bu dağın ağacıyım&nbsp;</p><p>Ne tatlıyım ne acıyım&nbsp;</p><p>Ben mevlâya duacıyım&nbsp;</p><p>Derdim vardır inilerim&nbsp;</p><p><br></p><p>Dağda kestiler hezenim&nbsp;&nbsp;</p><p>Bozuldu türlü düzenim&nbsp;</p><p>Ben usanmaz bir ozanım&nbsp;</p><p>Derdim vardır inilerim&nbsp;</p><p><br></p><p>Yûnûs bunda gelen gülmez&nbsp;</p><p>Kişi muradına ermez</p><p>Bu fânide kimse kalmaz&nbsp;</p><p>Derdim vardır inilerim</p>",
+  "sozler_duz": "Benim adım dertli dolap \n\nSuyum akar yalap yalap \n\nBöyle emreylemiş çalap \n\nDerdim vardır inilerim \n\nBen bu dağın ağacıyım \n\nNe tatlıyım ne acıyım \n\nBen mevlâya duacıyım \n\nDerdim vardır inilerim \n\nDağda kestiler hezenim  \n\nBozuldu türlü düzenim \n\nBen usanmaz bir ozanım \n\nDerdim vardır inilerim \n\nYûnûs bunda gelen gülmez \n\nKişi muradına ermez\n\nBu fânide kimse kalmaz \n\nDerdim vardır inilerim",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "Yunus Emre",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Yunus Emre"
   },
   "sistem": {
     "eski_id": 367,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T13:54:46.918Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
