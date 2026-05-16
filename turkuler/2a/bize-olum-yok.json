@@ -1,26 +1,15 @@
 {
   "id": "bize-olum-yok",
   "baslik": "BİZE ÖLÜM YOK",
-  "sozler_html": "<p>Kavganın alevleri rüzgarın / Yayılır gider ılık ılık     (2Dağların başakların üzerinden / Buğday gibi bereketliDağların başakların üzerinden / Akarsu gibi aydınlıkKim demiş ölüm var diye bizeKardeş kardeş atan bu yürek bizim -heyBize ölüm yok (3 / Bu yürek hiç durmayacakBize ölüm yok (3 / Bu yürek hiç susmayacak</p>",
-  "sozler_duz": "Kavganın alevleri rüzgarın / Yayılır gider ılık ılık (2Dağların başakların üzerinden / Buğday gibi bereketliDağların başakların üzerinden / Akarsu gibi aydınlıkKim demiş ölüm var diye bizeKardeş kardeş atan bu yürek bizim -heyBize ölüm yok (3 / Bu yürek hiç durmayacakBize ölüm yok (3 / Bu yürek hiç susmayacak",
+  "sozler_html": "<p>Kavganın alevleri rüzgarın&nbsp;</p><p>Yayılır gider ılık ılık     (2</p><p>Dağların başakların üzerinden&nbsp;</p><p>Buğday gibi bereketli</p><p><br></p><p>Dağların başakların üzerinden&nbsp;</p><p>Akarsu gibi aydınlık</p><p>Kim demiş ölüm var diye bize</p><p>Kardeş kardeş atan bu yürek bizim -hey</p><p><br></p><p>Bize ölüm yok (3&nbsp;</p><p>Bu yürek hiç durmayacak</p><p>Bize ölüm yok (3&nbsp;</p><p>Bu yürek hiç susmayacak</p>",
+  "sozler_duz": "Kavganın alevleri rüzgarın \n\nYayılır gider ılık ılık (2\n\nDağların başakların üzerinden \n\nBuğday gibi bereketli\n\nDağların başakların üzerinden \n\nAkarsu gibi aydınlık\n\nKim demiş ölüm var diye bize\n\nKardeş kardeş atan bu yürek bizim -hey\n\nBize ölüm yok (3 \n\nBu yürek hiç durmayacak\n\nBize ölüm yok (3 \n\nBu yürek hiç susmayacak",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "GrupYorum",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "soyleyenler": "GrupYorum"
   },
   "sistem": {
     "eski_id": 562,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:47:59.898Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
