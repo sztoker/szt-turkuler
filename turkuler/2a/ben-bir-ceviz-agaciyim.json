@@ -1,26 +1,16 @@
 {
   "id": "ben-bir-ceviz-agaciyim",
   "baslik": "BEN BİR CEVİZ AĞACIYIM",
-  "sozler_html": "<p>Başım köpük köpük bulut * içim dışım denizBen bir ceviz ağacıyım * Gülhane Parkı'ndaBudak budak şerhan şerhan *  ihtiyar bir cevizNe sen bunun farkındasın ne de polis farkındaBen bir ceviz ağacıyım Gülhane Parkı'ndaNe sen bunun farkındasın ne de polis farkındaBen bir ceviz ağacıyım * Gülhane Parkı'ndaYapraklarım suda balık gibi * kıvıl kıvılYapraklarım ipek mendil gibi / tiril tirilKoparıver gülüm gözünün yaşını sil  / Ben bir ...Yapraklarım ellerimdir * tam yüz bin elim varYüz bin elle dokunurum sana * İstanbul'aYapraklarım gözlerimdir * şaşarak bakarımYüz bin gözle seyrederim seni İstanbulYüz bin yürek gibi çarpar - çarpar yapraklarım  / Ben bir</p>",
-  "sozler_duz": "Başım köpük köpük bulut * içim dışım denizBen bir ceviz ağacıyım * Gülhane Parkı'ndaBudak budak şerhan şerhan * ihtiyar bir cevizNe sen bunun farkındasın ne de polis farkındaBen bir ceviz ağacıyım Gülhane Parkı'ndaNe sen bunun farkındasın ne de polis farkındaBen bir ceviz ağacıyım * Gülhane Parkı'ndaYapraklarım suda balık gibi * kıvıl kıvılYapraklarım ipek mendil gibi / tiril tirilKoparıver gülüm gözünün yaşını sil / Ben bir ...Yapraklarım ellerimdir * tam yüz bin elim varYüz bin elle dokunurum sana * İstanbul'aYapraklarım gözlerimdir * şaşarak bakarımYüz bin gözle seyrederim seni İstanbulYüz bin yürek gibi çarpar - çarpar yapraklarım / Ben bir",
+  "sozler_html": "<p>Başım köpük köpük bulut * içim dışım deniz</p><p>Ben bir ceviz ağacıyım * Gülhane Parkı'nda</p><p>Budak budak şerhan şerhan *  ihtiyar bir ceviz</p><p>Ne sen bunun farkındasın ne de polis farkında</p><p><br></p><p><b>Ben bir ceviz ağacıyım Gülhane Parkı'nda</b></p><p><b>Ne sen bunun farkındasın ne de polis farkında</b></p><p><br></p><p>Ben bir ceviz ağacıyım * Gülhane Parkı'nda</p><p>Yapraklarım suda balık gibi * kıvıl kıvıl</p><p>Yapraklarım ipek mendil gibi / tiril tiril</p><p>Koparıver gülüm gözünün yaşını sil&nbsp;</p><p><br></p><p><b>Ben bir&nbsp;</b>ceviz ağacıyım<b>...</b></p><p><br></p><p>Yapraklarım ellerimdir * tam yüz bin elim var</p><p>Yüz bin elle dokunurum sana * İstanbul'a</p><p>Yapraklarım gözlerimdir * şaşarak bakarım</p><p>Yüz bin gözle seyrederim seni İstanbul</p><p>Yüz bin yürek gibi çarpar - çarpar yapraklarım&nbsp;</p><p><br></p><p>Ben bir ceviz ağacıyım...</p><p><br></p>",
+  "sozler_duz": "Başım köpük köpük bulut * içim dışım deniz\n\nBen bir ceviz ağacıyım * Gülhane Parkı'nda\n\nBudak budak şerhan şerhan * ihtiyar bir ceviz\n\nNe sen bunun farkındasın ne de polis farkında\n\nBen bir ceviz ağacıyım Gülhane Parkı'nda\n\nNe sen bunun farkındasın ne de polis farkında\n\nBen bir ceviz ağacıyım * Gülhane Parkı'nda\n\nYapraklarım suda balık gibi * kıvıl kıvıl\n\nYapraklarım ipek mendil gibi / tiril tiril\n\nKoparıver gülüm gözünün yaşını sil \n\nBen bir ceviz ağacıyım...\n\nYapraklarım ellerimdir * tam yüz bin elim var\n\nYüz bin elle dokunurum sana * İstanbul'a\n\nYapraklarım gözlerimdir * şaşarak bakarım\n\nYüz bin gözle seyrederim seni İstanbul\n\nYüz bin yürek gibi çarpar - çarpar yapraklarım \n\nBen bir ceviz ağacıyım...",
   "meta": {
-    "yore": "S :Nazım Hikmet     Y :Cem Karaca",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "s",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S :Nazım Hikmet     Y :Cem Karaca",
-    "aciklama": ""
+    "soz": "Nazım Hikmet",
+    "soyleyenler": "Cem Karaca"
   },
   "sistem": {
     "eski_id": 6757,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T13:27:09.225Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
