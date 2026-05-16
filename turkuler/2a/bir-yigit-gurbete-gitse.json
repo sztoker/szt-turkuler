@@ -1,8 +1,8 @@
 {
   "id": "bir-yigit-gurbete-gitse",
   "baslik": "BİR YİĞİT GURBETE GİTSE",
-  "sozler_html": "<p>Bir yiğit gurbete gitse / Gör başına neler gelirGarip sılayı andıkça / Yaş gözüne dolar gelirBağrıma basarım taşlar / Akıttım gözümden yaşlarYavrusun yitiren kuşlar / Yuvasına döner gelirEvlerinin önü söğüt / Atalardan almış öğütYarinden ayrılan yiğit / Sılasına döner gelir</p>",
-  "sozler_duz": "Bir yiğit gurbete gitse / Gör başına neler gelirGarip sılayı andıkça / Yaş gözüne dolar gelirBağrıma basarım taşlar / Akıttım gözümden yaşlarYavrusun yitiren kuşlar / Yuvasına döner gelirEvlerinin önü söğüt / Atalardan almış öğütYarinden ayrılan yiğit / Sılasına döner gelir",
+  "sozler_html": "<p>Bir yiğit gurbete gitse&nbsp;</p><p>Gör başına neler gelir</p><p>Garip sılayı andıkça&nbsp;</p><p>Yaş gözüne dolar gelir</p><p><br></p><p>Bağrıma basarım taşlar&nbsp;</p><p>Akıttım gözümden yaşlar</p><p>Yavrusun yitiren kuşlar&nbsp;</p><p>Yuvasına döner gelir</p><p><br></p><p>Evlerinin önü söğüt&nbsp;</p><p>Atalardan almış öğüt</p><p>Yarinden ayrılan yiğit&nbsp;</p><p>Sılasına döner gelir</p>",
+  "sozler_duz": "Bir yiğit gurbete gitse \n\nGör başına neler gelir\n\nGarip sılayı andıkça \n\nYaş gözüne dolar gelir\n\nBağrıma basarım taşlar \n\nAkıttım gözümden yaşlar\n\nYavrusun yitiren kuşlar \n\nYuvasına döner gelir\n\nEvlerinin önü söğüt \n\nAtalardan almış öğüt\n\nYarinden ayrılan yiğit \n\nSılasına döner gelir",
   "meta": {
     "yore": "KESKİN",
     "derleyen": "Yücel Paşmakçı",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 12,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T00:20:02.553Z",
+    "son_degisiklik": "2026-05-16T19:54:44.227Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
