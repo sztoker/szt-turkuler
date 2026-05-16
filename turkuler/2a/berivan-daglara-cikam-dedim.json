@@ -1,26 +1,17 @@
 {
   "id": "berivan-daglara-cikam-dedim",
   "baslik": "BERİVAN (Dağlara çıkam dedim)",
-  "sozler_html": "<p>Döşümüzü ölüm basmış kardeşlerKaranlıkta yağar canlar üstüneZincir sesleriyle sızlar bileklerGülerken bildiğim ağlar üstümeKucakta kucakta kalmış ölülerDoğmadan gidenler haykıran gözlerKaranlıkta kana bulanan yüzlerGözler göçtü parelendi ciğerlerDağlara çıkam dedim / Dosta ulaşam dedimDost ben senin uğruna / Dağlara mekan dedim</p>",
-  "sozler_duz": "Döşümüzü ölüm basmış kardeşlerKaranlıkta yağar canlar üstüneZincir sesleriyle sızlar bileklerGülerken bildiğim ağlar üstümeKucakta kucakta kalmış ölülerDoğmadan gidenler haykıran gözlerKaranlıkta kana bulanan yüzlerGözler göçtü parelendi ciğerlerDağlara çıkam dedim / Dosta ulaşam dedimDost ben senin uğruna / Dağlara mekan dedim",
+  "sozler_html": "<p>Döşümüzü ölüm basmış kardeşler</p><p>Karanlıkta yağar canlar üstüne</p><p>Zincir sesleriyle sızlar bilekler</p><p>Gülerken bildiğim ağlar üstüme</p><p><br></p><p>Kucakta kucakta kalmış ölüler</p><p>Doğmadan gidenler haykıran gözler</p><p>Karanlıkta kana bulanan yüzler</p><p>Gözler göçtü parelendi ciğerler</p><p><br></p><p><b>Dağlara çıkam dedim&nbsp;</b></p><p><b>Dosta ulaşam dedim</b></p><p><b>Dost ben senin uğruna&nbsp;</b></p><p><b>Dağlara mekan dedim</b></p>",
+  "sozler_duz": "Döşümüzü ölüm basmış kardeşler\n\nKaranlıkta yağar canlar üstüne\n\nZincir sesleriyle sızlar bilekler\n\nGülerken bildiğim ağlar üstüme\n\nKucakta kucakta kalmış ölüler\n\nDoğmadan gidenler haykıran gözler\n\nKaranlıkta kana bulanan yüzler\n\nGözler göçtü parelendi ciğerler\n\nDağlara çıkam dedim \n\nDosta ulaşam dedim\n\nDost ben senin uğruna \n\nDağlara mekan dedim",
   "meta": {
-    "yore": "S: H.Hüseyin’den derleme   M: Kemal Kahraman",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S: H.Hüseyin’den derleme   M: Kemal Kahraman",
-    "aciklama": ""
+    "soz": "H.Hüseyin’den derleme",
+    "muzik": "Kemal Kahraman",
+    "soyleyenler": "Grup Yorum"
   },
   "sistem": {
     "eski_id": 526,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T14:03:44.701Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
