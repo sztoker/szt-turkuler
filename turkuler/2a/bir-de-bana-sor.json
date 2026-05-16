@@ -1,26 +1,17 @@
 {
   "id": "bir-de-bana-sor",
   "baslik": "BİR DE BANA SOR",
-  "sozler_html": "<p>Nerden aklıma * esti kim bilirGezdim dün gece * şehri şöyle birHerkes evinde * kendi halindeHer yerde huzur * her yerde neşeBir ben uykusuz * bir ben huzursuzBir ben çaresiz * bir ben *  sensizGel sen ne çektiğimi * bir de bana sorNerde nasıl yaşarım * bir de bana sorEvlerin ışıkları * bir bir yanarkenBendeki karanlığı * gel de bana sor     2Nerden aklıma * esti kim bilirGezdim dün gece * şehri şöyle birEski sokaklar * yerli yerindeDostlar oturmuş * kır kahvesindeBir ben uykusuz * bir ben huzursuzBir ben çaresiz * bir ben * sensizGel sen ne çektiğimi * bir de bana sorSensiz yaşamak neymiş * bir de bana sorAk düşen saçlarımı * tel tel sayarkenBunca yıl nasıl geçti * gel de bana sor</p>",
-  "sozler_duz": "Nerden aklıma * esti kim bilirGezdim dün gece * şehri şöyle birHerkes evinde * kendi halindeHer yerde huzur * her yerde neşeBir ben uykusuz * bir ben huzursuzBir ben çaresiz * bir ben * sensizGel sen ne çektiğimi * bir de bana sorNerde nasıl yaşarım * bir de bana sorEvlerin ışıkları * bir bir yanarkenBendeki karanlığı * gel de bana sor 2Nerden aklıma * esti kim bilirGezdim dün gece * şehri şöyle birEski sokaklar * yerli yerindeDostlar oturmuş * kır kahvesindeBir ben uykusuz * bir ben huzursuzBir ben çaresiz * bir ben * sensizGel sen ne çektiğimi * bir de bana sorSensiz yaşamak neymiş * bir de bana sorAk düşen saçlarımı * tel tel sayarkenBunca yıl nasıl geçti * gel de bana sor",
+  "sozler_html": "<p>Nerden aklıma * esti kim bilir</p><p>Gezdim dün gece * şehri şöyle bir</p><p>Herkes evinde * kendi halinde</p><p>Her yerde huzur * her yerde neşe</p><p>Bir ben uykusuz * bir ben huzursuz</p><p>Bir ben çaresiz * bir ben *  sensiz</p><p><br></p><p><b>Gel sen ne çektiğimi * bir de bana sor</b></p><p><b>Nerde nasıl yaşarım * bir de bana sor</b></p><p><b>Evlerin ışıkları * bir bir yanarken</b></p><p><b>Bendeki karanlığı * gel de bana sor     2</b></p><p><br></p><p>Nerden aklıma * esti kim bilir</p><p>Gezdim dün gece * şehri şöyle bir</p><p>Eski sokaklar * yerli yerinde</p><p>Dostlar oturmuş * kır kahvesinde</p><p>Bir ben uykusuz * bir ben huzursuz</p><p>Bir ben çaresiz * bir ben * sensiz</p><p><br></p><p><b>Gel sen ne çektiğimi * bir de bana sor</b></p><p><b>Sensiz yaşamak neymiş * bir de bana sor</b></p><p><b>Ak düşen saçlarımı * tel tel sayarken</b></p><p><b>Bunca yıl nasıl geçti * gel de bana sor</b></p>",
+  "sozler_duz": "Nerden aklıma * esti kim bilir\n\nGezdim dün gece * şehri şöyle bir\n\nHerkes evinde * kendi halinde\n\nHer yerde huzur * her yerde neşe\n\nBir ben uykusuz * bir ben huzursuz\n\nBir ben çaresiz * bir ben * sensiz\n\nGel sen ne çektiğimi * bir de bana sor\n\nNerde nasıl yaşarım * bir de bana sor\n\nEvlerin ışıkları * bir bir yanarken\n\nBendeki karanlığı * gel de bana sor 2\n\nNerden aklıma * esti kim bilir\n\nGezdim dün gece * şehri şöyle bir\n\nEski sokaklar * yerli yerinde\n\nDostlar oturmuş * kır kahvesinde\n\nBir ben uykusuz * bir ben huzursuz\n\nBir ben çaresiz * bir ben * sensiz\n\nGel sen ne çektiğimi * bir de bana sor\n\nSensiz yaşamak neymiş * bir de bana sor\n\nAk düşen saçlarımı * tel tel sayarken\n\nBunca yıl nasıl geçti * gel de bana sor",
   "meta": {
-    "yore": "Y:Erol Evgin",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Y:Erol Evgin",
-    "aciklama": ""
+    "soz": "Çiğdem Talu",
+    "muzik": "Melih Kibar",
+    "soyleyenler": "Erol Evgin"
   },
   "sistem": {
     "eski_id": 539,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T20:13:23.196Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
