@@ -1,26 +1,16 @@
 {
   "id": "bulbulun-kanadi-sari",
   "baslik": "BÜLBÜLÜN KANADI SARI",
-  "sozler_html": "<p>Bülbülün kanadı sarı * Ben ağlarım zarı zarıElimden aldılar yari * Garip garip ötme bülbülBenim derdim bana yeter * Garip garip ötme bülbülBülbülün kanadı beyaz * Gece uzun gündüz ayazAl kalemi derdimi yaz  * Garip garip ötme bülbül</p>",
-  "sozler_duz": "Bülbülün kanadı sarı * Ben ağlarım zarı zarıElimden aldılar yari * Garip garip ötme bülbülBenim derdim bana yeter * Garip garip ötme bülbülBülbülün kanadı beyaz * Gece uzun gündüz ayazAl kalemi derdimi yaz * Garip garip ötme bülbül",
+  "sozler_html": "<p>Bülbülün kanadı sarı&nbsp;</p><p>Ben ağlarım zarı zarı</p><p>Elimden aldılar yari&nbsp;</p><p><br></p><p><b>Garip garip ötme bülbül</b></p><p><b>Benim derdim bana yeter&nbsp;</b></p><p><b>Garip garip ötme bülbül</b></p><p><br></p><p>Bülbülün kanadı beyaz&nbsp;</p><p>Gece uzun gündüz ayaz</p><p>Al kalemi derdimi yaz&nbsp;</p><p><br></p><p><b>Garip garip...</b></p>",
+  "sozler_duz": "Bülbülün kanadı sarı \n\nBen ağlarım zarı zarı\n\nElimden aldılar yari \n\nGarip garip ötme bülbül\n\nBenim derdim bana yeter \n\nGarip garip ötme bülbül\n\nBülbülün kanadı beyaz \n\nGece uzun gündüz ayaz\n\nAl kalemi derdimi yaz \n\nGarip garip...",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "yore": "Diyarbakır",
+    "kaynak_kisi": "Celal Güzelses"
   },
   "sistem": {
     "eski_id": 593,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T18:49:21.847Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
