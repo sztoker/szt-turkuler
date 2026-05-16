@@ -1,26 +1,15 @@
 {
   "id": "birini-de-yavrum-birini",
   "baslik": "BİRİNİ DE YAVRUM BİRİNİ",
-  "sozler_html": "<p>Birini de yavrum birini / Harmana serdim kilimi -amanTakıver de zillerin biriniDönüver de meydan senindir-amanÇiftini de yavrum çiftini / Geliver de çifteli çifteli Takıver de zillerin çiftini / Dönüver de ...Üçünü de yavrum üçünü / Yayla da gördüm göçünüTakıver de zillerin üçünü / Dönüver de ...Merdini yavrum merdini / Kim bilir kimin derdiniTakıver de zillerin dördünü / Dönüver de ...</p>",
-  "sozler_duz": "Birini de yavrum birini / Harmana serdim kilimi -amanTakıver de zillerin biriniDönüver de meydan senindir-amanÇiftini de yavrum çiftini / Geliver de çifteli çifteli Takıver de zillerin çiftini / Dönüver de ...Üçünü de yavrum üçünü / Yayla da gördüm göçünüTakıver de zillerin üçünü / Dönüver de ...Merdini yavrum merdini / Kim bilir kimin derdiniTakıver de zillerin dördünü / Dönüver de ...",
+  "sozler_html": "<p>Birini de yavrum birini&nbsp;</p><p>Harmana serdim kilimi -aman</p><p>Takıver de zillerin birini</p><p>Dönüver de meydan senindir-aman</p><p><br></p><p>Çiftini de yavrum çiftini&nbsp;</p><p>Geliver de çifteli çifteli&nbsp;</p><p>Takıver de zillerin çiftini&nbsp;</p><p>Dönüver de meydan senindir-aman</p><p><br></p><p>Üçünü de yavrum üçünü&nbsp;</p><p>Yayla da gördüm göçünü</p><p>Takıver de zillerin üçünü</p><p>Dönüver de meydan senindir-aman</p><p><br></p><p>Merdini yavrum merdini&nbsp;</p><p>Kim bilir kimin derdini</p><p>Takıver de zillerin dördünü&nbsp;</p><p>Dönüver de meydan senindir-aman</p>",
+  "sozler_duz": "Birini de yavrum birini \n\nHarmana serdim kilimi -aman\n\nTakıver de zillerin birini\n\nDönüver de meydan senindir-aman\n\nÇiftini de yavrum çiftini \n\nGeliver de çifteli çifteli \n\nTakıver de zillerin çiftini \n\nDönüver de meydan senindir-aman\n\nÜçünü de yavrum üçünü \n\nYayla da gördüm göçünü\n\nTakıver de zillerin üçünü\n\nDönüver de meydan senindir-aman\n\nMerdini yavrum merdini \n\nKim bilir kimin derdini\n\nTakıver de zillerin dördünü \n\nDönüver de meydan senindir-aman",
   "meta": {
-    "yore": "İNEBOLU / KASTAMONU",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "İNEBOLU / KASTAMONU",
-    "aciklama": ""
+    "yore": "İNEBOLU / KASTAMONU"
   },
   "sistem": {
     "eski_id": 558,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:52:14.347Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
