@@ -4,15 +4,15 @@
   "sozler_html": "<p>Anlat bana gül goncası gördün mü&nbsp;</p><p>Gördün mü dikensiz</p>\n<p>Güneşli yüzün benli de&nbsp;</p><p>Göğsün niye bensiz</p>\n<p class=\"bos\">Bir gizli ateş var yakıyor&nbsp;</p><p>Gönlümü sensiz</p>\n<p>Güneşli yüzün benli de&nbsp;</p><p>Göğsün niye bensiz</p>",
   "sozler_duz": "Anlat bana gül goncası gördün mü \n\nGördün mü dikensiz\n\nGüneşli yüzün benli de \n\nGöğsün niye bensiz\n\nBir gizli ateş var yakıyor \n\nGönlümü sensiz\n\nGüneşli yüzün benli de \n\nGöğsün niye bensiz",
   "meta": {
-    "yore": "Hafız Yaşar Okur-İzak Varon   Hüzzam / Semai-T.Aks",
     "turu": "TSM",
     "soz": "Ömer Bedrettin Uşaklı",
-    "muzik": "Erdoğan Berker(Rast)/Hafız Yaşar Okur(Hüzzam)"
+    "muzik": "Erdoğan Berker",
+    "aciklama": "(Rast)/Hafız Yaşar Okur(Hüzzam)"
   },
   "sistem": {
     "eski_id": 426,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-02T08:30:43.762Z",
+    "son_degisiklik": "2026-05-16T13:00:20.050Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
