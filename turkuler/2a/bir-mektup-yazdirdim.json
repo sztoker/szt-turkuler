@@ -1,26 +1,17 @@
 {
   "id": "bir-mektup-yazdirdim",
   "baslik": "Bir Mektup Yazdırdım",
-  "sozler_html": "<p>Bir Mektup Yazdırdım Urfa'lı Kızına</p>\n<p>Zalimin Kızı Anam Bakmaz Yüzüme,</p>\n<p>Anam Duyar İse Vurur Dizine.</p>\n<p>Uy Nenni Nenni Askerim Nenni Esmerim Nenni</p>\n<p class=\"bos\"></p>\n<p>Bir Mektup Yazdırdım Bir Ucu Kara,</p>\n<p>Künyemiz Geliyor Karakollara,</p>\n<p>Anam Duyar İse Düşer Yollara.</p>\n<p>Uy Nenni Nenni Askerim Nenni Esmerim Nenni</p>\n<p class=\"bos\"></p>\n<p>Evlerinin Önü Mermer Döseli</p>\n<p>Doktorlar Geliyor Anam Eli Şişeli</p>\n<p>Üç Gün Oldu Ben Bu Aşka Düseli.</p>\n<p>Uy Nenni Nenni Askerim Nenni Esmerim Nenni</p>",
-  "sozler_duz": "Bir Mektup Yazdırdım Urfa'lı Kızına Zalimin Kızı Anam Bakmaz Yüzüme, Anam Duyar İse Vurur Dizine. Uy Nenni Nenni Askerim Nenni Esmerim Nenni Bir Mektup Yazdırdım Bir Ucu Kara, Künyemiz Geliyor Karakollara, Anam Duyar İse Düşer Yollara. Uy Nenni Nenni Askerim Nenni Esmerim Nenni Evlerinin Önü Mermer Döseli Doktorlar Geliyor Anam Eli Şişeli Üç Gün Oldu Ben Bu Aşka Düseli. Uy Nenni Nenni Askerim Nenni Esmerim Nenni",
+  "sozler_html": "<p>Bir\nmektup yazdırdım urfa'lı kızına</p><p>Zalimin kızı anam bakmaz yüzüme,</p><p>Anam duyar ise vurur dizine.</p><p>Uy nenni nenni askerim nenni esmerim nenni</p><p><br></p><p>Bir mektup yazdırdım bir ucu kara,</p><p>Künyemiz geliyor karakollara,</p><p>Anam duyar ise düşer yollara.</p><p>Uy nenni nenni askerim nenni esmerim nenni</p><p><br></p><p>Evlerinin önü mermer döseli</p><p>Doktorlar geliyor anam eli şişeli</p><p>Üç gün oldu ben bu aşka düseli.</p><p>Uy nenni nenni askerim nenni esmerim nenni</p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>&nbsp;</p>",
+  "sozler_duz": "Bir mektup yazdırdım urfa'lı kızına\n\nZalimin kızı anam bakmaz yüzüme,\n\nAnam duyar ise vurur dizine.\n\nUy nenni nenni askerim nenni esmerim nenni\n\nBir mektup yazdırdım bir ucu kara,\n\nKünyemiz geliyor karakollara,\n\nAnam duyar ise düşer yollara.\n\nUy nenni nenni askerim nenni esmerim nenni\n\nEvlerinin önü mermer döseli\n\nDoktorlar geliyor anam eli şişeli\n\nÜç gün oldu ben bu aşka düseli.\n\nUy nenni nenni askerim nenni esmerim nenni",
   "meta": {
     "yore": "Adıyaman",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "1",
-    "karar": "",
-    "diger_bilgiler": "Ragıp Binzat-Nida Tüfekçi",
-    "aciklama": ""
+    "derleyen": "Nida Tüfekçi",
+    "kaynak_kisi": "Ragıp Binzat"
   },
   "sistem": {
     "eski_id": 3548,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:59:54.426Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
