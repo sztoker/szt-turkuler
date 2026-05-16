@@ -1,26 +1,16 @@
 {
   "id": "bir-adimiz-alamanya-beyleri",
   "baslik": "BİR ADIMIZ ALAMANYA BEYLERİ",
-  "sozler_html": "<p>Zara'dan düştük te tozlu yollaraSüre süre bu ellere getirdikBen feleği yere çaldım sanırdım -sevdiğimKör talihi kambur gibi getirdik -heyKahpe felek bize etti oyunuBen içmezdim buraların suyunuYetmiş iki millet soyunu -sevdiğimİşçi deyip bir hesaba yazdırdık -heyGözlerim sılanın yoluna bakarDeli gönül yanıl yanıl dert çekerBir ucundan insan girer mark çıkar -sevdiğimÖmrümüzü fabrikaya yatırdık -heyBir adımız Alamanya beyleriBir adımız Anadolu'ya varırDöner şeritlere dişli çark oldukDaha bırakmadan karasabanı -efendimYağmur olsam kirpiklerin ıslanırSaçını okşasam elim paslanırDar günümde usul usul seslenirAlmanı da deli gönül Almanı -efendim(Yazılır elbet bir gün destanı)</p>",
-  "sozler_duz": "Zara'dan düştük te tozlu yollaraSüre süre bu ellere getirdikBen feleği yere çaldım sanırdım -sevdiğimKör talihi kambur gibi getirdik -heyKahpe felek bize etti oyunuBen içmezdim buraların suyunuYetmiş iki millet soyunu -sevdiğimİşçi deyip bir hesaba yazdırdık -heyGözlerim sılanın yoluna bakarDeli gönül yanıl yanıl dert çekerBir ucundan insan girer mark çıkar -sevdiğimÖmrümüzü fabrikaya yatırdık -heyBir adımız Alamanya beyleriBir adımız Anadolu'ya varırDöner şeritlere dişli çark oldukDaha bırakmadan karasabanı -efendimYağmur olsam kirpiklerin ıslanırSaçını okşasam elim paslanırDar günümde usul usul seslenirAlmanı da deli gönül Almanı -efendim(Yazılır elbet bir gün destanı)",
+  "sozler_html": "<p>Zara'dan düştük te tozlu yollara</p><p>Süre süre bu ellere getirdik</p><p>Ben feleği yere çaldım sanırdım -sevdiğim</p><p>Kör talihi kambur gibi getirdik -hey</p><p>Kahpe felek bize etti oyunu</p><p>Ben içmezdim buraların suyunu</p><p>Yetmiş iki millet soyunu -sevdiğim</p><p>İşçi deyip bir hesaba yazdırdık -hey</p><p>Gözlerim sılanın yoluna bakar</p><p>Deli gönül yanıl yanıl dert çeker</p><p>Bir ucundan insan girer mark çıkar -sevdiğim</p><p>Ömrümüzü fabrikaya yatırdık -hey</p><p>Bir adımız Alamanya beyleri</p><p>Bir adımız Anadolu'ya varır</p><p>Döner şeritlere dişli çark olduk</p><p>Daha bırakmadan karasabanı -efendim</p><p>Yağmur olsam kirpiklerin ıslanır</p><p>Saçını okşasam elim paslanır</p><p>Dar günümde usul usul seslenir</p><p>Almanı da deli gönül Almanı -efendim</p><p>(Yazılır elbet bir gün destanı)</p>",
+  "sozler_duz": "Zara'dan düştük te tozlu yollara\n\nSüre süre bu ellere getirdik\n\nBen feleği yere çaldım sanırdım -sevdiğim\n\nKör talihi kambur gibi getirdik -hey\n\nKahpe felek bize etti oyunu\n\nBen içmezdim buraların suyunu\n\nYetmiş iki millet soyunu -sevdiğim\n\nİşçi deyip bir hesaba yazdırdık -hey\n\nGözlerim sılanın yoluna bakar\n\nDeli gönül yanıl yanıl dert çeker\n\nBir ucundan insan girer mark çıkar -sevdiğim\n\nÖmrümüzü fabrikaya yatırdık -hey\n\nBir adımız Alamanya beyleri\n\nBir adımız Anadolu'ya varır\n\nDöner şeritlere dişli çark olduk\n\nDaha bırakmadan karasabanı -efendim\n\nYağmur olsam kirpiklerin ıslanır\n\nSaçını okşasam elim paslanır\n\nDar günümde usul usul seslenir\n\nAlmanı da deli gönül Almanı -efendim\n\n(Yazılır elbet bir gün destanı)",
   "meta": {
-    "yore": "?               Y: Zülfü Livaneli",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?               Y: Zülfü Livaneli",
-    "aciklama": ""
+    "soz": "Yağmur Atsız",
+    "muzik": "Zülfü Livaneli"
   },
   "sistem": {
     "eski_id": 534,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T20:26:50.946Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
