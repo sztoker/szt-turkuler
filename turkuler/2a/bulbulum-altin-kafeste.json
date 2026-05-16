@@ -1,26 +1,17 @@
 {
   "id": "bulbulum-altin-kafeste",
-  "baslik": "Bülbülüm Altın Kafeste_",
-  "sozler_html": "<p>Bülbülüm Altın KafesteÖter Aheste AhesteÖtme Bülbül Yarim HastaAh Neyleyım Su GönlümeHasret Kaldım SevdiğimeBen Sana DayanamamYarim Ben Sana AldanamamBen Sana DayanamamYarim Ben Sana KatlanamamBülbüllerı Har AğlatırAsıkları Yar AğlatırBen Felege NeylemişimBenı Her Bahar AğlatırBen Sana DayanamamYarim Ben Sana AldanamamBen Sana DayanamamYarim Ben Sana Katlanamam</p>",
-  "sozler_duz": "Bülbülüm Altın KafesteÖter Aheste AhesteÖtme Bülbül Yarim HastaAh Neyleyım Su GönlümeHasret Kaldım SevdiğimeBen Sana DayanamamYarim Ben Sana AldanamamBen Sana DayanamamYarim Ben Sana KatlanamamBülbüllerı Har AğlatırAsıkları Yar AğlatırBen Felege NeylemişimBenı Her Bahar AğlatırBen Sana DayanamamYarim Ben Sana AldanamamBen Sana DayanamamYarim Ben Sana Katlanamam",
+  "baslik": "BÜLBÜLÜM ALTIN KAFESTE",
+  "sozler_html": "<p>Bülbülüm\naltın kafeste</p><p>Öter aheste aheste</p><p>Ötme bülbül yarim hasta</p><p>Ah neyleyim su gönlüme</p><p>Hasret kaldım sevdiğime</p><p>&nbsp;</p><p><b>Ben sana\ndayanamam yarim&nbsp;</b></p><p><b>Ben sana\naldanamam</b></p><p><b>Ben sana\ndayanamam yarim&nbsp;</b></p><p><b>Ben sana\nkatlanamam</b></p><p>&nbsp;</p><p>Bülbülleri har ağlatır</p><p>Aşıkları yar ağlatır</p><p>Ben feleğe neylemişim</p><p>Beni her bahar ağlatır -2</p><p><br></p><p>Ben sana dayanamam...</p>",
+  "sozler_duz": "Bülbülüm altın kafeste\n\nÖter aheste aheste\n\nÖtme bülbül yarim hasta\n\nAh neyleyim su gönlüme\n\nHasret kaldım sevdiğime\n\n \n\nBen sana dayanamam yarim \n\nBen sana aldanamam\n\nBen sana dayanamam yarim \n\nBen sana katlanamam\n\n \n\nBülbülleri har ağlatır\n\nAşıkları yar ağlatır\n\nBen feleğe neylemişim\n\nBeni her bahar ağlatır -2\n\nBen sana dayanamam...",
   "meta": {
     "yore": "Rumeli",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ali Şevket Öndesev-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Ali Şevket Öndesev"
   },
   "sistem": {
     "eski_id": 3627,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T18:57:37.561Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
