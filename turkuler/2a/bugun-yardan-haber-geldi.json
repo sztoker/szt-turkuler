@@ -1,26 +1,16 @@
 {
   "id": "bugun-yardan-haber-geldi",
   "baslik": "Bugün Yardan Haber Geldi_",
-  "sozler_html": "<p>Bugün Yardan Haber GeldiBir Bi Yandan Bir Bi YandanEğildim Bir Buse AldımBir Bi Yandan Bir Bi YandanGüzel Olanı SeverlerYanağından Gül DererlerKulakta Mengüş KüpelerBir Bi Yandan Bir Bi YandanBaş Koydum Yarin DizineUykular Girmez GözümeAğ Ellerin Sür YüzümeBir Bi Yandan Bir Bi YandanŞekerden Şerbet Ezerlerİnce Tülbende SüzerlerDört Yanım Almış GüzellerBir Bi Yandan Bir Bi YandanPir Sultan'ım* Gel YanımaSeni Sarayım CanımaDola Kolların BoynumaBir Bi Yandan Bir Bi Yandan*Bu Türkünün Mahlası Bazı Kaynaklarda Karac'oğlan OlarakGeçmektedir</p>",
-  "sozler_duz": "Bugün Yardan Haber GeldiBir Bi Yandan Bir Bi YandanEğildim Bir Buse AldımBir Bi Yandan Bir Bi YandanGüzel Olanı SeverlerYanağından Gül DererlerKulakta Mengüş KüpelerBir Bi Yandan Bir Bi YandanBaş Koydum Yarin DizineUykular Girmez GözümeAğ Ellerin Sür YüzümeBir Bi Yandan Bir Bi YandanŞekerden Şerbet Ezerlerİnce Tülbende SüzerlerDört Yanım Almış GüzellerBir Bi Yandan Bir Bi YandanPir Sultan'ım* Gel YanımaSeni Sarayım CanımaDola Kolların BoynumaBir Bi Yandan Bir Bi Yandan*Bu Türkünün Mahlası Bazı Kaynaklarda Karac'oğlan OlarakGeçmektedir",
+  "sozler_html": "<p>Bugün Yardan Haber Geldi</p><p>Bir Bi Yandan Bir Bi Yandan</p><p>Eğildim Bir Buse Aldım</p><p>Bir Bi Yandan Bir Bi Yandan</p><p><br></p><p>Güzel Olanı Severler</p><p>Yanağından Gül Dererler</p><p>Kulakta Mengüş Küpeler</p><p>Bir Bi Yandan Bir Bi Yandan</p><p><br></p><p>Baş Koydum Yarin Dizine</p><p>Uykular Girmez Gözüme</p><p>Ağ Ellerin Sür Yüzüme</p><p>Bir Bi Yandan Bir Bi Yandan</p><p><br></p><p>Şekerden Şerbet Ezerler</p><p>İnce Tülbende Süzerler</p><p>Dört Yanım Almış Güzeller</p><p>Bir Bi Yandan Bir Bi Yandan</p><p><br></p><p>Pir Sultan'ım* Gel Yanıma</p><p>Seni Sarayım Canıma</p><p>Dola Kolların Boynuma</p><p>Bir Bi Yandan Bir Bi Yandan</p><p><br></p><p><i>*Bu Türkünün Mahlası Bazı Kaynaklarda Karac'oğlan OlarakGeçmektedir</i></p>",
+  "sozler_duz": "Bugün Yardan Haber Geldi\n\nBir Bi Yandan Bir Bi Yandan\n\nEğildim Bir Buse Aldım\n\nBir Bi Yandan Bir Bi Yandan\n\nGüzel Olanı Severler\n\nYanağından Gül Dererler\n\nKulakta Mengüş Küpeler\n\nBir Bi Yandan Bir Bi Yandan\n\nBaş Koydum Yarin Dizine\n\nUykular Girmez Gözüme\n\nAğ Ellerin Sür Yüzüme\n\nBir Bi Yandan Bir Bi Yandan\n\nŞekerden Şerbet Ezerler\n\nİnce Tülbende Süzerler\n\nDört Yanım Almış Güzeller\n\nBir Bi Yandan Bir Bi Yandan\n\nPir Sultan'ım* Gel Yanıma\n\nSeni Sarayım Canıma\n\nDola Kolların Boynuma\n\nBir Bi Yandan Bir Bi Yandan\n\n*Bu Türkünün Mahlası Bazı Kaynaklarda Karac'oğlan OlarakGeçmektedir",
   "meta": {
     "yore": "Malatya/Arapkir",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Süleyman Elver-TRT İst. Rad. THM M",
-    "aciklama": ""
+    "kaynak_kisi": "Süleyman Elver"
   },
   "sistem": {
     "eski_id": 3607,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:01:38.512Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
