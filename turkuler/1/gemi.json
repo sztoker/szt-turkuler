@@ -1,10 +1,13 @@
 {
   "id": "gemi",
   "baslik": "GEMİ",
-  "sozler_html": "<p>Ah, küçücük gemi, sulara attın şimdi kendini, delisin<br>Ah, yakarlar seni, dönmezsin bir daha geri, delisin<br>Ah, peşimde rüzgâr, ne yağmurlar dost ne bir kıyı var, deliyim<br>Ah, düşlerim kaldı, yalnızım, düşlerim kaldı, deliyim<br><br>Kime sorsam dönüşüm yok, nereye gitsem mavi<br>Yelkenimde deli rüzgâr, her yanım tuz, deliyim<br><br>Ah, yaralı kalbin, yanıp gidecek yaralı kalbin, delisin<br>Ah, küçücük gemi, dönmezsin bir daha geri, delisin<br>Ah, deniz olayım, tuzumu rüzgârda savurayım, deliyim<br>Ah, ne yelken ne yel, köpüklerde kaybolayım, deliyim<br><br>Kime sorsam dönüşüm yok, her gemi biraz deniz<br>Her yanım mavi, her yanım yel, her yanım tuz.</p>",
+  "sozler_html": "<p>Ah, küçücük gemi, sulara attın şimdi kendini, delisin<br>Ah, yakarlar seni, dönmezsin bir daha geri, delisin<br>Ah, peşimde rüzgâr, ne yağmurlar dost ne bir kıyı var, deliyim<br>Ah, düşlerim kaldı, yalnızım, düşlerim kaldı, deliyim<br><br><b>Kime sorsam dönüşüm yok, nereye gitsem mavi<br>Yelkenimde deli rüzgâr, her yanım tuz, deliyim</b><br><br>Ah, yaralı kalbin, yanıp gidecek yaralı kalbin, delisin<br>Ah, küçücük gemi, dönmezsin bir daha geri, delisin<br>Ah, deniz olayım, tuzumu rüzgârda savurayım, deliyim<br>Ah, ne yelken ne yel, köpüklerde kaybolayım, deliyim<br><br><b>Kime sorsam dönüşüm yok, her gemi biraz deniz<br>Her yanım mavi, her yanım yel, her yanım tuz.</b></p>",
   "sozler_duz": "Ah, küçücük gemi, sulara attın şimdi kendini, delisin\nAh, yakarlar seni, dönmezsin bir daha geri, delisin\nAh, peşimde rüzgâr, ne yağmurlar dost ne bir kıyı var, deliyim\nAh, düşlerim kaldı, yalnızım, düşlerim kaldı, deliyim\n\nKime sorsam dönüşüm yok, nereye gitsem mavi\nYelkenimde deli rüzgâr, her yanım tuz, deliyim\n\nAh, yaralı kalbin, yanıp gidecek yaralı kalbin, delisin\nAh, küçücük gemi, dönmezsin bir daha geri, delisin\nAh, deniz olayım, tuzumu rüzgârda savurayım, deliyim\nAh, ne yelken ne yel, köpüklerde kaybolayım, deliyim\n\nKime sorsam dönüşüm yok, her gemi biraz deniz\nHer yanım mavi, her yanım yel, her yanım tuz.",
-  "meta": {},
+  "meta": {
+    "soz": "Hüsnü ARKAN",
+    "muzik": "Hüsnü ARKAN"
+  },
   "sistem": {
-    "son_degisiklik": "2026-05-16T10:37:58.446Z"
+    "son_degisiklik": "2026-05-16T10:38:57.720Z"
   }
 }
