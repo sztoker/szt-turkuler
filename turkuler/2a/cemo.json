@@ -1,26 +1,15 @@
 {
   "id": "cemo",
   "baslik": "CEMO",
-  "sozler_html": "<p>Dağların yücesinde ateş yanarOturmuşlar başına sevdalılarGün gelir kahpe savrulur / Cemo ovaya inende (2Yar yar – yar yar (2Alnında yıldızlı bere / Elinde mavzeriyleÇıkıp Dersim dağlarında türkü söylemek var ya (...2Oy Cemo – Cemo can (4 Savrulur ovaya inen bulutlarKuşkusudur kopacak fırtınanınO büyük günün görkeminde / Çocuklar halaya duracakYar yar ...</p>",
-  "sozler_duz": "Dağların yücesinde ateş yanarOturmuşlar başına sevdalılarGün gelir kahpe savrulur / Cemo ovaya inende (2Yar yar – yar yar (2Alnında yıldızlı bere / Elinde mavzeriyleÇıkıp Dersim dağlarında türkü söylemek var ya (...2Oy Cemo – Cemo can (4 Savrulur ovaya inen bulutlarKuşkusudur kopacak fırtınanınO büyük günün görkeminde / Çocuklar halaya duracakYar yar ...",
+  "sozler_html": "<p>Dağların yücesinde ateş yanar</p><p>Oturmuşlar başına sevdalılar</p><p>Gün gelir kahpe savrulur&nbsp;</p><p>Cemo ovaya inende (2</p><p><br></p><p><b>Yar yar – yar yar (2</b></p><p><b>Alnında yıldızlı bere&nbsp;</b></p><p><b>Elinde mavzeriyle</b></p><p><b>Çıkıp Dersim dağlarında&nbsp;</b></p><p><b>Türkü söylemek var ya (...2</b></p><p><b>Oy Cemo – Cemo can (4&nbsp;</b></p><p><br></p><p>Savrulur ovaya inen bulutlar</p><p>Kuşkusudur kopacak fırtınanın</p><p>O büyük günün görkeminde&nbsp;</p><p>Çocuklar halaya duracak</p><p><br></p><p><b>Yar yar ...</b></p>",
+  "sozler_duz": "Dağların yücesinde ateş yanar\n\nOturmuşlar başına sevdalılar\n\nGün gelir kahpe savrulur \n\nCemo ovaya inende (2\n\nYar yar – yar yar (2\n\nAlnında yıldızlı bere \n\nElinde mavzeriyle\n\nÇıkıp Dersim dağlarında \n\nTürkü söylemek var ya (...2\n\nOy Cemo – Cemo can (4 \n\nSavrulur ovaya inen bulutlar\n\nKuşkusudur kopacak fırtınanın\n\nO büyük günün görkeminde \n\nÇocuklar halaya duracak\n\nYar yar ...",
   "meta": {
-    "yore": "Y: Grup Yorum",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Y: Grup Yorum",
-    "aciklama": ""
+    "soyleyenler": "Grup Yorum"
   },
   "sistem": {
     "eski_id": 599,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T14:44:12.827Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
