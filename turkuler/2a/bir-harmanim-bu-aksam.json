@@ -1,26 +1,16 @@
 {
   "id": "bir-harmanim-bu-aksam",
   "baslik": "BİR HARMANIM BU AKŞAM",
-  "sozler_html": "<p>Sorum yok soranım yok * yolum yok yordamım yokBir çıkmaz sevdadayım * çekip vuranım yokGünüm yok güneşim yok * uykum yok düşlerim yokKım olmuş susuyorum * bir tek sırdaşım yokÇektiğim acıların demindeyim bu akşamPişman desen değilim bir harmanım bu akşamHer gecenin sabahı * her kışın bir baharıHer şeyin bir zamanı * benim dermanım yok</p>",
-  "sozler_duz": "Sorum yok soranım yok * yolum yok yordamım yokBir çıkmaz sevdadayım * çekip vuranım yokGünüm yok güneşim yok * uykum yok düşlerim yokKım olmuş susuyorum * bir tek sırdaşım yokÇektiğim acıların demindeyim bu akşamPişman desen değilim bir harmanım bu akşamHer gecenin sabahı * her kışın bir baharıHer şeyin bir zamanı * benim dermanım yok",
+  "sozler_html": "<p>Sorum yok soranım yok&nbsp;</p><p>Yolum yok yordamım yok</p><p>Bir çıkmaz sevdadayım&nbsp;</p><p>Çekip vuranım yok</p><p><br></p><p>Günüm yok güneşim yok&nbsp;</p><p>Uykum yok düşlerim yok</p><p>Kım olmuş susuyorum&nbsp;</p><p>Bir tek sırdaşım yok</p><p><br></p><p>Çektiğim acıların&nbsp;</p><p>Demindeyim bu akşam</p><p>Pişman desen değilim&nbsp;</p><p>Bir harmanım bu akşam</p><p><br></p><p>Her gecenin sabahı&nbsp;</p><p>Her kışın bir baharı</p><p>Her şeyin bir zamanı&nbsp;</p><p>Benim dermanım yok</p>",
+  "sozler_duz": "Sorum yok soranım yok \n\nYolum yok yordamım yok\n\nBir çıkmaz sevdadayım \n\nÇekip vuranım yok\n\nGünüm yok güneşim yok \n\nUykum yok düşlerim yok\n\nKım olmuş susuyorum \n\nBir tek sırdaşım yok\n\nÇektiğim acıların \n\nDemindeyim bu akşam\n\nPişman desen değilim \n\nBir harmanım bu akşam\n\nHer gecenin sabahı \n\nHer kışın bir baharı\n\nHer şeyin bir zamanı \n\nBenim dermanım yok",
   "meta": {
-    "yore": "Fikret Kızılok",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Fikret Kızılok",
-    "aciklama": ""
+    "soz": "Fikret Kızılok",
+    "muzik": "Fikret Kızılok"
   },
   "sistem": {
     "eski_id": 543,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T20:06:08.874Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
