@@ -1,26 +1,17 @@
 {
   "id": "bu-gece-uymamisim",
-  "baslik": "Bu Gece Uymamışım_",
-  "sozler_html": "<p>Bu Gece UymamışımUykuma DoymamışamKirpik Seni Keserim (De)Yar Gelmiş DuymamışımO Yana Dönder BeniBu Yana Dönder BeniSol Yanımda Yarem Var DaSağ Yana Dönder BeniAğam O Yar ElindenPaşam O Yar ElindenNasıl Edem Nerelere GitsemŞu Zalımın ElindenArıstakta ÖrümcekAklım Aldın GörüncekBir Dahi Yar Sevmem (De)Aslına ErmeyincekO Yana Dönder BeniBu Yana Dönder BeniSol Yanımda Yarem Var DaSağ Yana Dönder BeniAğam O Yar ElindenPaşam O Yar ElindenNasıl Edem Nerelere GitsemŞu Zalımın Elinden</p>",
-  "sozler_duz": "Bu Gece UymamışımUykuma DoymamışamKirpik Seni Keserim (De)Yar Gelmiş DuymamışımO Yana Dönder BeniBu Yana Dönder BeniSol Yanımda Yarem Var DaSağ Yana Dönder BeniAğam O Yar ElindenPaşam O Yar ElindenNasıl Edem Nerelere GitsemŞu Zalımın ElindenArıstakta ÖrümcekAklım Aldın GörüncekBir Dahi Yar Sevmem (De)Aslına ErmeyincekO Yana Dönder BeniBu Yana Dönder BeniSol Yanımda Yarem Var DaSağ Yana Dönder BeniAğam O Yar ElindenPaşam O Yar ElindenNasıl Edem Nerelere GitsemŞu Zalımın Elinden",
+  "baslik": "Bu Gece Uymamışım",
+  "sozler_html": "<p>Bu Gece Uymamışım</p><p>Uykuma Doymamışam</p><p>Kirpik Seni Keserim (De)</p><p>Yar Gelmiş Duymamışım</p><p><br></p><p><b>O Yana Dönder Beni</b></p><p><b>Bu Yana Dönder Beni</b></p><p><b>Sol Yanımda Yarem Var Da</b></p><p><b>Sağ Yana Dönder Beni</b></p><p><b><br></b></p><p><b>Ağam O Yar Elinden</b></p><p><b>Paşam O Yar Elinden</b></p><p><b>Nasıl Edem Nerelere Gitsem</b></p><p><b>Şu Zalımın Elinden</b></p><p><br></p><p>Arıstakta Örümcek</p><p>Aklım Aldın Görüncek</p><p>Bir Dahi Yar Sevmem (De)</p><p>Aslına Ermeyincek</p><p><br></p><p>O Yana Dönder...</p>",
+  "sozler_duz": "Bu Gece Uymamışım\n\nUykuma Doymamışam\n\nKirpik Seni Keserim (De)\n\nYar Gelmiş Duymamışım\n\nO Yana Dönder Beni\n\nBu Yana Dönder Beni\n\nSol Yanımda Yarem Var Da\n\nSağ Yana Dönder Beni\n\nAğam O Yar Elinden\n\nPaşam O Yar Elinden\n\nNasıl Edem Nerelere Gitsem\n\nŞu Zalımın Elinden\n\nArıstakta Örümcek\n\nAklım Aldın Görüncek\n\nBir Dahi Yar Sevmem (De)\n\nAslına Ermeyincek\n\nO Yana Dönder...",
   "meta": {
     "yore": "Ankara",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Mucip Arcıman-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Mucip Arcıman"
   },
   "sistem": {
     "eski_id": 3580,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:27:29.061Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
