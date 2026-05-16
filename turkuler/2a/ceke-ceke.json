@@ -1,26 +1,13 @@
 {
   "id": "ceke-ceke",
-  "baslik": "Çeke Çeke_",
-  "sozler_html": "<p>Çeke Çeke Ben Bu Dertten ÖlürümSeversen Ali’yi Değme YaramaAli’nin Yoluna Serim VeririmSeversen Ali’yi Değme YaramaBu Yurt Senin Değil Konar GöçersinKörpe Kuzulardan Nasıl GeçersinAli’nin Dolusun Bir Gün İçersinSeversen Ali’yi Değme YaramaIlgıt Ilgıt Oldu Akıyor KanımPir Yoluna Kurban Verilir SerimBenim Derdim Bana Yeter EfendimSeversen Ali’yi Değme YaramaAbdal Pir Sultanım Deftere YazarHilebaz Yar ile Olur Mu PazarPir Melhem Çalmazsa Yaralar AzarSeversen Ali’yi Değme Yarama</p>",
-  "sozler_duz": "Çeke Çeke Ben Bu Dertten ÖlürümSeversen Ali’yi Değme YaramaAli’nin Yoluna Serim VeririmSeversen Ali’yi Değme YaramaBu Yurt Senin Değil Konar GöçersinKörpe Kuzulardan Nasıl GeçersinAli’nin Dolusun Bir Gün İçersinSeversen Ali’yi Değme YaramaIlgıt Ilgıt Oldu Akıyor KanımPir Yoluna Kurban Verilir SerimBenim Derdim Bana Yeter EfendimSeversen Ali’yi Değme YaramaAbdal Pir Sultanım Deftere YazarHilebaz Yar ile Olur Mu PazarPir Melhem Çalmazsa Yaralar AzarSeversen Ali’yi Değme Yarama",
-  "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
-  },
+  "baslik": "ÇEKE ÇEKE",
+  "sozler_html": "<p>Çeke\nçeke ben bu dertten ölürüm</p><p>Seversen ali’yi değme yarama</p><p>Ali’nin yoluna serim veririm</p><p>Seversen ali’yi değme yarama</p><p>&nbsp;</p><p>Bu yurt senin değil konar göçersin</p><p>Körpe kuzulardan nasıl geçersin</p><p>Ali’nin dolusun bir gün içersin</p><p>Seversen ali’yi değme yarama</p><p>&nbsp;</p><p>Ilgıt ılgıt oldu akıyor kanım</p><p>Pir yoluna kurban verilir serim</p><p>Benim derdim bana yeter efendim</p><p>Seversen ali’yi değme yarama</p><p>&nbsp;</p><p>Abdal pir sultanım deftere yazar</p><p>Hilebaz yar ile olur mu pazar</p><p>Pir melhem çalmazsa yaralar azar</p><p>Seversen ali’yi değme yarama</p>",
+  "sozler_duz": "Çeke çeke ben bu dertten ölürüm\n\nSeversen ali’yi değme yarama\n\nAli’nin yoluna serim veririm\n\nSeversen ali’yi değme yarama\n\n \n\nBu yurt senin değil konar göçersin\n\nKörpe kuzulardan nasıl geçersin\n\nAli’nin dolusun bir gün içersin\n\nSeversen ali’yi değme yarama\n\n \n\nIlgıt ılgıt oldu akıyor kanım\n\nPir yoluna kurban verilir serim\n\nBenim derdim bana yeter efendim\n\nSeversen ali’yi değme yarama\n\n \n\nAbdal pir sultanım deftere yazar\n\nHilebaz yar ile olur mu pazar\n\nPir melhem çalmazsa yaralar azar\n\nSeversen ali’yi değme yarama",
+  "meta": {},
   "sistem": {
     "eski_id": 3704,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T14:51:51.438Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
