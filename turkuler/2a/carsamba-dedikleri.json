@@ -1,26 +1,15 @@
 {
   "id": "carsamba-dedikleri",
   "baslik": "ÇARŞAMBA DEDİKLERİ",
-  "sozler_html": "<p>Çarşamba dedikleri / Şekerdir yedikleriHiç aklımdan çıkmıyor / O yarin dedikleriTelgrafın tellerinin rengi kurşuniGenç yaşımda atma bana mavzer kurşunuÇarşamba’nın ortasından akıyor ırmakHer yiğidin karı değil sözünde durmakÇarşamba yazıları / Körpedir kuzularıAllah alnıma yazmış / Bu kara yazılarıTelgrafın tellerinin rengi kurşuniGenç yaşımda atma bana mavzer kurşunuBen Samsun’a gidemiyom kar olmayıncaSamsun bana haram olsun yar olmayınca</p>",
-  "sozler_duz": "Çarşamba dedikleri / Şekerdir yedikleriHiç aklımdan çıkmıyor / O yarin dedikleriTelgrafın tellerinin rengi kurşuniGenç yaşımda atma bana mavzer kurşunuÇarşamba’nın ortasından akıyor ırmakHer yiğidin karı değil sözünde durmakÇarşamba yazıları / Körpedir kuzularıAllah alnıma yazmış / Bu kara yazılarıTelgrafın tellerinin rengi kurşuniGenç yaşımda atma bana mavzer kurşunuBen Samsun’a gidemiyom kar olmayıncaSamsun bana haram olsun yar olmayınca",
+  "sozler_html": "<p>Çarşamba dedikleri / Şekerdir yedikleri</p><p>Hiç aklımdan çıkmıyor / O yarin dedikleri</p><p><br></p><p>Telgrafın tellerinin rengi kurşuni</p><p>Genç yaşımda atma bana mavzer kurşunu</p><p><br></p><p>Çarşamba’nın ortasından akıyor ırmak</p><p>Her yiğidin karı değil sözünde durmak</p><p><br></p><p>Çarşamba yazıları / Körpedir kuzuları</p><p>Allah alnıma yazmış / Bu kara yazıları</p><p><br></p><p>Telgrafın tellerinin rengi kurşuni</p><p>Genç yaşımda atma bana mavzer kurşunu</p><p><br></p><p>Ben Samsun’a gidemiyom kar olmayınca</p><p>Samsun bana haram olsun yar olmayınca</p>",
+  "sozler_duz": "Çarşamba dedikleri / Şekerdir yedikleri\n\nHiç aklımdan çıkmıyor / O yarin dedikleri\n\nTelgrafın tellerinin rengi kurşuni\n\nGenç yaşımda atma bana mavzer kurşunu\n\nÇarşamba’nın ortasından akıyor ırmak\n\nHer yiğidin karı değil sözünde durmak\n\nÇarşamba yazıları / Körpedir kuzuları\n\nAllah alnıma yazmış / Bu kara yazıları\n\nTelgrafın tellerinin rengi kurşuni\n\nGenç yaşımda atma bana mavzer kurşunu\n\nBen Samsun’a gidemiyom kar olmayınca\n\nSamsun bana haram olsun yar olmayınca",
   "meta": {
-    "yore": "SAMSUN",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "SAMSUN",
-    "aciklama": ""
+    "yore": "SAMSUN"
   },
   "sistem": {
     "eski_id": 612,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T15:02:06.685Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
