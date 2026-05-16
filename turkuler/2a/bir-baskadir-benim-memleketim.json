@@ -1,26 +1,18 @@
 {
   "id": "bir-baskadir-benim-memleketim",
   "baslik": "BİR BAŞKADIR BENİM MEMLEKETİM",
-  "sozler_html": "<p>Havasına suyuna * taşına toprağınaBin can feda benim yurdumaAnadolu bir yanda * yiğit Yaşar koynundaAşıklar destan yazar dağlardaKuzusuna kurduna * Yunus’una Emrah’aBütün alem kurban benim yurdumaMecnun’a Leyla’sına * erişilmez sırrınaSen dost ararsan koş Mevlana’yaYeniden doğdum dersin * derya olur gidersinBir başkadır benim memleketimGözü pek yanık bağrı * türkü söyler çobanıZengin fakir hepsi de sevdalıBen gönlümü eğlerim * gerisi allah kerimBir başkadır benim memleketim</p>",
-  "sozler_duz": "Havasına suyuna * taşına toprağınaBin can feda benim yurdumaAnadolu bir yanda * yiğit Yaşar koynundaAşıklar destan yazar dağlardaKuzusuna kurduna * Yunus’una Emrah’aBütün alem kurban benim yurdumaMecnun’a Leyla’sına * erişilmez sırrınaSen dost ararsan koş Mevlana’yaYeniden doğdum dersin * derya olur gidersinBir başkadır benim memleketimGözü pek yanık bağrı * türkü söyler çobanıZengin fakir hepsi de sevdalıBen gönlümü eğlerim * gerisi allah kerimBir başkadır benim memleketim",
+  "sozler_html": "<p>Havasına suyuna * taşına toprağına</p><p>Bin can feda benim yurduma</p><p>Anadolu bir yanda * yiğit Yaşar koynunda</p><p>Aşıklar destan yazar dağlarda</p><p><br></p><p>Kuzusuna kurduna * Yunus’una Emrah’a</p><p>Bütün alem kurban benim yurduma</p><p>Mecnun’a Leyla’sına * erişilmez sırrına</p><p>Sen dost ararsan koş Mevlana’ya</p><p><br></p><p>Yeniden doğdum dersin * derya olur gidersin</p><p>Bir başkadır benim memleketim</p><p>Gözü pek yanık bağrı * türkü söyler çobanı</p><p>Zengin fakir hepsi de sevdalı</p><p><br></p><p>Ben gönlümü eğlerim * gerisi allah kerim</p><p>Bir başkadır benim memleketim</p>",
+  "sozler_duz": "Havasına suyuna * taşına toprağına\n\nBin can feda benim yurduma\n\nAnadolu bir yanda * yiğit Yaşar koynunda\n\nAşıklar destan yazar dağlarda\n\nKuzusuna kurduna * Yunus’una Emrah’a\n\nBütün alem kurban benim yurduma\n\nMecnun’a Leyla’sına * erişilmez sırrına\n\nSen dost ararsan koş Mevlana’ya\n\nYeniden doğdum dersin * derya olur gidersin\n\nBir başkadır benim memleketim\n\nGözü pek yanık bağrı * türkü söyler çobanı\n\nZengin fakir hepsi de sevdalı\n\nBen gönlümü eğlerim * gerisi allah kerim\n\nBir başkadır benim memleketim",
   "meta": {
-    "yore": "Y:",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Y:",
-    "aciklama": ""
+    "soz": "Fikret Şeneş",
+    "muzik": "Yahudi halk ezgisi",
+    "soyleyenler": "Ayten Alpman",
+    "aciklama": "Ayten Alpman ile özdeşleşen \"Memleketim\" şarkısının orijinali, 1935 yılında Moşe Nadir tarafından yazılan Yidiş (Yahudi) dilindeki \"Rabbi Elimelekh\" (Arz Der Rebe Elimelech) adlı geleneksel bir Yahudi halk şarkısıdır."
   },
   "sistem": {
     "eski_id": 536,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T20:21:49.621Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
