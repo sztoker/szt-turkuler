@@ -1,7 +1,7 @@
 {
   "id": "baglamam-var-uc-telli",
   "baslik": "BAĞLAMAM VAR ÜÇ TELLİ",
-  "sozler_html": "<p>Bağlamam var üç telli <i>imanım</i></p>\n<p>Borcum var beşyüzelli</p>\n<p>Gitti de yörük kızı gelmedi<i> imanım</i></p>\n<p>Kocaya da vardı besbelli</p>\n<p class=\"bos\"></p>\n<p><b>Ammanın imanım şalvar malvarlım</b></p>\n<p><b>Yörük kızın allahına yalvarın</b></p>\n<p class=\"bos\"></p>\n<p>Kesik başı kestane <i>imanım</i></p>\n<p>Gölgesi düştü üstüme</p>\n<p>Kalkın da gidelim baskına <i>imanım</i></p>\n<p>Yörüğün de kızının üstüne</p><p><br></p><p>Ammanın imanım...</p>",
+  "sozler_html": "<p>Bağlamam var üç telli <i>imanım</i></p>\n<p>Borcum var beşyüzelli</p>\n<p>Gitti de yörük kızı gelmedi<i> imanım</i></p>\n<p>Kocaya da vardı besbelli</p>\n<p class=\"bos\"></p>\n<p><b>Ammanın imanım şalvar malvarlım</b></p>\n<p><b>Yörük kızın allahına yalvarın</b></p>\n<p class=\"bos\"></p>\n<p>Kesik başı kestane <i>imanım</i></p>\n<p>Gölgesi düştü üstüme</p>\n<p>Kalkın da gidelim baskına <i>imanım</i></p>\n<p>Yörüğün de kızının üstüne</p><p><br></p><p><b>Ammanın imanım...</b></p>",
   "sozler_duz": "Bağlamam var üç telli imanım\n\nBorcum var beşyüzelli\n\nGitti de yörük kızı gelmedi imanım\n\nKocaya da vardı besbelli\n\nAmmanın imanım şalvar malvarlım\n\nYörük kızın allahına yalvarın\n\nKesik başı kestane imanım\n\nGölgesi düştü üstüme\n\nKalkın da gidelim baskına imanım\n\nYörüğün de kızının üstüne\n\nAmmanın imanım...",
   "meta": {
     "yore": "Muğla",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 3441,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T15:15:53.226Z",
+    "son_degisiklik": "2026-05-16T12:40:40.229Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
