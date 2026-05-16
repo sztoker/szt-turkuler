@@ -1,26 +1,17 @@
 {
   "id": "bu-yarayi-dosttan-aldim-aldim-ezeli",
-  "baslik": "Bu Yarayı Dosttan Aldım Aldım Ezeli_",
-  "sozler_html": "<p>Bu Yarayı Dosttan (Dosttan) Aldım EzeliEser Şu Bağrıma Yel Dertli DertliO Dost Benden Ayrı (Ayrı) Gezdi GezeliAkar Gözlerimden Sel Dertli DertliDüşkün İken Dost Bağına GirilmezYalan İle Hakka (Hakka) İkrar VerilmezKamil Olmayınca (Hey Dost) Menzil GörünmezKör Cahil Elinden Kul Dertli DertliBir Garibim Böyle (Böyle) Çamurlu YoldaDöküldü Yaprağım Kalmadı DaldaDerman Bulunur Mu (Canım) Biçare KuldaHalını Söyleyen Dil Dertli Dertli</p>",
-  "sozler_duz": "Bu Yarayı Dosttan (Dosttan) Aldım EzeliEser Şu Bağrıma Yel Dertli DertliO Dost Benden Ayrı (Ayrı) Gezdi GezeliAkar Gözlerimden Sel Dertli DertliDüşkün İken Dost Bağına GirilmezYalan İle Hakka (Hakka) İkrar VerilmezKamil Olmayınca (Hey Dost) Menzil GörünmezKör Cahil Elinden Kul Dertli DertliBir Garibim Böyle (Böyle) Çamurlu YoldaDöküldü Yaprağım Kalmadı DaldaDerman Bulunur Mu (Canım) Biçare KuldaHalını Söyleyen Dil Dertli Dertli",
+  "baslik": "Bu Yarayı Dosttan Aldım Aldım Ezeli",
+  "sozler_html": "<p>Bu\nyarayı dosttan (dosttan) aldım ezeli</p><p>Eser şu bağrıma yel dertli dertli</p><p>O dost benden ayrı (ayrı) gezdi gezeli</p><p>Akar gözlerimden sel dertli dertli</p><p>&nbsp;</p><p>Düşkün iken dost bağına girilmez</p><p>Yalan ile hakka (hakka) ikrar verilmez</p><p>Kamil olmayınca (hey dost) menzil görünmez</p><p>Kör cahil elinden kul dertli dertli</p><p>&nbsp;</p><p>Bir garibim böyle (böyle) çamurlu yolda</p><p>Döküldü yaprağım kalmadı dalda</p><p>Derman bulunur mu (canım) biçare kulda</p><p>Halını söyleyen dil dertli dertli</p>",
+  "sozler_duz": "Bu yarayı dosttan (dosttan) aldım ezeli\n\nEser şu bağrıma yel dertli dertli\n\nO dost benden ayrı (ayrı) gezdi gezeli\n\nAkar gözlerimden sel dertli dertli\n\n \n\nDüşkün iken dost bağına girilmez\n\nYalan ile hakka (hakka) ikrar verilmez\n\nKamil olmayınca (hey dost) menzil görünmez\n\nKör cahil elinden kul dertli dertli\n\n \n\nBir garibim böyle (böyle) çamurlu yolda\n\nDöküldü yaprağım kalmadı dalda\n\nDerman bulunur mu (canım) biçare kulda\n\nHalını söyleyen dil dertli dertli",
   "meta": {
     "yore": "Sivas/Kangal",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Muhlis Akarsu-Yücel Paşmakçı",
-    "aciklama": ""
+    "derleyen": "Yücel Paşmakçı",
+    "kaynak_kisi": "Muhlis Akarsu"
   },
   "sistem": {
     "eski_id": 3591,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:11:12.485Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
