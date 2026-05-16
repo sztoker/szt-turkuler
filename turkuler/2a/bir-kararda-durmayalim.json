@@ -1,26 +1,15 @@
 {
   "id": "bir-kararda-durmayalim",
   "baslik": "BİR KARARDA DURMAYALIM",
-  "sozler_html": "<p>Bir kararda durmayalım / Gel gidelim dosta gönülHasretinden yanmayalım / Gel gidelim dosta gönül –oyKılavuz ol gönül bana / Gel gidelim dosttan yanaCanım kurbandır canana / Gel gidelim dosta gönül -oyKara haberin almadan / Can bedenden ayrılmadanAzrail bizi bulmadan / Gel gidelim ...Gerçek murada varalım / Yarin haberin soralımYunus Emre’yi analım / Gel gidelim ...</p>",
-  "sozler_duz": "Bir kararda durmayalım / Gel gidelim dosta gönülHasretinden yanmayalım / Gel gidelim dosta gönül –oyKılavuz ol gönül bana / Gel gidelim dosttan yanaCanım kurbandır canana / Gel gidelim dosta gönül -oyKara haberin almadan / Can bedenden ayrılmadanAzrail bizi bulmadan / Gel gidelim ...Gerçek murada varalım / Yarin haberin soralımYunus Emre’yi analım / Gel gidelim ...",
+  "sozler_html": "<p>Bir kararda durmayalım&nbsp;</p><p>Gel gidelim dosta gönül</p><p>Hasretinden yanmayalım&nbsp;</p><p>Gel gidelim dosta gönül –oy</p><p><br></p><p>Kılavuz ol gönül bana&nbsp;</p><p>Gel gidelim dosttan yana</p><p>Canım kurbandır canana&nbsp;</p><p>Gel gidelim dosta gönül -oy</p><p><br></p><p>Kara haberin almadan&nbsp;</p><p>Can bedenden ayrılmadan</p><p>Azrail bizi bulmadan&nbsp;</p><p>Gel gidelim dosta gönül -oy</p><p><br></p><p>Gerçek murada varalım&nbsp;</p><p>Yarin haberin soralım</p><p>Yunus Emre’yi analım&nbsp;</p><p>Gel gidelim dosta gönül -oy</p>",
+  "sozler_duz": "Bir kararda durmayalım \n\nGel gidelim dosta gönül\n\nHasretinden yanmayalım \n\nGel gidelim dosta gönül –oy\n\nKılavuz ol gönül bana \n\nGel gidelim dosttan yana\n\nCanım kurbandır canana \n\nGel gidelim dosta gönül -oy\n\nKara haberin almadan \n\nCan bedenden ayrılmadan\n\nAzrail bizi bulmadan \n\nGel gidelim dosta gönül -oy\n\nGerçek murada varalım \n\nYarin haberin soralım\n\nYunus Emre’yi analım \n\nGel gidelim dosta gönül -oy",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "Yunus Emre",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Yunus Emre"
   },
   "sistem": {
     "eski_id": 365,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T20:02:53.588Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
