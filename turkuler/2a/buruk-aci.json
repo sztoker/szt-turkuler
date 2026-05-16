@@ -1,26 +1,15 @@
 {
   "id": "buruk-aci",
   "baslik": "BURUK ACI",
-  "sozler_html": "<p>Gurbet içimde bir ok / Her şey bana yabancıHayat öyle bir han ki / Acı içinde hancıSevmek korkulu rüya yalnızlık büyük acıHangi kapıyı çalsam karşımda buruk acıYıllar yılı gönlümde bir gün sabah olmadıBu ne bitmez çileymiş neden hala dolmadı / Sevmek ...Ruhumda bir yara var için için kanıyorKalbimde buruk acı alev alev yanıyor / Sevmek ...</p>",
-  "sozler_duz": "Gurbet içimde bir ok / Her şey bana yabancıHayat öyle bir han ki / Acı içinde hancıSevmek korkulu rüya yalnızlık büyük acıHangi kapıyı çalsam karşımda buruk acıYıllar yılı gönlümde bir gün sabah olmadıBu ne bitmez çileymiş neden hala dolmadı / Sevmek ...Ruhumda bir yara var için için kanıyorKalbimde buruk acı alev alev yanıyor / Sevmek ...",
+  "sozler_html": "<p>Gurbet içimde bir ok&nbsp;</p><p>Her şey bana yabancı</p><p>Hayat öyle bir han ki&nbsp;</p><p>Acı içinde hancı</p><p><br></p><p><b>Sevmek korkulu rüya&nbsp;</b></p><p><b>Yalnızlık büyük acı</b></p><p><b>Hangi kapıyı çalsam&nbsp;</b></p><p><b>Karşımda buruk acı</b></p><p><br></p><p>Yıllar yılı gönlümde&nbsp;</p><p>Bir gün sabah olmadı</p><p>Bu ne bitmez çileymiş&nbsp;</p><p>Neden hala dolmadı&nbsp;</p><p><br></p><p><b>Sevmek korkulu...</b></p><p><br></p><p>Ruhumda bir yara var&nbsp;</p><p>İçin için kanıyor</p><p>Kalbimde buruk acı&nbsp;</p><p>Alev alev yanıyor&nbsp;</p><p><br></p><p><b>Sevmek korkulu...</b></p>",
+  "sozler_duz": "Gurbet içimde bir ok \n\nHer şey bana yabancı\n\nHayat öyle bir han ki \n\nAcı içinde hancı\n\nSevmek korkulu rüya \n\nYalnızlık büyük acı\n\nHangi kapıyı çalsam \n\nKarşımda buruk acı\n\nYıllar yılı gönlümde \n\nBir gün sabah olmadı\n\nBu ne bitmez çileymiş \n\nNeden hala dolmadı \n\nSevmek korkulu...\n\nRuhumda bir yara var \n\nİçin için kanıyor\n\nKalbimde buruk acı \n\nAlev alev yanıyor \n\nSevmek korkulu...",
   "meta": {
-    "yore": "Teoman Alpay                    Segah / Semai",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Teoman Alpay                    Segah / Semai",
-    "aciklama": ""
+    "muzik": "Teoman Alpay"
   },
   "sistem": {
     "eski_id": 590,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T18:42:31.820Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
