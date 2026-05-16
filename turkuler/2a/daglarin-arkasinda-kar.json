@@ -1,26 +1,15 @@
 {
   "id": "daglarin-arkasinda-kar",
   "baslik": "DAĞLARIN ARKASINDA KAR",
-  "sozler_html": "<p>Dağların arkasında kar / Önündeyse ayrılıklar     (2Umudum yok * dermanım yokArdımda bir bekleyenim yokGeceler uzun * gündüzüm yokArdımdan bir ağlayanım yokDağlaaar * dağlaaaarAdım adım (2 * yaklaşıyor ayrılıklarAdım adım * uzaklaşıyor ayar     Sensiz içiyorum bu akşam-ah- sensiz içiyorum     İki kadeh koydum masama     Biri senin için biri benim için     Bir ondan bir bundan içiyorum     Seni çok seviyorum (3Resmine her baktığımda / Sevgilim ah içim acıyorVarsın acısın içim / Ben seni çok seviyorumSeninle gelen * tüm acılaraBuyurun hoş geldiniz diyorum          (2Dağların arkasında ...</p>",
-  "sozler_duz": "Dağların arkasında kar / Önündeyse ayrılıklar (2Umudum yok * dermanım yokArdımda bir bekleyenim yokGeceler uzun * gündüzüm yokArdımdan bir ağlayanım yokDağlaaar * dağlaaaarAdım adım (2 * yaklaşıyor ayrılıklarAdım adım * uzaklaşıyor ayar Sensiz içiyorum bu akşam-ah- sensiz içiyorum İki kadeh koydum masama Biri senin için biri benim için Bir ondan bir bundan içiyorum Seni çok seviyorum (3Resmine her baktığımda / Sevgilim ah içim acıyorVarsın acısın içim / Ben seni çok seviyorumSeninle gelen * tüm acılaraBuyurun hoş geldiniz diyorum (2Dağların arkasında ...",
+  "sozler_html": "<p><b>Dağların arkasında kar / Önündeyse ayrılıklar     (2</b></p><p><b>Umudum yok * dermanım yok</b></p><p><b>Ardımda bir bekleyenim yok</b></p><p><b>Geceler uzun * gündüzüm yok</b></p><p><b>Ardımdan bir ağlayanım yok</b></p><p><b>Dağlaaar * dağlaaaar</b></p><p><b>Adım adım (2 * yaklaşıyor ayrılıklar</b></p><p><b>Adım adım * uzaklaşıyor ayar&nbsp;</b></p><p><br></p><p>&nbsp;Sensiz içiyorum bu akşam-ah- sensiz içiyorum&nbsp;</p><p>&nbsp;İki kadeh koydum masama&nbsp;</p><p>&nbsp;Biri senin için biri benim için&nbsp;</p><p>&nbsp;Bir ondan bir bundan içiyorum&nbsp;</p><p>&nbsp;Seni çok seviyorum (3</p><p><br></p><p>Resmine her baktığımda / Sevgilim ah içim acıyor</p><p>Varsın acısın içim / Ben seni çok seviyorum</p><p>Seninle gelen * tüm acılara</p><p>Buyurun hoş geldiniz diyorum          (2</p><p><br></p><p><b>Dağların arkasında ...</b></p>",
+  "sozler_duz": "Dağların arkasında kar / Önündeyse ayrılıklar (2\n\nUmudum yok * dermanım yok\n\nArdımda bir bekleyenim yok\n\nGeceler uzun * gündüzüm yok\n\nArdımdan bir ağlayanım yok\n\nDağlaaar * dağlaaaar\n\nAdım adım (2 * yaklaşıyor ayrılıklar\n\nAdım adım * uzaklaşıyor ayar \n\n Sensiz içiyorum bu akşam-ah- sensiz içiyorum \n\n İki kadeh koydum masama \n\n Biri senin için biri benim için \n\n Bir ondan bir bundan içiyorum \n\n Seni çok seviyorum (3\n\nResmine her baktığımda / Sevgilim ah içim acıyor\n\nVarsın acısın içim / Ben seni çok seviyorum\n\nSeninle gelen * tüm acılara\n\nBuyurun hoş geldiniz diyorum (2\n\nDağların arkasında ...",
   "meta": {
-    "yore": "Alpay",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Alpay",
-    "aciklama": ""
+    "soyleyenler": "Alpay"
   },
   "sistem": {
     "eski_id": 646,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T14:26:04.528Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
