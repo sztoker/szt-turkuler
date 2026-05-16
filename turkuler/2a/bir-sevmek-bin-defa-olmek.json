@@ -1,26 +1,15 @@
 {
   "id": "bir-sevmek-bin-defa-olmek",
-  "baslik": "BİR SEVMEK BİN DEFA ÖLMEK ...",
-  "sozler_html": "<p>Aşkın şarabından bilmeden içtimSevda yolundan bilmeden geçtimAşkın bir alevmiş –yar yar- bir ateş parçasıBilmeden gönlümü ateşe verdimBir sevmek bin defa ölmek demekmişBin defa ölüp de hiç ölmemekmişŞarabı zehirmiş içtikçe öldümYolu hep uçurum düştükçe öldümAşkın bir alevmiş –yar yar- bir ateş parçasıAteşe gönlümü yaktıkça öldüm</p>",
-  "sozler_duz": "Aşkın şarabından bilmeden içtimSevda yolundan bilmeden geçtimAşkın bir alevmiş –yar yar- bir ateş parçasıBilmeden gönlümü ateşe verdimBir sevmek bin defa ölmek demekmişBin defa ölüp de hiç ölmemekmişŞarabı zehirmiş içtikçe öldümYolu hep uçurum düştükçe öldümAşkın bir alevmiş –yar yar- bir ateş parçasıAteşe gönlümü yaktıkça öldüm",
+  "baslik": "BİR SEVMEK BİN DEFA ÖLMEK",
+  "sozler_html": "<p>Aşkın şarabından bilmeden içtim</p><p>Sevda yolundan bilmeden geçtim</p><p>Aşkın bir alevmiş –yar yar- bir ateş parçası</p><p>Bilmeden gönlümü ateşe verdim</p><p><br></p><p>Bir sevmek bin defa ölmek demekmiş</p><p>Bin defa ölüp de hiç ölmemekmiş</p><p><br></p><p>Şarabı zehirmiş içtikçe öldüm</p><p>Yolu hep uçurum düştükçe öldüm</p><p>Aşkın bir alevmiş –yar yar- bir ateş parçası</p><p>Ateşe gönlümü yaktıkça öldüm</p>",
+  "sozler_duz": "Aşkın şarabından bilmeden içtim\n\nSevda yolundan bilmeden geçtim\n\nAşkın bir alevmiş –yar yar- bir ateş parçası\n\nBilmeden gönlümü ateşe verdim\n\nBir sevmek bin defa ölmek demekmiş\n\nBin defa ölüp de hiç ölmemekmiş\n\nŞarabı zehirmiş içtikçe öldüm\n\nYolu hep uçurum düştükçe öldüm\n\nAşkın bir alevmiş –yar yar- bir ateş parçası\n\nAteşe gönlümü yaktıkça öldüm",
   "meta": {
-    "yore": "Üç Hürel",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Üç Hürel",
-    "aciklama": ""
+    "soyleyenler": "Üç Hürel"
   },
   "sistem": {
     "eski_id": 550,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T19:58:05.557Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
