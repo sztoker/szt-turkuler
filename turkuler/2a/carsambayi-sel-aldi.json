@@ -1,26 +1,15 @@
 {
   "id": "carsambayi-sel-aldi",
   "baslik": "ÇARŞAMBA’YI SEL ALDI",
-  "sozler_html": "<p>Çarşamba’yı sel aldı / Bir yar sevdim el aldı –aman amanKeşke sevmez olaydım /Elim koynumda kaldı–aman amanOy ne imiş ne imiş –aman aman- kaderim böyle imişGizli sevda çekmesi –aman aman- ateşten gömlek imişÇarşamba yollarında / Kelepçe kollarındaAllah canımı alsın / O yarin kollarında  / Oy ne imiş ...Çarşamba yazıları / Körpedir kuzularıMevlam alnıma yazmış / Bu kara yazıları / Oy ne imiş ...</p>",
-  "sozler_duz": "Çarşamba’yı sel aldı / Bir yar sevdim el aldı –aman amanKeşke sevmez olaydım /Elim koynumda kaldı–aman amanOy ne imiş ne imiş –aman aman- kaderim böyle imişGizli sevda çekmesi –aman aman- ateşten gömlek imişÇarşamba yollarında / Kelepçe kollarındaAllah canımı alsın / O yarin kollarında / Oy ne imiş ...Çarşamba yazıları / Körpedir kuzularıMevlam alnıma yazmış / Bu kara yazıları / Oy ne imiş ...",
+  "sozler_html": "<p>Çarşamba’yı sel aldı&nbsp;</p><p>Bir yar sevdim el aldı –aman aman</p><p>Keşke sevmez olaydım&nbsp;</p><p>Elim koynumda kaldı–aman aman</p><p><br></p><p><b>Oy ne imiş ne imiş –aman aman-&nbsp;</b></p><p><b>Kaderim böyle imiş</b></p><p><b>Gizli sevda çekmesi –aman aman-&nbsp;</b></p><p><b>Ateşten gömlek imiş</b></p><p><br></p><p>Çarşamba yollarında&nbsp;</p><p>Kelepçe kollarında</p><p>Allah canımı alsın&nbsp;</p><p>O yarin kollarında&nbsp;</p><p><br></p><p><b>Oy ne imiş ...</b></p><p><br></p><p>Çarşamba yazıları&nbsp;</p><p>Körpedir kuzuları</p><p>Mevlam alnıma yazmış&nbsp;</p><p>Bu kara yazıları</p><p><br></p><p>Oy ne imiş ...</p>",
+  "sozler_duz": "Çarşamba’yı sel aldı \n\nBir yar sevdim el aldı –aman aman\n\nKeşke sevmez olaydım \n\nElim koynumda kaldı–aman aman\n\nOy ne imiş ne imiş –aman aman- \n\nKaderim böyle imiş\n\nGizli sevda çekmesi –aman aman- \n\nAteşten gömlek imiş\n\nÇarşamba yollarında \n\nKelepçe kollarında\n\nAllah canımı alsın \n\nO yarin kollarında \n\nOy ne imiş ...\n\nÇarşamba yazıları \n\nKörpedir kuzuları\n\nMevlam alnıma yazmış \n\nBu kara yazıları\n\nOy ne imiş ...",
   "meta": {
-    "yore": "ÇARŞAMBA / SAMSUN",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "S",
-    "karar": "",
-    "diger_bilgiler": "ÇARŞAMBA / SAMSUN",
-    "aciklama": ""
+    "yore": "ÇARŞAMBA / SAMSUN"
   },
   "sistem": {
     "eski_id": 5352,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-16T15:00:38.429Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
