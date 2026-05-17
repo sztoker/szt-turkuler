@@ -1,15 +1,16 @@
 {
   "id": "dane-dane-benleri-var-yuzunde",
   "baslik": "DANE DANE BENLERİ VAR YÜZÜNDE",
-  "sozler_html": "<p>Dane dane benleri var yüzünde –yüzünde yüzündeCan alıcı bakışları gözünde –gözünde gözündeBin bir tat var edasında nazında –nazında nazındaDünyada yardan tatlı var m’ola –var m’ola var m’olaSalını salını gelen yar m’ola – yar m’ola yar m’olaKüpeleri ağır düşer kulaktan Zülüfleri tel tel olmuş yanaktanAğzı şeker bal akıyor dudaktan / Dünyada ...Ağır barhanası vardır elinde /  Tatlı kelam gelir yarin dilindeKemer olsam sevdiğimin belinde / Dünyada ...</p>",
-  "sozler_duz": "Dane dane benleri var yüzünde –yüzünde yüzündeCan alıcı bakışları gözünde –gözünde gözündeBin bir tat var edasında nazında –nazında nazındaDünyada yardan tatlı var m’ola –var m’ola var m’olaSalını salını gelen yar m’ola – yar m’ola yar m’olaKüpeleri ağır düşer kulaktan Zülüfleri tel tel olmuş yanaktanAğzı şeker bal akıyor dudaktan / Dünyada ...Ağır barhanası vardır elinde / Tatlı kelam gelir yarin dilindeKemer olsam sevdiğimin belinde / Dünyada ...",
+  "sozler_html": "<p>Dane dane benleri var yüzünde –yüzünde yüzünde</p><p>Can alıcı bakışları gözünde –gözünde gözünde</p><p>Bin bir tat var edasında nazında –nazında nazında</p><p><br></p><p><b>Dünyada yardan tatlı&nbsp;</b></p><p><b>Var m’ola –var m’ola var m’ola</b></p><p><b>Salını salını gelen&nbsp;</b></p><p><b>Yar m’ola – yar m’ola yar m’ola</b></p><p><br></p><p>Küpeleri ağır düşer kulaktan&nbsp;</p><p>Zülüfleri tel tel olmuş yanaktan</p><p>Ağzı şeker bal akıyor dudaktan&nbsp;</p><p><br></p><p><b>Dünyada ...</b></p><p><br></p><p>Ağır barhanası vardır elinde&nbsp;</p><p>&nbsp;Tatlı kelam gelir yarin dilinde</p><p>Kemer olsam sevdiğimin belinde&nbsp;</p><p><br></p><p><b>Dünyada ...</b></p>",
+  "sozler_duz": "Dane dane benleri var yüzünde –yüzünde yüzünde\n\nCan alıcı bakışları gözünde –gözünde gözünde\n\nBin bir tat var edasında nazında –nazında nazında\n\nDünyada yardan tatlı \n\nVar m’ola –var m’ola var m’ola\n\nSalını salını gelen \n\nYar m’ola – yar m’ola yar m’ola\n\nKüpeleri ağır düşer kulaktan \n\nZülüfleri tel tel olmuş yanaktan\n\nAğzı şeker bal akıyor dudaktan \n\nDünyada ...\n\nAğır barhanası vardır elinde \n\n Tatlı kelam gelir yarin dilinde\n\nKemer olsam sevdiğimin belinde \n\nDünyada ...",
   "meta": {
-    "yore": "KIRŞEHİR      Muharrem-Neşet Ertaş"
+    "yore": "KIRŞEHİR",
+    "kaynak_kisi": "Muharrem-Neşet Ertaş"
   },
   "sistem": {
     "eski_id": 649,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T00:42:43.245Z",
+    "son_degisiklik": "2026-05-17T12:45:07.375Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
