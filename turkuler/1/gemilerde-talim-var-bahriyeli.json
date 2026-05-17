@@ -2,25 +2,16 @@
   "id": "gemilerde-talim-var-bahriyeli",
   "baslik": "GEMİLERDE TALİM VAR ( Bahriyeli )",
   "sozler_html": "<p>Gemilerde talim var / Bahriyeli yarim var</p>\n<p>O da gitti sefere / Ne talihsiz başım var</p>\n<p>Hani benim Recebim Recebim / Sarı lira vereceğim</p>\n<p>Almazsan karakola gideceğim</p>\n<p class=\"bos\"></p>\n<p>Gemi gelir yanaşır / İçi dolu çamaşır</p>\n<p>Benim yarim pek güzel / Gören gözler kamaşır</p>\n<p>(İstanbul'un kızları / Recep diye ağlaşır) / Hani ...</p>\n<p class=\"bos\"></p>\n<p>Gemi gelir yan verir / İskeleye şan verir</p>\n<p>Şu İstanbul kızları / Koca diye can verir / Hani ...</p>",
-  "sozler_duz": "Gemilerde talim var / Bahriyeli yarim var O da gitti sefere / Ne talihsiz başım var Hani benim Recebim Recebim / Sarı lira vereceğim Almazsan karakola gideceğim Gemi gelir yanaşır / İçi dolu çamaşır Benim yarim pek güzel / Gören gözler kamaşır (İstanbul'un kızları / Recep diye ağlaşır) / Hani ... Gemi gelir yan verir / İskeleye şan verir Şu İstanbul kızları / Koca diye can verir / Hani ...",
+  "sozler_duz": "Gemilerde talim var / Bahriyeli yarim var\n\nO da gitti sefere / Ne talihsiz başım var\n\nHani benim Recebim Recebim / Sarı lira vereceğim\n\nAlmazsan karakola gideceğim\n\nGemi gelir yanaşır / İçi dolu çamaşır\n\nBenim yarim pek güzel / Gören gözler kamaşır\n\n(İstanbul'un kızları / Recep diye ağlaşır) / Hani ...\n\nGemi gelir yan verir / İskeleye şan verir\n\nŞu İstanbul kızları / Koca diye can verir / Hani ...",
   "meta": {
     "yore": "İSTANBUL",
-    "turu": "",
-    "turu2": "",
     "derleyen": "Sarı Recep",
-    "kaynak_kisi": "M. Sarısözen",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "İSTANBUL  K: Sarı Recep D: M. Sarısözen      Hicaz",
-    "aciklama": ""
+    "kaynak_kisi": "M. Sarısözen"
   },
   "sistem": {
     "eski_id": 829,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:18:57.139Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
