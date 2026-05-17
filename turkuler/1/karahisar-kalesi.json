@@ -2,25 +2,14 @@
   "id": "karahisar-kalesi",
   "baslik": "KARAHİSAR KALESİ",
   "sozler_html": "<p>Karahisar Kalesi yıkılır gelir</p>\n<p>Zülüfler gerdana (kakülü boynuna) dökülür gelir - dökülür gelir</p>\n<p>Yayladan gel allı gelin yayladan</p>\n<p>Kesme ümidini kadir mevladan -kadir mevladan</p>\n<p>Ver elini karlı dağlar aşalım - bayramlaşalım</p>\n<p class=\"bos\"></p>\n<p>Ben bir koyun oleyim sen de bir kuzu</p>\n<p>Meleye meleye getirek yazı -getirek yazı</p>\n<p>Yayladan gel ...</p>",
-  "sozler_duz": "Karahisar Kalesi yıkılır gelir Zülüfler gerdana (kakülü boynuna) dökülür gelir - dökülür gelir Yayladan gel allı gelin yayladan Kesme ümidini kadir mevladan -kadir mevladan Ver elini karlı dağlar aşalım - bayramlaşalım Ben bir koyun oleyim sen de bir kuzu Meleye meleye getirek yazı -getirek yazı Yayladan gel ...",
+  "sozler_duz": "Karahisar Kalesi yıkılır gelir\n\nZülüfler gerdana (kakülü boynuna) dökülür gelir - dökülür gelir\n\nYayladan gel allı gelin yayladan\n\nKesme ümidini kadir mevladan -kadir mevladan\n\nVer elini karlı dağlar aşalım - bayramlaşalım\n\nBen bir koyun oleyim sen de bir kuzu\n\nMeleye meleye getirek yazı -getirek yazı\n\nYayladan gel ...",
   "meta": {
-    "yore": "AFYON",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AFYON",
-    "aciklama": ""
+    "yore": "AFYON"
   },
   "sistem": {
     "eski_id": 981,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:51:22.269Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
