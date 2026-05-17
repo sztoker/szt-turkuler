@@ -1,26 +1,16 @@
 {
   "id": "firat-kenarinda-yuzen-kayiklar",
-  "baslik": "Fırat Kenarında Yüzen Kayıklar_",
-  "sozler_html": "<p>Fırat Kenarında Yüzen Kayıklar (Ölem Kayıklar N'edem Kayıklar)Anam Ağlar Bacım Beni Sayıklar (Ölem Sayıklar N'edem Sayıklar)Başına Toplanmış Bağrı Yanıklar (Ölem Yanıklar N'edem Yanıklar) N'ettim Size Verin Benim Yarımı N'edem Yarımı N'ettim Size Beni Yare Götürün N'edem GötürünElbisem Duvarda Asılı Kaldı (Ölem Vay Kaldı N'edem Vay Kaldı)Çeyizim Sandıkta Basılı Kaldı (Ölem Vay Kaldı N'edem Vay Kaldı)O Yar Benim İle Küsülü Kaldı (Ölem Vay Kaldı N'edem Vay Kaldı N'ettim Size Verin Benim Yarımı N'edem Yarımı N'ettim Size Beni Yare Götürün N'edem Götürün</p>",
-  "sozler_duz": "Fırat Kenarında Yüzen Kayıklar (Ölem Kayıklar N'edem Kayıklar)Anam Ağlar Bacım Beni Sayıklar (Ölem Sayıklar N'edem Sayıklar)Başına Toplanmış Bağrı Yanıklar (Ölem Yanıklar N'edem Yanıklar) N'ettim Size Verin Benim Yarımı N'edem Yarımı N'ettim Size Beni Yare Götürün N'edem GötürünElbisem Duvarda Asılı Kaldı (Ölem Vay Kaldı N'edem Vay Kaldı)Çeyizim Sandıkta Basılı Kaldı (Ölem Vay Kaldı N'edem Vay Kaldı)O Yar Benim İle Küsülü Kaldı (Ölem Vay Kaldı N'edem Vay Kaldı N'ettim Size Verin Benim Yarımı N'edem Yarımı N'ettim Size Beni Yare Götürün N'edem Götürün",
+  "baslik": "Fırat Kenarında Yüzen Kayıklar",
+  "sozler_html": "<p>Fırat Kenarında Yüzen Kayıklar&nbsp;</p><p>(Ölem Kayıklar N'edem Kayıklar)</p><p>Anam Ağlar Bacım Beni Sayıklar&nbsp;</p><p>(Ölem Sayıklar N'edem Sayıklar)</p><p>Başına Toplanmış Bağrı Yanıklar&nbsp;</p><p>(Ölem Yanıklar N'edem Yanıklar)&nbsp;</p><p><br></p><p>N'ettim Size Verin Benim Yarımı N'edem Yarımı N'ettim Size Beni Yare Götürün N'edem Götürün</p><p><br></p><p>Elbisem Duvarda Asılı Kaldı&nbsp;</p><p>(Ölem Vay Kaldı N'edem Vay Kaldı)</p><p>Çeyizim Sandıkta Basılı Kaldı&nbsp;</p><p>(Ölem Vay Kaldı N'edem Vay Kaldı)</p><p>O Yar Benim İle Küsülü Kaldı&nbsp;</p><p>(Ölem Vay Kaldı N'edem Vay Kaldı)</p><p><br></p><p>&nbsp;N'ettim Size Verin Benim Yarımı N'edem Yarımı N'ettim Size Beni Yare Götürün N'edem Götürün</p>",
+  "sozler_duz": "Fırat Kenarında Yüzen Kayıklar \n\n(Ölem Kayıklar N'edem Kayıklar)\n\nAnam Ağlar Bacım Beni Sayıklar \n\n(Ölem Sayıklar N'edem Sayıklar)\n\nBaşına Toplanmış Bağrı Yanıklar \n\n(Ölem Yanıklar N'edem Yanıklar) \n\nN'ettim Size Verin Benim Yarımı N'edem Yarımı N'ettim Size Beni Yare Götürün N'edem Götürün\n\nElbisem Duvarda Asılı Kaldı \n\n(Ölem Vay Kaldı N'edem Vay Kaldı)\n\nÇeyizim Sandıkta Basılı Kaldı \n\n(Ölem Vay Kaldı N'edem Vay Kaldı)\n\nO Yar Benim İle Küsülü Kaldı \n\n(Ölem Vay Kaldı N'edem Vay Kaldı)\n\n N'ettim Size Verin Benim Yarımı N'edem Yarımı N'ettim Size Beni Yare Götürün N'edem Götürün",
   "meta": {
     "yore": "Malatya",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Kemal Çığrık-Mustafa Özgül",
-    "aciklama": ""
+    "kaynak_kisi": "Kemal Çığrık-Mustafa Özgül"
   },
   "sistem": {
     "eski_id": 5335,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T18:52:02.802Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
