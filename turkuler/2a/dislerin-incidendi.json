@@ -1,8 +1,8 @@
 {
   "id": "dislerin-incidendi",
   "baslik": "Dişlerin İncidendi",
-  "sozler_html": "<p>Dişlerin İncidendir</p><p>Dürdendir İncidendir</p><p>Üzün Nece Gözelse</p><p>Dilin Can İncidendir</p><p><br></p><p><b>İncidendir İncidendir</b></p><p><b>Dilin Can İncidendir</b></p><p><b>Dilin Dilin Dilin&nbsp;</b></p><p><b>Can İncidendir</b></p><p><br></p><p>Sev Dedin Aldın Meni</p><p>Çöllere Saldın Meni</p><p>Dilin Şahmar İlan Tek</p><p>Ne Dedin Çaldı Meni</p><p><br></p><p><b>Çaldı Meni Çaldı Meni</b></p><p><b>Ne Dedin Çaldı Meni</b></p><p><b>Dilin Dilin Dilin&nbsp;</b></p><p><b>Can İncidendir</b></p><p><br></p><p>Eyvan Gülü Olaydı</p><p>Gülü Sünbülü Olaydı</p><p>Keşki Sevdiğim Gözel</p><p>Şirin Dilli Olaydı</p><p><br></p><p><b>Şirin Dilli Şirin Dilli</b></p><p><b>Şirin Dilli Olaydı</b></p><p><b>Dilin Dilin Dilin&nbsp;</b></p><p><b>Can İncidendir</b></p>",
-  "sozler_duz": "Dişlerin İncidendir\n\nDürdendir İncidendir\n\nÜzün Nece Gözelse\n\nDilin Can İncidendir\n\nİncidendir İncidendir\n\nDilin Can İncidendir\n\nDilin Dilin Dilin \n\nCan İncidendir\n\nSev Dedin Aldın Meni\n\nÇöllere Saldın Meni\n\nDilin Şahmar İlan Tek\n\nNe Dedin Çaldı Meni\n\nÇaldı Meni Çaldı Meni\n\nNe Dedin Çaldı Meni\n\nDilin Dilin Dilin \n\nCan İncidendir\n\nEyvan Gülü Olaydı\n\nGülü Sünbülü Olaydı\n\nKeşki Sevdiğim Gözel\n\nŞirin Dilli Olaydı\n\nŞirin Dilli Şirin Dilli\n\nŞirin Dilli Olaydı\n\nDilin Dilin Dilin \n\nCan İncidendir",
+  "sozler_html": "<p>Dişlerin\nincidendir</p><p>Dürdendir incidendir</p><p>Üzün nece gözelse</p><p>Dilin can incidendir</p><p>&nbsp;</p><p><b>İncidendir\nincidendir</b></p><p><b>Dilin can\nincidendir</b></p><p><b>Dilin dilin\ndilin&nbsp;</b></p><p><b>Can\nincidendir</b></p><p>&nbsp;</p><p>Sev dedin aldın meni</p><p>Çöllere saldın meni</p><p>Dilin şahmar ilan tek</p><p>Ne dedin çaldı meni</p><p>&nbsp;</p><p><b>Çaldı meni\nçaldı meni</b></p><p><b>Ne dedin\nçaldı meni</b></p><p><b>Dilin dilin\ndilin&nbsp;</b></p><p><b>Can\nincidendir</b></p><p>&nbsp;</p><p>Eyvan gülü olaydı</p><p>Gülü sünbülü olaydı</p><p>Keşki sevdiğim gözel</p><p>Şirin dilli olaydı</p><p>&nbsp;</p><p><b>Şirin dilli\nşirin dilli</b></p><p><b>Şirin dilli\nolaydı</b></p><p><b>Dilin dilin\ndilin&nbsp;</b></p><p><b>Can\nincidendir</b></p>",
+  "sozler_duz": "Dişlerin incidendir\n\nDürdendir incidendir\n\nÜzün nece gözelse\n\nDilin can incidendir\n\n \n\nİncidendir incidendir\n\nDilin can incidendir\n\nDilin dilin dilin \n\nCan incidendir\n\n \n\nSev dedin aldın meni\n\nÇöllere saldın meni\n\nDilin şahmar ilan tek\n\nNe dedin çaldı meni\n\n \n\nÇaldı meni çaldı meni\n\nNe dedin çaldı meni\n\nDilin dilin dilin \n\nCan incidendir\n\n \n\nEyvan gülü olaydı\n\nGülü sünbülü olaydı\n\nKeşki sevdiğim gözel\n\nŞirin dilli olaydı\n\n \n\nŞirin dilli şirin dilli\n\nŞirin dilli olaydı\n\nDilin dilin dilin \n\nCan incidendir",
   "meta": {
     "yore": "Kars",
     "kaynak_kisi": "İbrahim Yıldırım Arşivi"
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 3816,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-17T14:56:32.482Z",
+    "son_degisiklik": "2026-05-17T14:57:07.608Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
