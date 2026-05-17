@@ -2,25 +2,14 @@
   "id": "kucelere-su-serpmisem",
   "baslik": "KÜÇELERE SU SERPMİŞEM",
   "sozler_html": "<p>Küçelere su serpmişem</p>\n<p>Yar gelende toz olmasın</p>\n<p>Eyle gelsin eyle gitsin</p>\n<p>Aramızda söz olmasın</p>\n<p class=\"bos\"></p>\n<p>Samalara od salmışam</p>\n<p>İstekana get salmışam</p>\n<p>Bir haftadır tek galmışam</p>\n<p>(2-Yarim gidip tek galmışam)</p>\n<p>Ne ezizdir yarim canım</p>\n<p>(2-Ne şirindir yarim canım)</p>\n<p class=\"bos\"></p>\n<p>Piyaleler ıraftadır</p>\n<p>Her biri bir taraftadır</p>\n<p>Görmemişem bir haftadır</p>\n<p>(2-Yarim gidip bir haftadır)</p>\n<p>Ne ezizdir yarim canım</p>\n<p>(2-Ne şirindir yarim canım)</p>",
-  "sozler_duz": "Küçelere su serpmişem Yar gelende toz olmasın Eyle gelsin eyle gitsin Aramızda söz olmasın Samalara od salmışam İstekana get salmışam Bir haftadır tek galmışam (2-Yarim gidip tek galmışam) Ne ezizdir yarim canım (2-Ne şirindir yarim canım) Piyaleler ıraftadır Her biri bir taraftadır Görmemişem bir haftadır (2-Yarim gidip bir haftadır) Ne ezizdir yarim canım (2-Ne şirindir yarim canım)",
+  "sozler_duz": "Küçelere su serpmişem\n\nYar gelende toz olmasın\n\nEyle gelsin eyle gitsin\n\nAramızda söz olmasın\n\nSamalara od salmışam\n\nİstekana get salmışam\n\nBir haftadır tek galmışam\n\n(2-Yarim gidip tek galmışam)\n\nNe ezizdir yarim canım\n\n(2-Ne şirindir yarim canım)\n\nPiyaleler ıraftadır\n\nHer biri bir taraftadır\n\nGörmemişem bir haftadır\n\n(2-Yarim gidip bir haftadır)\n\nNe ezizdir yarim canım\n\n(2-Ne şirindir yarim canım)",
   "meta": {
-    "yore": "AZERİ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_22",
-    "karar": "",
-    "diger_bilgiler": "AZERİ",
-    "aciklama": ""
+    "yore": "AZERİ"
   },
   "sistem": {
     "eski_id": 780,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:27:05.994Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
