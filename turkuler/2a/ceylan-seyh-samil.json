@@ -1,26 +1,16 @@
 {
   "id": "ceylan-seyh-samil",
   "baslik": "CEYLAN (ŞEYH ŞAMİL)",
-  "sozler_html": "<p>Ne yalnızlık ne hüzün / Ne o eski şarkılarHiç biri dokunmuyor / Senin yokluğun kadarGece yağmur ve soğuk / Şehrin caddelerindeGözlerimde hayalin / Hasretin yüreğimdeGurbette yorgun düştüm be ceylanHasret tüketti bittim be ceylanYeniden düştüm yollarına / Vardım geldim ellerineYitik buruk bir çocuğum ben / Koyma beni hasretine</p>",
-  "sozler_duz": "Ne yalnızlık ne hüzün / Ne o eski şarkılarHiç biri dokunmuyor / Senin yokluğun kadarGece yağmur ve soğuk / Şehrin caddelerindeGözlerimde hayalin / Hasretin yüreğimdeGurbette yorgun düştüm be ceylanHasret tüketti bittim be ceylanYeniden düştüm yollarına / Vardım geldim ellerineYitik buruk bir çocuğum ben / Koyma beni hasretine",
+  "sozler_html": "<p>Ne yalnızlık ne hüzün&nbsp;</p><p>Ne o eski şarkılar</p><p>Hiç biri dokunmuyor&nbsp;</p><p>Senin yokluğun kadar</p><p><br></p><p>Gece yağmur ve soğuk&nbsp;</p><p>Şehrin caddelerinde</p><p>Gözlerimde hayalin&nbsp;</p><p>Hasretin yüreğimde</p><p><br></p><p>Gurbette yorgun düştüm be ceylan</p><p>Hasret tüketti bittim be ceylan</p><p>Yeniden düştüm yollarına&nbsp;</p><p>Vardım geldim ellerine</p><p>Yitik buruk bir çocuğum ben&nbsp;</p><p>Koyma beni hasretine</p>",
+  "sozler_duz": "Ne yalnızlık ne hüzün \n\nNe o eski şarkılar\n\nHiç biri dokunmuyor \n\nSenin yokluğun kadar\n\nGece yağmur ve soğuk \n\nŞehrin caddelerinde\n\nGözlerimde hayalin \n\nHasretin yüreğimde\n\nGurbette yorgun düştüm be ceylan\n\nHasret tüketti bittim be ceylan\n\nYeniden düştüm yollarına \n\nVardım geldim ellerine\n\nYitik buruk bir çocuğum ben \n\nKoyma beni hasretine",
   "meta": {
-    "yore": "S: Ayna     M.Anonim/Azeri",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S: Ayna     M.Anonim/Azeri",
-    "aciklama": ""
+    "yore": "Azeri",
+    "soyleyenler": "Ayna"
   },
   "sistem": {
     "eski_id": 605,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T10:35:03.842Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
