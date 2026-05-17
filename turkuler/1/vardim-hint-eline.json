@@ -1,8 +1,8 @@
 {
   "id": "vardim-hint-eline",
   "baslik": "VARDIM HİNT ELİNE",
-  "sozler_html": "<p>Vardım Hint eline kumaş getirdim</p>\n<p>Açtım bedestanı sattım oturdum</p>\n<p>Sen benim başıma neler getirdin</p>\n<p class=\"bos\"></p>\n<p><b>Ben senin derdini (2-kahrını) çekemem gönül</b></p>\n<p class=\"bos\"></p>\n<p>Eline aluben sazlar istersin</p>\n<p>Göllerden ördeği kazlar istersin</p>\n<p>Benden mahbub gelin kızlar istersin</p>\n<p class=\"bos\"></p>\n<p><b>Ben senin   derdini  ...</b></p>\n<p class=\"bos\"></p>\n<p>Karabulut gibi göğe ağarsın</p>\n<p>Sulu yağmur gibi yere yağarsın</p>\n<p>O y ar  senin değil ne çok bakarsın</p>\n<p class=\"bos\"></p>\n<p><b>Ben senin  derdini  ...</b></p>",
-  "sozler_duz": "Vardım Hint eline kumaş getirdim\n\nAçtım bedestanı sattım oturdum\n\nSen benim başıma neler getirdin\n\nBen senin derdini (2-kahrını) çekemem gönül\n\nEline aluben sazlar istersin\n\nGöllerden ördeği kazlar istersin\n\nBenden mahbub gelin kızlar istersin\n\nBen senin derdini ...\n\nKarabulut gibi göğe ağarsın\n\nSulu yağmur gibi yere yağarsın\n\nO y ar senin değil ne çok bakarsın\n\nBen senin derdini ...",
+  "sozler_html": "<p>Vardım Hint eline kumaş getirdim</p>\n<p>Açtım bedestanı sattım oturdum</p>\n<p>Sen benim başıma neler getirdin</p>\n<p class=\"bos\"></p>\n<p><b>Ben senin derdini (2-kahrını) çekemem gönül</b></p>\n<p class=\"bos\"></p>\n<p>Eline aluben sazlar istersin</p>\n<p>Göllerden ördeği kazlar istersin</p>\n<p>Benden mahbub gelin kızlar istersin</p>\n<p class=\"bos\"></p>\n<p><b>Ben senin   derdini  ...</b></p>\n<p class=\"bos\"></p>\n<p>Karabulut gibi göğe ağarsın</p>\n<p>Sulu yağmur gibi yere yağarsın</p>\n<p>O yar  senin değil ne çok bakarsın</p>\n<p class=\"bos\"></p>\n<p><b>Ben senin  derdini  ...</b></p>",
+  "sozler_duz": "Vardım Hint eline kumaş getirdim\n\nAçtım bedestanı sattım oturdum\n\nSen benim başıma neler getirdin\n\nBen senin derdini (2-kahrını) çekemem gönül\n\nEline aluben sazlar istersin\n\nGöllerden ördeği kazlar istersin\n\nBenden mahbub gelin kızlar istersin\n\nBen senin derdini ...\n\nKarabulut gibi göğe ağarsın\n\nSulu yağmur gibi yere yağarsın\n\nO yar senin değil ne çok bakarsın\n\nBen senin derdini ...",
   "meta": {
     "yore": "ERZİNCAN",
     "derleyen": "YÜCEL PAŞMAKÇI",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 232,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-17T20:31:17.779Z",
+    "son_degisiklik": "2026-05-17T20:31:35.007Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
