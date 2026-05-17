@@ -1,26 +1,13 @@
 {
   "id": "dil-la-la-kirda-zeytin-agaci",
   "baslik": "DİL LA LA  (Kırda Zeytin Ağacı)",
-  "sozler_html": "<p>Kırda zeytin ağacı / Etrafında sığacıOğluna (kızına) meyil verdim / Darılma Zeynep BacıDil la la - dil la la * paralar verdim tellalaTellal gözün kör olsun * beni verdin dillereKırda şeker kamışı / Erken doğmuş güneşiÖyle bir yar sevdim ki / Dünyada yoktur eşi / Dillala...Kırda elma biter mi / Gökte yıldız biter miBana yardan geç derler / Gönül yardan geçer mi / Dillala...</p>",
-  "sozler_duz": "Kırda zeytin ağacı / Etrafında sığacıOğluna (kızına) meyil verdim / Darılma Zeynep BacıDil la la - dil la la * paralar verdim tellalaTellal gözün kör olsun * beni verdin dillereKırda şeker kamışı / Erken doğmuş güneşiÖyle bir yar sevdim ki / Dünyada yoktur eşi / Dillala...Kırda elma biter mi / Gökte yıldız biter miBana yardan geç derler / Gönül yardan geçer mi / Dillala...",
-  "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Kırda zeytin ağacı&nbsp;</p><p>Etrafında sığacı</p><p>Oğluna (kızına) meyil verdim&nbsp;</p><p>Darılma Zeynep Bacı</p><p><br></p><p><b>Dil la la - dil la la&nbsp;</b></p><p><b>paralar verdim tellala</b></p><p><b>Tellal gözün kör olsun&nbsp;</b></p><p><b>Beni verdin dillere</b></p><p><br></p><p>Kırda şeker kamışı&nbsp;</p><p>Erken doğmuş güneşi</p><p>Öyle bir yar sevdim ki&nbsp;</p><p>Dünyada yoktur eşi&nbsp;</p><p><br></p><p><b>Dillala...</b></p><p><br></p><p>Kırda elma biter mi&nbsp;</p><p>Gökte yıldız biter mi</p><p>Bana yardan geç derler&nbsp;</p><p>Gönül yardan geçer mi&nbsp;</p><p><br></p><p><b>Dillala...</b></p>",
+  "sozler_duz": "Kırda zeytin ağacı \n\nEtrafında sığacı\n\nOğluna (kızına) meyil verdim \n\nDarılma Zeynep Bacı\n\nDil la la - dil la la \n\nparalar verdim tellala\n\nTellal gözün kör olsun \n\nBeni verdin dillere\n\nKırda şeker kamışı \n\nErken doğmuş güneşi\n\nÖyle bir yar sevdim ki \n\nDünyada yoktur eşi \n\nDillala...\n\nKırda elma biter mi \n\nGökte yıldız biter mi\n\nBana yardan geç derler \n\nGönül yardan geçer mi \n\nDillala...",
+  "meta": {},
   "sistem": {
     "eski_id": 681,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T14:53:18.038Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
