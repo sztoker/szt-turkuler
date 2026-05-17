@@ -1,26 +1,16 @@
 {
   "id": "devrent-deresine-duman-burudu",
-  "baslik": "Devrent Deresine Duman Bürüdü_",
-  "sozler_html": "<p>Devrent Deresine Duman Bürüdü Of OfYedi Deveyinen Musa’m YürüdüMusa’mın Ciğeri Mosmor Oldu Çürüdü Of OfAğlasın Ağlasın Anam Ağlasın,Tülü Mayaları Dudu BağlasınDevrent Deresine Çıvgınlar Esti Of OfElimi Kolumu Poyrazlar Kesti.Feleğin Bizlere Böyle Mi Kasti Of Of.Devrent Deresi De Dar Geldi BanaVadesiz Ölümler Zor Geldi Bana.</p>",
-  "sozler_duz": "Devrent Deresine Duman Bürüdü Of OfYedi Deveyinen Musa’m YürüdüMusa’mın Ciğeri Mosmor Oldu Çürüdü Of OfAğlasın Ağlasın Anam Ağlasın,Tülü Mayaları Dudu BağlasınDevrent Deresine Çıvgınlar Esti Of OfElimi Kolumu Poyrazlar Kesti.Feleğin Bizlere Böyle Mi Kasti Of Of.Devrent Deresi De Dar Geldi BanaVadesiz Ölümler Zor Geldi Bana.",
+  "baslik": "Devrent Deresine Duman Bürüdü",
+  "sozler_html": "<p>Devrent Deresine Duman Bürüdü Of Of</p><p>Yedi Deveyinen Musa’m Yürüdü</p><p>Musa’mın Ciğeri Mosmor Oldu Çürüdü Of Of</p><p>Ağlasın Ağlasın Anam Ağlasın</p><p>Tülü Mayaları Dudu Bağlasın</p><p><br></p><p>Devrent Deresine Çıvgınlar Esti Of Of</p><p>Elimi Kolumu Poyrazlar Kesti</p><p>Feleğin Bizlere Böyle Mi Kasti Of Of</p><p>Devrent Deresi De Dar Geldi Bana</p><p>Vadesiz Ölümler Zor Geldi Bana</p>",
+  "sozler_duz": "Devrent Deresine Duman Bürüdü Of Of\n\nYedi Deveyinen Musa’m Yürüdü\n\nMusa’mın Ciğeri Mosmor Oldu Çürüdü Of Of\n\nAğlasın Ağlasın Anam Ağlasın\n\nTülü Mayaları Dudu Bağlasın\n\nDevrent Deresine Çıvgınlar Esti Of Of\n\nElimi Kolumu Poyrazlar Kesti\n\nFeleğin Bizlere Böyle Mi Kasti Of Of\n\nDevrent Deresi De Dar Geldi Bana\n\nVadesiz Ölümler Zor Geldi Bana",
   "meta": {
     "yore": "Denizli",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Süleyman Uğur-İstanbul Rad. THM Müd.",
-    "aciklama": ""
+    "kaynak_kisi": "Süleyman Uğur"
   },
   "sistem": {
     "eski_id": 3808,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T14:51:24.362Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
