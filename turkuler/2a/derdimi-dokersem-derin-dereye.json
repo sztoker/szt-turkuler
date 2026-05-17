@@ -1,8 +1,8 @@
 {
   "id": "derdimi-dokersem-derin-dereye",
   "baslik": "DERDİMİ DÖKERSEM DERİN DEREYE",
-  "sozler_html": "<p>Derdimi dökersem derin dereyeDoldurur dereyi düz olur giderIrakipler geldi girdi arayaKorkarım yar benden yoz olur giderIlgıt ılgıt yeller eser seherdeYar beni düşürdü onulmaz derdeYar ile buluşsak bir tenha yerdeDuyar düşmanlarım söz olur giderPervane ateşten sakınmaz canıUğruna koymuşum başı bedeniDoldur tüfengini hedef al beniYaram doksan dokuz yüz olur giderVeysel der çıkayım bir yüce dağaAğaçlar bezenmiş yeşil yaprağaBir gün olur tenim düşer toprağaKarışır toprağa toz olur gider</p>",
-  "sozler_duz": "Derdimi dökersem derin dereyeDoldurur dereyi düz olur giderIrakipler geldi girdi arayaKorkarım yar benden yoz olur giderIlgıt ılgıt yeller eser seherdeYar beni düşürdü onulmaz derdeYar ile buluşsak bir tenha yerdeDuyar düşmanlarım söz olur giderPervane ateşten sakınmaz canıUğruna koymuşum başı bedeniDoldur tüfengini hedef al beniYaram doksan dokuz yüz olur giderVeysel der çıkayım bir yüce dağaAğaçlar bezenmiş yeşil yaprağaBir gün olur tenim düşer toprağaKarışır toprağa toz olur gider",
+  "sozler_html": "<p>Derdimi dökersem derin dereye</p><p>Doldurur dereyi düz olur gider</p><p>Irakipler geldi girdi araya</p><p>Korkarım yar benden yoz olur gider</p><p><br></p><p>Ilgıt ılgıt yeller eser seherde</p><p>Yar beni düşürdü onulmaz derde</p><p>Yar ile buluşsak bir tenha yerde</p><p>Duyar düşmanlarım söz olur gider</p><p><br></p><p>Pervane ateşten sakınmaz canı</p><p>Uğruna koymuşum başı bedeni</p><p>Doldur tüfengini hedef al beni</p><p>Yaram doksan dokuz yüz olur gider</p><p><br></p><p>Veysel der çıkayım bir yüce dağa</p><p>Ağaçlar bezenmiş yeşil yaprağa</p><p>Bir gün olur tenim düşer toprağa</p><p>Karışır toprağa toz olur gider</p>",
+  "sozler_duz": "Derdimi dökersem derin dereye\n\nDoldurur dereyi düz olur gider\n\nIrakipler geldi girdi araya\n\nKorkarım yar benden yoz olur gider\n\nIlgıt ılgıt yeller eser seherde\n\nYar beni düşürdü onulmaz derde\n\nYar ile buluşsak bir tenha yerde\n\nDuyar düşmanlarım söz olur gider\n\nPervane ateşten sakınmaz canı\n\nUğruna koymuşum başı bedeni\n\nDoldur tüfengini hedef al beni\n\nYaram doksan dokuz yüz olur gider\n\nVeysel der çıkayım bir yüce dağa\n\nAğaçlar bezenmiş yeşil yaprağa\n\nBir gün olur tenim düşer toprağa\n\nKarışır toprağa toz olur gider",
   "meta": {
     "yore": "ŞARKIŞLA / SİVAS",
     "soz": "Aşık Veysel",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 200,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T00:46:53.179Z",
+    "son_degisiklik": "2026-05-17T13:30:12.163Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
