@@ -1,26 +1,13 @@
 {
   "id": "evleri-var-engin",
   "baslik": "EVLERİ VAR ENGİN",
-  "sozler_html": "<p>Evleri var engin / Babası var zenginName benim dengim / Yandım Name gelinGelin gelin gelin / Öldüm Name gelinBir tomurcuk gül iken / Soldum Name gelinKaşlarında rastık / Baş altında yastıkName ile küstük / Yandım Name gelin / Gelin gelin ...Evleri benzer hana / Gözleri benzer camaMail oldum sana / yandım Name gelin / Gelin gelin ...</p>",
-  "sozler_duz": "Evleri var engin / Babası var zenginName benim dengim / Yandım Name gelinGelin gelin gelin / Öldüm Name gelinBir tomurcuk gül iken / Soldum Name gelinKaşlarında rastık / Baş altında yastıkName ile küstük / Yandım Name gelin / Gelin gelin ...Evleri benzer hana / Gözleri benzer camaMail oldum sana / yandım Name gelin / Gelin gelin ...",
-  "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Evleri var engin&nbsp;</p><p>Babası var zengin</p><p>Name benim dengim&nbsp;</p><p>Yandım Name gelin</p><p><br></p><p><b>Gelin gelin gelin&nbsp;</b></p><p><b>Öldüm Name gelin</b></p><p><b>Bir tomurcuk gül iken&nbsp;</b></p><p><b>Soldum Name gelin</b></p><p><br></p><p>Kaşlarında rastık&nbsp;</p><p>Baş altında yastık</p><p>Name ile küstük&nbsp;&nbsp;</p><p>Yandım Name gelin&nbsp;</p><p><br></p><p><b>Gelin gelin ...</b></p><p><br></p><p>Evleri benzer hana&nbsp;</p><p>Gözleri benzer cama</p><p>Mail oldum sana&nbsp;</p><p>yandım Name gelin&nbsp;</p><p><br></p><p><b>Gelin gelin ...</b></p>",
+  "sozler_duz": "Evleri var engin \n\nBabası var zengin\n\nName benim dengim \n\nYandım Name gelin\n\nGelin gelin gelin \n\nÖldüm Name gelin\n\nBir tomurcuk gül iken \n\nSoldum Name gelin\n\nKaşlarında rastık \n\nBaş altında yastık\n\nName ile küstük  \n\nYandım Name gelin \n\nGelin gelin ...\n\nEvleri benzer hana \n\nGözleri benzer cama\n\nMail oldum sana \n\nyandım Name gelin \n\nGelin gelin ...",
+  "meta": {},
   "sistem": {
     "eski_id": 5278,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T18:31:42.447Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
