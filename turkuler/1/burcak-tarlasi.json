@@ -1,26 +1,15 @@
 {
   "id": "burcak-tarlasi",
-  "baslik": "Burçak Tarlası_",
-  "sozler_html": "<p>Sabahtan Kalktım Da Ezan Sesi VarEzan Da Sesi Değil Yavrum Burçak Yası VarSorun Şu Muhtarın Kaç Tarlası VarAmanın Da Kızlar Ne Zorumuş Burçak YolmasıBurçak Tarlasına Yar Yar Gelin OlmasıSabahtan Kalktım Da Südü PişirdimSüdün De Kaymağını Yar Yar Yere TaşırdımBurçak Tarlasında Aklım ŞaşırdımAmanın Da Kızlar Ne Zorumuş Burçak YolmasıBurçak Tarlasına Yar Yar Gelin OlmasıKolumu Salladım Değdi Tikeneİnkisar Ederim Yar Yar Burçak Ekeneİlahi Kaynana Ömrün TükeneAmanın Da Kızlar Ne Zorumuş Burçak YolmasıBurçak Tarlasına Yar Yar Gelin Olması</p>",
-  "sozler_duz": "Sabahtan Kalktım Da Ezan Sesi VarEzan Da Sesi Değil Yavrum Burçak Yası VarSorun Şu Muhtarın Kaç Tarlası VarAmanın Da Kızlar Ne Zorumuş Burçak YolmasıBurçak Tarlasına Yar Yar Gelin OlmasıSabahtan Kalktım Da Südü PişirdimSüdün De Kaymağını Yar Yar Yere TaşırdımBurçak Tarlasında Aklım ŞaşırdımAmanın Da Kızlar Ne Zorumuş Burçak YolmasıBurçak Tarlasına Yar Yar Gelin OlmasıKolumu Salladım Değdi Tikeneİnkisar Ederim Yar Yar Burçak Ekeneİlahi Kaynana Ömrün TükeneAmanın Da Kızlar Ne Zorumuş Burçak YolmasıBurçak Tarlasına Yar Yar Gelin Olması",
+  "baslik": "Burçak Tarlası",
+  "sozler_html": "<p>Sabahtan\nkalktım da ezan sesi var</p><p>Ezan da sesi değil yavrum burçak yası var</p><p>Sorun şu deyyusun kaç tarlası var</p><p>&nbsp;</p><p><b>Amanın da kızlar ne zorumuş burçak yolması</b></p><p><b>Burçak tarlasına yar yar gelin olması</b></p><p>&nbsp;</p><p>Sabahtan kalktım da südü pişirdim</p><p>Südün de kaymağını yar yar yere taşırdım</p><p>Burçak tarlasında aklım şaşırdım</p><p>&nbsp;</p><p><b>Amanın da kızlar ne zorumuş burçak yolması</b></p><p><b>Burçak tarlasına yar yar gelin olması</b></p><p>&nbsp;</p><p>Kolumu salladım değdi tikene</p><p>İnkisar ederim yar yar burçak ekene</p><p>İlahi kaynana ömrün tükene</p><p>&nbsp;</p><p><b>Amanın da kızlar ne zorumuş burçak yolması</b></p><p><b>Burçak tarlasına yar yar gelin olması</b></p>",
+  "sozler_duz": "Sabahtan kalktım da ezan sesi var\n\nEzan da sesi değil yavrum burçak yası var\n\nSorun şu deyyusun kaç tarlası var\n\n \n\nAmanın da kızlar ne zorumuş burçak yolması\n\nBurçak tarlasına yar yar gelin olması\n\n \n\nSabahtan kalktım da südü pişirdim\n\nSüdün de kaymağını yar yar yere taşırdım\n\nBurçak tarlasında aklım şaşırdım\n\n \n\nAmanın da kızlar ne zorumuş burçak yolması\n\nBurçak tarlasına yar yar gelin olması\n\n \n\nKolumu salladım değdi tikene\n\nİnkisar ederim yar yar burçak ekene\n\nİlahi kaynana ömrün tükene\n\n \n\nAmanın da kızlar ne zorumuş burçak yolması\n\nBurçak tarlasına yar yar gelin olması",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "yore": "Tokat"
   },
   "sistem": {
     "eski_id": 3620,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:00:12.149Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
