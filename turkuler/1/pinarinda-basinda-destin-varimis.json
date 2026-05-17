@@ -2,25 +2,14 @@
   "id": "pinarinda-basinda-destin-varimis",
   "baslik": "PINARINDA BAŞINDA DESTİN VARİMİŞ",
   "sozler_html": "<p>Pınarın başında destin varımış</p>\n<p>A gız senin benden başka dostun varımış</p>\n<p>Beni öldürmeye kastın varımış</p>\n<p class=\"bos\"></p>\n<p><b>Söyle yarim söyle ayrılık günü</b></p>\n<p><b>Söyle gelin söyle muhabbet sonu</b></p>\n<p class=\"bos\"></p>\n<p>Pınarın başında desti doldurur</p>\n<p>Destinin gulpuna şahin kondurur</p>\n<p>Kız senin bakışın beni öldürür</p>\n<p class=\"bos\"></p>\n<p><b>Söyle yarim söyle...</b></p>\n<p class=\"bos\"></p>\n<p>Karşıdan karşıya yedi kat dağlar</p>\n<p>Bir yandan bir yana bahçalar bağlar</p>\n<p>Gurbette hasretle geçmiyor aylar</p>\n<p class=\"bos\"></p>\n<p><b>Söyle yarim söyle...</b></p>",
-  "sozler_duz": "Pınarın başında destin varımış A gız senin benden başka dostun varımış Beni öldürmeye kastın varımış Söyle yarim söyle ayrılık günü Söyle gelin söyle muhabbet sonu Pınarın başında desti doldurur Destinin gulpuna şahin kondurur Kız senin bakışın beni öldürür Söyle yarim söyle... Karşıdan karşıya yedi kat dağlar Bir yandan bir yana bahçalar bağlar Gurbette hasretle geçmiyor aylar Söyle yarim söyle...",
+  "sozler_duz": "Pınarın başında destin varımış\n\nA gız senin benden başka dostun varımış\n\nBeni öldürmeye kastın varımış\n\nSöyle yarim söyle ayrılık günü\n\nSöyle gelin söyle muhabbet sonu\n\nPınarın başında desti doldurur\n\nDestinin gulpuna şahin kondurur\n\nKız senin bakışın beni öldürür\n\nSöyle yarim söyle...\n\nKarşıdan karşıya yedi kat dağlar\n\nBir yandan bir yana bahçalar bağlar\n\nGurbette hasretle geçmiyor aylar\n\nSöyle yarim söyle...",
   "meta": {
-    "yore": "Orta Anadolu",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Yöre Ekibi-Trt Mzk. Dai. Bşk. Thm Mdr",
-    "aciklama": ""
+    "yore": "Orta Anadolu"
   },
   "sistem": {
     "eski_id": 4665,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:29:00.975Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
