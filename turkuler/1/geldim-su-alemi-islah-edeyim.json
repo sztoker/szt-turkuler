@@ -1,26 +1,16 @@
 {
   "id": "geldim-su-alemi-islah-edeyim",
-  "baslik": "Geldim Şu Alemi Islah Edeyim_",
-  "sozler_html": "<p>Geldim Şu Alemi Islah EdeyimÖzümü Meydanda Gördüm SonradanZaman Mahlukuna Meylimi VerdimSermayemden Zarar Gördüm SonradanSu Zalimin Kara Kara YüzleriYaramıza Yaramadı Tuzlarıİki Dilli Su Cahilin SözleriDurdukça Kar Etti Canan SonradanGeldi Bizim İle Sevdi SeviştiAl Kadeh Ver Kadeh Doldurdu İçtiSadık Yarim Diye Yeminler İçtiÖzü Çürük İmiş Duyduk Sonradan</p>",
-  "sozler_duz": "Geldim Şu Alemi Islah EdeyimÖzümü Meydanda Gördüm SonradanZaman Mahlukuna Meylimi VerdimSermayemden Zarar Gördüm SonradanSu Zalimin Kara Kara YüzleriYaramıza Yaramadı Tuzlarıİki Dilli Su Cahilin SözleriDurdukça Kar Etti Canan SonradanGeldi Bizim İle Sevdi SeviştiAl Kadeh Ver Kadeh Doldurdu İçtiSadık Yarim Diye Yeminler İçtiÖzü Çürük İmiş Duyduk Sonradan",
+  "baslik": "Geldim Şu Alemi Islah Edeyim",
+  "sozler_html": "<p>Geldim Şu Alemi Islah Edeyim</p><p>Özümü Meydanda Gördüm Sonradan</p><p>Zaman Mahlukuna Meylimi Verdim</p><p>Sermayemden Zarar Gördüm Sonradan</p><p><br></p><p>Su Zalimin Kara Kara Yüzleri</p><p>Yaramıza Yaramadı Tuzları</p><p>İki Dilli Su Cahilin Sözleri</p><p>Durdukça Kar Etti Canan Sonradan</p><p><br></p><p>Geldi Bizim İle Sevdi Sevişti</p><p>Al Kadeh Ver Kadeh Doldurdu İçti</p><p>Sadık Yarim Diye Yeminler İçti</p><p>Özü Çürük İmiş Duyduk Sonradan</p>",
+  "sozler_duz": "Geldim Şu Alemi Islah Edeyim\n\nÖzümü Meydanda Gördüm Sonradan\n\nZaman Mahlukuna Meylimi Verdim\n\nSermayemden Zarar Gördüm Sonradan\n\nSu Zalimin Kara Kara Yüzleri\n\nYaramıza Yaramadı Tuzları\n\nİki Dilli Su Cahilin Sözleri\n\nDurdukça Kar Etti Canan Sonradan\n\nGeldi Bizim İle Sevdi Sevişti\n\nAl Kadeh Ver Kadeh Doldurdu İçti\n\nSadık Yarim Diye Yeminler İçti\n\nÖzü Çürük İmiş Duyduk Sonradan",
   "meta": {
     "yore": "Sivas",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Feyzullah Çınar-TRT Müz. Dairesi Bşk",
-    "aciklama": ""
+    "kaynak_kisi": "Feyzullah Çınar"
   },
   "sistem": {
     "eski_id": 5405,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T21:01:04.832Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
