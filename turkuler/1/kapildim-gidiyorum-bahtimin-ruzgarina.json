@@ -1,8 +1,8 @@
 {
   "id": "kapildim-gidiyorum-bahtimin-ruzgarina",
   "baslik": "KAPILDIM GİDİYORUM BAHTIMIN RÜZGARINA",
-  "sozler_html": "<p>Kapıldım gidiyorum</p>\n<p>B ahtımın rüzgarına</p>\n<p>Ey ufuklar diyorum</p>\n<p>Y olculuk var yarına</p>\n<p class=\"bos\"></p>\n<p>Ayrılık görünmüşken</p>\n<p>Y ar tutmuyor elimden</p>\n<p>Misafirim bugün ben</p>\n<p>G urbet akşamlarına</p>",
-  "sozler_duz": "Kapıldım gidiyorum\n\nB ahtımın rüzgarına\n\nEy ufuklar diyorum\n\nY olculuk var yarına\n\nAyrılık görünmüşken\n\nY ar tutmuyor elimden\n\nMisafirim bugün ben\n\nG urbet akşamlarına",
+  "sozler_html": "<p>Kapıldım gidiyorum</p>\n<p>Bahtımın rüzgarına</p>\n<p>Ey ufuklar diyorum</p>\n<p>Yolculuk var yarına</p>\n<p class=\"bos\"></p>\n<p>Ayrılık görünmüşken</p>\n<p>Yar tutmuyor elimden</p>\n<p>Misafirim bugün ben</p>\n<p>Gurbet akşamlarına</p>",
+  "sozler_duz": "Kapıldım gidiyorum\n\nBahtımın rüzgarına\n\nEy ufuklar diyorum\n\nYolculuk var yarına\n\nAyrılık görünmüşken\n\nYar tutmuyor elimden\n\nMisafirim bugün ben\n\nGurbet akşamlarına",
   "meta": {
     "turu": "TSM",
     "soz": "Ömer Bedrettin Uşaklı",
@@ -12,7 +12,7 @@
   "sistem": {
     "eski_id": 5227,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-17T20:24:09.089Z",
+    "son_degisiklik": "2026-05-17T20:24:26.385Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
