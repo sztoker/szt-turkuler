@@ -1,26 +1,17 @@
 {
   "id": "keklik-gibi-kanadimi-suzmedim",
-  "baslik": "Keklik Gibi Kanadımı Süzmedim _",
-  "sozler_html": "<p>Keklik Gibi Kanadımı SüzmedimMurat Alıp Doya Doya GezmedimBu Kara Yazıyı Kendim YazmadımAlnıma Yazılmış Bu Kara YazıKader Böyleyimiş Ağlarım BazıGönül Ey Sebebim EyŞu Gonca Gülleri Ben DermedimÇifte Bülbülleri KonduramadımKadir Kıymetimi BildiremedimAlnıma Yazılmış Bu Kara YazıKader Böyleyimiş Ağlarım BazıGönül Ey Sebebim EyGeceleri Uyku Girmez GözümeZalım Yastık Diken Oldu GözümeUyma Dedim Uydun Eller Sözüne.Alnıma Yazılmış Bu Kara Yazı,Kader Böyle İmiş Ağlarım BazıGönül Ey Sebebim Ey</p>",
-  "sozler_duz": "Keklik Gibi Kanadımı SüzmedimMurat Alıp Doya Doya GezmedimBu Kara Yazıyı Kendim YazmadımAlnıma Yazılmış Bu Kara YazıKader Böyleyimiş Ağlarım BazıGönül Ey Sebebim EyŞu Gonca Gülleri Ben DermedimÇifte Bülbülleri KonduramadımKadir Kıymetimi BildiremedimAlnıma Yazılmış Bu Kara YazıKader Böyleyimiş Ağlarım BazıGönül Ey Sebebim EyGeceleri Uyku Girmez GözümeZalım Yastık Diken Oldu GözümeUyma Dedim Uydun Eller Sözüne.Alnıma Yazılmış Bu Kara Yazı,Kader Böyle İmiş Ağlarım BazıGönül Ey Sebebim Ey",
+  "baslik": "Keklik Gibi Kanadımı Süzmedim",
+  "sozler_html": "<p>Keklik\ngibi kanadımı süzmedim</p><p>Murat alıp doya doya gezmedim</p><p>Bu kara yazıyı kendim yazmadım</p><p>&nbsp;</p><p><b>Alnıma\nyazılmış bu kara yazı</b></p><p><b>Kader\nböyleyimiş ağlarım bazı</b></p><p><b>Gönül ey\nsebebim ey</b></p><p>&nbsp;</p><p>Şu gonca gülleri ben dermedim</p><p>Çifte bülbülleri konduramadım</p><p>Kadir kıymetimi bildiremedim</p><p>&nbsp;</p><p><b>Alnıma\nyazılmış bu kara yazı</b></p><p><b>Kader\nböyleyimiş ağlarım bazı</b></p><p><b>Gönül ey\nsebebim ey</b></p><p>&nbsp;</p><p>Geceleri uyku girmez gözüme</p><p>Zalım yastık diken oldu gözüme</p><p>Uyma dedim uydun eller sözüne</p><p>&nbsp;</p><p><b>Alnıma\nyazılmış bu kara yazı</b></p><p><b>Kader böyle\nimiş ağlarım bazı</b></p><p><b>Gönül ey\nsebebim ey</b></p>",
+  "sozler_duz": "Keklik gibi kanadımı süzmedim\n\nMurat alıp doya doya gezmedim\n\nBu kara yazıyı kendim yazmadım\n\n \n\nAlnıma yazılmış bu kara yazı\n\nKader böyleyimiş ağlarım bazı\n\nGönül ey sebebim ey\n\n \n\nŞu gonca gülleri ben dermedim\n\nÇifte bülbülleri konduramadım\n\nKadir kıymetimi bildiremedim\n\n \n\nAlnıma yazılmış bu kara yazı\n\nKader böyleyimiş ağlarım bazı\n\nGönül ey sebebim ey\n\n \n\nGeceleri uyku girmez gözüme\n\nZalım yastık diken oldu gözüme\n\nUyma dedim uydun eller sözüne\n\n \n\nAlnıma yazılmış bu kara yazı\n\nKader böyle imiş ağlarım bazı\n\nGönül ey sebebim ey",
   "meta": {
     "yore": "Erzincan",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Salih Dündar-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Salih Dündar"
   },
   "sistem": {
     "eski_id": 5818,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:50:39.591Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
