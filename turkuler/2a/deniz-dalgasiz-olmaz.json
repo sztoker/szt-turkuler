@@ -1,26 +1,16 @@
 {
   "id": "deniz-dalgasiz-olmaz",
   "baslik": "DENİZ DALGASIZ OLMAZ",
-  "sozler_html": "<p>Vah gülüm deniz dalgasız olmaz –ah kurban deniz dalgasız olmazVah gülüm güzel sevdasız olmaz –güzel sevdasız olmaz -2Vah gülüm yiğidin alan yiğidin –ah kurban yiğit olan yiğidinVah gülüm başı boransız olmaz –başı boransız olmaz -2Vay gülüm sen nerdesin nerdesinVay gülüm kaldır camın perdesinVay kurban alacağım ben seniVay gülüm kalabalık yerdesinDeli deli deli deli deli deli deli ... –kalabalık yerdesinVay gülüm denize dalayım mıVay gülüm bir balık alayım mıVay gülüm ay doğdu şafak attıVay gülüm daha yalvarayım mı</p>",
-  "sozler_duz": "Vah gülüm deniz dalgasız olmaz –ah kurban deniz dalgasız olmazVah gülüm güzel sevdasız olmaz –güzel sevdasız olmaz -2Vah gülüm yiğidin alan yiğidin –ah kurban yiğit olan yiğidinVah gülüm başı boransız olmaz –başı boransız olmaz -2Vay gülüm sen nerdesin nerdesinVay gülüm kaldır camın perdesinVay kurban alacağım ben seniVay gülüm kalabalık yerdesinDeli deli deli deli deli deli deli ... –kalabalık yerdesinVay gülüm denize dalayım mıVay gülüm bir balık alayım mıVay gülüm ay doğdu şafak attıVay gülüm daha yalvarayım mı",
+  "sozler_html": "<p>Vah gülüm deniz dalgasız olmaz&nbsp;</p><p>ah kurban deniz dalgasız olmaz</p><p>Vah gülüm güzel sevdasız olmaz&nbsp;</p><p>güzel sevdasız olmaz -2</p><p><br></p><p>Vah gülüm yiğidin alan yiğidin&nbsp;</p><p>ah kurban yiğit olan yiğidin</p><p>Vah gülüm başı boransız olmaz&nbsp;</p><p>başı boransız olmaz -2</p><p><br></p><p>Vay gülüm sen nerdesin nerdesin</p><p>Vay gülüm kaldır camın perdesin</p><p>Vay kurban alacağım ben seni</p><p>Vay gülüm kalabalık yerdesin</p><p>Deli deli deli deli deli deli deli&nbsp;</p><p>kalabalık yerdesin</p><p><br></p><p>Vay gülüm denize dalayım mı</p><p>Vay gülüm bir balık alayım mı</p><p>Vay gülüm ay doğdu şafak attı</p><p>Vay gülüm daha yalvarayım mı</p>",
+  "sozler_duz": "Vah gülüm deniz dalgasız olmaz \n\nah kurban deniz dalgasız olmaz\n\nVah gülüm güzel sevdasız olmaz \n\ngüzel sevdasız olmaz -2\n\nVah gülüm yiğidin alan yiğidin \n\nah kurban yiğit olan yiğidin\n\nVah gülüm başı boransız olmaz \n\nbaşı boransız olmaz -2\n\nVay gülüm sen nerdesin nerdesin\n\nVay gülüm kaldır camın perdesin\n\nVay kurban alacağım ben seni\n\nVay gülüm kalabalık yerdesin\n\nDeli deli deli deli deli deli deli \n\nkalabalık yerdesin\n\nVay gülüm denize dalayım mı\n\nVay gülüm bir balık alayım mı\n\nVay gülüm ay doğdu şafak attı\n\nVay gülüm daha yalvarayım mı",
   "meta": {
-    "yore": "KIRŞEHİR          K: Muharrem Ertaş",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "KIRŞEHİR          K: Muharrem Ertaş",
-    "aciklama": ""
+    "yore": "KIRŞEHİR",
+    "kaynak_kisi": "Muharrem Ertaş"
   },
   "sistem": {
     "eski_id": 662,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T13:23:29.878Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
