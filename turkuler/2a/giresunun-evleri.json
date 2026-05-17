@@ -1,26 +1,15 @@
 {
   "id": "giresunun-evleri",
   "baslik": "GİRESUN’UN EVLERİ",
-  "sozler_html": "<p>Giresun’un evleri / Şima ile kaynamaKız benimle oynadın / Başkasıyla oynamaNinnay aslanım ninnay / Ninnay a gülüm ninnayGiresun’da kayıklar / Kızlar fındık ayıklarSevenler sevdiğini  / Gece gündüz sayıklar / Ninnay ...</p>",
-  "sozler_duz": "Giresun’un evleri / Şima ile kaynamaKız benimle oynadın / Başkasıyla oynamaNinnay aslanım ninnay / Ninnay a gülüm ninnayGiresun’da kayıklar / Kızlar fındık ayıklarSevenler sevdiğini / Gece gündüz sayıklar / Ninnay ...",
+  "sozler_html": "<p>Giresun’un evleri&nbsp;</p><p>Şima ile kaynama</p><p>Kız benimle oynadın&nbsp;</p><p>Başkasıyla oynama</p><p><br></p><p><b>Ninnay aslanım ninnay&nbsp;</b></p><p><b>Ninnay a gülüm ninnay</b></p><p><br></p><p>Giresun’da kayıklar&nbsp;</p><p>Kızlar fındık ayıklar</p><p>Sevenler sevdiğini&nbsp;</p><p>Gece gündüz sayıklar&nbsp;</p><p><br></p><p><b>Ninnay ...</b></p>",
+  "sozler_duz": "Giresun’un evleri \n\nŞima ile kaynama\n\nKız benimle oynadın \n\nBaşkasıyla oynama\n\nNinnay aslanım ninnay \n\nNinnay a gülüm ninnay\n\nGiresun’da kayıklar \n\nKızlar fındık ayıklar\n\nSevenler sevdiğini \n\nGece gündüz sayıklar \n\nNinnay ...",
   "meta": {
-    "yore": "GİRESUN",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "GİRESUN",
-    "aciklama": ""
+    "yore": "GİRESUN"
   },
   "sistem": {
     "eski_id": 5442,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T16:16:34.631Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
