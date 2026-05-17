@@ -2,25 +2,14 @@
   "id": "almanya-aci-vatan",
   "baslik": "ALMANYA ACI VATAN",
   "sozler_html": "<p>O vay beni ağlarum / Amman Alim – Ağlarum yana yana</p>\n<p>Hayde hayde - ağlarum yana yana</p>\n<p>Derdimi diyeceğum / Amman Alim – Hiç derdi olmiyana</p>\n<p>Hayde hayde - hiç derdi olmiyana</p>\n<p class=\"bos\"></p>\n<p>Gemiler yanaşmaz mı / Sandallar dolaşmaz mı</p>\n<p>Sil gözünün yaşini / Ayrılan kavuşmaz mı</p>\n<p class=\"bos\"></p>\n<p>*********</p>\n<p>Almanya gemileri –Almanya gemileri</p>\n<p>Bir ileri bir geri – Bir ileri bir geri</p>\n<p>Kör olsun Alamanya – Kör olsun Alamanya</p>\n<p>Ağlattı gelinleri – Ağlattı gelinleri</p>\n<p class=\"bos\"></p>\n<p>*********</p>\n<p>Almanya acı vatan / Adama hiç gülmeyi</p>\n<p>Nedendir bilemedim / Bazıları gelmeyi</p>\n<p class=\"bos\"></p>\n<p>Almanya’ya gitmişsin / Orada evlenmişsin</p>\n<p>Tam yedi sene oldu / Evine dönmemişsin</p>\n<p class=\"bos\"></p>\n<p>Az çok para yollarsın / Bu para neye yarar</p>\n<p>Beş çocuklu ailen / Hepisi seni arar</p>\n<p class=\"bos\"></p>\n<p>Üçü kız iki oğlan / Kime bırakıp gittin</p>\n<p>Böyle güzel yuvayı / Ateşe yakıp gittin</p>",
-  "sozler_duz": "O vay beni ağlarum / Amman Alim – Ağlarum yana yana Hayde hayde - ağlarum yana yana Derdimi diyeceğum / Amman Alim – Hiç derdi olmiyana Hayde hayde - hiç derdi olmiyana Gemiler yanaşmaz mı / Sandallar dolaşmaz mı Sil gözünün yaşini / Ayrılan kavuşmaz mı ********* Almanya gemileri –Almanya gemileri Bir ileri bir geri – Bir ileri bir geri Kör olsun Alamanya – Kör olsun Alamanya Ağlattı gelinleri – Ağlattı gelinleri ********* Almanya acı vatan / Adama hiç gülmeyi Nedendir bilemedim / Bazıları gelmeyi Almanya’ya gitmişsin / Orada evlenmişsin Tam yedi sene oldu / Evine dönmemişsin Az çok para yollarsın / Bu para neye yarar Beş çocuklu ailen / Hepisi seni arar Üçü kız iki oğlan / Kime bırakıp gittin Böyle güzel yuvayı / Ateşe yakıp gittin",
+  "sozler_duz": "O vay beni ağlarum / Amman Alim – Ağlarum yana yana\n\nHayde hayde - ağlarum yana yana\n\nDerdimi diyeceğum / Amman Alim – Hiç derdi olmiyana\n\nHayde hayde - hiç derdi olmiyana\n\nGemiler yanaşmaz mı / Sandallar dolaşmaz mı\n\nSil gözünün yaşini / Ayrılan kavuşmaz mı\n\n*********\n\nAlmanya gemileri –Almanya gemileri\n\nBir ileri bir geri – Bir ileri bir geri\n\nKör olsun Alamanya – Kör olsun Alamanya\n\nAğlattı gelinleri – Ağlattı gelinleri\n\n*********\n\nAlmanya acı vatan / Adama hiç gülmeyi\n\nNedendir bilemedim / Bazıları gelmeyi\n\nAlmanya’ya gitmişsin / Orada evlenmişsin\n\nTam yedi sene oldu / Evine dönmemişsin\n\nAz çok para yollarsın / Bu para neye yarar\n\nBeş çocuklu ailen / Hepisi seni arar\n\nÜçü kız iki oğlan / Kime bırakıp gittin\n\nBöyle güzel yuvayı / Ateşe yakıp gittin",
   "meta": {
-    "yore": "KARADENİZ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "KARADENİZ",
-    "aciklama": ""
+    "yore": "KARADENİZ"
   },
   "sistem": {
     "eski_id": 412,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:29:44.477Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
