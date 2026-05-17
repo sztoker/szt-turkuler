@@ -6,13 +6,12 @@
   "meta": {
     "yore": "Adıyaman",
     "derleyen": "Emin Aldemir",
-    "kaynak_kisi": "Ragıp Binzat",
-    "karar": "Re"
+    "kaynak_kisi": "Ragıp Binzat"
   },
   "sistem": {
     "eski_id": 3336,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-27T21:25:47.027Z",
+    "son_degisiklik": "2026-05-17T19:30:13.084Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
