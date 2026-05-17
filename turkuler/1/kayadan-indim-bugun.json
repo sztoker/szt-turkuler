@@ -2,25 +2,14 @@
   "id": "kayadan-indim-bugun",
   "baslik": "KAYADAN İNDİM BUGÜN",
   "sozler_html": "<p>Kayadan indim bugün</p>\n<p>Elimde altın güğüm</p>\n<p>Her gün gördüğüm yari</p>\n<p>Ne dün gördüm ne bugün</p>\n<p class=\"bos\"></p>\n<p>Kale dibi saz olur</p>\n<p>Gül açılır yaz olur</p>\n<p>Ben yarime gül demem</p>\n<p>Gülün ömrü az olur</p>",
-  "sozler_duz": "Kayadan indim bugün Elimde altın güğüm Her gün gördüğüm yari Ne dün gördüm ne bugün Kale dibi saz olur Gül açılır yaz olur Ben yarime gül demem Gülün ömrü az olur",
+  "sozler_duz": "Kayadan indim bugün\n\nElimde altın güğüm\n\nHer gün gördüğüm yari\n\nNe dün gördüm ne bugün\n\nKale dibi saz olur\n\nGül açılır yaz olur\n\nBen yarime gül demem\n\nGülün ömrü az olur",
   "meta": {
-    "yore": "KIRIM  ?  SİNOP",
-    "turu": "",
-    "turu2": "T",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "La",
-    "diger_bilgiler": "KIRIM  ?  SİNOP",
-    "aciklama": ""
+    "yore": "KIRIM  ?  SİNOP"
   },
   "sistem": {
     "eski_id": 32,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:50:53.294Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
