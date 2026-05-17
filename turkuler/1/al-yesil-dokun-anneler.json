@@ -2,25 +2,16 @@
   "id": "al-yesil-dokun-anneler",
   "baslik": "AL YEŞİL DÖKÜN ANNELER",
   "sozler_html": "<p>Al yeşil dökün anneler mezar taşıma -2</p>\n<p>Gelen ağlar giden ağlar ah bu genç yaşıma -2</p>\n<p>Bu ne felaketti geldi başıma -2</p>\n<p>Rahmetmiyor zalım felek kanlı yaşıma -2</p>\n<p class=\"bos\"></p>\n<p>Kuloğlu'yum mesare de bin rahmet olsun -2</p>\n<p>Yüreğimden vurdular beni tabip (2-doktor) ne yapsın -2</p>\n<p>Potin ayağımda igal başımda kalsın -2</p>\n<p>Ciğerimden vurdular beni doktor (tabip) ne yapsın -2</p>",
-  "sozler_duz": "Al yeşil dökün anneler mezar taşıma -2 Gelen ağlar giden ağlar ah bu genç yaşıma -2 Bu ne felaketti geldi başıma -2 Rahmetmiyor zalım felek kanlı yaşıma -2 Kuloğlu'yum mesare de bin rahmet olsun -2 Yüreğimden vurdular beni tabip (2-doktor) ne yapsın -2 Potin ayağımda igal başımda kalsın -2 Ciğerimden vurdular beni doktor (tabip) ne yapsın -2",
+  "sozler_duz": "Al yeşil dökün anneler mezar taşıma -2\n\nGelen ağlar giden ağlar ah bu genç yaşıma -2\n\nBu ne felaketti geldi başıma -2\n\nRahmetmiyor zalım felek kanlı yaşıma -2\n\nKuloğlu'yum mesare de bin rahmet olsun -2\n\nYüreğimden vurdular beni tabip (2-doktor) ne yapsın -2\n\nPotin ayağımda igal başımda kalsın -2\n\nCiğerimden vurdular beni doktor (tabip) ne yapsın -2",
   "meta": {
     "yore": "URFA",
-    "turu": "1",
-    "turu2": "",
     "derleyen": "Ahmet Yamacı",
-    "kaynak_kisi": "Bedirhan Kırmızı",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "Re - Si",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Bedirhan Kırmızı"
   },
   "sistem": {
     "eski_id": 3300,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:28:19.579Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
