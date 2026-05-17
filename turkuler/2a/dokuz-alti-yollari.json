@@ -1,26 +1,16 @@
 {
   "id": "dokuz-alti-yollari",
   "baslik": "DOKUZ ALTI YOLLARI",
-  "sozler_html": "<p>Çocukluğum henüz sıcak / İnanın sonrası yokSabah akşam çalışırım / Bakmayın tantanaya çokUmutlar bir kasada / Sıkışmış bir masadaDokuz altı yollarında –oyBir ömür geçer buralarda / Sanki yarın dünden uzakBitmeyen bir ızdırap -oyDokuz altı yollarında / Bir zincir boğazımdaSıkar sıkar gevşetemem * ağlayamamAyda yılda bir kaçamak / Kaçsak bile yaşama bakDokuz altı yollarında gülmek yasak – gülmek yasakSavrulmuşuz odalara / Bahara vedalara hasretŞu gördüğün döner koltuk /</p>",
-  "sozler_duz": "Çocukluğum henüz sıcak / İnanın sonrası yokSabah akşam çalışırım / Bakmayın tantanaya çokUmutlar bir kasada / Sıkışmış bir masadaDokuz altı yollarında –oyBir ömür geçer buralarda / Sanki yarın dünden uzakBitmeyen bir ızdırap -oyDokuz altı yollarında / Bir zincir boğazımdaSıkar sıkar gevşetemem * ağlayamamAyda yılda bir kaçamak / Kaçsak bile yaşama bakDokuz altı yollarında gülmek yasak – gülmek yasakSavrulmuşuz odalara / Bahara vedalara hasretŞu gördüğün döner koltuk /",
+  "sozler_html": "<p>Çocukluğum henüz sıcak</p><p>İnanın sonrası yok</p><p>Sabah akşam çalışırım&nbsp;</p><p>Bakmayın tantanaya çok</p><p><br></p><p>Umutlar bir kasada&nbsp;</p><p>Sıkışmış bir masada</p><p>Dokuz altı yollarında –oy</p><p>Bir ömür geçer buralarda&nbsp;</p><p><br></p><p>Sanki yarın dünden uzak</p><p>Bitmeyen bir ızdırap -oy</p><p>Dokuz altı yollarında&nbsp;</p><p>Bir zincir boğazımda</p><p>Sıkar sıkar gevşetemem * ağlayamam</p><p><br></p><p>Ayda yılda bir kaçamak&nbsp;</p><p>Kaçsak bile yaşama bak</p><p>Dokuz altı yollarında&nbsp;</p><p>gülmek yasak – gülmek yasak</p><p>Savrulmuşuz odalara&nbsp;</p><p>Bahara vedalara hasret</p><p>Şu gördüğün döner koltuk&nbsp;</p>",
+  "sozler_duz": "Çocukluğum henüz sıcak\n\nİnanın sonrası yok\n\nSabah akşam çalışırım \n\nBakmayın tantanaya çok\n\nUmutlar bir kasada \n\nSıkışmış bir masada\n\nDokuz altı yollarında –oy\n\nBir ömür geçer buralarda \n\nSanki yarın dünden uzak\n\nBitmeyen bir ızdırap -oy\n\nDokuz altı yollarında \n\nBir zincir boğazımda\n\nSıkar sıkar gevşetemem * ağlayamam\n\nAyda yılda bir kaçamak \n\nKaçsak bile yaşama bak\n\nDokuz altı yollarında \n\ngülmek yasak – gülmek yasak\n\nSavrulmuşuz odalara \n\nBahara vedalara hasret\n\nŞu gördüğün döner koltuk",
   "meta": {
-    "yore": "Efkan Şeşen",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Efkan Şeşen",
-    "aciklama": ""
+    "soz": "Efkan Şeşen",
+    "muzik": "Efkan Şeşen"
   },
   "sistem": {
     "eski_id": 687,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T15:02:33.048Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
