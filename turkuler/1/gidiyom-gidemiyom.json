@@ -2,25 +2,14 @@
   "id": "gidiyom-gidemiyom",
   "baslik": "GİDİYOM GİDEMİYOM",
   "sozler_html": "<p>Aman hey aman of (Kezban-4)</p>\n<p>Gidiyom gidemiyom / Az doldur içemiyom</p>\n<p>yandım aman / yanasın aman / öldüm aman</p>\n<p>Sen benden geçtin ama/Ben senden geçemiyom -vay vay</p>\n<p>Anasına kızına / Duvardaki sazına</p>\n<p>Sandıktaki bezine / Yandım ela gözüne</p>\n<p class=\"bos\"></p>\n<p>Oyna sevdiğim oyna / Bu dünya kalmaz böyle</p>\n<p>Sen bana varacaksan / Gel yarim doğru söyle</p>\n<p class=\"bos\"></p>\n<p>Pencerenin göynüne / Kol olsun da dayansın</p>\n<p>Bu sevdanın sonuna / Can olsun da dayansın</p>\n<p class=\"bos\"></p>\n<p>Elma aldım Bartın’dan / Tabancamlar altından</p>\n<p>Yeniden bir yar sevdim / Vazgeçmiyor nazından</p>",
-  "sozler_duz": "Aman hey aman of (Kezban-4) Gidiyom gidemiyom / Az doldur içemiyom yandım aman / yanasın aman / öldüm aman Sen benden geçtin ama/Ben senden geçemiyom -vay vay Anasına kızına / Duvardaki sazına Sandıktaki bezine / Yandım ela gözüne Oyna sevdiğim oyna / Bu dünya kalmaz böyle Sen bana varacaksan / Gel yarim doğru söyle Pencerenin göynüne / Kol olsun da dayansın Bu sevdanın sonuna / Can olsun da dayansın Elma aldım Bartın’dan / Tabancamlar altından Yeniden bir yar sevdim / Vazgeçmiyor nazından",
+  "sozler_duz": "Aman hey aman of (Kezban-4)\n\nGidiyom gidemiyom / Az doldur içemiyom\n\nyandım aman / yanasın aman / öldüm aman\n\nSen benden geçtin ama/Ben senden geçemiyom -vay vay\n\nAnasına kızına / Duvardaki sazına\n\nSandıktaki bezine / Yandım ela gözüne\n\nOyna sevdiğim oyna / Bu dünya kalmaz böyle\n\nSen bana varacaksan / Gel yarim doğru söyle\n\nPencerenin göynüne / Kol olsun da dayansın\n\nBu sevdanın sonuna / Can olsun da dayansın\n\nElma aldım Bartın’dan / Tabancamlar altından\n\nYeniden bir yar sevdim / Vazgeçmiyor nazından",
   "meta": {
-    "yore": "ÇAYCUMA / ZONGULDAK",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ÇAYCUMA / ZONGULDAK",
-    "aciklama": ""
+    "yore": "ÇAYCUMA / ZONGULDAK"
   },
   "sistem": {
     "eski_id": 838,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:19:05.529Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
