@@ -1,26 +1,15 @@
 {
   "id": "diyarbakir-oluleri",
   "baslik": "DİYARBAKIR ÖLÜLERİ",
-  "sozler_html": "<p>İçimde bir ülke ağlar / Oturmuş sınırlarına saçını tararBir çam devrilir hüznüme / Dalından bir kuş kalkarDiyarbakır ölüleriKuşun kanadına konar / Sabah yoklar demir örgüleriAçamam ki sımsıkı gözlerimin içinde / Diyarbakır ölüleriKim bilir ne güzeldir / Dinlemek dillerinde inanç türküleriniBasıp doğrulacak elbet kendi külleriyle / Diyarbakır ölüleri</p>",
-  "sozler_duz": "İçimde bir ülke ağlar / Oturmuş sınırlarına saçını tararBir çam devrilir hüznüme / Dalından bir kuş kalkarDiyarbakır ölüleriKuşun kanadına konar / Sabah yoklar demir örgüleriAçamam ki sımsıkı gözlerimin içinde / Diyarbakır ölüleriKim bilir ne güzeldir / Dinlemek dillerinde inanç türküleriniBasıp doğrulacak elbet kendi külleriyle / Diyarbakır ölüleri",
+  "sozler_html": "<p>İçimde bir ülke ağlar&nbsp;</p><p>Oturmuş sınırlarına saçını tarar</p><p>Bir çam devrilir hüznüme&nbsp;</p><p>Dalından bir kuş kalkar</p><p><br></p><p>Diyarbakır ölüleri</p><p>Kuşun kanadına konar&nbsp;</p><p>Sabah yoklar demir örgüleri</p><p>Açamam ki sımsıkı gözlerimin içinde&nbsp;</p><p><br></p><p>Diyarbakır ölüleri</p><p>Kim bilir ne güzeldir&nbsp;</p><p>Dinlemek dillerinde inanç türkülerini</p><p>Basıp doğrulacak elbet kendi külleriyle&nbsp;</p><p>Diyarbakır ölüleri</p>",
+  "sozler_duz": "İçimde bir ülke ağlar \n\nOturmuş sınırlarına saçını tarar\n\nBir çam devrilir hüznüme \n\nDalından bir kuş kalkar\n\nDiyarbakır ölüleri\n\nKuşun kanadına konar \n\nSabah yoklar demir örgüleri\n\nAçamam ki sımsıkı gözlerimin içinde \n\nDiyarbakır ölüleri\n\nKim bilir ne güzeldir \n\nDinlemek dillerinde inanç türkülerini\n\nBasıp doğrulacak elbet kendi külleriyle \n\nDiyarbakır ölüleri",
   "meta": {
-    "yore": "GRUP MERHABA",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "GRUP MERHABA",
-    "aciklama": ""
+    "soyleyenler": "GRUP MERHABA"
   },
   "sistem": {
     "eski_id": 685,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T14:59:44.192Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
