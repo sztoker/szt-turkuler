@@ -1,26 +1,16 @@
 {
   "id": "giresunun-icinde",
-  "baslik": "Giresun'un İçinde_",
-  "sozler_html": "<p>Giresun'un İçindeİki Sokak ArasıAltı Kurşun AttılarÜç De Piçak YarasıVuruldum Düştüm YereGidemedum UzağaNe Edelum SevduğumDüşürdüler TuzağaGiresun'un İçindeYeşil Fındık TarlasıVurdular Sevduğumi (Feride'mi)Yere Düştü KopçasıVuruldum Düştüm Yere Gidemedum Uzağa Ne Edelum Sevduğum Düşürdüler TuzağaVuruldum SevduçeğumKanar Yüreğum KanarAlamadum Ben SeniYanar Yüreğum YanarVuruldum Düştüm Yere Gidemedum Uzağa Ne Edelum Sevduğum Düşürdüler Tuzağa</p>",
-  "sozler_duz": "Giresun'un İçindeİki Sokak ArasıAltı Kurşun AttılarÜç De Piçak YarasıVuruldum Düştüm YereGidemedum UzağaNe Edelum SevduğumDüşürdüler TuzağaGiresun'un İçindeYeşil Fındık TarlasıVurdular Sevduğumi (Feride'mi)Yere Düştü KopçasıVuruldum Düştüm Yere Gidemedum Uzağa Ne Edelum Sevduğum Düşürdüler TuzağaVuruldum SevduçeğumKanar Yüreğum KanarAlamadum Ben SeniYanar Yüreğum YanarVuruldum Düştüm Yere Gidemedum Uzağa Ne Edelum Sevduğum Düşürdüler Tuzağa",
+  "baslik": "Giresun'un İçinde",
+  "sozler_html": "<p>Giresun'un İçinde</p><p>İki Sokak Arası</p><p>Altı Kurşun Attılar</p><p>Üç De Piçak Yarası</p><p><br></p><p><b>Vuruldum Düştüm Yere</b></p><p><b>Gidemedum Uzağa</b></p><p><b>Ne Edelum Sevduğum</b></p><p><b>Düşürdüler Tuzağa</b></p><p><br></p><p>Giresun'un İçinde</p><p>Yeşil Fındık Tarlası</p><p>Vurdular Sevduğumi (Feride'mi)</p><p>Yere Düştü Kopçası</p><p><br></p><p>Vuruldum Düştüm Yere</p><p>Gidemedum Uzağa</p><p>Ne Edelum Sevduğum</p><p>Düşürdüler Tuzağa</p><p><br></p><p>Vuruldum Sevduçeğum</p><p>Kanar Yüreğum Kanar</p><p>Alamadum Ben Seni</p><p>Yanar Yüreğum Yanar</p><p><br></p><p>Vuruldum Düştüm Yere</p><p>Gidemedum Uzağa</p><p>Ne Edelum Sevduğum</p><p>Düşürdüler Tuzağa</p><p><br></p>",
+  "sozler_duz": "Giresun'un İçinde\n\nİki Sokak Arası\n\nAltı Kurşun Attılar\n\nÜç De Piçak Yarası\n\nVuruldum Düştüm Yere\n\nGidemedum Uzağa\n\nNe Edelum Sevduğum\n\nDüşürdüler Tuzağa\n\nGiresun'un İçinde\n\nYeşil Fındık Tarlası\n\nVurdular Sevduğumi (Feride'mi)\n\nYere Düştü Kopçası\n\nVuruldum Düştüm Yere\n\nGidemedum Uzağa\n\nNe Edelum Sevduğum\n\nDüşürdüler Tuzağa\n\nVuruldum Sevduçeğum\n\nKanar Yüreğum Kanar\n\nAlamadum Ben Seni\n\nYanar Yüreğum Yanar\n\nVuruldum Düştüm Yere\n\nGidemedum Uzağa\n\nNe Edelum Sevduğum\n\nDüşürdüler Tuzağa",
   "meta": {
     "yore": "Giresun",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ali O. Özyakupoğlu-Azize Gürses",
-    "aciklama": ""
+    "kaynak_kisi": "Ali O. Özyakupoğlu-Azize Gürses"
   },
   "sistem": {
     "eski_id": 5443,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:58:09.787Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
