@@ -1,26 +1,17 @@
 {
   "id": "kirmizi-bugday",
   "baslik": "KIRMIZI BUĞDAY",
-  "sozler_html": "<p>Kırmızı buğday * ayrılmıyor *sezinden</p>\n<p>Mevlam mevlam versin * güzellerin gencinden</p>\n<p>Kim ayrılmış ben ayrılam eşimden</p>\n<p>Yarım yarım (yörü yörü) dilber * Salma saçın sürünsün</p>\n<p>Açıver cepkenini * elmas gerdan görünsün (aman)  (2</p>\n<p class=\"bos\"></p>\n<p>Yol üstünde kurakoymuş ilyeni</p>\n<p>Ben istemem mori şalvar (setre pantol) giyeni</p>\n<p>Ben isterim setre pantol (mori şalvar) giyeni</p>\n<p>Yarım yarım...</p>",
-  "sozler_duz": "Kırmızı buğday * ayrılmıyor *sezinden Mevlam mevlam versin * güzellerin gencinden Kim ayrılmış ben ayrılam eşimden Yarım yarım (yörü yörü) dilber * Salma saçın sürünsün Açıver cepkenini * elmas gerdan görünsün (aman) (2 Yol üstünde kurakoymuş ilyeni Ben istemem mori şalvar (setre pantol) giyeni Ben isterim setre pantol (mori şalvar) giyeni Yarım yarım...",
+  "sozler_html": "<p>Kırmızı buğday * ayrılmıyor *sezinden</p>\n<p>Mevlam mevlam versin * güzellerin gencinden</p>\n<p>Kim ayrılmış ben ayrılam eşimden</p>\n<p><br></p><p><b>Yörü yörü dilber&nbsp;</b></p><p><b>Salma saçın sürünsün</b></p>\n<p><b>Açıver cepkenini&nbsp;&nbsp;</b></p><p><b>Elmas gerdan görünsün (aman)  (2</b></p>\n<p class=\"bos\"></p>\n<p>Yol üstünde kurakoymuş ilyeni</p>\n<p>Ben istemem mori şalvar (setre pantol) giyeni</p>\n<p>Ben isterim setre pantol (mori şalvar) giyeni</p><p><br></p>\n<p><b>Yörü yörü...</b></p>",
+  "sozler_duz": "Kırmızı buğday * ayrılmıyor *sezinden\n\nMevlam mevlam versin * güzellerin gencinden\n\nKim ayrılmış ben ayrılam eşimden\n\nYörü yörü dilber \n\nSalma saçın sürünsün\n\nAçıver cepkenini  \n\nElmas gerdan görünsün (aman) (2\n\nYol üstünde kurakoymuş ilyeni\n\nBen istemem mori şalvar (setre pantol) giyeni\n\nBen isterim setre pantol (mori şalvar) giyeni\n\nYörü yörü...",
   "meta": {
     "yore": "MANİSA",
-    "turu": "",
-    "turu2": "",
     "derleyen": "M.Sarısözen",
-    "kaynak_kisi": "Haydar Bayçın",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "MANİSA     K: Haydar Bayçın     D: M.Sarısözen",
-    "aciklama": ""
+    "kaynak_kisi": "Haydar Bayçın"
   },
   "sistem": {
     "eski_id": 1008,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:26:40.919Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
