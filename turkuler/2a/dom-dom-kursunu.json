@@ -1,26 +1,16 @@
 {
   "id": "dom-dom-kursunu",
   "baslik": "Dom Dom Kurşunu_",
-  "sozler_html": "<p>Kaşların ArasındanDomdom Kurşunu DeğdiBir Avcı Vurdu BeniBin Avcı Beni YediAh Dedim AğladımYaremi BağladımEğdi Yar Boynun EğdiMevlam Kerimsin DediHançer Yarası DeğilDomdom Kurşunu DeğdiGel Gel Gümle GelGel Gel Gümle GelGel Böğrüme Domdom KurşunuBugünüm Harap OlduDünden İyi Midir KiDoktor Hasta Ben HastaBenden İyi Midir KiAh Dedim AğladımYaremi BağladımEğdi Yar Boynun EğdiMevlam Kerimsin DediHançer Yarası DeğilDomdom Kurşunu DeğdiGel Gel Gümle GelGel Gel Gümle GelGel Böğrüme Domdom KurşunuMahzuni Yar BenimHalımı AnlasaydıBütün Dertliler Gibiİnleyip DinleseydiAh Dedim AğladımYaremi BağladımEğdi Yar Boynun EğdiMevlam Kerimsin DediHançer Yarası DeğilDomdom Kurşunu DeğdiGel Gel Gümle GelGel Gel Gümle GelGel Böğrüme Domdom Kurşunu</p>",
-  "sozler_duz": "Kaşların ArasındanDomdom Kurşunu DeğdiBir Avcı Vurdu BeniBin Avcı Beni YediAh Dedim AğladımYaremi BağladımEğdi Yar Boynun EğdiMevlam Kerimsin DediHançer Yarası DeğilDomdom Kurşunu DeğdiGel Gel Gümle GelGel Gel Gümle GelGel Böğrüme Domdom KurşunuBugünüm Harap OlduDünden İyi Midir KiDoktor Hasta Ben HastaBenden İyi Midir KiAh Dedim AğladımYaremi BağladımEğdi Yar Boynun EğdiMevlam Kerimsin DediHançer Yarası DeğilDomdom Kurşunu DeğdiGel Gel Gümle GelGel Gel Gümle GelGel Böğrüme Domdom KurşunuMahzuni Yar BenimHalımı AnlasaydıBütün Dertliler Gibiİnleyip DinleseydiAh Dedim AğladımYaremi BağladımEğdi Yar Boynun EğdiMevlam Kerimsin DediHançer Yarası DeğilDomdom Kurşunu DeğdiGel Gel Gümle GelGel Gel Gümle GelGel Böğrüme Domdom Kurşunu",
+  "sozler_html": "<p>Kaşların Arasından</p><p>Domdom Kurşunu Değdi</p><p>Bir Avcı Vurdu Beni</p><p>Bin Avcı Beni Yedi</p><p><br></p><p><b>Ah Dedim Ağladım</b></p><p><b>Yaremi Bağladım</b></p><p><b>Eğdi Yar Boynun Eğdi</b></p><p><b>Mevlam Kerimsin Dedi</b></p><p><b>Hançer Yarası Değil</b></p><p><b>Domdom Kurşunu Değdi</b></p><p><br></p><p><b>Gel Gel Gümle Gel</b></p><p><b>Gel Gel Gümle Gel</b></p><p><b>Gel Böğrüme Domdom Kurşunu</b></p><p><br></p><p>Bugünüm Harap Oldu</p><p>Dünden İyi Midir Ki</p><p>Doktor Hasta Ben Hasta</p><p>Benden İyi Midir Ki</p><p><br></p><p>Ah Dedim...</p><p><br></p><p>Mahzuni Yar Benim</p><p>Halımı Anlasaydı</p><p>Bütün Dertliler Gibi</p><p>İnleyip Dinleseydi</p><p><br></p><p>Ah Dedim...</p><p><br></p>",
+  "sozler_duz": "Kaşların Arasından\n\nDomdom Kurşunu Değdi\n\nBir Avcı Vurdu Beni\n\nBin Avcı Beni Yedi\n\nAh Dedim Ağladım\n\nYaremi Bağladım\n\nEğdi Yar Boynun Eğdi\n\nMevlam Kerimsin Dedi\n\nHançer Yarası Değil\n\nDomdom Kurşunu Değdi\n\nGel Gel Gümle Gel\n\nGel Gel Gümle Gel\n\nGel Böğrüme Domdom Kurşunu\n\nBugünüm Harap Oldu\n\nDünden İyi Midir Ki\n\nDoktor Hasta Ben Hasta\n\nBenden İyi Midir Ki\n\nAh Dedim...\n\nMahzuni Yar Benim\n\nHalımı Anlasaydı\n\nBütün Dertliler Gibi\n\nİnleyip Dinleseydi\n\nAh Dedim...",
   "meta": {
     "yore": "?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aşık Mahzuni Şerif",
-    "aciklama": ""
+    "diger_bilgiler": "Aşık Mahzuni Şerif"
   },
   "sistem": {
     "eski_id": 3825,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T15:06:32.820Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
