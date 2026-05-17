@@ -1,26 +1,17 @@
 {
   "id": "gunes-topla-benim-icin",
-  "baslik": "Güneş Topla Benim İçin_",
-  "sozler_html": "<p>Seher Yeli Çık DağaraGüneş Topla Benim İçinHaber İlet Dört Diyara CanımGüneş Topla Benim İçinUmutların ArasındanKirpiklerin KarasındanDöşte Bıçak Yarasından CanımGüneş Topla Benim İçinSeher Yeli Yar GözündenHavadaki Kuş İzindenGeceleri Gökyüzünden CanımGüneş Topla Benim İçin</p>",
-  "sozler_duz": "Seher Yeli Çık DağaraGüneş Topla Benim İçinHaber İlet Dört Diyara CanımGüneş Topla Benim İçinUmutların ArasındanKirpiklerin KarasındanDöşte Bıçak Yarasından CanımGüneş Topla Benim İçinSeher Yeli Yar GözündenHavadaki Kuş İzindenGeceleri Gökyüzünden CanımGüneş Topla Benim İçin",
+  "baslik": "Güneş Topla Benim İçin",
+  "sozler_html": "<p>Seher\nyeli çık dağara</p><p>Güneş topla benim için</p><p>Haber ilet dört diyara canım</p><p>Güneş topla benim için</p><p>&nbsp;</p><p>Umutların arasından</p><p>Kirpiklerin karasından</p><p>Döşte bıçak yarasından canım</p><p>Güneş topla benim için</p><p>&nbsp;</p><p>Seher yeli yar gözünden</p><p>Havadaki kuş izinden</p><p>Geceleri gökyüzünden canım</p><p>Güneş topla benim için</p>",
+  "sozler_duz": "Seher yeli çık dağara\n\nGüneş topla benim için\n\nHaber ilet dört diyara canım\n\nGüneş topla benim için\n\n \n\nUmutların arasından\n\nKirpiklerin karasından\n\nDöşte bıçak yarasından canım\n\nGüneş topla benim için\n\n \n\nSeher yeli yar gözünden\n\nHavadaki kuş izinden\n\nGeceleri gökyüzünden canım\n\nGüneş topla benim için",
   "meta": {
     "yore": "Ülkü Tamer",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Zülfü Livaneli",
-    "aciklama": ""
+    "soz": "Zülfü Livaneli",
+    "muzik": "Zülfü Livaneli"
   },
   "sistem": {
     "eski_id": 5512,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:55:48.314Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
