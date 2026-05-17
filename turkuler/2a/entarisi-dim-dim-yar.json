@@ -1,26 +1,15 @@
 {
   "id": "entarisi-dim-dim-yar",
   "baslik": "ENTARİSİ DIM DIM YAR",
-  "sozler_html": "<p>Entarisi dım dım yar / Gelir diye umdum yarYatsıya da bekledim / Gözlerimi yumdum yarHımı hımı hım hım hım - hım yarVıyı vıyı vıy vıy vıy - vıy yarEntarisi tireden / Su doldurur deredenTek canımız sağ olsun / Malı veren yaradan / Hımı ...</p>",
-  "sozler_duz": "Entarisi dım dım yar / Gelir diye umdum yarYatsıya da bekledim / Gözlerimi yumdum yarHımı hımı hım hım hım - hım yarVıyı vıyı vıy vıy vıy - vıy yarEntarisi tireden / Su doldurur deredenTek canımız sağ olsun / Malı veren yaradan / Hımı ...",
+  "sozler_html": "<p>Entarisi dım dım yar&nbsp;</p><p>Gelir diye umdum yar</p><p>Yatsıya da bekledim&nbsp;</p><p>Gözlerimi yumdum yar</p><p><br></p><p><b>Hımı hımı hım hım hım - hım yar</b></p><p><b>Vıyı vıyı vıy vıy vıy - vıy yar</b></p><p><br></p><p>Entarisi tireden&nbsp;</p><p>Su doldurur dereden</p><p>Tek canımız sağ olsun&nbsp;</p><p>Malı veren yaradan&nbsp;</p><p><br></p><p><b>Hımı ...</b></p>",
+  "sozler_duz": "Entarisi dım dım yar \n\nGelir diye umdum yar\n\nYatsıya da bekledim \n\nGözlerimi yumdum yar\n\nHımı hımı hım hım hım - hım yar\n\nVıyı vıyı vıy vıy vıy - vıy yar\n\nEntarisi tireden \n\nSu doldurur dereden\n\nTek canımız sağ olsun \n\nMalı veren yaradan \n\nHımı ...",
   "meta": {
-    "yore": "SİVAS",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "SİVAS",
-    "aciklama": ""
+    "yore": "SİVAS"
   },
   "sistem": {
     "eski_id": 5236,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T17:36:48.991Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
