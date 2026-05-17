@@ -1,26 +1,15 @@
 {
   "id": "derenin-kenarina-serecegum",
-  "baslik": "DERENİN KENARINA SERECEĞUM ...",
-  "sozler_html": "<p>Derenun kenarina -da sereceğum kilimiGeçer yürek yangini -da sevduğumAlalum birbirini -da alalum birbiriniYağmur yağayi yağmur * dereler akar dururBen sevdim eller aldı * acısı beni vururKuş uçti yavri kaldi -da gökyuzi mavi kaldiAnahtar yar koyninda -da sevduğumGönlum kilitli kaldi -da gönlum kilitli kaldi Dere kunduzi misun (da) * sabah yıldızi misunGeleceğum peşina da * beni alaca misun</p>",
-  "sozler_duz": "Derenun kenarina -da sereceğum kilimiGeçer yürek yangini -da sevduğumAlalum birbirini -da alalum birbiriniYağmur yağayi yağmur * dereler akar dururBen sevdim eller aldı * acısı beni vururKuş uçti yavri kaldi -da gökyuzi mavi kaldiAnahtar yar koyninda -da sevduğumGönlum kilitli kaldi -da gönlum kilitli kaldi Dere kunduzi misun (da) * sabah yıldızi misunGeleceğum peşina da * beni alaca misun",
+  "baslik": "DERENİN KENARINA SERECEĞUM",
+  "sozler_html": "<p>Derenun kenarina -da sereceğum kilimi</p><p>Geçer yürek yangini -da sevduğum</p><p>Alalum birbirini -da alalum birbirini</p><p>Yağmur yağayi yağmur * dereler akar durur</p><p>Ben sevdim eller aldı * acısı beni vurur</p><p><br></p><p>Kuş uçti yavri kaldi -da gökyuzi mavi kaldi</p><p>Anahtar yar koyninda -da sevduğum</p><p>Gönlum kilitli kaldi -da gönlum kilitli kaldi&nbsp;</p><p>Dere kunduzi misun (da) * sabah yıldızi misun</p><p>Geleceğum peşina da * beni alaca misun</p>",
+  "sozler_duz": "Derenun kenarina -da sereceğum kilimi\n\nGeçer yürek yangini -da sevduğum\n\nAlalum birbirini -da alalum birbirini\n\nYağmur yağayi yağmur * dereler akar durur\n\nBen sevdim eller aldı * acısı beni vurur\n\nKuş uçti yavri kaldi -da gökyuzi mavi kaldi\n\nAnahtar yar koyninda -da sevduğum\n\nGönlum kilitli kaldi -da gönlum kilitli kaldi \n\nDere kunduzi misun (da) * sabah yıldızi misun\n\nGeleceğum peşina da * beni alaca misun",
   "meta": {
-    "yore": "KARADENİZ",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "KARADENİZ",
-    "aciklama": ""
+    "yore": "KARADENİZ"
   },
   "sistem": {
     "eski_id": 674,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T14:41:40.457Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
