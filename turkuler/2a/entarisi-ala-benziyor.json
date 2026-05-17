@@ -1,7 +1,7 @@
 {
   "id": "entarisi-ala-benziyor",
   "baslik": "Entarisi Ala Benziyor",
-  "sozler_html": "<p>Entarisi Ala Benziyor</p>\n<p>Şeftalisi Bala Benziyor</p>\n<p>Benim Yarim Bana Benziyor</p>\n<p class=\"bos\"></p>\n<p>Olamaz Ne Çare O Nişanlıdır</p>\n<p>Kaytan Bıyıklı Delikanlıdır</p>\n<p>Şekerli Misin Vay Vay</p>\n<p>Kaymaklı Mısın Vay Vay</p>\n<p class=\"bos\"></p>\n<p>Entarisi Biçim Biçim</p>\n<p>Ölüyorum Senin İçin</p>\n<p>Ağlatma Gel Başın İçin</p>\n<p class=\"bos\"></p>\n<p>Olamaz Ne Çare O Nişanlıdır</p>\n<p>Kaytan Bıyıklı Delikanlıdır</p>\n<p>Şekerli Misin Vay Vay</p>\n<p>Kaymaklı Mısın Vay Vay</p>",
+  "sozler_html": "<p>Entarisi Ala Benziyor</p>\n<p>Şeftalisi Bala Benziyor</p>\n<p>Benim Yarim Bana Benziyor</p>\n<p class=\"bos\"></p>\n<p><b>Olamaz Ne Çare O Nişanlıdır</b></p>\n<p><b>Kaytan Bıyıklı Delikanlıdır</b></p>\n<p><b>Şekerli Misin Vay Vay</b></p>\n<p><b>Kaymaklı Mısın Vay Vay</b></p>\n<p class=\"bos\"></p>\n<p>Entarisi Biçim Biçim</p>\n<p>Ölüyorum Senin İçin</p>\n<p>Ağlatma Gel Başın İçin</p>\n<p class=\"bos\"></p>\n<p><b>Olamaz Ne Çare O Nişanlıdır</b></p>\n<p><b>Kaytan Bıyıklı Delikanlıdır</b></p>\n<p><b>Şekerli Misin Vay Vay</b></p>\n<p><b>Kaymaklı Mısın Vay Vay</b></p>",
   "sozler_duz": "Entarisi Ala Benziyor\n\nŞeftalisi Bala Benziyor\n\nBenim Yarim Bana Benziyor\n\nOlamaz Ne Çare O Nişanlıdır\n\nKaytan Bıyıklı Delikanlıdır\n\nŞekerli Misin Vay Vay\n\nKaymaklı Mısın Vay Vay\n\nEntarisi Biçim Biçim\n\nÖlüyorum Senin İçin\n\nAğlatma Gel Başın İçin\n\nOlamaz Ne Çare O Nişanlıdır\n\nKaytan Bıyıklı Delikanlıdır\n\nŞekerli Misin Vay Vay\n\nKaymaklı Mısın Vay Vay",
   "meta": {
     "yore": "İstanbul",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 5234,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-17T17:28:20.807Z",
+    "son_degisiklik": "2026-05-17T17:28:33.040Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
