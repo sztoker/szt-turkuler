@@ -2,25 +2,14 @@
   "id": "daglarda-duman-gozeldir",
   "baslik": "DAĞLARDA DUMAN GÖZELDİR",
   "sozler_html": "<p>Dağlarda duman gözeldir  /  Kaşları keman gözeldir</p>\n<p>Sözüne heç bir söz olmaz  / Gözleri yaman gözeldir</p>\n<p>Alırsan aklımı baştan / Geçmek olmaz bu göz kaştan</p>\n<p>Seni men yaman sevirem  /  Ürehten candan sevirem</p>\n<p>Beri gel eyle vefa yar  /  Eşikem etme cefa yar</p>\n<p class=\"bos\"></p>\n<p>Söğütler boyun eğende  /  Sene men yarim deyende</p>\n<p>Sanıram dünya menimdir  /  Gözüme gözün değende</p>\n<p>Alırsan aklımı ...</p>",
-  "sozler_duz": "Dağlarda duman gözeldir / Kaşları keman gözeldir Sözüne heç bir söz olmaz / Gözleri yaman gözeldir Alırsan aklımı baştan / Geçmek olmaz bu göz kaştan Seni men yaman sevirem / Ürehten candan sevirem Beri gel eyle vefa yar / Eşikem etme cefa yar Söğütler boyun eğende / Sene men yarim deyende Sanıram dünya menimdir / Gözüme gözün değende Alırsan aklımı ...",
+  "sozler_duz": "Dağlarda duman gözeldir / Kaşları keman gözeldir\n\nSözüne heç bir söz olmaz / Gözleri yaman gözeldir\n\nAlırsan aklımı baştan / Geçmek olmaz bu göz kaştan\n\nSeni men yaman sevirem / Ürehten candan sevirem\n\nBeri gel eyle vefa yar / Eşikem etme cefa yar\n\nSöğütler boyun eğende / Sene men yarim deyende\n\nSanıram dünya menimdir / Gözüme gözün değende\n\nAlırsan aklımı ...",
   "meta": {
-    "yore": "AZERİ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AZERİ",
-    "aciklama": ""
+    "yore": "AZERİ"
   },
   "sistem": {
     "eski_id": 645,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T21:02:50.662Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
