@@ -2,25 +2,16 @@
   "id": "alim-de-gitme-pazara",
   "baslik": "ALİM DE GİTME PAZARA",
   "sozler_html": "<p>Ali’m de gitme pazara</p>\n<p>Uğratırlar nazara</p>\n<p>Ali’mi de öldü diyenler</p>\n<p>Kendi de girsin mezara</p>\n<p class=\"bos\"></p>\n<p><b>Yandım hop çerkes</b></p>\n<p><b>Hop çerkes yanıyor herkes</b></p>\n<p class=\"bos\"></p>\n<p>Ali’min abası var</p>\n<p>Sırtında libası var</p>\n<p>Ali’m de çok güzel ama</p>\n<p>Ne çirkin babası var</p>\n<p class=\"bos\"></p>\n<p><b>Yandım...</b></p>\n<p class=\"bos\"></p>\n<p>Ali’m de arpa biçiyor</p>\n<p>Suyunu da nerden içiyor</p>\n<p>Dört yanı derya deniz</p>\n<p>Ali’m de nerden geçiyor</p>\n<p class=\"bos\"></p>\n<p><b>Yandım...</b></p>",
-  "sozler_duz": "Ali’m de gitme pazara Uğratırlar nazara Ali’mi de öldü diyenler Kendi de girsin mezara Yandım hop çerkes Hop çerkes yanıyor herkes Ali’min abası var Sırtında libası var Ali’m de çok güzel ama Ne çirkin babası var Yandım... Ali’m de arpa biçiyor Suyunu da nerden içiyor Dört yanı derya deniz Ali’m de nerden geçiyor Yandım...",
+  "sozler_duz": "Ali’m de gitme pazara\n\nUğratırlar nazara\n\nAli’mi de öldü diyenler\n\nKendi de girsin mezara\n\nYandım hop çerkes\n\nHop çerkes yanıyor herkes\n\nAli’min abası var\n\nSırtında libası var\n\nAli’m de çok güzel ama\n\nNe çirkin babası var\n\nYandım...\n\nAli’m de arpa biçiyor\n\nSuyunu da nerden içiyor\n\nDört yanı derya deniz\n\nAli’m de nerden geçiyor\n\nYandım...",
   "meta": {
     "yore": "Ankara",
-    "turu": "",
-    "turu2": "",
     "derleyen": "Rıfat Balaban",
-    "kaynak_kisi": "Yağcıoğlu Fehmi Efe",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "La",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Yağcıoğlu Fehmi Efe"
   },
   "sistem": {
     "eski_id": 3326,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:28:57.105Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
