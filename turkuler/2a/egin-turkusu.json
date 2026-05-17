@@ -1,26 +1,13 @@
 {
   "id": "egin-turkusu",
   "baslik": "EĞİN TÜRKÜSÜ",
-  "sozler_html": "<p>Eğin dedikleri de –kurban- küçük bir şehir -ölem ölem Ana ben yetimem –kurban- çekemem kahırYediğim içtiğim de –kurban- ağu ile zehir - ölem ölemDön gel ağam dön gel paşam Eğin'li misinSılaya dönmemeye de –kurban-  yeminli misinEğin viran olmuş –aman- baykuşlar öter - ölem ölem Diken olan yerde –kurban- güller mi biterBenim bu derdime –kurban- derman mı yeter - ölem ölemYa ben ağlamayım –kurban- kimler ağlasınŞu garip gönlümü de –kurban- kimler eğlesin</p>",
-  "sozler_duz": "Eğin dedikleri de –kurban- küçük bir şehir -ölem ölem Ana ben yetimem –kurban- çekemem kahırYediğim içtiğim de –kurban- ağu ile zehir - ölem ölemDön gel ağam dön gel paşam Eğin'li misinSılaya dönmemeye de –kurban- yeminli misinEğin viran olmuş –aman- baykuşlar öter - ölem ölem Diken olan yerde –kurban- güller mi biterBenim bu derdime –kurban- derman mı yeter - ölem ölemYa ben ağlamayım –kurban- kimler ağlasınŞu garip gönlümü de –kurban- kimler eğlesin",
-  "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Eğin dedikleri de –kurban</p><p>küçük bir şehir -ölem ölem&nbsp;</p><p>Ana ben yetimem –kurban</p><p>çekemem kahır</p><p>Yediğim içtiğim de –kurban</p><p>&nbsp;ağu ile zehir - ölem ölem</p><p><br></p><p>Dön gel ağam dön gel paşam&nbsp;</p><p>Eğin'li misin</p><p>Sılaya dönmemeye de –kurban</p><p>&nbsp;yeminli misin</p><p><br></p><p>Eğin viran olmuş –aman</p><p>baykuşlar öter - ölem ölem&nbsp;</p><p>Diken olan yerde –kurban</p><p>güller mi biter</p><p>Benim bu derdime –kurban</p><p>derman mı yeter - ölem ölem</p><p>Ya ben ağlamayım –kurban</p><p>kimler ağlasın</p><p>Şu garip gönlümü de –kurban</p><p>kimler eğlesin</p>",
+  "sozler_duz": "Eğin dedikleri de –kurban\n\nküçük bir şehir -ölem ölem \n\nAna ben yetimem –kurban\n\nçekemem kahır\n\nYediğim içtiğim de –kurban\n\n ağu ile zehir - ölem ölem\n\nDön gel ağam dön gel paşam \n\nEğin'li misin\n\nSılaya dönmemeye de –kurban\n\n yeminli misin\n\nEğin viran olmuş –aman\n\nbaykuşlar öter - ölem ölem \n\nDiken olan yerde –kurban\n\ngüller mi biter\n\nBenim bu derdime –kurban\n\nderman mı yeter - ölem ölem\n\nYa ben ağlamayım –kurban\n\nkimler ağlasın\n\nŞu garip gönlümü de –kurban\n\nkimler eğlesin",
+  "meta": {},
   "sistem": {
     "eski_id": 5196,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T15:45:42.126Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
