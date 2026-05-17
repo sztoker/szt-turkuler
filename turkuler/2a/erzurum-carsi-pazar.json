@@ -1,13 +1,13 @@
 {
   "id": "erzurum-carsi-pazar",
   "baslik": "Erzurum Çarşı Pazar",
-  "sozler_html": "<p>Erzurum çarşı pazar&nbsp;<br>İçinde bir kız gezer<br>Elinde divit kalem&nbsp;<br>Dertlere derman yazar<br><br>Erzurumda bir kuş var<br>Kanadında gümüş var<br>Yarim gitti gelmedi<br>Elbet bunda bir iş var&nbsp;</p>",
-  "sozler_duz": "Erzurum çarşı pazar \nİçinde bir kız gezer\nElinde divit kalem \nDertlere derman yazar\n\nErzurumda bir kuş var\nKanadında gümüş var\nYarim gitti gelmedi\nElbet bunda bir iş var",
+  "sozler_html": "<p>Erzurum çarşı pazar&nbsp;<br>İçinde bir kız gezer<br>Elinde divit kalem&nbsp;<br>Dertlere derman yazar<br><br>Erzurumda bir kuş var<br>Kanadında gümüş var<br>Yarim gitti gelmedi<br>Elbet bunda bir iş var&nbsp;</p><p><br></p><p>-------------------</p>Saçın Ucun HörmezlerSaçın ucun hörmezler<br>Gülü sulu dermezler&nbsp;<br>Bu sevda ne sevdadır<br>Seni mene vermezler<br><br><br>Bu derenin uzunu<br>Çoban gaytar kuzunu&nbsp;<br>Ne ola bir gün görem<br>Öz yarımın yüzünü",
+  "sozler_duz": "Erzurum çarşı pazar \nİçinde bir kız gezer\nElinde divit kalem \nDertlere derman yazar\n\nErzurumda bir kuş var\nKanadında gümüş var\nYarim gitti gelmedi\nElbet bunda bir iş var \n\n-------------------\n\nSaçın Ucun Hörmezler\nSaçın ucun hörmezler\nGülü sulu dermezler \nBu sevda ne sevdadır\nSeni mene vermezler\n\nBu derenin uzunu\nÇoban gaytar kuzunu \nNe ola bir gün görem\nÖz yarımın yüzünü",
   "meta": {},
   "sistem": {
     "eski_id": 5254,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-17T18:15:39.991Z",
+    "son_degisiklik": "2026-05-17T18:17:52.538Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
