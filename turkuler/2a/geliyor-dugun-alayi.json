@@ -1,26 +1,16 @@
 {
   "id": "geliyor-dugun-alayi",
   "baslik": "GELİYOR DÜĞÜN ALAYI",
-  "sozler_html": "<p>Geldi gelin kınası / Oynasın kız anasıOğlan bizim kız bizim / Çatlasın (2-patlasın) kaynanasıGeliyor düğün alayı / Kaynanalar çeksin halayıGelin allar giyinir / Güvey ile yürenirBunu gören kaynana / Oğlum diye öğünür / Geliyor ...</p>",
-  "sozler_duz": "Geldi gelin kınası / Oynasın kız anasıOğlan bizim kız bizim / Çatlasın (2-patlasın) kaynanasıGeliyor düğün alayı / Kaynanalar çeksin halayıGelin allar giyinir / Güvey ile yürenirBunu gören kaynana / Oğlum diye öğünür / Geliyor ...",
+  "sozler_html": "<p>Geldi gelin kınası&nbsp;</p><p>Oynasın kız anası</p><p>Oğlan bizim kız bizim&nbsp;</p><p>Çatlasın (2-patlasın) kaynanası</p><p><br></p><p><b>Geliyor düğün alayı&nbsp;</b></p><p><b>Kaynanalar çeksin halayı</b></p><p><br></p><p>Gelin allar giyinir&nbsp;</p><p>Güvey ile yürenir</p><p>Bunu gören kaynana&nbsp;</p><p>Oğlum diye öğünür&nbsp;</p><p><br></p><p><b>Geliyor ...</b></p>",
+  "sozler_duz": "Geldi gelin kınası \n\nOynasın kız anası\n\nOğlan bizim kız bizim \n\nÇatlasın (2-patlasın) kaynanası\n\nGeliyor düğün alayı \n\nKaynanalar çeksin halayı\n\nGelin allar giyinir \n\nGüvey ile yürenir\n\nBunu gören kaynana \n\nOğlum diye öğünür \n\nGeliyor ...",
   "meta": {
-    "yore": "S-M : Abdullah Nail Bayşu",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S-M : Abdullah Nail Bayşu",
-    "aciklama": ""
+    "soz": "Abdullah Nail Bayşu",
+    "muzik": "Abdullah Nail Bayşu"
   },
   "sistem": {
     "eski_id": 5409,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:09:15.323Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
