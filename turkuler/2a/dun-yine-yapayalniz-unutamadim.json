@@ -1,26 +1,15 @@
 {
   "id": "dun-yine-yapayalniz-unutamadim",
   "baslik": "DÜN YİNE YAPAYALNIZ (Unutamadım)",
-  "sozler_html": "<p>Dün yine yapayalnız * dolaştım sokaklardaYağmurlarda ıslanan * bomboş sokaklardaGözlerimde yaş * kalbimde sızı * unutmadım seniUnutamadım * unutamadım * ne olur anla beniUnutmak kolay demiştin * alışırsın demiştinÖyleyse sen unut beni * yeter ki benden istemeGözlerimde yaş ...Yıllar * ikimizden de * çok şeyler götürmüşSen yeni  yuva kurarken * beni paramparça bölmüşGözlerimde yaş ...</p>",
-  "sozler_duz": "Dün yine yapayalnız * dolaştım sokaklardaYağmurlarda ıslanan * bomboş sokaklardaGözlerimde yaş * kalbimde sızı * unutmadım seniUnutamadım * unutamadım * ne olur anla beniUnutmak kolay demiştin * alışırsın demiştinÖyleyse sen unut beni * yeter ki benden istemeGözlerimde yaş ...Yıllar * ikimizden de * çok şeyler götürmüşSen yeni yuva kurarken * beni paramparça bölmüşGözlerimde yaş ...",
+  "sozler_html": "<p>Dün yine yapayalnız * dolaştım sokaklarda</p><p>Yağmurlarda ıslanan * bomboş sokaklarda</p><p><br></p><p><b>Gözlerimde yaş * kalbimde sızı * unutmadım seni</b></p><p><b>Unutamadım * unutamadım * ne olur anla beni</b></p><p><b>Unutmak kolay demiştin * alışırsın demiştin</b></p><p><b>Öyleyse sen unut beni * yeter ki benden isteme</b></p><p><br></p><p>Yıllar * ikimizden de * çok şeyler götürmüş</p><p>Sen yeni  yuva kurarken * beni paramparça bölmüş</p><p><br></p><p><b>Gözlerimde yaş ...</b></p>",
+  "sozler_duz": "Dün yine yapayalnız * dolaştım sokaklarda\n\nYağmurlarda ıslanan * bomboş sokaklarda\n\nGözlerimde yaş * kalbimde sızı * unutmadım seni\n\nUnutamadım * unutamadım * ne olur anla beni\n\nUnutmak kolay demiştin * alışırsın demiştin\n\nÖyleyse sen unut beni * yeter ki benden isteme\n\nYıllar * ikimizden de * çok şeyler götürmüş\n\nSen yeni yuva kurarken * beni paramparça bölmüş\n\nGözlerimde yaş ...",
   "meta": {
-    "yore": "Barış Manço",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Barış Manço",
-    "aciklama": ""
+    "soyleyenler": "Barış Manço"
   },
   "sistem": {
     "eski_id": 698,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T15:22:27.993Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
