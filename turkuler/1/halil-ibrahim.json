@@ -1,26 +1,15 @@
 {
   "id": "halil-ibrahim",
-  "baslik": "Halil İbrahim_",
-  "sozler_html": "<p>Dağda Kızıl Ot Biterİçinde Keklik ÖterEşkıyadan Da BeterUslan Be Halil İbrahimKıvırcık SaçlarınaKar Düşmüş UçlarınaDağın YamaçlarınaYaslan Be Halil İbrahimDerede Su DurulurDaldan Köprü Kurulur(Dal Köprüler Kurulur)El Yerine VurulurAslan Be Halil İbrahimKıvırcık SaçlarınaKar Düşmüş UçlarınaDağın YamaçlarınaYaslan Be Halil İbrahimMüfreze Dağı SararDağda Kaçaklar ArarGeçit Vermez KayalarHızlan Be Halil İbrahimKıvırcık SaçlarınaKar Düşmüş UçlarınaDağın YamaçlarınaYaslan Be Halil İbrahim</p>",
-  "sozler_duz": "Dağda Kızıl Ot Biterİçinde Keklik ÖterEşkıyadan Da BeterUslan Be Halil İbrahimKıvırcık SaçlarınaKar Düşmüş UçlarınaDağın YamaçlarınaYaslan Be Halil İbrahimDerede Su DurulurDaldan Köprü Kurulur(Dal Köprüler Kurulur)El Yerine VurulurAslan Be Halil İbrahimKıvırcık SaçlarınaKar Düşmüş UçlarınaDağın YamaçlarınaYaslan Be Halil İbrahimMüfreze Dağı SararDağda Kaçaklar ArarGeçit Vermez KayalarHızlan Be Halil İbrahimKıvırcık SaçlarınaKar Düşmüş UçlarınaDağın YamaçlarınaYaslan Be Halil İbrahim",
+  "baslik": "Halil İbrahim",
+  "sozler_html": "<p>Dağda Kızıl Ot Biter</p><p>İçinde Keklik Öter</p><p>Eşkıyadan Da Beter</p><p>Uslan Be Halil İbrahim</p><p><br></p><p><b>Kıvırcık Saçlarına</b></p><p><b>Kar Düşmüş Uçlarına</b></p><p><b>Dağın Yamaçlarına</b></p><p><b>Yaslan Be Halil İbrahim</b></p><p><br></p><p>Derede Su Durulur</p><p>Daldan Köprü Kurulur</p><p>(Dal Köprüler Kurulur)</p><p>El Yerine Vurulur</p><p>Aslan Be Halil İbrahim</p><p><br></p><p>Kıvırcık Saçlarına...</p><p><br></p><p>Müfreze Dağı Sarar</p><p>Dağda Kaçaklar Arar</p><p>Geçit Vermez Kayalar</p><p>Hızlan Be Halil İbrahim</p><p><br></p><p>Kıvırcık Saçlarına...</p>",
+  "sozler_duz": "Dağda Kızıl Ot Biter\n\nİçinde Keklik Öter\n\nEşkıyadan Da Beter\n\nUslan Be Halil İbrahim\n\nKıvırcık Saçlarına\n\nKar Düşmüş Uçlarına\n\nDağın Yamaçlarına\n\nYaslan Be Halil İbrahim\n\nDerede Su Durulur\n\nDaldan Köprü Kurulur\n\n(Dal Köprüler Kurulur)\n\nEl Yerine Vurulur\n\nAslan Be Halil İbrahim\n\nKıvırcık Saçlarına...\n\nMüfreze Dağı Sarar\n\nDağda Kaçaklar Arar\n\nGeçit Vermez Kayalar\n\nHızlan Be Halil İbrahim\n\nKıvırcık Saçlarına...",
   "meta": {
-    "yore": "Dursunali Akınet",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Selahattin Aygün",
-    "aciklama": ""
+    "kaynak_kisi": "Dursunali Akınet-Selahattin Aygün"
   },
   "sistem": {
     "eski_id": 5535,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:54:17.928Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
