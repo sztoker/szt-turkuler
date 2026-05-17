@@ -4,12 +4,14 @@
   "sozler_html": "<p>Caddelerde rüzgar aklımda aşk var</p>\n<p>Geceyarısında eski yağmurlar</p>\n<p>Şarkı söylüyorlar sessiz usulca</p>\n<p>Özlediğim şimdi çok uzaklarda</p>\n<p class=\"bos\"></p>\n<p>Deli dolu günler hayat güzeldi</p>\n<p>Kahkahalarıyla günler geçerdi</p>\n<p>Ellerim uzanmaz dokunamam ki</p>\n<p>Özlediğim şimdi çok uzaklarda</p>\n<p class=\"bos\"></p>\n<p>O da özlüyormuş benim birtanem</p>\n<p>Çok üşüyormuş ben olmayınca</p>\n<p>Öyle yazıyor son mektubunda</p>\n<p class=\"bos\"></p>\n<p>O da özlüyormuş benim birtanem</p>\n<p>Hep ağlıyormuş ben olmayınca</p>\n<p>Öyle yazıyor son mektubunda</p>\n<p>Ama ben öğrenmezsem / Hiç olamam ki</p>",
   "sozler_duz": "Caddelerde rüzgar aklımda aşk var\n\nGeceyarısında eski yağmurlar\n\nŞarkı söylüyorlar sessiz usulca\n\nÖzlediğim şimdi çok uzaklarda\n\nDeli dolu günler hayat güzeldi\n\nKahkahalarıyla günler geçerdi\n\nEllerim uzanmaz dokunamam ki\n\nÖzlediğim şimdi çok uzaklarda\n\nO da özlüyormuş benim birtanem\n\nÇok üşüyormuş ben olmayınca\n\nÖyle yazıyor son mektubunda\n\nO da özlüyormuş benim birtanem\n\nHep ağlıyormuş ben olmayınca\n\nÖyle yazıyor son mektubunda\n\nAma ben öğrenmezsem / Hiç olamam ki",
   "meta": {
-    "soyleyenler": "Nilüfer"
+    "soz": "Kayahan Açar",
+    "soyleyenler": "Nilüfer",
+    "aciklama": "Müzik Loreena McKennitt'in \"Tango to Evora\" adlı eserinden uyarlanmıştır"
   },
   "sistem": {
     "eski_id": 595,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-17T19:42:29.895Z",
+    "son_degisiklik": "2026-05-17T19:45:38.739Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
