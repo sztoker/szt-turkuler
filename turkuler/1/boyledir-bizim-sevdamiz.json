@@ -2,25 +2,14 @@
   "id": "boyledir-bizim-sevdamiz",
   "baslik": "BÖYLEDİR BİZİM SEVDAMIZ",
   "sozler_html": "<p>Yüce dağlar başında mı</p>\n<p>Zemherinin kışında mı</p>\n<p>Şu gönlümün bir umudu  - gülüm</p>\n<p>Gözlerinin yaşında mı</p>\n<p class=\"bos\"></p>\n<p>Kırılsa da kanadımız</p>\n<p>Asiye çıksa adımız</p>\n<p>Duyan duysun bilen bilsin -gülüm</p>\n<p>Böyledir bizim sevdamız</p>",
-  "sozler_duz": "Yüce dağlar başında mı Zemherinin kışında mı Şu gönlümün bir umudu - gülüm Gözlerinin yaşında mı Kırılsa da kanadımız Asiye çıksa adımız Duyan duysun bilen bilsin -gülüm Böyledir bizim sevdamız",
+  "sozler_duz": "Yüce dağlar başında mı\n\nZemherinin kışında mı\n\nŞu gönlümün bir umudu - gülüm\n\nGözlerinin yaşında mı\n\nKırılsa da kanadımız\n\nAsiye çıksa adımız\n\nDuyan duysun bilen bilsin -gülüm\n\nBöyledir bizim sevdamız",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "Ö",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "Zülfü Livaneli",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "Re",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "muzik": "Zülfü Livaneli"
   },
   "sistem": {
     "eski_id": 569,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:57:44.955Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
