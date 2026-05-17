@@ -1,26 +1,15 @@
 {
   "id": "ellerim-boyle-bos-mu-kalacakti",
   "baslik": "ELLERİM BÖYLE BOŞ MU KALACAKTI",
-  "sozler_html": "<p>Ellerim böyle boş * boş mu kalacaktıGözümde hep böyle yaş * yaş mı olacaktıAramızda sıra dağlar * dağlar mı olacaktıÜzülme sen meleğim * gün olur kavuşuruzEcel ayırsa bile * mahşerde buluşuruzBiz de mi böyle * böyle olacaktıkBu en güzel çağda * yas mı tutacaktıkAramızda sıra dağlar * dağlar mı bulacaktık / Üzülme ...</p>",
-  "sozler_duz": "Ellerim böyle boş * boş mu kalacaktıGözümde hep böyle yaş * yaş mı olacaktıAramızda sıra dağlar * dağlar mı olacaktıÜzülme sen meleğim * gün olur kavuşuruzEcel ayırsa bile * mahşerde buluşuruzBiz de mi böyle * böyle olacaktıkBu en güzel çağda * yas mı tutacaktıkAramızda sıra dağlar * dağlar mı bulacaktık / Üzülme ...",
+  "sozler_html": "<p>Ellerim böyle boş * boş mu kalacaktı</p><p>Gözümde hep böyle yaş * yaş mı olacaktı</p><p>Aramızda sıra dağlar * dağlar mı olacaktı</p><p><br></p><p><b>Üzülme sen meleğim * gün olur kavuşuruz</b></p><p><b>Ecel ayırsa bile * mahşerde buluşuruz</b></p><p><br></p><p>Biz de mi böyle * böyle olacaktık</p><p>Bu en güzel çağda * yas mı tutacaktık</p><p>Aramızda sıra dağlar * dağlar mı bulacaktık&nbsp;</p><p><br></p><p><b>Üzülme ...</b></p>",
+  "sozler_duz": "Ellerim böyle boş * boş mu kalacaktı\n\nGözümde hep böyle yaş * yaş mı olacaktı\n\nAramızda sıra dağlar * dağlar mı olacaktı\n\nÜzülme sen meleğim * gün olur kavuşuruz\n\nEcel ayırsa bile * mahşerde buluşuruz\n\nBiz de mi böyle * böyle olacaktık\n\nBu en güzel çağda * yas mı tutacaktık\n\nAramızda sıra dağlar * dağlar mı bulacaktık \n\nÜzülme ...",
   "meta": {
-    "yore": "Şekip Ayhan Özışık                 Nihavent / Düye",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Şekip Ayhan Özışık                 Nihavent / Düye",
-    "aciklama": ""
+    "muzik": "Şekip Ayhan Özışık"
   },
   "sistem": {
     "eski_id": 5181,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T16:01:44.994Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
