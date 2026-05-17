@@ -1,26 +1,15 @@
 {
   "id": "deniz-ve-mehtap-sordular-seni",
   "baslik": "DENİZ ve MEHTAP SORDULAR SENİ",
-  "sozler_html": "<p>Deniz ve mehtap sordular seni * neredesinNasıl derim terk etti * bırakıp beni gittiAnladılar ki aşkımız bittiAlay ettiler benle hep / Sen oldun bunlara bak sebepMehtap dedi gördüm ah onu / Belinde erkek koluDeniz güldü halime / Bir avuç su verdi elimeBiterse gözyaşın al dedi / Doldur tekrar yerineRüzgar ve martı sordular seni * neredesinNasıl derim terk etti * bırakıp beni gittiAnladılar ki aşkımız bittiAlay ettiler benle hep / Sen oldun bunlara bak sebepMehtap dedi gördüm ah onu / Belinde erkek koluRüzgar güldü halime / Dedi gidelim düş önümeGidemem dinle martıları / Bitmiyor alayları</p>",
-  "sozler_duz": "Deniz ve mehtap sordular seni * neredesinNasıl derim terk etti * bırakıp beni gittiAnladılar ki aşkımız bittiAlay ettiler benle hep / Sen oldun bunlara bak sebepMehtap dedi gördüm ah onu / Belinde erkek koluDeniz güldü halime / Bir avuç su verdi elimeBiterse gözyaşın al dedi / Doldur tekrar yerineRüzgar ve martı sordular seni * neredesinNasıl derim terk etti * bırakıp beni gittiAnladılar ki aşkımız bittiAlay ettiler benle hep / Sen oldun bunlara bak sebepMehtap dedi gördüm ah onu / Belinde erkek koluRüzgar güldü halime / Dedi gidelim düş önümeGidemem dinle martıları / Bitmiyor alayları",
+  "sozler_html": "<p>Deniz ve mehtap sordular seni * neredesin</p><p>Nasıl derim terk etti * bırakıp beni gitti</p><p>Anladılar ki aşkımız bitti</p><p>Alay ettiler benle hep&nbsp;</p><p>Sen oldun bunlara bak sebep</p><p>Mehtap dedi gördüm ah onu&nbsp;</p><p>Belinde erkek kolu</p><p>Deniz güldü halime&nbsp;</p><p>Bir avuç su verdi elime</p><p>Biterse gözyaşın al dedi&nbsp;</p><p>Doldur tekrar yerine</p><p><br></p><p>Rüzgar ve martı sordular seni * neredesin</p><p>Nasıl derim terk etti * bırakıp beni gitti</p><p>Anladılar ki aşkımız bitti</p><p>Alay ettiler benle hep&nbsp;</p><p>Sen oldun bunlara bak sebep</p><p>Mehtap dedi gördüm ah onu&nbsp;</p><p>Belinde erkek kolu</p><p>Rüzgar güldü halime&nbsp;</p><p>Dedi gidelim düş önüme</p><p>Gidemem dinle martıları&nbsp;</p><p>Bitmiyor alayları</p>",
+  "sozler_duz": "Deniz ve mehtap sordular seni * neredesin\n\nNasıl derim terk etti * bırakıp beni gitti\n\nAnladılar ki aşkımız bitti\n\nAlay ettiler benle hep \n\nSen oldun bunlara bak sebep\n\nMehtap dedi gördüm ah onu \n\nBelinde erkek kolu\n\nDeniz güldü halime \n\nBir avuç su verdi elime\n\nBiterse gözyaşın al dedi \n\nDoldur tekrar yerine\n\nRüzgar ve martı sordular seni * neredesin\n\nNasıl derim terk etti * bırakıp beni gitti\n\nAnladılar ki aşkımız bitti\n\nAlay ettiler benle hep \n\nSen oldun bunlara bak sebep\n\nMehtap dedi gördüm ah onu \n\nBelinde erkek kolu\n\nRüzgar güldü halime \n\nDedi gidelim düş önüme\n\nGidemem dinle martıları \n\nBitmiyor alayları",
   "meta": {
-    "yore": "Dario Moreno",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Dario Moreno",
-    "aciklama": ""
+    "soyleyenler": "Dario Moreno"
   },
   "sistem": {
     "eski_id": 666,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T13:28:56.325Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
