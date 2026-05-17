@@ -1,26 +1,16 @@
 {
   "id": "pancar-pezik-degil-mi",
-  "baslik": "Pancar Pezik Değil Mi_",
-  "sozler_html": "<p>Pancar Pezik Değil MiCiğer Ezik Ciğer Ezik Değil MiBen Sevdim Eller AldıBana Da Yazık Bana Da Yazık Değil MiHüdayda Da Hanım Gızlar Hüdayda Da Hanım Gızlar HüdaydaYenile De Çıkmış Yenile De Çıkmış Bu GaydaAyrılık Var Ölüm Var Ayrılık Var Ölüm Var Ne FaydaGara Guşum HavadaYavruları YuvadaGızlar Gahve GavururÇıngırdaklı TavadaHüdayda Da Hanım Gızlar Hüdayda Da Hanım Gızlar HüdaydaYenile De Çıkmış Yenile De Çıkmış Bu GaydaAyrılık Var Ölüm Var Ayrılık Var Ölüm Var Ne Fayda</p>",
-  "sozler_duz": "Pancar Pezik Değil MiCiğer Ezik Ciğer Ezik Değil MiBen Sevdim Eller AldıBana Da Yazık Bana Da Yazık Değil MiHüdayda Da Hanım Gızlar Hüdayda Da Hanım Gızlar HüdaydaYenile De Çıkmış Yenile De Çıkmış Bu GaydaAyrılık Var Ölüm Var Ayrılık Var Ölüm Var Ne FaydaGara Guşum HavadaYavruları YuvadaGızlar Gahve GavururÇıngırdaklı TavadaHüdayda Da Hanım Gızlar Hüdayda Da Hanım Gızlar HüdaydaYenile De Çıkmış Yenile De Çıkmış Bu GaydaAyrılık Var Ölüm Var Ayrılık Var Ölüm Var Ne Fayda",
+  "baslik": "Pancar Pezik Değil Mi",
+  "sozler_html": "<p>Pancar\npezik değil mi</p><p>Ciğer ezik ciğer ezik değil mi</p><p>Ben sevdim eller aldı</p><p>Bana da yazık bana da yazık değil mi</p><p>&nbsp;</p><p><b>Hüdayda da\nhanım gızlar&nbsp;</b></p><p><b>Hüdayda da\nhanım gızlar hüdayda</b></p><p><b>Yenile de\nçıkmış yenile de çıkmış bu gayda</b></p><p><b>Ayrılık var\nölüm var&nbsp;</b></p><p><b>Ayrılık var\nölüm var ne fayda</b></p><p>&nbsp;</p><p>Gara guşum havada</p><p>Yavruları yuvada</p><p>Gızlar gahve gavurur</p><p>Çıngırdaklı tavada</p><p>&nbsp;</p><p><b>Hüdayda\nda hanım...</b></p>",
+  "sozler_duz": "Pancar pezik değil mi\n\nCiğer ezik ciğer ezik değil mi\n\nBen sevdim eller aldı\n\nBana da yazık bana da yazık değil mi\n\n \n\nHüdayda da hanım gızlar \n\nHüdayda da hanım gızlar hüdayda\n\nYenile de çıkmış yenile de çıkmış bu gayda\n\nAyrılık var ölüm var \n\nAyrılık var ölüm var ne fayda\n\n \n\nGara guşum havada\n\nYavruları yuvada\n\nGızlar gahve gavurur\n\nÇıngırdaklı tavada\n\n \n\nHüdayda da hanım...",
   "meta": {
     "yore": "Nevşehir/Hacıbektaş",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Veli Kangal-TRT Ankara Rad. Th",
-    "aciklama": ""
+    "kaynak_kisi": "Veli Kangal"
   },
   "sistem": {
     "eski_id": 6140,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:42:22.361Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
