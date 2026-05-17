@@ -1,26 +1,13 @@
 {
   "id": "git-kaladan-kar-getir",
   "baslik": "GİT KAL'ADAN KAR GETİR",
-  "sozler_html": "<p>Git kal'adan kar getir -hele yar yar yarMendiline koy getir -şinanay nay nayMendilin dibi kopar -hele yar yar yarAltın tasa koy getir -şinanay nay nayKal'adan gel kal'adan / Altın dişi bağlatanO altın diş değil mi / Bekarları ağlatan</p>",
-  "sozler_duz": "Git kal'adan kar getir -hele yar yar yarMendiline koy getir -şinanay nay nayMendilin dibi kopar -hele yar yar yarAltın tasa koy getir -şinanay nay nayKal'adan gel kal'adan / Altın dişi bağlatanO altın diş değil mi / Bekarları ağlatan",
-  "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Git kal'adan kar getir -hele yar yar yar</p><p>Mendiline koy getir -şinanay nay nay</p><p>Mendilin dibi kopar -hele yar yar yar</p><p>Altın tasa koy getir -şinanay nay nay</p><p><br></p><p>Kal'adan gel kal'adan&nbsp;</p><p>Altın dişi bağlatan</p><p>O altın diş değil mi&nbsp;</p><p>Bekarları ağlatan</p>",
+  "sozler_duz": "Git kal'adan kar getir -hele yar yar yar\n\nMendiline koy getir -şinanay nay nay\n\nMendilin dibi kopar -hele yar yar yar\n\nAltın tasa koy getir -şinanay nay nay\n\nKal'adan gel kal'adan \n\nAltın dişi bağlatan\n\nO altın diş değil mi \n\nBekarları ağlatan",
+  "meta": {},
   "sistem": {
     "eski_id": 5444,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T16:15:46.966Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
