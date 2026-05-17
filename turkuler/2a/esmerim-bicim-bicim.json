@@ -1,26 +1,15 @@
 {
   "id": "esmerim-bicim-bicim",
   "baslik": "ESMERİM BİÇİM BİÇİM",
-  "sozler_html": "<p>Esmerim biçim biçim / Ölürem esmer içinAlem bana düşmandır / esmer sevdiğim için –loyHele loy loy loy kibar yarim esmerim -loyEsmer bugün ağlamış / Ciğerimi dağlamışKara kaşın üstüne / Siyah puşi bağlamışEsmerin ağı gerek / Alnında dağı gerekYari esmer olanın / Zincirden bağı gerekEsmer bu gün toydadır / Kesimi ne boydadırNe kadar esmer varsa / Hepsi bizim soydadır</p>",
-  "sozler_duz": "Esmerim biçim biçim / Ölürem esmer içinAlem bana düşmandır / esmer sevdiğim için –loyHele loy loy loy kibar yarim esmerim -loyEsmer bugün ağlamış / Ciğerimi dağlamışKara kaşın üstüne / Siyah puşi bağlamışEsmerin ağı gerek / Alnında dağı gerekYari esmer olanın / Zincirden bağı gerekEsmer bu gün toydadır / Kesimi ne boydadırNe kadar esmer varsa / Hepsi bizim soydadır",
+  "sozler_html": "<p>Esmerim biçim biçim&nbsp;</p><p>Ölürem esmer için</p><p>Alem bana düşmandır&nbsp;</p><p>esmer sevdiğim için –loy</p><p><br></p><p>Hele loy loy loy kibar yarim esmerim -loy</p><p><br></p><p>Esmer bugün ağlamış&nbsp;</p><p>Ciğerimi dağlamış</p><p>Kara kaşın üstüne&nbsp;</p><p>Siyah puşi bağlamış</p><p><br></p><p>Esmerin ağı gerek&nbsp;</p><p>Alnında dağı gerek</p><p>Yari esmer olanın&nbsp;</p><p>Zincirden bağı gerek</p><p><br></p><p>Esmer bu gün toydadır&nbsp;</p><p>Kesimi ne boydadır</p><p>Ne kadar esmer varsa&nbsp;</p><p>Hepsi bizim soydadır</p>",
+  "sozler_duz": "Esmerim biçim biçim \n\nÖlürem esmer için\n\nAlem bana düşmandır \n\nesmer sevdiğim için –loy\n\nHele loy loy loy kibar yarim esmerim -loy\n\nEsmer bugün ağlamış \n\nCiğerimi dağlamış\n\nKara kaşın üstüne \n\nSiyah puşi bağlamış\n\nEsmerin ağı gerek \n\nAlnında dağı gerek\n\nYari esmer olanın \n\nZincirden bağı gerek\n\nEsmer bu gün toydadır \n\nKesimi ne boydadır\n\nNe kadar esmer varsa \n\nHepsi bizim soydadır",
   "meta": {
-    "yore": "DİYARBAKIR",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "DİYARBAKIR",
-    "aciklama": ""
+    "yore": "DİYARBAKIR"
   },
   "sistem": {
     "eski_id": 5263,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T18:28:48.992Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
