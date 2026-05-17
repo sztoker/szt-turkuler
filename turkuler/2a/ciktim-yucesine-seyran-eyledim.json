@@ -1,26 +1,15 @@
 {
   "id": "ciktim-yucesine-seyran-eyledim",
   "baslik": "ÇIKTIM YÜCESİNE SEYRAN EYLEDİM",
-  "sozler_html": "<p>Ah - Çıktım yücesine seyran eyledimGönül eğlencesi küstü bulunmazAh - Dostlar bizden muhabbetin kaldırmışHiç bir ikrarında ahdi bulunmaz -oy oyHani benimle lokma yiyenlerCanı başta dost yoluna koyanlar -oy oy CenanımSen ölmeden de ben ölürüm diyenlerDostlar da geriye kaçtı bulunmazPir Sultan Abdalım dest-i demandaİsmim Koca Haydar neslim Yemen'deGarip başa bir hal gelse zamandaOrda her kişinin dostu bulunmaz</p>",
-  "sozler_duz": "Ah - Çıktım yücesine seyran eyledimGönül eğlencesi küstü bulunmazAh - Dostlar bizden muhabbetin kaldırmışHiç bir ikrarında ahdi bulunmaz -oy oyHani benimle lokma yiyenlerCanı başta dost yoluna koyanlar -oy oy CenanımSen ölmeden de ben ölürüm diyenlerDostlar da geriye kaçtı bulunmazPir Sultan Abdalım dest-i demandaİsmim Koca Haydar neslim Yemen'deGarip başa bir hal gelse zamandaOrda her kişinin dostu bulunmaz",
+  "sozler_html": "<p>Ah - Çıktım yücesine seyran eyledim</p><p>Gönül eğlencesi küstü bulunmaz</p><p>Ah - Dostlar bizden muhabbetin kaldırmış</p><p>Hiç bir ikrarında ahdi bulunmaz -oy oy</p><p><br></p><p>Hani benimle lokma yiyenler</p><p>Canı başta dost yoluna koyanlar -oy oy Cenanım</p><p>Sen ölmeden de ben ölürüm diyenler</p><p>Dostlar da geriye kaçtı bulunmaz</p><p><br></p><p>Pir Sultan Abdalım dest-i demanda</p><p>İsmim Koca Haydar neslim Yemen'de</p><p>Garip başa bir hal gelse zamanda</p><p>Orda her kişinin dostu bulunmaz</p>",
+  "sozler_duz": "Ah - Çıktım yücesine seyran eyledim\n\nGönül eğlencesi küstü bulunmaz\n\nAh - Dostlar bizden muhabbetin kaldırmış\n\nHiç bir ikrarında ahdi bulunmaz -oy oy\n\nHani benimle lokma yiyenler\n\nCanı başta dost yoluna koyanlar -oy oy Cenanım\n\nSen ölmeden de ben ölürüm diyenler\n\nDostlar da geriye kaçtı bulunmaz\n\nPir Sultan Abdalım dest-i demanda\n\nİsmim Koca Haydar neslim Yemen'de\n\nGarip başa bir hal gelse zamanda\n\nOrda her kişinin dostu bulunmaz",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "Pir Sultan Abdal",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Pir Sultan Abdal"
   },
   "sistem": {
     "eski_id": 243,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T10:40:57.628Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
