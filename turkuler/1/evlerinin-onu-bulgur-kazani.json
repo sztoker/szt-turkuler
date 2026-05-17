@@ -1,8 +1,8 @@
 {
   "id": "evlerinin-onu-bulgur-kazani",
-  "baslik": "Evlerinin Önü Bulgur Kazanı_",
-  "sozler_html": "<p>Evlerinin Önü Bulgur Kazanı (Oğlan Kazanı),Herkes Sever Okuyanı Yazanı (Oğlan Yazanı)Kimse Sevmez Meyhanede Gezeni (Oğlan Gezeni)Armut Dalda Kız Bahçede Sallanır (Oğlan Sallanır)Yere Düşer Şekerlenir Ballanir (Oğlan Ballanir).Denizli'nin Adım Adım Yolları (Oğlan Yolları),Açılıp Sarmıyor Yarin Kolları (Oğlan Kolları)Bülbül Gibi Şakır Gider Dilleri (Oğlan Dilleri).Armut Dalda Kız Bahçede Sallanır (Oğlan Sallanır)Yere Düşer Şekerlenir Ballanır (Oğlan Ballanir)Evlerine Varamadım Yalınız (Oğlan Yalınız),Mendilimi Alıkoydu Çalınız (Oğlan Çalınız)Tenhalarda Söz Atmıştı Oğlunuz (Oglan Kızınız).Armut Dalda Kız Bahçede Sallanır (Oğlan Sallanır),Yere Düşer Şekerlenir Ballanir (Oğlan Ballanır).</p>",
-  "sozler_duz": "Evlerinin Önü Bulgur Kazanı (Oğlan Kazanı),Herkes Sever Okuyanı Yazanı (Oğlan Yazanı)Kimse Sevmez Meyhanede Gezeni (Oğlan Gezeni)Armut Dalda Kız Bahçede Sallanır (Oğlan Sallanır)Yere Düşer Şekerlenir Ballanir (Oğlan Ballanir).Denizli'nin Adım Adım Yolları (Oğlan Yolları),Açılıp Sarmıyor Yarin Kolları (Oğlan Kolları)Bülbül Gibi Şakır Gider Dilleri (Oğlan Dilleri).Armut Dalda Kız Bahçede Sallanır (Oğlan Sallanır)Yere Düşer Şekerlenir Ballanır (Oğlan Ballanir)Evlerine Varamadım Yalınız (Oğlan Yalınız),Mendilimi Alıkoydu Çalınız (Oğlan Çalınız)Tenhalarda Söz Atmıştı Oğlunuz (Oglan Kızınız).Armut Dalda Kız Bahçede Sallanır (Oğlan Sallanır),Yere Düşer Şekerlenir Ballanir (Oğlan Ballanır).",
+  "baslik": "Evlerinin Önü Bulgur Kazanı",
+  "sozler_html": "<p>Evlerinin\nönü bulgur kazanı (oğlan kazanı)</p><p>Herkes sever okuyanı yazanı (oğlan yazanı)</p><p>Kimse sevmez meyhanede gezeni (oğlan gezeni)</p><p>&nbsp;</p><p><b>Armut dalda\nkız bahçede sallanır (oğlan sallanır)</b></p><p><b>Yere düşer\nşekerlenir ballanir (oğlan ballanir)</b></p><p>&nbsp;</p><p>Denizli'nin adım adım yolları (oğlan yolları)</p><p>Açılıp sarmıyor yarin kolları (oğlan\nkolları)bülbül gibi şakır gider dilleri (oğlan dilleri)</p><p>&nbsp;</p><p><b>Armut dalda\nkız bahçede sallanır (oğlan sallanır)</b></p><p><b>Yere düşer\nşekerlenir ballanır (oğlan ballanir)</b></p><p>&nbsp;</p><p>Evlerine varamadım yalınız (oğlan yalınız)</p><p>Mendilimi alıkoydu çalınız (oğlan çalınız)</p><p>Tenhalarda söz atmıştı oğlunuz (oglan kızınız)</p><p>&nbsp;</p><p><b>Armut dalda\nkız bahçede sallanır (oğlan sallanır)</b></p><p><b>Yere düşer\nşekerlenir ballanir (oğlan ballanır)</b></p>",
+  "sozler_duz": "Evlerinin önü bulgur kazanı (oğlan kazanı)\n\nHerkes sever okuyanı yazanı (oğlan yazanı)\n\nKimse sevmez meyhanede gezeni (oğlan gezeni)\n\n \n\nArmut dalda kız bahçede sallanır (oğlan sallanır)\n\nYere düşer şekerlenir ballanir (oğlan ballanir)\n\n \n\nDenizli'nin adım adım yolları (oğlan yolları)\n\nAçılıp sarmıyor yarin kolları (oğlan kolları)bülbül gibi şakır gider dilleri (oğlan dilleri)\n\n \n\nArmut dalda kız bahçede sallanır (oğlan sallanır)\n\nYere düşer şekerlenir ballanır (oğlan ballanir)\n\n \n\nEvlerine varamadım yalınız (oğlan yalınız)\n\nMendilimi alıkoydu çalınız (oğlan çalınız)\n\nTenhalarda söz atmıştı oğlunuz (oglan kızınız)\n\n \n\nArmut dalda kız bahçede sallanır (oğlan sallanır)\n\nYere düşer şekerlenir ballanir (oğlan ballanır)",
   "meta": {
     "yore": "Denizli",
     "derleyen": "Özay Gönlüm",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 5283,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-17T19:48:31.045Z",
+    "son_degisiklik": "2026-05-17T19:50:30.340Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
