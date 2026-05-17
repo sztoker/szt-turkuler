@@ -1,26 +1,17 @@
 {
   "id": "elindedir-baglama",
-  "baslik": "Elindedir Bağlama_",
-  "sozler_html": "<p>Elindedir BağlamaKara Gözlüm AğlamaO Günkü SözlerimiCavır (Zalım) Annene SöylemeHaydendi Deyzem DayımGurusun Donuz HuyumAbleni Ben Gaçırcem(Ben Ağbeyne Varıcem)Enişden Olcem Gayrı(Yengen Olcem Gayrı)Hop Diri Diri Dat Diri Dit Diri DomBen Yarimi SeviyomBen Kezban'a ÖlüyomSarı Çizme GiyelimBizim Dama GirelimAnnen Buben DuyarsaTav Boşanmış DiyelimHaydendi Deyzem DayımGurusun Donuz HuyumAbleni Ben Gaçırcem(Ben Ağbeyne Varıcem)Enişden Olcem Gayrı(Yengen Olcem Gayrı)Hop Diri Diri Dat Diri Dit Diri Dom Ben Yarimi Seviyom Ben Kezban'a ÖlüyomSusadım Su İsterimPınar Nerde GösterinBen Pınardan GanmeyomKeziban'ı İsterimHaydendi Deyzem DayımGurusun Donuz HuyumAbleni Ben Gaçırcem(Ben Ağbeyne Varıcem)Enişden Olcem Gayrı(Yengen Olcem Gayrı)Hop Diri Diri Dat Diri Dit Diri Dom Ben Yarimi Seviyom Ben Kezban'a Ölüyom</p>",
-  "sozler_duz": "Elindedir BağlamaKara Gözlüm AğlamaO Günkü SözlerimiCavır (Zalım) Annene SöylemeHaydendi Deyzem DayımGurusun Donuz HuyumAbleni Ben Gaçırcem(Ben Ağbeyne Varıcem)Enişden Olcem Gayrı(Yengen Olcem Gayrı)Hop Diri Diri Dat Diri Dit Diri DomBen Yarimi SeviyomBen Kezban'a ÖlüyomSarı Çizme GiyelimBizim Dama GirelimAnnen Buben DuyarsaTav Boşanmış DiyelimHaydendi Deyzem DayımGurusun Donuz HuyumAbleni Ben Gaçırcem(Ben Ağbeyne Varıcem)Enişden Olcem Gayrı(Yengen Olcem Gayrı)Hop Diri Diri Dat Diri Dit Diri Dom Ben Yarimi Seviyom Ben Kezban'a ÖlüyomSusadım Su İsterimPınar Nerde GösterinBen Pınardan GanmeyomKeziban'ı İsterimHaydendi Deyzem DayımGurusun Donuz HuyumAbleni Ben Gaçırcem(Ben Ağbeyne Varıcem)Enişden Olcem Gayrı(Yengen Olcem Gayrı)Hop Diri Diri Dat Diri Dit Diri Dom Ben Yarimi Seviyom Ben Kezban'a Ölüyom",
+  "baslik": "Elindedir Bağlama",
+  "sozler_html": "<p>Elindedir Bağlama</p><p>Kara Gözlüm Ağlama</p><p>O Günkü Sözlerimi</p><p>Cavır (Zalım) Annene Söyleme</p><p><br></p><p><b>Haydendi Deyzem Dayım</b></p><p><b>Gurusun Donuz Huyum</b></p><p><b>Ableni Ben Gaçırcem</b></p><p><b>(Ben Ağbeyne Varıcem)</b></p><p><b>Enişden Olcem Gayrı</b></p><p><b>(Yengen Olcem Gayrı)</b></p><p><b>Hop Diri Diri Dat Diri Dit Diri Dom</b></p><p><b>Ben Yarimi Seviyom</b></p><p><b>Ben Kezban'a Ölüyom</b></p><p><br></p><p>Sarı Çizme Giyelim</p><p>Bizim Dama Girelim</p><p>Annen Buben Duyarsa</p><p>Tay Boşanmış Diyelim</p><p><br></p><p>Haydendi Deyzem...</p><p><br></p><p>Susadım Su İsterim</p><p>Pınar Nerde Gösterin</p><p>Ben Pınardan Ganmeyom</p><p>Keziban'ı İsterim</p><p><br></p><p>Haydendi Deyzem...</p>",
+  "sozler_duz": "Elindedir Bağlama\n\nKara Gözlüm Ağlama\n\nO Günkü Sözlerimi\n\nCavır (Zalım) Annene Söyleme\n\nHaydendi Deyzem Dayım\n\nGurusun Donuz Huyum\n\nAbleni Ben Gaçırcem\n\n(Ben Ağbeyne Varıcem)\n\nEnişden Olcem Gayrı\n\n(Yengen Olcem Gayrı)\n\nHop Diri Diri Dat Diri Dit Diri Dom\n\nBen Yarimi Seviyom\n\nBen Kezban'a Ölüyom\n\nSarı Çizme Giyelim\n\nBizim Dama Girelim\n\nAnnen Buben Duyarsa\n\nTay Boşanmış Diyelim\n\nHaydendi Deyzem...\n\nSusadım Su İsterim\n\nPınar Nerde Gösterin\n\nBen Pınardan Ganmeyom\n\nKeziban'ı İsterim\n\nHaydendi Deyzem...",
   "meta": {
     "yore": "Denizli/Acıpayam/Dedebağ Köyü",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Osman Açar-Özay Gön",
-    "aciklama": ""
+    "derleyen": "Özay Gönlüm",
+    "kaynak_kisi": "Osman Açar"
   },
   "sistem": {
     "eski_id": 5177,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T16:00:06.740Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
