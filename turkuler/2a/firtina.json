@@ -1,26 +1,16 @@
 {
   "id": "firtina",
   "baslik": "FIRTINA",
-  "sozler_html": "<p>Bak işte yaklaşıyor fırtına / Bak yine yükseliyor dalgalarYıllardan sonra / Yollardan sonraŞarkılar söylüyor çocuklar (2- Yeniden yanyana onlarNe geçmiş tükendi ne yarınlar / Hayat yeniler bizleriGeçse de yolumuz bozkırlardan /Denizlere çıkar sokaklar</p>",
-  "sozler_duz": "Bak işte yaklaşıyor fırtına / Bak yine yükseliyor dalgalarYıllardan sonra / Yollardan sonraŞarkılar söylüyor çocuklar (2- Yeniden yanyana onlarNe geçmiş tükendi ne yarınlar / Hayat yeniler bizleriGeçse de yolumuz bozkırlardan /Denizlere çıkar sokaklar",
+  "sozler_html": "<p>Bak işte yaklaşıyor fırtına&nbsp;</p><p>Bak yine yükseliyor dalgalar</p><p>Yıllardan sonra / Yollardan sonra</p><p>Şarkılar söylüyor çocuklar (2-&nbsp;</p><p>Yeniden yanyana onlar</p><p><br></p><p>Ne geçmiş tükendi ne yarınlar&nbsp;</p><p>Hayat yeniler bizleri</p><p>Geçse de yolumuz bozkırlardan&nbsp;</p><p>Denizlere çıkar sokaklar</p>",
+  "sozler_duz": "Bak işte yaklaşıyor fırtına \n\nBak yine yükseliyor dalgalar\n\nYıllardan sonra / Yollardan sonra\n\nŞarkılar söylüyor çocuklar (2- \n\nYeniden yanyana onlar\n\nNe geçmiş tükendi ne yarınlar \n\nHayat yeniler bizleri\n\nGeçse de yolumuz bozkırlardan \n\nDenizlere çıkar sokaklar",
   "meta": {
-    "yore": "YENİ TÜRKÜ",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "YENİ TÜRKÜ",
-    "aciklama": ""
+    "soz": "Murathan Mungan",
+    "soyleyenler": "YENİ TÜRKÜ"
   },
   "sistem": {
     "eski_id": 5339,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T18:59:35.056Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
