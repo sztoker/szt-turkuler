@@ -1,26 +1,15 @@
 {
   "id": "mackaya",
   "baslik": "MAÇKA’YA",
-  "sozler_html": "<p>Yazamadın mı bir yazı</p>\n<p>Gönder Maçka’ya Maçka’ya</p>\n<p>Bu sitemli ince sızı</p>\n<p>Siner Maçka’ya Maçka’ya</p>\n<p class=\"bos\"></p>\n<p><b>Dağlarında çam ormanı </b></p>\n<p><b>Havası gönül dermanı</b></p>\n<p><b>Dere boyunca dumanı </b></p>\n<p><b>Siner Maçka’ya Maçka’ya</b></p>\n<p class=\"bos\"></p>\n<p>Yelde kemençe sezilmiş</p>\n<p>Çamlar horona dizilmiş</p>\n<p>Türkünün dili çözülmüş</p>\n<p>Yanar Maçka’ya Maçka’ya</p>\n<p class=\"bos\"></p>\n<p><b>Dağlarında ...</b></p>",
-  "sozler_duz": "Yazamadın mı bir yazı Gönder Maçka’ya Maçka’ya Bu sitemli ince sızı Siner Maçka’ya Maçka’ya Dağlarında çam ormanı Havası gönül dermanı Dere boyunca dumanı Siner Maçka’ya Maçka’ya Yelde kemençe sezilmiş Çamlar horona dizilmiş Türkünün dili çözülmüş Yanar Maçka’ya Maçka’ya Dağlarında ...",
+  "sozler_html": "<p>Yazamadın mı bir yazı</p>\n<p>Ömer Maçka’ya Maçka’ya</p>\n<p>Bu sitemli ince sızı</p>\n<p>Siner Maçka’ya Maçka’ya</p>\n<p class=\"bos\"></p>\n<p><b>Dağlarında çam ormanı </b></p>\n<p><b>Havası gönül dermanı</b></p>\n<p><b>Dere boyunca dumanı </b></p>\n<p><b>Siner Maçka’ya Maçka’ya</b></p>\n<p class=\"bos\"></p>\n<p>Yelde kemençe sezilmiş</p>\n<p>Çamlar horona dizilmiş</p>\n<p>Türkünün dili çözülmüş</p>\n<p>Yanar Maçka’ya Maçka’ya</p>\n<p class=\"bos\"></p>\n<p><b>Dağlarında ...</b></p>",
+  "sozler_duz": "Yazamadın mı bir yazı\n\nÖmer Maçka’ya Maçka’ya\n\nBu sitemli ince sızı\n\nSiner Maçka’ya Maçka’ya\n\nDağlarında çam ormanı\n\nHavası gönül dermanı\n\nDere boyunca dumanı\n\nSiner Maçka’ya Maçka’ya\n\nYelde kemençe sezilmiş\n\nÇamlar horona dizilmiş\n\nTürkünün dili çözülmüş\n\nYanar Maçka’ya Maçka’ya\n\nDağlarında ...",
   "meta": {
-    "yore": "",
-    "turu": "1",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "La",
-    "diger_bilgiler": "Y: Volkan Konak",
-    "aciklama": ""
+    "soyleyenler": "Volkan Konak"
   },
   "sistem": {
     "eski_id": 796,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:45:02.014Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
