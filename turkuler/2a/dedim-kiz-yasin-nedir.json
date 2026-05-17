@@ -1,26 +1,15 @@
 {
   "id": "dedim-kiz-yasin-nedir",
   "baslik": "DEDİM KIZ YAŞIN NEDİR",
-  "sozler_html": "<p>Dedim kız yaşın nedir / Dedi başımdırDedim kız kalem nedir / Dedi kaşımdırDedim kız on dört nedir / Dedi yaşımdırDedim kız sümbül nedir / Dedi saçımdırDedim kız sar boynuma / Dedi olmaz olmazOlmaz olmaz olmaz olmaz  /  Muhabbet olsa olarYar nece olmaz olmaz / Ah nece olmaz olmazDedim kız ala nedir / Dedi gözümdürDedim kız vala nedir / Dedi özümdürDedim  kız gonca nedir / Dedi lebimdirDedim kız şeker nedir / Dedi sözümdürDedim kız çare nedir / Dedi olmaz olmaz  / Olmaz ...Dedim kız uzak nedir / Dedi yolumdurDedim kız Aze nedir / Dedi adımdırDedim kız Baycan nedir / Dedi canımdırDedim kız kulaç nedir / Dedi kolumdurDedim kız sar boynuma / Dedi olmaz olmaz  / Olmaz ...</p>",
-  "sozler_duz": "Dedim kız yaşın nedir / Dedi başımdırDedim kız kalem nedir / Dedi kaşımdırDedim kız on dört nedir / Dedi yaşımdırDedim kız sümbül nedir / Dedi saçımdırDedim kız sar boynuma / Dedi olmaz olmazOlmaz olmaz olmaz olmaz / Muhabbet olsa olarYar nece olmaz olmaz / Ah nece olmaz olmazDedim kız ala nedir / Dedi gözümdürDedim kız vala nedir / Dedi özümdürDedim kız gonca nedir / Dedi lebimdirDedim kız şeker nedir / Dedi sözümdürDedim kız çare nedir / Dedi olmaz olmaz / Olmaz ...Dedim kız uzak nedir / Dedi yolumdurDedim kız Aze nedir / Dedi adımdırDedim kız Baycan nedir / Dedi canımdırDedim kız kulaç nedir / Dedi kolumdurDedim kız sar boynuma / Dedi olmaz olmaz / Olmaz ...",
+  "sozler_html": "<p>Dedim kız yaşın nedir / Dedi başımdır</p><p>Dedim kız kalem nedir / Dedi kaşımdır</p><p>Dedim kız on dört nedir / Dedi yaşımdır</p><p>Dedim kız sümbül nedir / Dedi saçımdır</p><p>Dedim kız sar boynuma / Dedi olmaz olmaz</p><p><br></p><p><b>Olmaz olmaz olmaz olmaz  /  Muhabbet olsa olar</b></p><p><b>Yar nece olmaz olmaz / Ah nece olmaz olmaz</b></p><p><br></p><p>Dedim kız ala nedir / Dedi gözümdür</p><p>Dedim kız vala nedir / Dedi özümdür</p><p>Dedim  kız gonca nedir / Dedi lebimdir</p><p>Dedim kız şeker nedir / Dedi sözümdür</p><p>Dedim kız çare nedir / Dedi olmaz olmaz  /&nbsp;</p><p><br></p><p><b>Olmaz ...</b></p><p><br></p><p>Dedim kız uzak nedir / Dedi yolumdur</p><p>Dedim kız Aze nedir / Dedi adımdır</p><p>Dedim kız Baycan nedir / Dedi canımdır</p><p>Dedim kız kulaç nedir / Dedi kolumdur</p><p>Dedim kız sar boynuma / Dedi olmaz olmaz  /&nbsp;</p><p><br></p><p><b>Olmaz ...</b></p>",
+  "sozler_duz": "Dedim kız yaşın nedir / Dedi başımdır\n\nDedim kız kalem nedir / Dedi kaşımdır\n\nDedim kız on dört nedir / Dedi yaşımdır\n\nDedim kız sümbül nedir / Dedi saçımdır\n\nDedim kız sar boynuma / Dedi olmaz olmaz\n\nOlmaz olmaz olmaz olmaz / Muhabbet olsa olar\n\nYar nece olmaz olmaz / Ah nece olmaz olmaz\n\nDedim kız ala nedir / Dedi gözümdür\n\nDedim kız vala nedir / Dedi özümdür\n\nDedim kız gonca nedir / Dedi lebimdir\n\nDedim kız şeker nedir / Dedi sözümdür\n\nDedim kız çare nedir / Dedi olmaz olmaz / \n\nOlmaz ...\n\nDedim kız uzak nedir / Dedi yolumdur\n\nDedim kız Aze nedir / Dedi adımdır\n\nDedim kız Baycan nedir / Dedi canımdır\n\nDedim kız kulaç nedir / Dedi kolumdur\n\nDedim kız sar boynuma / Dedi olmaz olmaz / \n\nOlmaz ...",
   "meta": {
-    "yore": "AZERİ",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AZERİ",
-    "aciklama": ""
+    "yore": "AZERİ"
   },
   "sistem": {
     "eski_id": 653,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T12:59:43.558Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
