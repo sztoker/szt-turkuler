@@ -1,26 +1,16 @@
 {
   "id": "findikli-bizim-yolumuz",
-  "baslik": "Fındıklı Bizim Yolumuz_",
-  "sozler_html": "<p>Fındıklı Bizim Yolumuz (Eşim Aman Aman)Hovarda (Aman Hovarda) Çıktı SoyumuzBu Bizim Eski (De) Huyumuz (Aman Aman) Sen Hancı Ben Yolcu Yol Bana Dolaşır O Güzel Endama Allar Ne De YaraşırFındıklı'dan Geçersin (Eşim Aman Aman)Savura (Aman) Savura (Da) Sigara İçersinNe Alır Ne (De) Geçersin (Aman Aman) Sen Hancı Ben Yolcu Yol Bana Dolaşır O Güzel Endama Allar Ne De Yaraşır</p>",
-  "sozler_duz": "Fındıklı Bizim Yolumuz (Eşim Aman Aman)Hovarda (Aman Hovarda) Çıktı SoyumuzBu Bizim Eski (De) Huyumuz (Aman Aman) Sen Hancı Ben Yolcu Yol Bana Dolaşır O Güzel Endama Allar Ne De YaraşırFındıklı'dan Geçersin (Eşim Aman Aman)Savura (Aman) Savura (Da) Sigara İçersinNe Alır Ne (De) Geçersin (Aman Aman) Sen Hancı Ben Yolcu Yol Bana Dolaşır O Güzel Endama Allar Ne De Yaraşır",
+  "baslik": "Fındıklı Bizim Yolumuz",
+  "sozler_html": "<p>Fındıklı\nbizim yolumuz (eşim aman aman)</p><p>Hovarda (aman hovarda) çıktı soyumuz</p><p>Bu bizim eski (de) huyumuz (aman aman)&nbsp;</p><p>&nbsp;</p><p><b>Sen hancı\nben yolcu yol bana dolaşır&nbsp;</b></p><p><b>O güzel\nendama allar ne de yaraşır</b></p><p>&nbsp;</p><p>Fındıklı'dan geçersin (eşim aman aman)</p><p>Savura (aman) savura (da) sigara içersin</p><p>Ne alır ne (de) geçersin (aman aman)&nbsp;</p><p>&nbsp;</p><p><b>Sen hancı\nben yolcu yol bana dolaşır&nbsp;</b></p><p><b>O güzel\nendama allar ne de yaraşır</b></p>",
+  "sozler_duz": "Fındıklı bizim yolumuz (eşim aman aman)\n\nHovarda (aman hovarda) çıktı soyumuz\n\nBu bizim eski (de) huyumuz (aman aman) \n\n \n\nSen hancı ben yolcu yol bana dolaşır \n\nO güzel endama allar ne de yaraşır\n\n \n\nFındıklı'dan geçersin (eşim aman aman)\n\nSavura (aman) savura (da) sigara içersin\n\nNe alır ne (de) geçersin (aman aman) \n\n \n\nSen hancı ben yolcu yol bana dolaşır \n\nO güzel endama allar ne de yaraşır",
   "meta": {
     "yore": "Rumeli",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Fatma Türkan Yamacı-Ahmet Yamacı",
-    "aciklama": ""
+    "kaynak_kisi": "Fatma Türkan Yamacı-Ahmet Yamacı"
   },
   "sistem": {
     "eski_id": 5332,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T18:50:12.990Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
