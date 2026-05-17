@@ -6,13 +6,12 @@
   "meta": {
     "yore": "İZMİR",
     "derleyen": "Durmuş Yazıcıoğlu",
-    "kaynak_kisi": "Çetin Bozalan",
-    "karar": "Do - Sol"
+    "kaynak_kisi": "Çetin Bozalan"
   },
   "sistem": {
     "eski_id": 390,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20T22:45:35.562Z",
+    "son_degisiklik": "2026-05-17T19:24:47.806Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
