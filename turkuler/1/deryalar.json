@@ -1,26 +1,17 @@
 {
   "id": "deryalar",
   "baslik": "Deryalar_",
-  "sozler_html": "<p>Kırcaliyle Arda ArasıSaat Sekiz Sırası(Yusuf Um Saat Sekiz Sırası)Ardalılar Ağlıyor (Yusufum)Yoktur ÇaresiAman Bre Deryalar Kanlıca DeryalarBiz Nişanlıyızİkimizde Bir BoydayızBiz DelikanlıyızÇıkar Aba PoturunuDalgalar ArtacakDemedim Mi Ben SanaKayığımız BatacakNakaratKırcaliyle Arda BoylarındaKimler GidecekGarip Yusuf’un AnnesineKim Haber Verecek</p>",
-  "sozler_duz": "Kırcaliyle Arda ArasıSaat Sekiz Sırası(Yusuf Um Saat Sekiz Sırası)Ardalılar Ağlıyor (Yusufum)Yoktur ÇaresiAman Bre Deryalar Kanlıca DeryalarBiz Nişanlıyızİkimizde Bir BoydayızBiz DelikanlıyızÇıkar Aba PoturunuDalgalar ArtacakDemedim Mi Ben SanaKayığımız BatacakNakaratKırcaliyle Arda BoylarındaKimler GidecekGarip Yusuf’un AnnesineKim Haber Verecek",
+  "sozler_html": "<p>Kırcaliyle\narda arası</p><p>Saat sekiz sırası</p><p>(yusuf um saat sekiz sırası)</p><p>Ardalılar ağlıyor (yusufum)</p><p>Yoktur çaresi</p><p>&nbsp;</p><p><b>Aman bre\nderyalar kanlıca deryalar</b></p><p><b>Biz\nnişanlıyız</b></p><p><b>İkimizde bir\nboydayız</b></p><p><b>Biz\ndelikanlıyız</b></p><p>&nbsp;</p><p>Çıkar aba poturunu</p><p>Dalgalar artacak</p><p>Demedim mi ben sana</p><p>Kayığımız batacak</p><p>&nbsp;</p><p><b>Aman\nbre deryalar...</b></p><p>&nbsp;</p><p>Kırcaliyle arda boylarında</p><p>Kimler gidecek</p><p>Garip yusuf’un annesine</p><p>Kim haber verecek</p><p>&nbsp;</p><p><b>Aman\nbre deryalar...</b></p>",
+  "sozler_duz": "Kırcaliyle arda arası\n\nSaat sekiz sırası\n\n(yusuf um saat sekiz sırası)\n\nArdalılar ağlıyor (yusufum)\n\nYoktur çaresi\n\n \n\nAman bre deryalar kanlıca deryalar\n\nBiz nişanlıyız\n\nİkimizde bir boydayız\n\nBiz delikanlıyız\n\n \n\nÇıkar aba poturunu\n\nDalgalar artacak\n\nDemedim mi ben sana\n\nKayığımız batacak\n\n \n\nAman bre deryalar...\n\n \n\nKırcaliyle arda boylarında\n\nKimler gidecek\n\nGarip yusuf’un annesine\n\nKim haber verecek\n\n \n\nAman bre deryalar...",
   "meta": {
     "yore": "Rumeli",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Arif Şentürk-Mehmet Özbek",
-    "aciklama": ""
+    "derleyen": "Mehmet Özbek",
+    "kaynak_kisi": "Arif Şentürk"
   },
   "sistem": {
     "eski_id": 3805,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:13:45.497Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
