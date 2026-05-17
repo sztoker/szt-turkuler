@@ -1,26 +1,16 @@
 {
   "id": "elbette",
   "baslik": "ELBETTE",
-  "sozler_html": "<p>Güneş her akşam batıp her gün doğuyorsaÇiçekler solup solup tekrar açıyorsaEn derin yaralar kapanıyorsaEn büyük acılar unutuluyorsa*Neden korkulur hayatta söyleyin banaElbette bazen çiçek açıp bazen solacağımElbette daldan dala konup sonra uçacağımElbette bazen hızla dönüp bazen duracağımElbette bazen söyleyip bazen susacağımGüneş her akşam ...   ...   ...*Ben neden aynı kalayım söyleyin banaElbette ...   ...   ...İnanmadım asla inanam / Her şeyin bir sonu olduğunaElbette ...Elbette bugün ağlıyorsam yarın güleceğimElbette önce çekip gidip sonra döneceğim</p>",
-  "sozler_duz": "Güneş her akşam batıp her gün doğuyorsaÇiçekler solup solup tekrar açıyorsaEn derin yaralar kapanıyorsaEn büyük acılar unutuluyorsa*Neden korkulur hayatta söyleyin banaElbette bazen çiçek açıp bazen solacağımElbette daldan dala konup sonra uçacağımElbette bazen hızla dönüp bazen duracağımElbette bazen söyleyip bazen susacağımGüneş her akşam ... ... ...*Ben neden aynı kalayım söyleyin banaElbette ... ... ...İnanmadım asla inanam / Her şeyin bir sonu olduğunaElbette ...Elbette bugün ağlıyorsam yarın güleceğimElbette önce çekip gidip sonra döneceğim",
+  "sozler_html": "<p>Güneş her akşam batıp hergün doğuyorsa<br>Çiçekler solup solup tekrar açıyorsa<br>En derin yaralar kapanıyorsa<br>En büyük acılar unutuluyorsa<br>Neden korkulur hayatta söyleyin bana<br>(Ben neden aynı kalayım söyleyin bana)<br><br>Elbette bazen çiçek açıp bazen solacağım<br>Elbette daldan dala konup sonra uçacağım<br>Elbette bazen hızla dönüp bazen duracağım<br>Elbette bazen söyleyip bazen susacağım<br><br>İnanmadım asla inanamam<br>Her şeyin bir sonu olduğuna</p>",
+  "sozler_duz": "Güneş her akşam batıp hergün doğuyorsa\nÇiçekler solup solup tekrar açıyorsa\nEn derin yaralar kapanıyorsa\nEn büyük acılar unutuluyorsa\nNeden korkulur hayatta söyleyin bana\n(Ben neden aynı kalayım söyleyin bana)\n\nElbette bazen çiçek açıp bazen solacağım\nElbette daldan dala konup sonra uçacağım\nElbette bazen hızla dönüp bazen duracağım\nElbette bazen söyleyip bazen susacağım\n\nİnanmadım asla inanamam\nHer şeyin bir sonu olduğuna",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "soz": "Candan Erçetin",
+    "muzik": "Akın Ertübey"
   },
   "sistem": {
     "eski_id": 5172,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T15:57:11.567Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
