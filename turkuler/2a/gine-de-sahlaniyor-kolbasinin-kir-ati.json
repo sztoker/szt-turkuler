@@ -1,26 +1,17 @@
 {
   "id": "gine-de-sahlaniyor-kolbasinin-kir-ati",
-  "baslik": "Gine De Şahlanıyor Kolbaşının Kır Atı_",
-  "sozler_html": "<p>Ginede Şahlanıyor (Aman) Kolbaşının (Yandım Da) Kır AtıGörünüyor (Yandım Aman) Bize Sefer YollarıDavullar Çalsınlar (Aman Da) Cengi (Cengi De) HarbiyiGörünüyor (Yandım Aman) Bize Sefer Yolları</p>",
-  "sozler_duz": "Ginede Şahlanıyor (Aman) Kolbaşının (Yandım Da) Kır AtıGörünüyor (Yandım Aman) Bize Sefer YollarıDavullar Çalsınlar (Aman Da) Cengi (Cengi De) HarbiyiGörünüyor (Yandım Aman) Bize Sefer Yolları",
+  "baslik": "Gine De Şahlanıyor Kolbaşının Kır Atı",
+  "sozler_html": "<p>Ginede Şahlanıyor (Aman)&nbsp;</p><p>Kolbaşının (Yandım Da) Kır Atı</p><p>Görünüyor (Yandım Aman) Bize Sefer Yolları</p><p>Davullar Çalsınlar (Aman Da) Cengi (Cengi De) Harbiyi</p><p>Görünüyor (Yandım Aman) Bize Sefer Yolları</p>",
+  "sozler_duz": "Ginede Şahlanıyor (Aman) \n\nKolbaşının (Yandım Da) Kır Atı\n\nGörünüyor (Yandım Aman) Bize Sefer Yolları\n\nDavullar Çalsınlar (Aman Da) Cengi (Cengi De) Harbiyi\n\nGörünüyor (Yandım Aman) Bize Sefer Yolları",
   "meta": {
     "yore": "Rumeli/Serhad",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Kemal Altınkaya-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Kemal Altınkaya"
   },
   "sistem": {
     "eski_id": 5438,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T16:18:04.680Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
