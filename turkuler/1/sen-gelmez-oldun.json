@@ -1,8 +1,8 @@
 {
   "id": "sen-gelmez-oldun",
   "baslik": "SEN GELMEZ OLDUN",
-  "sozler_html": "<p>Deyiptin baharda görüşelim</p>\n<p>Bahar geldi geçti sen gelmez oldun     {2</p>\n<p>Yaradan eşkine ne olur dön</p>\n<p>Kuşlar kondu göçtü sen gelmez oldun * Sen gelmez oldun(3</p>\n<p>Yarim * Gözleyirem men * İsteyirem men</p>\n<p>Sen gelmez * sen gelmez * oldun</p>\n<p class=\"bos\"></p>\n<p>Biz bu sonbaharda * buluşacaktık</p>\n<p>Bahar geldi geçti * sen gelmez oldun     {2</p>\n<p>Taşlara mı döndü kalbin gelmedin</p>\n<p>Aylar geldi geçti sen gelmez oldun * Sen gelmez oldun (3</p>\n<p>Yarim * Gözlerim yolda *beklerim amma *sen gelmez oldun</p>\n<p class=\"bos\"></p>\n<p>Demiştin kapına * gelirim diye</p>\n<p>Kulağım kapıda * ses vermez oldun     {2</p>\n<p>Boş yere mi yemin ettik ikimiz</p>\n<p>Kuşlar yuva kurdu sen gelmez oldun * Sen gelmez oldun (3</p>\n<p>Yarim * Gözlerim yolda *beklerim amma *sen gelmez oldun</p>",
-  "sozler_duz": "Deyiptin baharda görüşelim\n\nBahar geldi geçti sen gelmez oldun {2\n\nYaradan eşkine ne olur dön\n\nKuşlar kondu göçtü sen gelmez oldun * Sen gelmez oldun(3\n\nYarim * Gözleyirem men * İsteyirem men\n\nSen gelmez * sen gelmez * oldun\n\nBiz bu sonbaharda * buluşacaktık\n\nBahar geldi geçti * sen gelmez oldun {2\n\nTaşlara mı döndü kalbin gelmedin\n\nAylar geldi geçti sen gelmez oldun * Sen gelmez oldun (3\n\nYarim * Gözlerim yolda *beklerim amma *sen gelmez oldun\n\nDemiştin kapına * gelirim diye\n\nKulağım kapıda * ses vermez oldun {2\n\nBoş yere mi yemin ettik ikimiz\n\nKuşlar yuva kurdu sen gelmez oldun * Sen gelmez oldun (3\n\nYarim * Gözlerim yolda *beklerim amma *sen gelmez oldun",
+  "sozler_html": "<p>Deyiptin baharda görüşelim</p>\n<p>Bahar geldi geçti sen gelmez oldun     {2</p>\n<p>Yaradan eşkine ne olur dön</p>\n<p>Kuşlar kondu göçtü sen gelmez oldun&nbsp;</p><p>Sen gelmez oldun(3</p>\n<p>Yarim * Gözleyirem men * İsteyirem men</p>\n<p>Sen gelmez * sen gelmez * oldun</p>\n<p class=\"bos\"></p>\n<p>Biz bu sonbaharda * buluşacaktık</p>\n<p>Bahar geldi geçti * sen gelmez oldun     {2</p>\n<p>Taşlara mı döndü kalbin gelmedin</p>\n<p>Aylar geldi geçti sen gelmez oldun&nbsp;</p><p>Sen gelmez oldun (3</p>\n<p>Yarim * Gözlerim yolda *beklerim amma *sen gelmez oldun</p>\n<p class=\"bos\"></p>\n<p>Demiştin kapına * gelirim diye</p>\n<p>Kulağım kapıda * ses vermez oldun     {2</p>\n<p>Boş yere mi yemin ettik ikimiz</p>\n<p>Kuşlar yuva kurdu sen gelmez oldun&nbsp;</p><p>Sen gelmez oldun (3</p>\n<p>Yarim * Gözlerim yolda *beklerim amma&nbsp;</p><p>Sen gelmez oldun</p>",
+  "sozler_duz": "Deyiptin baharda görüşelim\n\nBahar geldi geçti sen gelmez oldun {2\n\nYaradan eşkine ne olur dön\n\nKuşlar kondu göçtü sen gelmez oldun \n\nSen gelmez oldun(3\n\nYarim * Gözleyirem men * İsteyirem men\n\nSen gelmez * sen gelmez * oldun\n\nBiz bu sonbaharda * buluşacaktık\n\nBahar geldi geçti * sen gelmez oldun {2\n\nTaşlara mı döndü kalbin gelmedin\n\nAylar geldi geçti sen gelmez oldun \n\nSen gelmez oldun (3\n\nYarim * Gözlerim yolda *beklerim amma *sen gelmez oldun\n\nDemiştin kapına * gelirim diye\n\nKulağım kapıda * ses vermez oldun {2\n\nBoş yere mi yemin ettik ikimiz\n\nKuşlar yuva kurdu sen gelmez oldun \n\nSen gelmez oldun (3\n\nYarim * Gözlerim yolda *beklerim amma \n\nSen gelmez oldun",
   "meta": {
     "yore": "AZERİ",
     "muzik": "Oktay Kazimi"
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 1140,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-17T20:29:23.864Z",
+    "son_degisiklik": "2026-05-17T20:30:17.829Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
