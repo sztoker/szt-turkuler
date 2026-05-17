@@ -2,25 +2,14 @@
   "id": "derule",
   "baslik": "DERULE",
   "sozler_html": "<p>Oynayın kız oynayın / Durmanın ne karı var</p>\n<p>Ha bu köyün içinin / Acayip bekarı var</p>\n<p>Derule del derule / Derule del derule</p>\n<p class=\"bos\"></p>\n<p>Çek aşaği yukari / Lambanun fitulini</p>\n<p>Niye konişmayisun / Kuş mi yedi diluni / Deryule ...</p>\n<p class=\"bos\"></p>\n<p>Oy kemençeci dayi / Soktun gözume yayi</p>\n<p>Kör ettun gözlerumi / Göremiyrum dünyayi / Derule ...</p>\n<p class=\"bos\"></p>\n<p>Oy kemençeci dayi / Sokma gözume yayi</p>\n<p>Ben gözumden vazgeçtum /Çevirsene gaydayi/ Derule ..</p>",
-  "sozler_duz": "Oynayın kız oynayın / Durmanın ne karı var Ha bu köyün içinin / Acayip bekarı var Derule del derule / Derule del derule Çek aşaği yukari / Lambanun fitulini Niye konişmayisun / Kuş mi yedi diluni / Deryule ... Oy kemençeci dayi / Soktun gözume yayi Kör ettun gözlerumi / Göremiyrum dünyayi / Derule ... Oy kemençeci dayi / Sokma gözume yayi Ben gözumden vazgeçtum /Çevirsene gaydayi/ Derule ..",
+  "sozler_duz": "Oynayın kız oynayın / Durmanın ne karı var\n\nHa bu köyün içinin / Acayip bekarı var\n\nDerule del derule / Derule del derule\n\nÇek aşaği yukari / Lambanun fitulini\n\nNiye konişmayisun / Kuş mi yedi diluni / Deryule ...\n\nOy kemençeci dayi / Soktun gözume yayi\n\nKör ettun gözlerumi / Göremiyrum dünyayi / Derule ...\n\nOy kemençeci dayi / Sokma gözume yayi\n\nBen gözumden vazgeçtum /Çevirsene gaydayi/ Derule ..",
   "meta": {
-    "yore": "TRABZON",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "TRABZON",
-    "aciklama": ""
+    "yore": "TRABZON"
   },
   "sistem": {
     "eski_id": 678,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:47:11.564Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
