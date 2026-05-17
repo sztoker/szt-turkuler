@@ -1,26 +1,15 @@
 {
   "id": "dersim-dort-dag-icinde",
   "baslik": "DERSİM DÖRT DAĞ İÇİNDE",
-  "sozler_html": "<p>Dersim dört dağ içinde / Gülü var bağ içindeDersim’i hak saklasın / Bir yarim var içindeN’oldu ağama (paşama) n’olduSarardı rengi (benzi) solduAğam (paşam) burdan gideli Bu yerler viran olduDersim’in yazıları / Meliyor kuzularıBen buraya gelmezdim / Alnımın yazılarıDersim’in altı kelek / Dersim’e gidek gelekEli elimde olsun / Kapı kapı dilenek</p>",
-  "sozler_duz": "Dersim dört dağ içinde / Gülü var bağ içindeDersim’i hak saklasın / Bir yarim var içindeN’oldu ağama (paşama) n’olduSarardı rengi (benzi) solduAğam (paşam) burdan gideli Bu yerler viran olduDersim’in yazıları / Meliyor kuzularıBen buraya gelmezdim / Alnımın yazılarıDersim’in altı kelek / Dersim’e gidek gelekEli elimde olsun / Kapı kapı dilenek",
+  "sozler_html": "<p>Dersim dört dağ içinde&nbsp;</p><p>Gülü var bağ içinde</p><p>Dersim’i hak saklasın&nbsp;</p><p>Bir yarim var içinde</p><p><br></p><p>N’oldu ağama (paşama) n’oldu</p><p>Sarardı rengi (benzi) soldu</p><p>Ağam (paşam) burdan gideli&nbsp;</p><p>Bu yerler viran oldu</p><p><br></p><p>Dersim’in yazıları&nbsp;</p><p>Meliyor kuzuları</p><p>Ben buraya gelmezdim&nbsp;</p><p>Alnımın yazıları</p><p><br></p><p>Dersim’in altı kelek&nbsp;</p><p>Dersim’e gidek gelek</p><p>Eli elimde olsun&nbsp;</p><p>Kapı kapı dilenek</p>",
+  "sozler_duz": "Dersim dört dağ içinde \n\nGülü var bağ içinde\n\nDersim’i hak saklasın \n\nBir yarim var içinde\n\nN’oldu ağama (paşama) n’oldu\n\nSarardı rengi (benzi) soldu\n\nAğam (paşam) burdan gideli \n\nBu yerler viran oldu\n\nDersim’in yazıları \n\nMeliyor kuzuları\n\nBen buraya gelmezdim \n\nAlnımın yazıları\n\nDersim’in altı kelek \n\nDersim’e gidek gelek\n\nEli elimde olsun \n\nKapı kapı dilenek",
   "meta": {
-    "yore": "TUNCELİ",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "TUNCELİ",
-    "aciklama": ""
+    "yore": "TUNCELİ"
   },
   "sistem": {
     "eski_id": 117,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T14:43:11.422Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
