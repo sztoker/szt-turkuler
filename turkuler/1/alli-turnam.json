@@ -2,25 +2,16 @@
   "id": "alli-turnam",
   "baslik": "ALLI TURNAM",
   "sozler_html": "<p>Allı turnam ne gezersin havada</p>\n<p>Kanadım kırıldı kaldım burada</p>\n<p class=\"bos\"></p>\n<p><b>Ah gülüm gülüm / Kırıldı kolum </b></p>\n<p><b>Tutmuyor elim  / Turnalar hey</b></p>\n<p class=\"bos\"></p>\n<p>Ne onmamış kulumuşum dünyada</p>\n<p>Akşam olsun allı turnam dön geri</p>\n<p class=\"bos\"></p>\n<p><b>Ah gülüm....</b></p>\n<p class=\"bos\"></p>\n<p>Allı turnam bizim ele varırsan</p>\n<p>Şeker söyle kaymak söyle bal söyle</p>\n<p class=\"bos\"></p>\n<p><b>Ah gülüm....</b></p>\n<p class=\"bos\"></p>\n<p>Eğer bizi sual eden olursa</p>\n<p>Boynu bükük benzi soluk yar söyle</p>\n<p class=\"bos\"></p>\n<p><b>Ah gülüm....</b></p>",
-  "sozler_duz": "Allı turnam ne gezersin havada Kanadım kırıldı kaldım burada Ah gülüm gülüm / Kırıldı kolum Tutmuyor elim / Turnalar hey Ne onmamış kulumuşum dünyada Akşam olsun allı turnam dön geri Ah gülüm.... Allı turnam bizim ele varırsan Şeker söyle kaymak söyle bal söyle Ah gülüm.... Eğer bizi sual eden olursa Boynu bükük benzi soluk yar söyle Ah gülüm....",
+  "sozler_duz": "Allı turnam ne gezersin havada\n\nKanadım kırıldı kaldım burada\n\nAh gülüm gülüm / Kırıldı kolum\n\nTutmuyor elim / Turnalar hey\n\nNe onmamış kulumuşum dünyada\n\nAkşam olsun allı turnam dön geri\n\nAh gülüm....\n\nAllı turnam bizim ele varırsan\n\nŞeker söyle kaymak söyle bal söyle\n\nAh gülüm....\n\nEğer bizi sual eden olursa\n\nBoynu bükük benzi soluk yar söyle\n\nAh gülüm....",
   "meta": {
     "yore": "KESKİN",
-    "turu": "",
-    "turu2": "",
     "derleyen": "M.Sarısözen",
-    "kaynak_kisi": "Hacı Taşan-Salman Çöker",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "La",
-    "diger_bilgiler": "KESKİN",
-    "aciklama": ""
+    "kaynak_kisi": "Hacı Taşan-Salman Çöker"
   },
   "sistem": {
     "eski_id": 19,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:29:30.608Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
