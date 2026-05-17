@@ -1,26 +1,15 @@
 {
   "id": "demirciler-demir-dover",
   "baslik": "DEMİRCİLER DEMİR DÖVER",
-  "sozler_html": "<p>Demirciler –aman- demir döver tunç olurSevip sevip –aman- ayrılması -fidan boylum- güç olur Haydindi çatalçamda rüzgar varBenim yarimde bal gibi gözler varİnme de turnam inme –aman- böyle susuz çöllereBen gidersem –aman- sen kalırsın –fidan boylum- ellereHaydindi al işliğe mor düğmeGavur kızı gine girdi gönlümeOduncular –aman- kısa keser odunuCanfes şalvar sıka da koymuş –fidan boylum- budunuHaydindi ovalarda kanyaşıYarim asker dinmez gözümün yaşı</p>",
-  "sozler_duz": "Demirciler –aman- demir döver tunç olurSevip sevip –aman- ayrılması -fidan boylum- güç olur Haydindi çatalçamda rüzgar varBenim yarimde bal gibi gözler varİnme de turnam inme –aman- böyle susuz çöllereBen gidersem –aman- sen kalırsın –fidan boylum- ellereHaydindi al işliğe mor düğmeGavur kızı gine girdi gönlümeOduncular –aman- kısa keser odunuCanfes şalvar sıka da koymuş –fidan boylum- budunuHaydindi ovalarda kanyaşıYarim asker dinmez gözümün yaşı",
+  "sozler_html": "<p>Demirciler –aman- demir döver tunç olur</p><p>Sevip sevip –aman- ayrılması -fidan boylum- güç olur&nbsp;</p><p><br></p><p><b>Haydindi çatalçamda rüzgar var</b></p><p><b>Benim yarimde bal gibi gözler var</b></p><p><br></p><p>İnme de turnam inme –aman- böyle susuz çöllere</p><p>Ben gidersem –aman- sen kalırsın –fidan boylum- ellere</p><p><br></p><p><b>Haydindi al işliğe mor düğme</b></p><p><b>Gavur kızı gine girdi gönlüme</b></p><p><br></p><p>Oduncular –aman- kısa keser odunu</p><p>Canfes şalvar sıka da koymuş –fidan boylum- budunu</p><p><br></p><p><b>Haydindi ovalarda kanyaşı</b></p><p><b>Yarim asker dinmez gözümün yaşı</b></p>",
+  "sozler_duz": "Demirciler –aman- demir döver tunç olur\n\nSevip sevip –aman- ayrılması -fidan boylum- güç olur \n\nHaydindi çatalçamda rüzgar var\n\nBenim yarimde bal gibi gözler var\n\nİnme de turnam inme –aman- böyle susuz çöllere\n\nBen gidersem –aman- sen kalırsın –fidan boylum- ellere\n\nHaydindi al işliğe mor düğme\n\nGavur kızı gine girdi gönlüme\n\nOduncular –aman- kısa keser odunu\n\nCanfes şalvar sıka da koymuş –fidan boylum- budunu\n\nHaydindi ovalarda kanyaşı\n\nYarim asker dinmez gözümün yaşı",
   "meta": {
-    "yore": "EGE",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "EGE",
-    "aciklama": ""
+    "yore": "EGE"
   },
   "sistem": {
     "eski_id": 660,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T13:20:54.935Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
