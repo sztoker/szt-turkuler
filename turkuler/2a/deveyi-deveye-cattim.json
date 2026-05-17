@@ -1,26 +1,13 @@
 {
   "id": "deveyi-deveye-cattim",
   "baslik": "DEVEYİ DEVEYE ÇATTIM",
-  "sozler_html": "<p>Harmancı'nın kayaları  /  Çan çalıyor mayalarıİpek mi değdi a bebeğim  /  Kara kuşun sayalarıDeveyi deveye çattım  /  Çılbırın boynuma attımKaynatamdan hicap ettim  /  Nenni benim küçücüğümYekin kara devem yekin  /  Çanını zilini takınBebeğimi daldan sakın  /  Nenni benim küçücüğümKöpekler dağda uluşur  /  Eltim çadırda gülüşürKuzgunlar bebek üleşir  /  Nenni benim küçücüğüm</p>",
-  "sozler_duz": "Harmancı'nın kayaları / Çan çalıyor mayalarıİpek mi değdi a bebeğim / Kara kuşun sayalarıDeveyi deveye çattım / Çılbırın boynuma attımKaynatamdan hicap ettim / Nenni benim küçücüğümYekin kara devem yekin / Çanını zilini takınBebeğimi daldan sakın / Nenni benim küçücüğümKöpekler dağda uluşur / Eltim çadırda gülüşürKuzgunlar bebek üleşir / Nenni benim küçücüğüm",
-  "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Harmancı'nın kayaları&nbsp;</p><p>Çan çalıyor mayaları</p><p>İpek mi değdi a bebeğim&nbsp;</p><p>Kara kuşun sayaları</p><p><br></p><p>Deveyi deveye çattım&nbsp;</p><p>Çılbırın boynuma attım</p><p>Kaynatamdan hicap ettim&nbsp;</p><p>Nenni benim küçücüğüm</p><p><br></p><p>Yekin kara devem yekin&nbsp;</p><p>Çanını zilini takın</p><p>Bebeğimi daldan sakın&nbsp;</p><p>Nenni benim küçücüğüm</p><p><br></p><p>Köpekler dağda uluşur&nbsp;</p><p>Eltim çadırda gülüşür</p><p>Kuzgunlar bebek üleşir&nbsp;</p><p>Nenni benim küçücüğüm</p>",
+  "sozler_duz": "Harmancı'nın kayaları \n\nÇan çalıyor mayaları\n\nİpek mi değdi a bebeğim \n\nKara kuşun sayaları\n\nDeveyi deveye çattım \n\nÇılbırın boynuma attım\n\nKaynatamdan hicap ettim \n\nNenni benim küçücüğüm\n\nYekin kara devem yekin \n\nÇanını zilini takın\n\nBebeğimi daldan sakın \n\nNenni benim küçücüğüm\n\nKöpekler dağda uluşur \n\nEltim çadırda gülüşür\n\nKuzgunlar bebek üleşir \n\nNenni benim küçücüğüm",
+  "meta": {},
   "sistem": {
     "eski_id": 53,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T14:50:02.150Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
