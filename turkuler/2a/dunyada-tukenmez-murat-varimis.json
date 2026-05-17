@@ -1,8 +1,8 @@
 {
   "id": "dunyada-tukenmez-murat-varimis",
   "baslik": "Dünyada Tükenmez Murat Varımış",
-  "sozler_html": "<p>Dünyada Tükenmez Murat Varımış</p><p>Ne Alanı Gördüm Ne Murat Gördüm</p><p>Meşakkatin Adını Murat Koymuşlar</p><p>Dünyada Ne Lezzet Ne Bir Tat Gördüm</p><p><br></p><p>Ölüm Var Dünyada Yoğumuş Murat</p><p>Gün Be Gün Artıyor Türlü Meşakkat</p><p>Kalmamış Dünyada Ehl-İ Kanaat</p><p>İnsanlar İçinde Çok Fesat Gördüm</p><p><br></p><p>Hüsrevan-Iı Adil Nerede Tahtı</p><p>Süleyman Mührünü Kime Bıraktı</p><p>Resul-Ü Ekremin Kanunu Haktı</p><p>Her Ömrün Sonunda Bir Feryat Gördüm</p><p><br></p><p>Varmıdır Dünyaya Gelip De Kalan</p><p>Gülüp Baştan Başa Muradın Alan</p><p>Muradı Maksudu Hepisi Yalan</p><p>Ölümü Dünyada Hakikat Gördüm</p><p><br></p><p>Dönüyor Bir Dolap Çarkı Belirsiz</p><p>Çağlayan Bir Su Var Arkı Belirsiz</p><p>Veysel Neler Satar Narkı Belirsiz</p><p>Ne Müşteri Gördüm Ne Hesap Gördüm</p>",
-  "sozler_duz": "Dünyada Tükenmez Murat Varımış\n\nNe Alanı Gördüm Ne Murat Gördüm\n\nMeşakkatin Adını Murat Koymuşlar\n\nDünyada Ne Lezzet Ne Bir Tat Gördüm\n\nÖlüm Var Dünyada Yoğumuş Murat\n\nGün Be Gün Artıyor Türlü Meşakkat\n\nKalmamış Dünyada Ehl-İ Kanaat\n\nİnsanlar İçinde Çok Fesat Gördüm\n\nHüsrevan-Iı Adil Nerede Tahtı\n\nSüleyman Mührünü Kime Bıraktı\n\nResul-Ü Ekremin Kanunu Haktı\n\nHer Ömrün Sonunda Bir Feryat Gördüm\n\nVarmıdır Dünyaya Gelip De Kalan\n\nGülüp Baştan Başa Muradın Alan\n\nMuradı Maksudu Hepisi Yalan\n\nÖlümü Dünyada Hakikat Gördüm\n\nDönüyor Bir Dolap Çarkı Belirsiz\n\nÇağlayan Bir Su Var Arkı Belirsiz\n\nVeysel Neler Satar Narkı Belirsiz\n\nNe Müşteri Gördüm Ne Hesap Gördüm",
+  "sozler_html": "<p>Dünyada\ntükenmez murat varımış</p><p>Ne alanı gördüm ne murat gördüm</p><p>Meşakkatin adını murat koymuşlar</p><p>Dünyada ne lezzet ne bir tat gördüm</p><p>&nbsp;</p><p>Ölüm var dünyada yoğumuş murat</p><p>Gün be gün artıyor türlü meşakkat</p><p>Kalmamış dünyada ehl-i kanaat</p><p>İnsanlar içinde çok fesat gördüm</p><p>&nbsp;</p><p>Hüsrevan-ıı adil nerede tahtı</p><p>Süleyman mührünü kime bıraktı</p><p>Resul-ü ekremin kanunu haktı</p><p>Her ömrün sonunda bir feryat gördüm</p><p>&nbsp;</p><p>Varmıdır dünyaya gelip de kalan</p><p>Gülüp baştan başa muradın alan</p><p>Muradı maksudu hepisi yalan</p><p>Ölümü dünyada hakikat gördüm</p><p>&nbsp;</p><p>Dönüyor bir dolap çarkı belirsiz</p><p>Çağlayan bir su var arkı belirsiz</p><p>Veysel neler satar narkı belirsiz</p><p>Ne müşteri gördüm ne hesap gördüm</p>",
+  "sozler_duz": "Dünyada tükenmez murat varımış\n\nNe alanı gördüm ne murat gördüm\n\nMeşakkatin adını murat koymuşlar\n\nDünyada ne lezzet ne bir tat gördüm\n\n \n\nÖlüm var dünyada yoğumuş murat\n\nGün be gün artıyor türlü meşakkat\n\nKalmamış dünyada ehl-i kanaat\n\nİnsanlar içinde çok fesat gördüm\n\n \n\nHüsrevan-ıı adil nerede tahtı\n\nSüleyman mührünü kime bıraktı\n\nResul-ü ekremin kanunu haktı\n\nHer ömrün sonunda bir feryat gördüm\n\n \n\nVarmıdır dünyaya gelip de kalan\n\nGülüp baştan başa muradın alan\n\nMuradı maksudu hepisi yalan\n\nÖlümü dünyada hakikat gördüm\n\n \n\nDönüyor bir dolap çarkı belirsiz\n\nÇağlayan bir su var arkı belirsiz\n\nVeysel neler satar narkı belirsiz\n\nNe müşteri gördüm ne hesap gördüm",
   "meta": {
     "yore": "Sivas/Şarkışla",
     "kaynak_kisi": "Aşık Veysel Şatıroğlu"
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 3865,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-17T15:24:13.120Z",
+    "son_degisiklik": "2026-05-17T15:27:19.257Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
