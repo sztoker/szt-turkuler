@@ -1,26 +1,16 @@
 {
   "id": "derman-sendedir",
-  "baslik": "Derman Sendedir_",
-  "sozler_html": "<p>Vakti SeherdeAçılır PerdeDüştüğüm YerdeDerman SendedirDüşmüşüm KaldırMihnetim OldurAğlarım GüldürDerman SendedirBenim ÇareKaldım AvareYürek Pür YareDerman SendedirNefsi ZalimiGözle HalimiSundum ElimiDerman Sendedir</p>",
-  "sozler_duz": "Vakti SeherdeAçılır PerdeDüştüğüm YerdeDerman SendedirDüşmüşüm KaldırMihnetim OldurAğlarım GüldürDerman SendedirBenim ÇareKaldım AvareYürek Pür YareDerman SendedirNefsi ZalimiGözle HalimiSundum ElimiDerman Sendedir",
+  "baslik": "Derman Sendedir",
+  "sozler_html": "<p>Vakti Seherde</p><p>Açılır Perde</p><p>Düştüğüm Yerde</p><p>Derman Sendedir</p><p><br></p><p>Düşmüşüm Kaldır</p><p>Mihnetim Oldur</p><p>Ağlarım Güldür</p><p>Derman Sendedir</p><p><br></p><p>Benim Çare</p><p>Kaldım Avare</p><p>Yürek Pür Yare</p><p>Derman Sendedir</p><p><br></p><p>Nefsi Zalimi</p><p>Gözle Halimi</p><p>Sundum Elimi</p><p>Derman Sendedir</p>",
+  "sozler_duz": "Vakti Seherde\n\nAçılır Perde\n\nDüştüğüm Yerde\n\nDerman Sendedir\n\nDüşmüşüm Kaldır\n\nMihnetim Oldur\n\nAğlarım Güldür\n\nDerman Sendedir\n\nBenim Çare\n\nKaldım Avare\n\nYürek Pür Yare\n\nDerman Sendedir\n\nNefsi Zalimi\n\nGözle Halimi\n\nSundum Elimi\n\nDerman Sendedir",
   "meta": {
-    "yore": "Himmeti Baba",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Lütfi Gültekin",
-    "aciklama": ""
+    "kaynak_kisi": "Himmeti Baba",
+    "aciklama": "Lütfi Gültekin"
   },
   "sistem": {
     "eski_id": 3800,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:10:47.459Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
