@@ -1,26 +1,16 @@
 {
   "id": "deniz-koydum-adini",
   "baslik": "DENİZ KOYDUM ADINI",
-  "sozler_html": "<p>Nerde kendini bilmez çocuklarBir sabah öylece çekip gittilerÇınladı alkışlar kör sokaklarda / Yankısı kime kaldıDeniz koydum adını / Kederi bende kaldıUzak köyler kurdum birbirine / Denizine aldandımAcının surlarında ateşler yaktıkKuruldu şehirler soluksuz kaldıkKendine çekildi bütün zamanlar / Gölgeler or’da kaldıDeniz koydum ....Çılgın zamanlarda yaşamak bize düştüÖlümün acımasızlığı her zamankinden beterGidenler / Gelenler / DüşenlerAh zamanın sonsuzluğunu anlamayanlarDüştük yola / Güzel şeyler bulmak umuduylaIşıklarıyla büyük şehirler yol oldu bize / İz sürdük yalnızlığa</p>",
-  "sozler_duz": "Nerde kendini bilmez çocuklarBir sabah öylece çekip gittilerÇınladı alkışlar kör sokaklarda / Yankısı kime kaldıDeniz koydum adını / Kederi bende kaldıUzak köyler kurdum birbirine / Denizine aldandımAcının surlarında ateşler yaktıkKuruldu şehirler soluksuz kaldıkKendine çekildi bütün zamanlar / Gölgeler or’da kaldıDeniz koydum ....Çılgın zamanlarda yaşamak bize düştüÖlümün acımasızlığı her zamankinden beterGidenler / Gelenler / DüşenlerAh zamanın sonsuzluğunu anlamayanlarDüştük yola / Güzel şeyler bulmak umuduylaIşıklarıyla büyük şehirler yol oldu bize / İz sürdük yalnızlığa",
+  "sozler_html": "<p>Nerde kendini bilmez çocuklar</p><p>Bir sabah öylece çekip gittiler</p><p>Çınladı alkışlar kör sokaklarda&nbsp;</p><p>Yankısı kime kaldı</p><p><br></p><p><b>Deniz koydum adını&nbsp;</b></p><p><b>Kederi bende kaldı</b></p><p><b>Uzak köyler kurdum birbirine&nbsp;</b></p><p><b>Denizine aldandım</b></p><p><br></p><p>Acının surlarında ateşler yaktık</p><p>Kuruldu şehirler soluksuz kaldık</p><p>Kendine çekildi bütün zamanlar&nbsp;</p><p>Gölgeler or’da kaldı</p><p><br></p><p><b>Deniz koydum ....</b></p><p><br></p><p>Çılgın zamanlarda yaşamak bize düştü</p><p>Ölümün acımasızlığı her zamankinden beter</p><p>Gidenler / Gelenler / Düşenler</p><p>Ah zamanın sonsuzluğunu anlamayanlar</p><p>Düştük yola&nbsp;</p><p>Güzel şeyler bulmak umuduyla</p><p>Işıklarıyla büyük şehirler yol oldu bize&nbsp;</p><p>İz sürdük yalnızlığa</p>",
+  "sozler_duz": "Nerde kendini bilmez çocuklar\n\nBir sabah öylece çekip gittiler\n\nÇınladı alkışlar kör sokaklarda \n\nYankısı kime kaldı\n\nDeniz koydum adını \n\nKederi bende kaldı\n\nUzak köyler kurdum birbirine \n\nDenizine aldandım\n\nAcının surlarında ateşler yaktık\n\nKuruldu şehirler soluksuz kaldık\n\nKendine çekildi bütün zamanlar \n\nGölgeler or’da kaldı\n\nDeniz koydum ....\n\nÇılgın zamanlarda yaşamak bize düştü\n\nÖlümün acımasızlığı her zamankinden beter\n\nGidenler / Gelenler / Düşenler\n\nAh zamanın sonsuzluğunu anlamayanlar\n\nDüştük yola \n\nGüzel şeyler bulmak umuduyla\n\nIşıklarıyla büyük şehirler yol oldu bize \n\nİz sürdük yalnızlığa",
   "meta": {
-    "yore": "S: Kemal Kahraman-Gürkan Songül M: Metin Kahraman",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S: Kemal Kahraman-Gürkan Songül M: Metin Kahraman",
-    "aciklama": ""
+    "soz": "Kemal Kahraman-Gürkan Songül",
+    "muzik": "Metin Kahraman"
   },
   "sistem": {
     "eski_id": 664,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T13:27:17.282Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
