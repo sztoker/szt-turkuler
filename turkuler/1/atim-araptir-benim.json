@@ -3,13 +3,11 @@
   "baslik": "ATIM ARAPTIR BENİM",
   "sozler_html": "<p>Atım araptır benim - amman amman</p>\n<p>Haydi yüküm şaraptır benim - vay vay   (2</p>\n<p>Bu yıl böyle giderse - amman amman</p>\n<p>Haydi halim haraptır - benim vay vay     (2</p>\n<p class=\"bos\"></p>\n<p><b>Emişim gümüşüm bir hoşum vay vay</b></p>\n<p class=\"bos\"><b>Çokça da içmişim sarhoşum vay vay</b></p><p class=\"bos\"><br></p>\n<p class=\"bos\"></p>\n<p>Atım kara ben kara - amman amman</p>\n<p>Haydi kalk gidelim ılgara - vay vay (2</p>\n<p>Ilgar bize n'eylesin - amman amman</p>\n<p>Haydi kalk gidelim kızlara (2-sazlara) - vay vay (2</p>\n<p class=\"bos\"></p>\n<p><b>Emişim gümüşüm ...</b></p>",
   "sozler_duz": "Atım araptır benim - amman amman\n\nHaydi yüküm şaraptır benim - vay vay (2\n\nBu yıl böyle giderse - amman amman\n\nHaydi halim haraptır - benim vay vay (2\n\nEmişim gümüşüm bir hoşum vay vay\n\nÇokça da içmişim sarhoşum vay vay\n\nAtım kara ben kara - amman amman\n\nHaydi kalk gidelim ılgara - vay vay (2\n\nIlgar bize n'eylesin - amman amman\n\nHaydi kalk gidelim kızlara (2-sazlara) - vay vay (2\n\nEmişim gümüşüm ...",
-  "meta": {
-    "karar": "Sol"
-  },
+  "meta": {},
   "sistem": {
     "eski_id": 454,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20T23:04:08.254Z",
+    "son_degisiklik": "2026-05-17T19:38:21.028Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
