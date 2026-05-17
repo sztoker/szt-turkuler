@@ -1,26 +1,16 @@
 {
   "id": "emmoglu",
   "baslik": "EMMOĞLU",
-  "sozler_html": "<p>Bu kadeh senin şerefine emmoğluO türküyü bir daha çal yine çalKarşı dağı duman aldı pus aldıUzun ömrüm yar yolunda kısaldıSazına vuran eline kurban –Allahına kurban emmoğluBen de bu dağların nesine geldimMeleşir kuzular sesine geldimBir garip ölmüş de yasına geldim –geldim emmoğluGözleri simsiyahtı emmoğluBen de tutulmuştum yanmıştımKanatlı kapının demir sürgüsüBelik belik saçlarının örgüsü / Sazına vuran ...</p>",
-  "sozler_duz": "Bu kadeh senin şerefine emmoğluO türküyü bir daha çal yine çalKarşı dağı duman aldı pus aldıUzun ömrüm yar yolunda kısaldıSazına vuran eline kurban –Allahına kurban emmoğluBen de bu dağların nesine geldimMeleşir kuzular sesine geldimBir garip ölmüş de yasına geldim –geldim emmoğluGözleri simsiyahtı emmoğluBen de tutulmuştum yanmıştımKanatlı kapının demir sürgüsüBelik belik saçlarının örgüsü / Sazına vuran ...",
+  "sozler_html": "<p>Bu kadeh senin şerefine emmoğlu</p><p>O türküyü bir daha çal yine çal</p><p>Karşı dağı duman aldı pus aldı</p><p>Uzun ömrüm yar yolunda kısaldı</p><p><br></p><p><b>Sazına vuran eline kurban&nbsp;</b></p><p><b>–Allahına kurban emmoğlu</b></p><p><b>Ben de bu dağların nesine geldim</b></p><p><b>Meleşir kuzular sesine geldim</b></p><p><b>Bir garip ölmüş de yasına geldim</b></p><p><b>&nbsp;–geldim emmoğlu</b></p><p><br></p><p>Gözleri simsiyahtı emmoğlu</p><p>Ben de tutulmuştum yanmıştım</p><p>Kanatlı kapının demir sürgüsü</p><p>Belik belik saçlarının örgüsü&nbsp;</p><p><br></p><p><b>Sazına vuran ...</b></p>",
+  "sozler_duz": "Bu kadeh senin şerefine emmoğlu\n\nO türküyü bir daha çal yine çal\n\nKarşı dağı duman aldı pus aldı\n\nUzun ömrüm yar yolunda kısaldı\n\nSazına vuran eline kurban \n\n–Allahına kurban emmoğlu\n\nBen de bu dağların nesine geldim\n\nMeleşir kuzular sesine geldim\n\nBir garip ölmüş de yasına geldim\n\n –geldim emmoğlu\n\nGözleri simsiyahtı emmoğlu\n\nBen de tutulmuştum yanmıştım\n\nKanatlı kapının demir sürgüsü\n\nBelik belik saçlarının örgüsü \n\nSazına vuran ...",
   "meta": {
-    "yore": "Ferdi Tayfur / Şemsi Belli",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ferdi Tayfur / Şemsi Belli",
-    "aciklama": ""
+    "soyleyenler": "Ferdi Tayfur",
+    "diger_bilgiler": "Şemsi Belli"
   },
   "sistem": {
     "eski_id": 5231,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T16:07:33.815Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
