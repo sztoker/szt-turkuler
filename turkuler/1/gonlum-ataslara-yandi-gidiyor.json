@@ -2,25 +2,14 @@
   "id": "gonlum-ataslara-yandi-gidiyor",
   "baslik": "GÖNLÜM ATAŞLARA YANDI GİDİYOR",
   "sozler_html": "<p>Ben bu yıl yarimden ayrı düşeli</p>\n<p>Her günüm bir yıla döndü gidiyor</p>\n<p>Yine zindan oldu dünya başıma</p>\n<p class=\"bos\"></p>\n<p><b>Gönlüm (sinem) ataşlara yandı gidiyor</b></p>\n<p class=\"bos\"></p>\n<p>Ömrüm boş hayale kandı gidiyor</p>\n<p class=\"bos\"></p>\n<p>Uzaktır yolların dolandım geldim</p>\n<p>Tatlıdır dillerin bağlandım kaldım</p>\n<p>Günahı boynuna işte ben öldüm</p>\n<p class=\"bos\"></p>\n<p><b>Gönlüm ...</b></p>\n<p class=\"bos\"></p>\n<p>Hayal meyal olmuş şu bizim eller</p>\n<p>Dostun bahçesinde açılmış güller</p>\n<p>Her sabah her seher öter bülbüller</p>\n<p class=\"bos\"></p>\n<p><b>Gönlüm ...</b></p>",
-  "sozler_duz": "Ben bu yıl yarimden ayrı düşeli Her günüm bir yıla döndü gidiyor Yine zindan oldu dünya başıma Gönlüm (sinem) ataşlara yandı gidiyor Ömrüm boş hayale kandı gidiyor Uzaktır yolların dolandım geldim Tatlıdır dillerin bağlandım kaldım Günahı boynuna işte ben öldüm Gönlüm ... Hayal meyal olmuş şu bizim eller Dostun bahçesinde açılmış güller Her sabah her seher öter bülbüller Gönlüm ...",
+  "sozler_duz": "Ben bu yıl yarimden ayrı düşeli\n\nHer günüm bir yıla döndü gidiyor\n\nYine zindan oldu dünya başıma\n\nGönlüm (sinem) ataşlara yandı gidiyor\n\nÖmrüm boş hayale kandı gidiyor\n\nUzaktır yolların dolandım geldim\n\nTatlıdır dillerin bağlandım kaldım\n\nGünahı boynuna işte ben öldüm\n\nGönlüm ...\n\nHayal meyal olmuş şu bizim eller\n\nDostun bahçesinde açılmış güller\n\nHer sabah her seher öter bülbüller\n\nGönlüm ...",
   "meta": {
-    "yore": "Orta Anadolu",
-    "turu": "1",
-    "turu2": "1",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "La",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "yore": "Orta Anadolu"
   },
   "sistem": {
     "eski_id": 290,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:56:08.858Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
