@@ -1,26 +1,15 @@
 {
   "id": "duygular-donustu-soze",
   "baslik": "DUYGULAR DÖNÜŞTÜ SÖZE",
-  "sozler_html": "<p>Erenler zehir getirin  /  Balınan öldürmen beniBağrıma diken batırın  /  Gülinen öldürmen beniHiçlik aleminde mestim  /  Varlık sevdasını kestimYokluk benim eski dostum  /  Malınan öldürmen beniYar diyerek yana yana  /  Can teslim ettim cananaEn yakınım kıysın bana  /  Elinen öldürmen beniBir aşktır düştü özüme  /  Yanarım kendi közümeLeyla görünüp gözüme  /  Çölünen öldürmen beniDuygular dönüştü söze  /  Yanık seda işler özeDertli dertli vurup saza  /  Telinen öldürmen beniHüdai'yim daldım gama  /  Saldı beni demden demeAsın kesin yüzün ama  /  Dilinen öldürmen beni</p>",
-  "sozler_duz": "Erenler zehir getirin / Balınan öldürmen beniBağrıma diken batırın / Gülinen öldürmen beniHiçlik aleminde mestim / Varlık sevdasını kestimYokluk benim eski dostum / Malınan öldürmen beniYar diyerek yana yana / Can teslim ettim cananaEn yakınım kıysın bana / Elinen öldürmen beniBir aşktır düştü özüme / Yanarım kendi közümeLeyla görünüp gözüme / Çölünen öldürmen beniDuygular dönüştü söze / Yanık seda işler özeDertli dertli vurup saza / Telinen öldürmen beniHüdai'yim daldım gama / Saldı beni demden demeAsın kesin yüzün ama / Dilinen öldürmen beni",
+  "sozler_html": "<p>Erenler zehir getirin&nbsp;</p><p>&nbsp;Balınan öldürmen beni</p><p>Bağrıma diken batırın&nbsp;</p><p>&nbsp;Gülinen öldürmen beni</p><p><br></p><p>Hiçlik aleminde mestim&nbsp;</p><p>&nbsp;Varlık sevdasını kestim</p><p>Yokluk benim eski dostum&nbsp;</p><p>&nbsp;Malınan öldürmen beni</p><p><br></p><p>Yar diyerek yana yana&nbsp;</p><p>&nbsp;Can teslim ettim canana</p><p>En yakınım kıysın bana&nbsp;</p><p>&nbsp;Elinen öldürmen beni</p><p><br></p><p>Bir aşktır düştü özüme&nbsp;</p><p>&nbsp;Yanarım kendi közüme</p><p>Leyla görünüp gözüme&nbsp;</p><p>&nbsp;Çölünen öldürmen beni</p><p><br></p><p>Duygular dönüştü söze&nbsp;</p><p>&nbsp;Yanık seda işler öze</p><p>Dertli dertli vurup saza&nbsp;</p><p>&nbsp;Telinen öldürmen beni</p><p><br></p><p>Hüdai'yim daldım gama&nbsp;</p><p>&nbsp;Saldı beni demden deme</p><p>Asın kesin yüzün ama&nbsp;</p><p>&nbsp;Dilinen öldürmen beni</p>",
+  "sozler_duz": "Erenler zehir getirin \n\n Balınan öldürmen beni\n\nBağrıma diken batırın \n\n Gülinen öldürmen beni\n\nHiçlik aleminde mestim \n\n Varlık sevdasını kestim\n\nYokluk benim eski dostum \n\n Malınan öldürmen beni\n\nYar diyerek yana yana \n\n Can teslim ettim canana\n\nEn yakınım kıysın bana \n\n Elinen öldürmen beni\n\nBir aşktır düştü özüme \n\n Yanarım kendi közüme\n\nLeyla görünüp gözüme \n\n Çölünen öldürmen beni\n\nDuygular dönüştü söze \n\n Yanık seda işler öze\n\nDertli dertli vurup saza \n\n Telinen öldürmen beni\n\nHüdai'yim daldım gama \n\n Saldı beni demden deme\n\nAsın kesin yüzün ama \n\n Dilinen öldürmen beni",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "Hüdayi  / Arif Sağ",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Hüdai  / Arif Sağ"
   },
   "sistem": {
     "eski_id": 219,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T15:30:45.552Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
