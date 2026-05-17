@@ -1,26 +1,17 @@
 {
   "id": "dam-basinda-sari-cicek",
-  "baslik": "Dam Başında Sarı Çiçek _",
-  "sozler_html": "<p>Dam Başında Sarı Çiçek (Oy Oy)Burdan Kalkak Ürgüp'e Göçek (Nennide Feridem Nenni)Ürgüp'e Vardığımız Gece (Oy Oy)Hak Yoluna Gurban Kesek (Nennide Feridem Nenni)Gidiyorum İşte Gör (Oy Oy)Hayalde Gör Düşte Gör (Nennide Feridem Nenni)Gıymatımı Bilmeyon (Oy Oy)Bir Kötüye Düş De Gör (Nennide Feridem Nenni)Odaları Köşeli (Oy Oy)Gül-Ü Reyhan Döşelide (Nennide Feridem Nenni)Ne Ağladım Ne Güldüm (Oy Oy)Ben Bu Aşka Düşeli (Nennide Feridem Nenni)</p>",
-  "sozler_duz": "Dam Başında Sarı Çiçek (Oy Oy)Burdan Kalkak Ürgüp'e Göçek (Nennide Feridem Nenni)Ürgüp'e Vardığımız Gece (Oy Oy)Hak Yoluna Gurban Kesek (Nennide Feridem Nenni)Gidiyorum İşte Gör (Oy Oy)Hayalde Gör Düşte Gör (Nennide Feridem Nenni)Gıymatımı Bilmeyon (Oy Oy)Bir Kötüye Düş De Gör (Nennide Feridem Nenni)Odaları Köşeli (Oy Oy)Gül-Ü Reyhan Döşelide (Nennide Feridem Nenni)Ne Ağladım Ne Güldüm (Oy Oy)Ben Bu Aşka Düşeli (Nennide Feridem Nenni)",
+  "baslik": "Dam Başında Sarı Çiçek",
+  "sozler_html": "<p>Dam Başında Sarı Çiçek (Oy Oy)</p><p>Burdan Kalkak Ürgüp'e Göçek&nbsp;</p><p>(Nennide Feridem Nenni)</p><p>Ürgüp'e Vardığımız Gece (Oy Oy)</p><p>Hak Yoluna Gurban Kesek&nbsp;</p><p>(Nennide Feridem Nenni)</p><p><br></p><p>Gidiyorum İşte Gör (Oy Oy)</p><p>Hayalde Gör Düşte Gör&nbsp;</p><p>(Nennide Feridem Nenni)</p><p>Gıymatımı Bilmeyon (Oy Oy)</p><p>Bir Kötüye Düş De Gör&nbsp;</p><p>(Nennide Feridem Nenni)</p><p><br></p><p>Odaları Köşeli (Oy Oy)</p><p>Gül-Ü Reyhan Döşelide&nbsp;</p><p>(Nennide Feridem Nenni)</p><p>Ne Ağladım Ne Güldüm (Oy Oy)</p><p>Ben Bu Aşka Düşel</p><p>i (Nennide Feridem Nenni)</p>",
+  "sozler_duz": "Dam Başında Sarı Çiçek (Oy Oy)\n\nBurdan Kalkak Ürgüp'e Göçek \n\n(Nennide Feridem Nenni)\n\nÜrgüp'e Vardığımız Gece (Oy Oy)\n\nHak Yoluna Gurban Kesek \n\n(Nennide Feridem Nenni)\n\nGidiyorum İşte Gör (Oy Oy)\n\nHayalde Gör Düşte Gör \n\n(Nennide Feridem Nenni)\n\nGıymatımı Bilmeyon (Oy Oy)\n\nBir Kötüye Düş De Gör \n\n(Nennide Feridem Nenni)\n\nOdaları Köşeli (Oy Oy)\n\nGül-Ü Reyhan Döşelide \n\n(Nennide Feridem Nenni)\n\nNe Ağladım Ne Güldüm (Oy Oy)\n\nBen Bu Aşka Düşel\n\ni (Nennide Feridem Nenni)",
   "meta": {
     "yore": "Nevşehir/Ürgüp",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Refik Başaran-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Refik Başaran"
   },
   "sistem": {
     "eski_id": 3754,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T12:42:45.867Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
