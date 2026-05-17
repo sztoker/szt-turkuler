@@ -1,26 +1,15 @@
 {
   "id": "don-gulum-huzun-yoldasim",
   "baslik": "DÖN GÜLÜM (Hüzün Yoldaşım)",
-  "sozler_html": "<p>Güneş aşıp gitti yine / Hiç görmediğim dağlardanGece ağır ağır indi / Şu koskoca kenteBir ben kaldım yalnız çaresizBir de boyacı esmer çocuklar 2Dön gülüm yine gel gülümDayanmaz artık hasretine bu ömrümÜrettik yeşerttik / Sonunda ayrı düştükAyrı derelerde / Akıyor şimdi hayatBir ben kaldım ortasında kavganınBir de karanfil yürekli çocuklar / Dön gülüm ...Anlatılmaz bir sevdaydı / Sızısı ta içimdeHangi sözcüğe sığar ki / Şiiri yüreğimdeÇözülmez ki bu bir kör düğümUğruna her gece sabahadek öldüğüm / Dön gülüm ...</p>",
-  "sozler_duz": "Güneş aşıp gitti yine / Hiç görmediğim dağlardanGece ağır ağır indi / Şu koskoca kenteBir ben kaldım yalnız çaresizBir de boyacı esmer çocuklar 2Dön gülüm yine gel gülümDayanmaz artık hasretine bu ömrümÜrettik yeşerttik / Sonunda ayrı düştükAyrı derelerde / Akıyor şimdi hayatBir ben kaldım ortasında kavganınBir de karanfil yürekli çocuklar / Dön gülüm ...Anlatılmaz bir sevdaydı / Sızısı ta içimdeHangi sözcüğe sığar ki / Şiiri yüreğimdeÇözülmez ki bu bir kör düğümUğruna her gece sabahadek öldüğüm / Dön gülüm ...",
+  "sozler_html": "<p>Güneş aşıp gitti yine&nbsp;</p><p>Hiç görmediğim dağlardan</p><p>Gece ağır ağır indi&nbsp;</p><p>Şu koskoca kente</p><p>Bir ben kaldım yalnız çaresiz</p><p>Bir de boyacı esmer çocuklar 2</p><p><br></p><p><b>Dön gülüm yine gel gülüm</b></p><p><b>Dayanmaz artık hasretine bu ömrüm</b></p><p><br></p><p>Ürettik yeşerttik / Sonunda ayrı düştük</p><p>Ayrı derelerde / Akıyor şimdi hayat</p><p>Bir ben kaldım ortasında kavganın</p><p>Bir de karanfil yürekli çocuklar&nbsp;</p><p><br></p><p><b>Dön gülüm ...</b></p><p><br></p><p>Anlatılmaz bir sevdaydı&nbsp;</p><p>Sızısı ta içimde</p><p>Hangi sözcüğe sığar ki&nbsp;</p><p>Şiiri yüreğimde</p><p>Çözülmez ki bu bir kör düğüm</p><p>Uğruna her gece sabahadek öldüğüm&nbsp;</p><p><br></p><p><b>Dön gülüm ...</b></p>",
+  "sozler_duz": "Güneş aşıp gitti yine \n\nHiç görmediğim dağlardan\n\nGece ağır ağır indi \n\nŞu koskoca kente\n\nBir ben kaldım yalnız çaresiz\n\nBir de boyacı esmer çocuklar 2\n\nDön gülüm yine gel gülüm\n\nDayanmaz artık hasretine bu ömrüm\n\nÜrettik yeşerttik / Sonunda ayrı düştük\n\nAyrı derelerde / Akıyor şimdi hayat\n\nBir ben kaldım ortasında kavganın\n\nBir de karanfil yürekli çocuklar \n\nDön gülüm ...\n\nAnlatılmaz bir sevdaydı \n\nSızısı ta içimde\n\nHangi sözcüğe sığar ki \n\nŞiiri yüreğimde\n\nÇözülmez ki bu bir kör düğüm\n\nUğruna her gece sabahadek öldüğüm \n\nDön gülüm ...",
   "meta": {
-    "yore": "Y : İlkay Akkaya",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Y : İlkay Akkaya",
-    "aciklama": ""
+    "soyleyenler": "İlkay Akkaya"
   },
   "sistem": {
     "eski_id": 692,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T15:10:10.782Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
