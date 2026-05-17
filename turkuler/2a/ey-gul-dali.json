@@ -1,26 +1,16 @@
 {
   "id": "ey-gul-dali",
   "baslik": "EY GÜL DALI",
-  "sozler_html": "<p>Ey gül dalı gül dalı / Oldum sana sevdalıGördüğüm günden beri / Sinem aşkınla dağlıSaçları senden / Saç bağı bendenVar git ey güzel / Küsmüşem sendenGüzel ağlatma beni / Yabana atma beniBen senin aşıkınam / Bir pula satma beni / Saçları ...</p>",
-  "sozler_duz": "Ey gül dalı gül dalı / Oldum sana sevdalıGördüğüm günden beri / Sinem aşkınla dağlıSaçları senden / Saç bağı bendenVar git ey güzel / Küsmüşem sendenGüzel ağlatma beni / Yabana atma beniBen senin aşıkınam / Bir pula satma beni / Saçları ...",
+  "sozler_html": "<p>Ey gül dalı gül dalı&nbsp;</p><p>Oldum sana sevdalı</p><p>Gördüğüm günden beri&nbsp;</p><p>Sinem aşkınla dağlı</p><p><br></p><p><b>Saçları senden&nbsp;&nbsp;</b></p><p><b>Saç bağı benden</b></p><p><b>Var git ey güzel&nbsp;&nbsp;</b></p><p><b>Küsmüşem senden</b></p><p><br></p><p>Güzel ağlatma beni&nbsp;</p><p>Yabana atma beni</p><p>Ben senin aşıkınam&nbsp;</p><p>Bir pula satma beni&nbsp;</p><p><br></p><p><b>Saçları ...</b></p>",
+  "sozler_duz": "Ey gül dalı gül dalı \n\nOldum sana sevdalı\n\nGördüğüm günden beri \n\nSinem aşkınla dağlı\n\nSaçları senden  \n\nSaç bağı benden\n\nVar git ey güzel  \n\nKüsmüşem senden\n\nGüzel ağlatma beni \n\nYabana atma beni\n\nBen senin aşıkınam \n\nBir pula satma beni \n\nSaçları ...",
   "meta": {
-    "yore": "BAYBURT (Zakir Peksert)",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "BAYBURT (Zakir Peksert)",
-    "aciklama": ""
+    "yore": "BAYBURT",
+    "kaynak_kisi": "Zakir Peksert"
   },
   "sistem": {
     "eski_id": 5293,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T18:37:29.466Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
