@@ -2,25 +2,15 @@
   "id": "ne-guzel-yaratmis-yar-yar",
   "baslik": "NE GÜZEL YARATMIŞ YAR YAR",
   "sozler_html": "<p>Ne güzel yaratmış (yar yar) seni yaradan</p>\n<p>İstemem esmesin (yar yar) yeller (yeller)</p>\n<p>İncinir güzelsin sevdiğim (yar yar) gülden goncadan</p>\n<p>Uzanmasın sana (yar yar) eller incidir (incidir)</p>\n<p class=\"bos\"></p>\n<p>Kirpiklerin oktur (yar yar) kaşın yay gibi</p>\n<p>Gözlerin aklımı (yar yar) etti zay gibi</p>\n<p>Cemalin güneşe benzer (yar yar) yüzün ay gibi</p>\n<p>Değmesin zülüfler (yar yar) teller incidir (incidir)</p>\n<p class=\"bos\"></p>\n<p>Bir garibim düştüm (yar yar) gurbet ellere</p>\n<p>Aşığım ben (yar yar) sinendeki güllere</p>\n<p>Korkarım adını (yar yar) demem ellere</p>\n<p>Düşersin dillere (yar yar) diller incidir (incidir)</p>",
-  "sozler_duz": "Ne güzel yaratmış (yar yar) seni yaradan İstemem esmesin (yar yar) yeller (yeller) İncinir güzelsin sevdiğim (yar yar) gülden goncadan Uzanmasın sana (yar yar) eller incidir (incidir) Kirpiklerin oktur (yar yar) kaşın yay gibi Gözlerin aklımı (yar yar) etti zay gibi Cemalin güneşe benzer (yar yar) yüzün ay gibi Değmesin zülüfler (yar yar) teller incidir (incidir) Bir garibim düştüm (yar yar) gurbet ellere Aşığım ben (yar yar) sinendeki güllere Korkarım adını (yar yar) demem ellere Düşersin dillere (yar yar) diller incidir (incidir)",
+  "sozler_duz": "Ne güzel yaratmış (yar yar) seni yaradan\n\nİstemem esmesin (yar yar) yeller (yeller)\n\nİncinir güzelsin sevdiğim (yar yar) gülden goncadan\n\nUzanmasın sana (yar yar) eller incidir (incidir)\n\nKirpiklerin oktur (yar yar) kaşın yay gibi\n\nGözlerin aklımı (yar yar) etti zay gibi\n\nCemalin güneşe benzer (yar yar) yüzün ay gibi\n\nDeğmesin zülüfler (yar yar) teller incidir (incidir)\n\nBir garibim düştüm (yar yar) gurbet ellere\n\nAşığım ben (yar yar) sinendeki güllere\n\nKorkarım adını (yar yar) demem ellere\n\nDüşersin dillere (yar yar) diller incidir (incidir)",
   "meta": {
     "yore": "Kırşehir",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Neşet Ertaş-TRT İst. Rad. Thm Md",
-    "aciklama": ""
+    "kaynak_kisi": "Neşet Ertaş"
   },
   "sistem": {
     "eski_id": 4542,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:28:25.729Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
