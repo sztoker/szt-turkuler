@@ -2,25 +2,15 @@
   "id": "hapishane-onunde",
   "baslik": "HAPİSHANE ÖNÜNDE",
   "sozler_html": "<p>Hapishane önünde yayılır kazlar</p>\n<p>Bir bayramdan bir bayrama çalınır sazlar</p>\n<p>Çok kışlar geçirdim gelmiyor yazlar</p>\n<p>Düştüm ben bir zindana yanar döner ağlarım</p>\n<p>Demir parmaklıklardan boyun büker ağlarım</p>\n<p class=\"bos\"></p>\n<p>Hapishane içinde bir mermer direk</p>\n<p>Kimimiz yüz birli kimimiz kürek</p>\n<p>İdam cezalarına dayanmaz yürek / Düştüm ...</p>\n<p class=\"bos\"></p>\n<p>Hapishane içinde ötüşen kuşlar</p>\n<p>Hayırdır inşallah gördüğüm düşler</p>\n<p>Herkes sevdiğine canlar bağışlar / Düştüm ...</p>\n<p class=\"bos\"></p>\n<p>Hapishanenin suyu içinden akar</p>\n<p>Arkadaşlar gelmiş kapıdan bakar</p>\n<p>Gardiyanlar darılır canımı yakar / Düştüm ...</p>",
-  "sozler_duz": "Hapishane önünde yayılır kazlar Bir bayramdan bir bayrama çalınır sazlar Çok kışlar geçirdim gelmiyor yazlar Düştüm ben bir zindana yanar döner ağlarım Demir parmaklıklardan boyun büker ağlarım Hapishane içinde bir mermer direk Kimimiz yüz birli kimimiz kürek İdam cezalarına dayanmaz yürek / Düştüm ... Hapishane içinde ötüşen kuşlar Hayırdır inşallah gördüğüm düşler Herkes sevdiğine canlar bağışlar / Düştüm ... Hapishanenin suyu içinden akar Arkadaşlar gelmiş kapıdan bakar Gardiyanlar darılır canımı yakar / Düştüm ...",
+  "sozler_duz": "Hapishane önünde yayılır kazlar\n\nBir bayramdan bir bayrama çalınır sazlar\n\nÇok kışlar geçirdim gelmiyor yazlar\n\nDüştüm ben bir zindana yanar döner ağlarım\n\nDemir parmaklıklardan boyun büker ağlarım\n\nHapishane içinde bir mermer direk\n\nKimimiz yüz birli kimimiz kürek\n\nİdam cezalarına dayanmaz yürek / Düştüm ...\n\nHapishane içinde ötüşen kuşlar\n\nHayırdır inşallah gördüğüm düşler\n\nHerkes sevdiğine canlar bağışlar / Düştüm ...\n\nHapishanenin suyu içinden akar\n\nArkadaşlar gelmiş kapıdan bakar\n\nGardiyanlar darılır canımı yakar / Düştüm ...",
   "meta": {
     "yore": "AFYON",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "Muharrem Çepnioğlu",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AFYON",
-    "aciklama": ""
+    "kaynak_kisi": "Muharrem Çepnioğlu"
   },
   "sistem": {
     "eski_id": 174,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:19:40.915Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
