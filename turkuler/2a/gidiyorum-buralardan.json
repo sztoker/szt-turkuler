@@ -1,26 +1,15 @@
 {
   "id": "gidiyorum-buralardan",
   "baslik": "GİDİYORUM BURALARDAN",
-  "sozler_html": "<p>Ne başkası oldu ne de olacakSen çalmazsan kapım açılmayacakŞimdi içimde yanan bu ateş / Sanma ki bir son bulacakHiç utanmam gülüm divaneyimParçalanmış dünyam viraneyimSeni her şeyden çok –çok- istedim / Vuruldum avareyimNe olurdu benim olsan / Şu yaralarımı sarsanBıktım artık yol almaktan / Önüme çıkıp durdu sanGidiyorum buralardan / Tüm rüzgarlar senin olsunBenden ayrı rüyadasın / Dilerim bir gün uyanırsınYıllar sonra bir gün yaşlandığındaO ipek saçların ağardığındaKuru yaprak gibi dağıldığında / Kalırsın tek başınaOysa seni ne çok –ne çok- sevmiştimTüm çiçeklerimi sana dermiştimŞimdi ellerim boş yüreğim sarhoşOysa neler ümit etmiştim / Ne olurdu....</p>",
-  "sozler_duz": "Ne başkası oldu ne de olacakSen çalmazsan kapım açılmayacakŞimdi içimde yanan bu ateş / Sanma ki bir son bulacakHiç utanmam gülüm divaneyimParçalanmış dünyam viraneyimSeni her şeyden çok –çok- istedim / Vuruldum avareyimNe olurdu benim olsan / Şu yaralarımı sarsanBıktım artık yol almaktan / Önüme çıkıp durdu sanGidiyorum buralardan / Tüm rüzgarlar senin olsunBenden ayrı rüyadasın / Dilerim bir gün uyanırsınYıllar sonra bir gün yaşlandığındaO ipek saçların ağardığındaKuru yaprak gibi dağıldığında / Kalırsın tek başınaOysa seni ne çok –ne çok- sevmiştimTüm çiçeklerimi sana dermiştimŞimdi ellerim boş yüreğim sarhoşOysa neler ümit etmiştim / Ne olurdu....",
+  "sozler_html": "<p>Ne başkası oldu ne de olacak</p><p>Sen çalmazsan kapım açılmayacak</p><p>Şimdi içimde yanan bu ateş&nbsp;</p><p>Sanma ki bir son bulacak</p><p><br></p><p>Hiç utanmam gülüm divaneyim</p><p>Parçalanmış dünyam viraneyim</p><p>Seni her şeyden çok –çok- istedim&nbsp;</p><p>Vuruldum avareyim</p><p><br></p><p><b>Ne olurdu benim olsan&nbsp;</b></p><p><b>Şu yaralarımı sarsan</b></p><p><b>Bıktım artık yol almaktan&nbsp;</b></p><p><b>Önüme çıkıp durdursan</b></p><p><br></p><p>Gidiyorum buralardan&nbsp;</p><p>Tüm rüzgarlar senin olsun</p><p>Benden ayrı rüyadasın&nbsp;</p><p>Dilerim bir gün uyanırsın</p><p><br></p><p>Yıllar sonra bir gün yaşlandığında</p><p>O ipek saçların ağardığında</p><p>Kuru yaprak gibi dağıldığında&nbsp;</p><p>Kalırsın tek başına</p><p><br></p><p>Oysa seni ne çok –ne çok- sevmiştim</p><p>Tüm çiçeklerimi sana dermiştim</p><p>Şimdi ellerim boş yüreğim sarhoş</p><p>Oysa neler ümit etmiştim&nbsp;</p><p><br></p><p><b>Ne olurdu....</b></p>",
+  "sozler_duz": "Ne başkası oldu ne de olacak\n\nSen çalmazsan kapım açılmayacak\n\nŞimdi içimde yanan bu ateş \n\nSanma ki bir son bulacak\n\nHiç utanmam gülüm divaneyim\n\nParçalanmış dünyam viraneyim\n\nSeni her şeyden çok –çok- istedim \n\nVuruldum avareyim\n\nNe olurdu benim olsan \n\nŞu yaralarımı sarsan\n\nBıktım artık yol almaktan \n\nÖnüme çıkıp durdursan\n\nGidiyorum buralardan \n\nTüm rüzgarlar senin olsun\n\nBenden ayrı rüyadasın \n\nDilerim bir gün uyanırsın\n\nYıllar sonra bir gün yaşlandığında\n\nO ipek saçların ağardığında\n\nKuru yaprak gibi dağıldığında \n\nKalırsın tek başına\n\nOysa seni ne çok –ne çok- sevmiştim\n\nTüm çiçeklerimi sana dermiştim\n\nŞimdi ellerim boş yüreğim sarhoş\n\nOysa neler ümit etmiştim \n\nNe olurdu....",
   "meta": {
-    "yore": "Y: Kıraç",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Y: Kıraç",
-    "aciklama": ""
+    "soyleyenler": "Kıraç"
   },
   "sistem": {
     "eski_id": 5434,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T16:21:56.030Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
