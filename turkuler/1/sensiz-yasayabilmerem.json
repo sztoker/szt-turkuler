@@ -1,26 +1,16 @@
 {
   "id": "sensiz-yasayabilmerem",
   "baslik": "SENSİZ YAŞAYABİLMEREM",
-  "sozler_html": "<p>Güzelim yürekten bağlıyam sana</p>\n<p>E ziyet eder mi seven sevene</p>\n<p class=\"bos\"></p>\n<p><b>Y andırdın kalbimi aman </b></p>\n<p><b>A y kaşları keman </b></p>\n<p><b>B u derdime inan yar </b></p>\n<p><b>S ensiz yaşayabilmerem </b></p>\n<p><b>E y sevgili canan </b></p>\n<p><b>B u derdime inan </b></p>\n<p class=\"bos\"></p>\n<p>S eni görmeyende fenadır halim</p>\n<p>İntizarda koyma gadan ben alım</p>\n<p class=\"bos\"></p>\n<p><b>Y andırdın kalbimi ...</b></p>",
-  "sozler_duz": "Güzelim yürekten bağlıyam sana E ziyet eder mi seven sevene Y andırdın kalbimi aman A y kaşları keman B u derdime inan yar S ensiz yaşayabilmerem E y sevgili canan B u derdime inan S eni görmeyende fenadır halim İntizarda koyma gadan ben alım Y andırdın kalbimi ...",
+  "sozler_html": "<p>Güzelim yürekten bağlıyam sana</p>\n<p>Eziyet eder mi seven sevene</p>\n<p class=\"bos\"></p>\n<p><b>Yandırdın kalbimi aman </b></p>\n<p><b>Ay kaşları keman </b></p>\n<p><b>Bu derdime inan yar </b></p>\n<p><b>Sensiz yaşayabilmerem </b></p>\n<p><b>Ey sevgili canan </b></p>\n<p><b>Bu derdime inan </b></p>\n<p class=\"bos\"></p>\n<p>Seni görmeyende fenadır halim</p>\n<p>İntizarda koyma gadan ben alım</p>\n<p class=\"bos\"></p>\n<p><b>Yandırdın kalbimi ...</b></p>",
+  "sozler_duz": "Güzelim yürekten bağlıyam sana\n\nEziyet eder mi seven sevene\n\nYandırdın kalbimi aman\n\nAy kaşları keman\n\nBu derdime inan yar\n\nSensiz yaşayabilmerem\n\nEy sevgili canan\n\nBu derdime inan\n\nSeni görmeyende fenadır halim\n\nİntizarda koyma gadan ben alım\n\nYandırdın kalbimi ...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "şenel önaldı",
-    "muzik": "şenel önaldı",
-    "soyleyenler": "",
-    "repertuar": "22",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "muzik": "şenel önaldı"
   },
   "sistem": {
     "eski_id": 5165,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:38:22.917Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
