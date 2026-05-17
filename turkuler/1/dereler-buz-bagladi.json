@@ -1,26 +1,16 @@
 {
   "id": "dereler-buz-bagladi",
-  "baslik": "Dereler Buz Bağladı_",
-  "sozler_html": "<p>Dereler Buz BağladıAvcılar İz BağladıBeni Bir Gelin Vurdu(Ah) Yaramı Kız BağladıDerelerin UzunuKıramadım BuzunuAldım Avşar Kızını(Ah) Çekemedim NazınıDerelerin OylumuEğri Koydun BoynumuGine Göresim Geldi(Ah) Kara Gözlü Yarimi</p>",
-  "sozler_duz": "Dereler Buz BağladıAvcılar İz BağladıBeni Bir Gelin Vurdu(Ah) Yaramı Kız BağladıDerelerin UzunuKıramadım BuzunuAldım Avşar Kızını(Ah) Çekemedim NazınıDerelerin OylumuEğri Koydun BoynumuGine Göresim Geldi(Ah) Kara Gözlü Yarimi",
+  "baslik": "Dereler Buz Bağladı",
+  "sozler_html": "<p>Dereler Buz Bağladı</p><p>Avcılar İz Bağladı</p><p>Beni Bir Gelin Vurdu(Ah)&nbsp;</p><p>Yaramı Kız Bağladı</p><p><br></p><p>Derelerin Uzunu</p><p>Kıramadım Buzunu</p><p>Aldım Avşar Kızını(Ah)&nbsp;</p><p>Çekemedim Nazını</p><p><br></p><p>Derelerin Oylumu</p><p>Eğri Koydun Boynumu</p><p>Gine Göresim Geldi(Ah)&nbsp;</p><p>Kara Gözlü Yarimi</p>",
+  "sozler_duz": "Dereler Buz Bağladı\n\nAvcılar İz Bağladı\n\nBeni Bir Gelin Vurdu(Ah) \n\nYaramı Kız Bağladı\n\nDerelerin Uzunu\n\nKıramadım Buzunu\n\nAldım Avşar Kızını(Ah) \n\nÇekemedim Nazını\n\nDerelerin Oylumu\n\nEğri Koydun Boynumu\n\nGine Göresim Geldi(Ah) \n\nKara Gözlü Yarimi",
   "meta": {
     "yore": "Doğu Anadolu",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen"
   },
   "sistem": {
     "eski_id": 3796,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:04:24.806Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
