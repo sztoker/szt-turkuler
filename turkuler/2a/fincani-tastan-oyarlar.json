@@ -1,16 +1,15 @@
 {
   "id": "fincani-tastan-oyarlar",
   "baslik": "FİNCANI TAŞTAN OYARLAR",
-  "sozler_html": "<p>Fincanı taştan oyarlar -balam oyarlarİçine bade koyarlarSen bize gelme duyarlar -balam duyarlarSen kimin canısın canı / Sen yine doldur fincanıFincanı rafa dizerler / İçine bade süzerlerSen bize gelme sezerler  / Sen kimin ...Fincanın dibi düz olur / Bir kadeh bade az olur Sen bize gelme söz olur / Sen kimin ...</p>",
-  "sozler_duz": "Fincanı taştan oyarlar -balam oyarlarİçine bade koyarlarSen bize gelme duyarlar -balam duyarlarSen kimin canısın canı / Sen yine doldur fincanıFincanı rafa dizerler / İçine bade süzerlerSen bize gelme sezerler / Sen kimin ...Fincanın dibi düz olur / Bir kadeh bade az olur Sen bize gelme söz olur / Sen kimin ...",
+  "sozler_html": "<p>Fincanı taştan oyarlar -balam oyarlar</p><p>İçine bade koyarlar</p><p>Sen bize gelme duyarlar -balam duyarlar</p><p><br></p><p><b>Sen kimin canısın canı&nbsp;</b></p><p><b>Sen yine doldur fincanı</b></p><p><br></p><p>Fincanı rafa dizerler&nbsp;</p><p>İçine bade süzerler</p><p>Sen bize gelme sezerler&nbsp;</p><p><br></p><p><b>Sen kimin ...</b></p><p><br></p><p>Fincanın dibi düz olur&nbsp;</p><p>Bir kadeh bade az olur&nbsp;</p><p>Sen bize gelme söz olur&nbsp;</p><p><br></p><p><b>Sen kimin ...</b></p>",
+  "sozler_duz": "Fincanı taştan oyarlar -balam oyarlar\n\nİçine bade koyarlar\n\nSen bize gelme duyarlar -balam duyarlar\n\nSen kimin canısın canı \n\nSen yine doldur fincanı\n\nFincanı rafa dizerler \n\nİçine bade süzerler\n\nSen bize gelme sezerler \n\nSen kimin ...\n\nFincanın dibi düz olur \n\nBir kadeh bade az olur \n\nSen bize gelme söz olur \n\nSen kimin ...",
   "meta": {
-    "yore": "SİVAS",
-    "diger_bilgiler": "SİVAS"
+    "yore": "SİVAS"
   },
   "sistem": {
     "eski_id": 5344,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T01:13:30.697Z",
+    "son_degisiklik": "2026-05-17T18:48:26.778Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
