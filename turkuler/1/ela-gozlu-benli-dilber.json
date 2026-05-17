@@ -2,25 +2,15 @@
   "id": "ela-gozlu-benli-dilber",
   "baslik": "ELA GÖZLÜ BENLİ DİLBER",
   "sozler_html": "<p>Ela gözlü benli dilber</p>\n<p>Koma beni el yerine</p>\n<p>Altın kemerin olayım</p>\n<p>Dola beni bel yerine</p>\n<p class=\"bos\"></p>\n<p>Gel kız karşımda dursana</p>\n<p>Şu benim halimi bilsene</p>\n<p>Zülfünden bir tel versene</p>\n<p>Koklayayım gül yerine</p>\n<p class=\"bos\"></p>\n<p>Karacaoğlan der n’olayım</p>\n<p>Kolun boynuma dolayım</p>\n<p>Nazlı yar kölen olayım</p>\n<p>Kabul eyle kul yerine</p>",
-  "sozler_duz": "Ela gözlü benli dilber Koma beni el yerine Altın kemerin olayım Dola beni bel yerine Gel kız karşımda dursana Şu benim halimi bilsene Zülfünden bir tel versene Koklayayım gül yerine Karacaoğlan der n’olayım Kolun boynuma dolayım Nazlı yar kölen olayım Kabul eyle kul yerine",
+  "sozler_duz": "Ela gözlü benli dilber\n\nKoma beni el yerine\n\nAltın kemerin olayım\n\nDola beni bel yerine\n\nGel kız karşımda dursana\n\nŞu benim halimi bilsene\n\nZülfünden bir tel versene\n\nKoklayayım gül yerine\n\nKaracaoğlan der n’olayım\n\nKolun boynuma dolayım\n\nNazlı yar kölen olayım\n\nKabul eyle kul yerine",
   "meta": {
-    "yore": "",
-    "turu": "1",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Karacaoğlan",
-    "muzik": "Cebrail Kalın",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "La",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "muzik": "Cebrail Kalın"
   },
   "sistem": {
     "eski_id": 323,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:47:34.140Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
