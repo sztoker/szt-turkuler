@@ -1,26 +1,15 @@
 {
   "id": "esim-esim-gel-gel-acil-ey-omrumun-vari",
   "baslik": "EŞİM EŞİM GEL GEL (Açıl ey ömrümün varı)",
-  "sozler_html": "<p>Açıl ey ömrümün varı -amanBad-ı sabah olmadan -ben yandımHas bahçenin gonce gülü -amanSararıp da solmadan -ben yandımEşim eşim gel gel / Uğrun ğrun gel gelCan yoldaşım gelYürü dilber yürü  /  Saçın sürünsünAç beyaz gerdanı  /  Sinen görünsün / Eşim ...</p>",
-  "sozler_duz": "Açıl ey ömrümün varı -amanBad-ı sabah olmadan -ben yandımHas bahçenin gonce gülü -amanSararıp da solmadan -ben yandımEşim eşim gel gel / Uğrun ğrun gel gelCan yoldaşım gelYürü dilber yürü / Saçın sürünsünAç beyaz gerdanı / Sinen görünsün / Eşim ...",
+  "sozler_html": "<p>Açıl ey ömrümün varı -aman</p><p>Bad-ı sabah olmadan -ben yandım</p><p>Has bahçenin gonce gülü -aman</p><p>Sararıp da solmadan -ben yandım</p><p><br></p><p><b>Eşim eşim gel gel&nbsp;</b></p><p><b>Uğrun ğrun gel gel</b></p><p><b>Can yoldaşım gel</b></p><p><br></p><p>Yürü dilber yürü&nbsp;</p><p>&nbsp;Saçın sürünsün</p><p>Aç beyaz gerdanı&nbsp;</p><p>&nbsp;Sinen görünsün&nbsp;</p><p><br></p><p><b>Eşim ...</b></p>",
+  "sozler_duz": "Açıl ey ömrümün varı -aman\n\nBad-ı sabah olmadan -ben yandım\n\nHas bahçenin gonce gülü -aman\n\nSararıp da solmadan -ben yandım\n\nEşim eşim gel gel \n\nUğrun ğrun gel gel\n\nCan yoldaşım gel\n\nYürü dilber yürü \n\n Saçın sürünsün\n\nAç beyaz gerdanı \n\n Sinen görünsün \n\nEşim ...",
   "meta": {
-    "yore": "SİLİFKE",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "SİLİFKE",
-    "aciklama": ""
+    "yore": "SİLİFKE"
   },
   "sistem": {
     "eski_id": 5270,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T18:25:21.255Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
