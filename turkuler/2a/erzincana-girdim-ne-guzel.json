@@ -1,8 +1,8 @@
 {
   "id": "erzincana-girdim-ne-guzel",
   "baslik": "ERZİNCAN’A GİRDİM NE GÜZEL ...",
-  "sozler_html": "<p>Erzincan’a girdim ne güzel bağlar (2Erzurum’a vardım dumanlı dağlar –dumanlı dağlarElleri koynunda bir gelin ağlar –oy anam ağlar nasıl da yanarYüce dağ başında çadır açarımKahve bulamazsam kenger içerim –kenger içerimSeni vermezlerse alır kaçarım -oy anam ağlar nasıl da yanar</p>",
-  "sozler_duz": "Erzincan’a girdim ne güzel bağlar (2Erzurum’a vardım dumanlı dağlar –dumanlı dağlarElleri koynunda bir gelin ağlar –oy anam ağlar nasıl da yanarYüce dağ başında çadır açarımKahve bulamazsam kenger içerim –kenger içerimSeni vermezlerse alır kaçarım -oy anam ağlar nasıl da yanar",
+  "sozler_html": "<p>Erzincan’a girdim ne güzel bağlar (2</p><p>Erzurum’a vardım dumanlı dağlar –dumanlı dağlar</p><p>Elleri koynunda bir gelin ağlar –oy anam ağlar nasıl da yanar</p><p><br></p><p>Yüce dağ başında çadır açarım</p><p>Kahve bulamazsam kenger içerim –kenger içerim</p><p>Seni vermezlerse alır kaçarım -oy anam ağlar nasıl da yanar</p>",
+  "sozler_duz": "Erzincan’a girdim ne güzel bağlar (2\n\nErzurum’a vardım dumanlı dağlar –dumanlı dağlar\n\nElleri koynunda bir gelin ağlar –oy anam ağlar nasıl da yanar\n\nYüce dağ başında çadır açarım\n\nKahve bulamazsam kenger içerim –kenger içerim\n\nSeni vermezlerse alır kaçarım -oy anam ağlar nasıl da yanar",
   "meta": {
     "yore": "ERZİNCAN",
     "derleyen": "Turan Engin",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 5252,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T01:02:34.582Z",
+    "son_degisiklik": "2026-05-17T17:47:52.216Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
