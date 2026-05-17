@@ -1,26 +1,16 @@
 {
   "id": "gel-gel-aman-gelisine",
   "baslik": "GEL GEL AMAN GELİŞİNE",
-  "sozler_html": "<p>Benim yarim gelişinden bellidirAk elleri deste deste güllüdürİbrişim kuşaklı ince bellidirİnce bellerini sar dedi banaGel gel aman gelişine / Gül gül aman gülüşüneKurban olayımMestine de deli gönül mestineAşık olan gül gönderir dostunaİpek mendilini attı üstümeTerlersen sevdiğim sil dedi bana / Gel gel aman ...</p>",
-  "sozler_duz": "Benim yarim gelişinden bellidirAk elleri deste deste güllüdürİbrişim kuşaklı ince bellidirİnce bellerini sar dedi banaGel gel aman gelişine / Gül gül aman gülüşüneKurban olayımMestine de deli gönül mestineAşık olan gül gönderir dostunaİpek mendilini attı üstümeTerlersen sevdiğim sil dedi bana / Gel gel aman ...",
+  "sozler_html": "<p>Benim yarim gelişinden bellidir</p><p>Ak elleri deste deste güllüdür</p><p>İbrişim kuşaklı ince bellidir</p><p>İnce bellerini sar dedi bana</p><p><br></p><p><b>Gel gel aman gelişine&nbsp;</b></p><p><b>Gül gül aman gülüşüne</b></p><p><b>Kurban olayım</b></p><p><br></p><p>Mestine de deli gönül mestine</p><p>Aşık olan gül gönderir dostuna</p><p>İpek mendilini attı üstüme</p><p>Terlersen sevdiğim sil dedi bana&nbsp;</p><p><br></p><p><b>Gel gel aman ...</b></p>",
+  "sozler_duz": "Benim yarim gelişinden bellidir\n\nAk elleri deste deste güllüdür\n\nİbrişim kuşaklı ince bellidir\n\nİnce bellerini sar dedi bana\n\nGel gel aman gelişine \n\nGül gül aman gülüşüne\n\nKurban olayım\n\nMestine de deli gönül mestine\n\nAşık olan gül gönderir dostuna\n\nİpek mendilini attı üstüme\n\nTerlersen sevdiğim sil dedi bana \n\nGel gel aman ...",
   "meta": {
-    "yore": "M: Sadettin Kaynak / S: Karacaoğlan",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "M: Sadettin Kaynak / S: Karacaoğlan",
-    "aciklama": ""
+    "soz": "Karacaoğlan",
+    "muzik": "Sadettin Kaynak"
   },
   "sistem": {
     "eski_id": 5391,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:07:21.221Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
