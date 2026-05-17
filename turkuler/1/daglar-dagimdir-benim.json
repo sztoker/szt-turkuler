@@ -1,8 +1,8 @@
 {
   "id": "daglar-dagimdir-benim",
-  "baslik": "Dağlar Dağımdır Benim_",
-  "sozler_html": "<p>Dağlar Dağımdır BenimGam Ortağımdır BenimSöyletme Çok AğlarımYaman Çağımdır BenimOy Dağlar Dağlar DağlarBaşı Dumanlı DağlarGöğsü Çimenli DağlarYol Verin Yarim GeleDinsiz İmansız DağlarDağları DağlasınlarGoy Beni AğlasınlarO Yarin Çevresiyle Yaremi BağlasınlarOy Dağlar Dağlar DağlarBaşı Dumanlı DağlarGöğsü Çimenli DağlarBen Derdimi SöylesemGün Durur Bulut Ağlar</p>",
-  "sozler_duz": "Dağlar Dağımdır BenimGam Ortağımdır BenimSöyletme Çok AğlarımYaman Çağımdır BenimOy Dağlar Dağlar DağlarBaşı Dumanlı DağlarGöğsü Çimenli DağlarYol Verin Yarim GeleDinsiz İmansız DağlarDağları DağlasınlarGoy Beni AğlasınlarO Yarin Çevresiyle Yaremi BağlasınlarOy Dağlar Dağlar DağlarBaşı Dumanlı DağlarGöğsü Çimenli DağlarBen Derdimi SöylesemGün Durur Bulut Ağlar",
+  "baslik": "Dağlar Dağımdır Benim",
+  "sozler_html": "<p>Dağlar Dağımdır Benim</p><p>Gam Ortağımdır Benim</p><p>Söyletme Çok Ağlarım</p><p>Yaman Çağımdır Benim</p><p><br></p><p><b>Oy Dağlar Dağlar Dağlar</b></p><p><b>Başı Dumanlı Dağlar</b></p><p><b>Göğsü Çimenli Dağlar</b></p><p><b>Yol Verin Yarim Gele</b></p><p><b>Dinsiz İmansız Dağlar</b></p><p><br></p><p>Dağları Dağlasınlar</p><p>Goy Beni Ağlasınlar</p><p>O Yarin Çevresiyle&nbsp;</p><p>Yaremi Bağlasınlar</p><p><br></p><p><b>Oy Dağlar Dağlar Dağlar</b></p><p><b>Başı Dumanlı Dağlar</b></p><p><b>Göğsü Çimenli Dağlar</b></p><p><b>Ben Derdimi Söylesem</b></p><p><b>Gün Durur Bulut Ağlar</b></p>",
+  "sozler_duz": "Dağlar Dağımdır Benim\n\nGam Ortağımdır Benim\n\nSöyletme Çok Ağlarım\n\nYaman Çağımdır Benim\n\nOy Dağlar Dağlar Dağlar\n\nBaşı Dumanlı Dağlar\n\nGöğsü Çimenli Dağlar\n\nYol Verin Yarim Gele\n\nDinsiz İmansız Dağlar\n\nDağları Dağlasınlar\n\nGoy Beni Ağlasınlar\n\nO Yarin Çevresiyle \n\nYaremi Bağlasınlar\n\nOy Dağlar Dağlar Dağlar\n\nBaşı Dumanlı Dağlar\n\nGöğsü Çimenli Dağlar\n\nBen Derdimi Söylesem\n\nGün Durur Bulut Ağlar",
   "meta": {
     "yore": "Elazığ",
     "derleyen": "Muzaffer Sarısözen",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 3739,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-17T20:01:52.669Z",
+    "son_degisiklik": "2026-05-17T20:03:04.829Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
