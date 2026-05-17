@@ -1,7 +1,7 @@
 {
   "id": "daglar-dagladi-beni",
   "baslik": "Dağlar Dağladı Beni",
-  "sozler_html": "<p>Dağlar\ndağladı beni</p><p>Gören ağladı beni</p><p>Gitti yarim gelmedi</p><p>Derde bağladı beni</p><p>&nbsp;</p><p>Vay bana vaylar bana</p><p>Yıl oldu aylar bana</p><p>Susadım su isterim</p><p>Su vermez çaylar bana</p><p>&nbsp;</p><p>Dağların arkasından</p><p>Öldüm yar sevdasından</p><p>Bileydim ayrılık var</p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>Giderdim arkasından</p>",
+  "sozler_html": "<p>Dağlar\ndağladı beni</p><p>Gören ağladı beni</p><p>Gitti yarim gelmedi</p><p>Derde bağladı beni</p><p>&nbsp;</p><p>Vay bana vaylar bana</p><p>Yıl oldu aylar bana</p><p>Susadım su isterim</p><p>Su vermez çaylar bana</p><p>&nbsp;</p><p>Dağların arkasından</p><p>Öldüm yar sevdasından</p><p>Bileydim ayrılık var</p><p>Giderdim arkasından</p>",
   "sozler_duz": "Dağlar dağladı beni\n\nGören ağladı beni\n\nGitti yarim gelmedi\n\nDerde bağladı beni\n\n \n\nVay bana vaylar bana\n\nYıl oldu aylar bana\n\nSusadım su isterim\n\nSu vermez çaylar bana\n\n \n\nDağların arkasından\n\nÖldüm yar sevdasından\n\nBileydim ayrılık var\n\nGiderdim arkasından",
   "meta": {
     "yore": "Kırşehir",
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 3740,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-17T10:52:20.399Z",
+    "son_degisiklik": "2026-05-17T10:52:26.369Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
