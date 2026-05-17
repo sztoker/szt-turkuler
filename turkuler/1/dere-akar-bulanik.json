@@ -2,25 +2,14 @@
   "id": "dere-akar-bulanik",
   "baslik": "DERE AKAR BULANIK",
   "sozler_html": "<p>Dere akar bulanık (2</p>\n<p>Köpüğünden alaluk-hey güzel-köpüğünden alaluk</p>\n<p>Ha bu ışıklı dünya (2</p>\n<p>Oldu bize karanluk-hey güzel-oldu bize karanluk</p>\n<p class=\"bos\"></p>\n<p>Dereler akar gider / Taşları yıkar gider</p>\n<p>Bu dünya bir pencere / Her gelen bakar gider</p>\n<p class=\"bos\"></p>\n<p>Gidelim değirmene / Öğütelim unları</p>\n<p>Güneşe çevirelim / Bu karanlık günleri</p>",
-  "sozler_duz": "Dere akar bulanık (2 Köpüğünden alaluk-hey güzel-köpüğünden alaluk Ha bu ışıklı dünya (2 Oldu bize karanluk-hey güzel-oldu bize karanluk Dereler akar gider / Taşları yıkar gider Bu dünya bir pencere / Her gelen bakar gider Gidelim değirmene / Öğütelim unları Güneşe çevirelim / Bu karanlık günleri",
+  "sozler_duz": "Dere akar bulanık (2\n\nKöpüğünden alaluk-hey güzel-köpüğünden alaluk\n\nHa bu ışıklı dünya (2\n\nOldu bize karanluk-hey güzel-oldu bize karanluk\n\nDereler akar gider / Taşları yıkar gider\n\nBu dünya bir pencere / Her gelen bakar gider\n\nGidelim değirmene / Öğütelim unları\n\nGüneşe çevirelim / Bu karanlık günleri",
   "meta": {
-    "yore": "KARADENİZ",
-    "turu": "1",
-    "turu2": "T",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_22",
-    "karar": "Re",
-    "diger_bilgiler": "KARADENİZ",
-    "aciklama": ""
+    "yore": "KARADENİZ"
   },
   "sistem": {
     "eski_id": 670,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:47:03.681Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
