@@ -1,26 +1,16 @@
 {
   "id": "enduluste-raks",
   "baslik": "ENDÜLÜS’TE RAKS",
-  "sozler_html": "<p>Zil şal ve gül bu bahçede raksın bütün hızıŞevk akşamında Endülüs üç defa kırmızıAşkın sihirli şarkısı yüzlerce dildedirİspanya neşesiyle bu akşam bu zildedirAlnında halka halkadır aşüfte kakülüGöğsünde yosma gırnatanın en güzel gülüAltın kadeh her elde güneş her gönüldedirİspanya varlığıyla bu akşam bu güldedir Ah- Raks ortasında bir durup oynar yürür gibiBir baş çevirmesiyle bakar öldürür gibiAh- Gül tenli kor dudaklı kömür gözlü sürmeliŞeytan diyor ki sarmalı ah yüz kerre-yüz kerre öpmeliGözler kamaştıran şala meftun eden güleHer kalbi dolduran zile her sineden ole / Ole</p>",
-  "sozler_duz": "Zil şal ve gül bu bahçede raksın bütün hızıŞevk akşamında Endülüs üç defa kırmızıAşkın sihirli şarkısı yüzlerce dildedirİspanya neşesiyle bu akşam bu zildedirAlnında halka halkadır aşüfte kakülüGöğsünde yosma gırnatanın en güzel gülüAltın kadeh her elde güneş her gönüldedirİspanya varlığıyla bu akşam bu güldedir Ah- Raks ortasında bir durup oynar yürür gibiBir baş çevirmesiyle bakar öldürür gibiAh- Gül tenli kor dudaklı kömür gözlü sürmeliŞeytan diyor ki sarmalı ah yüz kerre-yüz kerre öpmeliGözler kamaştıran şala meftun eden güleHer kalbi dolduran zile her sineden ole / Ole",
+  "sozler_html": "<p>Zil şal ve gül bu bahçede raksın bütün hızı</p><p>Şevk akşamında Endülüs üç defa kırmızı</p><p>Aşkın sihirli şarkısı yüzlerce dildedir</p><p>İspanya neşesiyle bu akşam bu zildedir</p><p>Alnında halka halkadır aşüfte kakülü</p><p>Göğsünde yosma gırnatanın en güzel gülü</p><p>Altın kadeh her elde güneş her gönüldedir</p><p>İspanya varlığıyla bu akşam bu güldedir&nbsp;</p><p>Ah- Raks ortasında bir durup oynar yürür gibi</p><p>Bir baş çevirmesiyle bakar öldürür gibi</p><p>Ah- Gül tenli kor dudaklı kömür gözlü sürmeli</p><p>Şeytan diyor ki sarmalı ah yüz kerre-yüz kerre öpmeli</p><p>Gözler kamaştıran şala meftun eden güle</p><p>Her kalbi dolduran zile her sineden ole / Ole</p>",
+  "sozler_duz": "Zil şal ve gül bu bahçede raksın bütün hızı\n\nŞevk akşamında Endülüs üç defa kırmızı\n\nAşkın sihirli şarkısı yüzlerce dildedir\n\nİspanya neşesiyle bu akşam bu zildedir\n\nAlnında halka halkadır aşüfte kakülü\n\nGöğsünde yosma gırnatanın en güzel gülü\n\nAltın kadeh her elde güneş her gönüldedir\n\nİspanya varlığıyla bu akşam bu güldedir \n\nAh- Raks ortasında bir durup oynar yürür gibi\n\nBir baş çevirmesiyle bakar öldürür gibi\n\nAh- Gül tenli kor dudaklı kömür gözlü sürmeli\n\nŞeytan diyor ki sarmalı ah yüz kerre-yüz kerre öpmeli\n\nGözler kamaştıran şala meftun eden güle\n\nHer kalbi dolduran zile her sineden ole / Ole",
   "meta": {
-    "yore": "M.N. Selçuk / Yahya Kemal     Kürdilihicazkar",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "M.N. Selçuk / Yahya Kemal     Kürdilihicazkar",
-    "aciklama": ""
+    "soz": "Yahya Kemal",
+    "muzik": "M.N. Selçuk"
   },
   "sistem": {
     "eski_id": 5232,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T16:09:21.371Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
