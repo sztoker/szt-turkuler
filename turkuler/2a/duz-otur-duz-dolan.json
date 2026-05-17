@@ -1,26 +1,15 @@
 {
   "id": "duz-otur-duz-dolan",
   "baslik": "DÜZ OTUR DÜZ DOLAN",
-  "sozler_html": "<p>Kara gözün ay balam  / O dedi yoh-4Mene gelsin ah kadan / O dedi yoh-4Dedim ay gız dayan / Dedi olsun he yanSenden yar olmaz meneDüz dolan düz otur ay kişiYaş özün diyesen yetmişiAğzında yohtur bir dişiBir utan kızına aşık olar mı adamSene kurban ay haci  /  Haci yar muhtaciDedim insaf eyle / Dedi güle güleSenden yar olmaz bene  /  Düz otur ...</p>",
-  "sozler_duz": "Kara gözün ay balam / O dedi yoh-4Mene gelsin ah kadan / O dedi yoh-4Dedim ay gız dayan / Dedi olsun he yanSenden yar olmaz meneDüz dolan düz otur ay kişiYaş özün diyesen yetmişiAğzında yohtur bir dişiBir utan kızına aşık olar mı adamSene kurban ay haci / Haci yar muhtaciDedim insaf eyle / Dedi güle güleSenden yar olmaz bene / Düz otur ...",
+  "sozler_html": "<p>Kara gözün ay balam&nbsp;</p><p>O dedi yoh-4</p><p>Mene gelsin ah kadan&nbsp;</p><p>O dedi yoh-4</p><p><br></p><p>Dedim ay gız dayan&nbsp;</p><p>Dedi olsun he yan</p><p>Senden yar olmaz mene</p><p><br></p><p><b>Düz dolan düz otur ay kişi</b></p><p><b>Yaş özün diyesen yetmişi</b></p><p><b>Ağzında yohtur bir dişi</b></p><p><b>Bir utan kızına aşık olar mı adam</b></p><p><br></p><p>Sene kurban ay haci&nbsp;</p><p>&nbsp;Haci yar muhtaci</p><p>Dedim insaf eyle&nbsp;</p><p>Dedi güle güle</p><p>Senden yar olmaz bene&nbsp;</p><p><br></p><p><b>&nbsp;Düz otur ...</b></p>",
+  "sozler_duz": "Kara gözün ay balam \n\nO dedi yoh-4\n\nMene gelsin ah kadan \n\nO dedi yoh-4\n\nDedim ay gız dayan \n\nDedi olsun he yan\n\nSenden yar olmaz mene\n\nDüz dolan düz otur ay kişi\n\nYaş özün diyesen yetmişi\n\nAğzında yohtur bir dişi\n\nBir utan kızına aşık olar mı adam\n\nSene kurban ay haci \n\n Haci yar muhtaci\n\nDedim insaf eyle \n\nDedi güle güle\n\nSenden yar olmaz bene \n\n Düz otur ...",
   "meta": {
-    "yore": "AZERİ",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "AZERİ",
-    "aciklama": ""
+    "yore": "AZERİ"
   },
   "sistem": {
     "eski_id": 702,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T15:31:59.919Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
