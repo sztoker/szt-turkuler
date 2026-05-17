@@ -2,25 +2,14 @@
   "id": "bu-daglarda-bag-olmaz",
   "baslik": "BU DAĞLARDA BAĞ OLMAZ",
   "sozler_html": "<p>Bu dağlarda bağ olmaz</p>\n<p>Kara üzüm ak olmaz haydindi ak olmaz</p>\n<p>Komşuda yar sevenin</p>\n<p>Yüreğinde yağ olmaz haydindi yağ olmaz</p>\n<p class=\"bos\"></p>\n<p>Ben ağlarım saz ağlar</p>\n<p>Karşımda bir kız ağlar haydindi kız ağlar</p>\n<p>Ağlarsa anam ağlar</p>\n<p>Gerisi yalan ağlar haydindi yalan ağlar</p>\n<p>(Geri kalan az ağlar haydindi yalan ağlar)</p>",
-  "sozler_duz": "Bu dağlarda bağ olmaz Kara üzüm ak olmaz haydindi ak olmaz Komşuda yar sevenin Yüreğinde yağ olmaz haydindi yağ olmaz Ben ağlarım saz ağlar Karşımda bir kız ağlar haydindi kız ağlar Ağlarsa anam ağlar Gerisi yalan ağlar haydindi yalan ağlar (Geri kalan az ağlar haydindi yalan ağlar)",
+  "sozler_duz": "Bu dağlarda bağ olmaz\n\nKara üzüm ak olmaz haydindi ak olmaz\n\nKomşuda yar sevenin\n\nYüreğinde yağ olmaz haydindi yağ olmaz\n\nBen ağlarım saz ağlar\n\nKarşımda bir kız ağlar haydindi kız ağlar\n\nAğlarsa anam ağlar\n\nGerisi yalan ağlar haydindi yalan ağlar\n\n(Geri kalan az ağlar haydindi yalan ağlar)",
   "meta": {
-    "yore": "",
-    "turu": "1",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "Re",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "yore": "Eskişehir"
   },
   "sistem": {
     "eski_id": 4354,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:41:59.017Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
