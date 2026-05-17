@@ -1,26 +1,16 @@
 {
   "id": "eski-dostlar-unutulmus-birer",
   "baslik": "ESKİ DOSTLAR ( Unutulmuş birer ... )",
-  "sozler_html": "<p>Unutulmuş birer birer / Eski dostlar eski dostlarNe bir selam ne bir haber / Eski dostlar seki dostlarHayal meyal düşler gibi * uçup giden kuşlar gibiYosun tutan taşlar gibi * eski dostlar seki dostlarUnutulmuş isimlerde / Bilinmez ki nasıl nerdeŞimdi yalnız resimlerde / Eski ... / Hayal meyal ...</p>",
-  "sozler_duz": "Unutulmuş birer birer / Eski dostlar eski dostlarNe bir selam ne bir haber / Eski dostlar seki dostlarHayal meyal düşler gibi * uçup giden kuşlar gibiYosun tutan taşlar gibi * eski dostlar seki dostlarUnutulmuş isimlerde / Bilinmez ki nasıl nerdeŞimdi yalnız resimlerde / Eski ... / Hayal meyal ...",
+  "sozler_html": "<p>Unutulmuş birer birer&nbsp;</p><p>Eski dostlar eski dostlar</p><p>Ne bir selam ne bir haber&nbsp;</p><p>Eski dostlar eski dostlar</p><p><br></p><p><b>Hayal meyal düşler gibi&nbsp;&nbsp;</b></p><p><b>Uçup giden kuşlar gibi</b></p><p><b>Yosun tutan taşlar gibi&nbsp;</b></p><p><b>Eski dostlar eski dostlar</b></p><p><br></p><p>Unutulmuş isimlerde&nbsp;&nbsp;</p><p>Bilinmez ki nasıl nerde</p><p>Şimdi yalnız resimlerde&nbsp;&nbsp;</p><p>Eski dostlar eski dostlar</p><p><br></p><p><b>Hayal meyal ...</b></p>",
+  "sozler_duz": "Unutulmuş birer birer \n\nEski dostlar eski dostlar\n\nNe bir selam ne bir haber \n\nEski dostlar eski dostlar\n\nHayal meyal düşler gibi  \n\nUçup giden kuşlar gibi\n\nYosun tutan taşlar gibi \n\nEski dostlar eski dostlar\n\nUnutulmuş isimlerde  \n\nBilinmez ki nasıl nerde\n\nŞimdi yalnız resimlerde  \n\nEski dostlar eski dostlar\n\nHayal meyal ...",
   "meta": {
-    "yore": "Gültekin Çeki / Hayri Mumcu      Rast / Yürük Sema",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Gültekin Çeki / Hayri Mumcu      Rast / Yürük Sema",
-    "aciklama": ""
+    "soz": "Hayri Mumcu",
+    "muzik": "Gültekin Çeki"
   },
   "sistem": {
     "eski_id": 5261,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T18:27:27.988Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
