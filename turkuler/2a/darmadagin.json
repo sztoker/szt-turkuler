@@ -1,26 +1,17 @@
 {
   "id": "darmadagin",
   "baslik": "DARMADAĞIN",
-  "sozler_html": "<p>Sizlerde bir buluttunuz gökyüzünü unuttunuz (2Yağın karlar siz de yağın (2 / Benim gibi darmadağın (2Zaman yudum yudum bitmiş / Benden bana kötülükmüşYar diyorduk o da gitmiş / Gitsin karlar sizler yağınBenim gibi darmadağınUğuldayıp melersiniz / Beyaz mutluluk dersinizBir gün siz de erirsiniz / N’olur karlar şimdi yağınBenim gibi darmadığın</p>",
-  "sozler_duz": "Sizlerde bir buluttunuz gökyüzünü unuttunuz (2Yağın karlar siz de yağın (2 / Benim gibi darmadağın (2Zaman yudum yudum bitmiş / Benden bana kötülükmüşYar diyorduk o da gitmiş / Gitsin karlar sizler yağınBenim gibi darmadağınUğuldayıp melersiniz / Beyaz mutluluk dersinizBir gün siz de erirsiniz / N’olur karlar şimdi yağınBenim gibi darmadığın",
+  "sozler_html": "<p>Sizlerde bir buluttunuz&nbsp;</p><p>Gökyüzünü unuttunuz (2</p><p>Yağın karlar siz de yağın (2&nbsp;</p><p>Benim gibi darmadağın (2</p><p><br></p><p>Zaman yudum yudum bitmiş&nbsp;</p><p>Benden bana kötülükmüş</p><p>Yar diyorduk o da gitmiş&nbsp;</p><p>Gitsin karlar sizler yağın</p><p>Benim gibi darmadağın</p><p><br></p><p>Uğuldayıp melersiniz&nbsp;</p><p>Beyaz mutluluk dersiniz</p><p>Bir gün siz de erirsiniz&nbsp;</p><p>N’olur karlar şimdi yağın</p><p>Benim gibi darmadığın</p>",
+  "sozler_duz": "Sizlerde bir buluttunuz \n\nGökyüzünü unuttunuz (2\n\nYağın karlar siz de yağın (2 \n\nBenim gibi darmadağın (2\n\nZaman yudum yudum bitmiş \n\nBenden bana kötülükmüş\n\nYar diyorduk o da gitmiş \n\nGitsin karlar sizler yağın\n\nBenim gibi darmadağın\n\nUğuldayıp melersiniz \n\nBeyaz mutluluk dersiniz\n\nBir gün siz de erirsiniz \n\nN’olur karlar şimdi yağın\n\nBenim gibi darmadığın",
   "meta": {
-    "yore": "S-M: Murat Kalaycıoğlu     Y: Edip Akbayram",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S-M: Murat Kalaycıoğlu     Y: Edip Akbayram",
-    "aciklama": ""
+    "soz": "Murat Kalaycıoğlu",
+    "muzik": "Murat Kalaycıoğlu",
+    "soyleyenler": "Edip Akbayram"
   },
   "sistem": {
     "eski_id": 651,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T12:55:46.151Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
