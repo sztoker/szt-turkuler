@@ -1,26 +1,13 @@
 {
   "id": "ertugrula-agit",
   "baslik": "ERTUĞRUL’A AĞIT",
-  "sozler_html": "<p>Gökte bulut yan yan gider / Yaralarımdan kan giderTöresi batası dünya / Kahpe kalır şahan giderOrtadoğu’nun dumanı / Jandarma bilmez amanıErtuğrul’a düğün ettik / Ot biçim orak zamanıOsman seni Osman seni / Yoz eğitmiş ustan seniVururlar mı arkasından / Sizde arkadaş diyeniSalihli’den çağrılıyor / Kazma kürek deriliyorDüğününe varacakken / Ölüsüne varılıyor</p>",
-  "sozler_duz": "Gökte bulut yan yan gider / Yaralarımdan kan giderTöresi batası dünya / Kahpe kalır şahan giderOrtadoğu’nun dumanı / Jandarma bilmez amanıErtuğrul’a düğün ettik / Ot biçim orak zamanıOsman seni Osman seni / Yoz eğitmiş ustan seniVururlar mı arkasından / Sizde arkadaş diyeniSalihli’den çağrılıyor / Kazma kürek deriliyorDüğününe varacakken / Ölüsüne varılıyor",
-  "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Gökte bulut yan yan gider&nbsp;</p><p>Yaralarımdan kan gider</p><p>Töresi batası dünya&nbsp;</p><p>Kahpe kalır şahan gider</p><p><br></p><p>Ortadoğu’nun dumanı&nbsp;</p><p>Jandarma bilmez amanı</p><p>Ertuğrul’a düğün ettik&nbsp;</p><p>Ot biçim orak zamanı</p><p><br></p><p>Osman seni Osman seni&nbsp;</p><p>Yoz eğitmiş ustan seni</p><p>Vururlar mı arkasından&nbsp;</p><p>Sizde arkadaş diyeni</p><p><br></p><p>Salihli’den çağrılıyor&nbsp;</p><p>Kazma kürek deriliyor</p><p>Düğününe varacakken&nbsp;</p><p>Ölüsüne varılıyor</p>",
+  "sozler_duz": "Gökte bulut yan yan gider \n\nYaralarımdan kan gider\n\nTöresi batası dünya \n\nKahpe kalır şahan gider\n\nOrtadoğu’nun dumanı \n\nJandarma bilmez amanı\n\nErtuğrul’a düğün ettik \n\nOt biçim orak zamanı\n\nOsman seni Osman seni \n\nYoz eğitmiş ustan seni\n\nVururlar mı arkasından \n\nSizde arkadaş diyeni\n\nSalihli’den çağrılıyor \n\nKazma kürek deriliyor\n\nDüğününe varacakken \n\nÖlüsüne varılıyor",
+  "meta": {},
   "sistem": {
     "eski_id": 5251,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T17:26:27.664Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
