@@ -1,6 +1,6 @@
 {
   "id": "sokak-basi-meyhane",
-  "baslik": "Sokak Başı Meyhane_",
+  "baslik": "Sokak Başı Meyhane",
   "sozler_html": "<p>Sokak\nbaşı meyhane</p><p>Asmadandır kapısı</p><p>Ben gözüme aldırdım</p><p>On beş sene mapisi</p><p>&nbsp;</p><p><b>Hanım\noynasın oynasın</b></p><p><b>Sor cezveler\ngaynasın</b></p><p><b>Hanimi da saran\ndoymasın</b></p><p><b>Saranda\nmurad almasın</b></p><p>&nbsp;</p><p>Kara koç boyanır mı</p><p>Öpsem var uyanır mı</p><p>İkimiz de sevdalı</p><p>Buna can dayanır mı</p><p>&nbsp;</p><p><b>Hanım\noynasın...</b></p><p>&nbsp;</p><p>Kale bayırı düzü</p><p>Devriye sardı bizi</p><p>Hep beraber olalım</p><p>Vermiyelim şu gızı</p><p>&nbsp;</p><p><b>Hanım\noynasın...</b></p><p>&nbsp;</p><p>Alçacık beden yarim</p><p>Sallanıp giden yarim</p><p>Seviştik de ayrıldık</p><p>Sebebi neden yarim</p><p>&nbsp;</p><p><b>Hanım\noynasın...</b></p>",
   "sozler_duz": "Sokak başı meyhane\n\nAsmadandır kapısı\n\nBen gözüme aldırdım\n\nOn beş sene mapisi\n\n \n\nHanım oynasın oynasın\n\nSor cezveler gaynasın\n\nHanimi da saran doymasın\n\nSaranda murad almasın\n\n \n\nKara koç boyanır mı\n\nÖpsem var uyanır mı\n\nİkimiz de sevdalı\n\nBuna can dayanır mı\n\n \n\nHanım oynasın...\n\n \n\nKale bayırı düzü\n\nDevriye sardı bizi\n\nHep beraber olalım\n\nVermiyelim şu gızı\n\n \n\nHanım oynasın...\n\n \n\nAlçacık beden yarim\n\nSallanıp giden yarim\n\nSeviştik de ayrıldık\n\nSebebi neden yarim\n\n \n\nHanım oynasın...",
   "meta": {
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 6318,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-17T20:37:23.829Z",
+    "son_degisiklik": "2026-05-17T20:37:34.539Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
