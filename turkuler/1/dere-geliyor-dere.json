@@ -1,26 +1,17 @@
 {
   "id": "dere-geliyor-dere",
-  "baslik": "Dere Geliyor Dere_",
-  "sozler_html": "<p>Dere Geliyor Dere Yalelel YalelelKumunu Sere Sere YalelellimAl Beni Götür Dere Yalelel Yalelel,Yarin Olduğu Yere Yalelellim.Amanın Aman Aman,Zamanın Zaman Zaman,Bizim Düğün Ne Zaman YalelellimBen Armudu Dişlerim Yalelel YalelelSapını Gümüşlerim YalelellimSevdiğimin İsmini Yalelel YalelelMendilime İslerim Yalelellim.Amanın Aman AmanZamanın Zaman Zaman,Bizim Düğün Ne Zaman Yalelellim.Armut Dalda Bir İki Yalelel YalelelSayın Bakın On İki YalelellimOn İkinin İçinde Yalelel Yalelel,Birincisi Benimki Yalelellim.Amanın Aman Aman,Zamanın Zaman Zaman,Bizim Düğün Ne Zaman Yalelellim.</p>",
-  "sozler_duz": "Dere Geliyor Dere Yalelel YalelelKumunu Sere Sere YalelellimAl Beni Götür Dere Yalelel Yalelel,Yarin Olduğu Yere Yalelellim.Amanın Aman Aman,Zamanın Zaman Zaman,Bizim Düğün Ne Zaman YalelellimBen Armudu Dişlerim Yalelel YalelelSapını Gümüşlerim YalelellimSevdiğimin İsmini Yalelel YalelelMendilime İslerim Yalelellim.Amanın Aman AmanZamanın Zaman Zaman,Bizim Düğün Ne Zaman Yalelellim.Armut Dalda Bir İki Yalelel YalelelSayın Bakın On İki YalelellimOn İkinin İçinde Yalelel Yalelel,Birincisi Benimki Yalelellim.Amanın Aman Aman,Zamanın Zaman Zaman,Bizim Düğün Ne Zaman Yalelellim.",
+  "baslik": "Dere Geliyor Dere",
+  "sozler_html": "<p>Dere\ngeliyor dere yalelel yalelel</p><p>Kumunu sere sere yalelellim</p><p>Al beni götür dere yalelel yalelel</p><p>Yarin olduğu yere yalelellim.</p><p>&nbsp;</p><p><b>Amanın aman aman,</b></p><p><b>Zamanın zaman zaman,</b></p><p><b>Bizim düğün ne zaman yalelellim</b></p><p>&nbsp;</p><p>Ben armudu dişlerim yalelel yalelel</p><p>Sapını gümüşlerim yalelellim</p><p>Sevdiğimin ismini yalelel yalelel</p><p>Mendilime islerim yalelellim</p><p>&nbsp;</p><p><b>Amanın aman aman</b></p><p><b>Zamanın zaman zaman</b></p><p><b>Bizim düğün ne zaman yalelellim</b></p><p>&nbsp;</p><p>Armut dalda bir iki yalelel yalelel</p><p>Sayın bakın on iki yalelellim</p><p>On ikinin içinde yalelel yalelel</p><p>Birincisi benimki yalelellim</p><p>&nbsp;</p><p><b>Amanın aman aman</b></p><p><b>Zamanın zaman zaman</b></p><p><b>Bizim düğün ne zaman yalelellim</b></p>",
+  "sozler_duz": "Dere geliyor dere yalelel yalelel\n\nKumunu sere sere yalelellim\n\nAl beni götür dere yalelel yalelel\n\nYarin olduğu yere yalelellim.\n\n \n\nAmanın aman aman,\n\nZamanın zaman zaman,\n\nBizim düğün ne zaman yalelellim\n\n \n\nBen armudu dişlerim yalelel yalelel\n\nSapını gümüşlerim yalelellim\n\nSevdiğimin ismini yalelel yalelel\n\nMendilime islerim yalelellim\n\n \n\nAmanın aman aman\n\nZamanın zaman zaman\n\nBizim düğün ne zaman yalelellim\n\n \n\nArmut dalda bir iki yalelel yalelel\n\nSayın bakın on iki yalelellim\n\nOn ikinin içinde yalelel yalelel\n\nBirincisi benimki yalelellim\n\n \n\nAmanın aman aman\n\nZamanın zaman zaman\n\nBizim düğün ne zaman yalelellim",
   "meta": {
     "yore": "Lüleburgaz",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Türkan Ebcioğlu-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Türkan Ebcioğlu"
   },
   "sistem": {
     "eski_id": 3791,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:06:35.558Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
