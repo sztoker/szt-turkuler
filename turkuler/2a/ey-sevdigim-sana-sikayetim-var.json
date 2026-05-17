@@ -1,26 +1,15 @@
 {
   "id": "ey-sevdigim-sana-sikayetim-var",
   "baslik": "Ey Sevdiğim Sana Şikayetim Var_",
-  "sozler_html": "<p>Ey Sevdiğim Sana Şikayetim VarNe Sevdiğin Belli Ne SevmediğinBen De Bir İnsanım Bir De Canım Var Ne Sevdiğin Belli Ne Sevmediğin Hainsin Oy Zalimsin Oy Nedeyim OyEski Günler Hayalimden GitmiyorDün Dediğin Bugünkünü TutmuyorYiğidim Ya Sana Gücüm Yetmiyor Ne Sevdiğin Belli Ne Sevmediğin Hainsin Oy Zalimsin Oy Nedeyim OyAkarsuyum Böyle Miydi AhtımızOnun İçin Viran Oldu TahtımızUmudum Yok Gülmez Artık Bahtımız Ne Sevdiğin Belli Ne Sevmediğin Hainsin Oy Zalimsin Oy Nedeyim Oy</p>",
-  "sozler_duz": "Ey Sevdiğim Sana Şikayetim VarNe Sevdiğin Belli Ne SevmediğinBen De Bir İnsanım Bir De Canım Var Ne Sevdiğin Belli Ne Sevmediğin Hainsin Oy Zalimsin Oy Nedeyim OyEski Günler Hayalimden GitmiyorDün Dediğin Bugünkünü TutmuyorYiğidim Ya Sana Gücüm Yetmiyor Ne Sevdiğin Belli Ne Sevmediğin Hainsin Oy Zalimsin Oy Nedeyim OyAkarsuyum Böyle Miydi AhtımızOnun İçin Viran Oldu TahtımızUmudum Yok Gülmez Artık Bahtımız Ne Sevdiğin Belli Ne Sevmediğin Hainsin Oy Zalimsin Oy Nedeyim Oy",
+  "sozler_html": "<p>Ey\nsevdiğim sana şikayetim var</p><p>Ne sevdiğin belli ne sevmediğin</p><p>Ben de bir insanım bir de canım var&nbsp;</p><p>&nbsp;</p><p><b>Ne sevdiğin\nbelli ne sevmediğin&nbsp;</b></p><p><b>Hainsin oy\nzalimsin oy nedeyim oy</b></p><p>&nbsp;</p><p>Eski günler hayalimden gitmiyor</p><p>Dün dediğin bugünkünü tutmuyor</p><p>Yiğidim ya sana gücüm yetmiyor&nbsp;</p><p>&nbsp;</p><p><b>Ne sevdiğin\nbelli ne sevmediğin&nbsp;</b></p><p><b>Hainsin oy\nzalimsin oy nedeyim oy</b></p><p>&nbsp;</p><p>Akarsuyum böyle miydi ahtımız</p><p>Onun için viran oldu tahtımız</p><p>Umudum yok gülmez artık bahtımız&nbsp;</p><p>&nbsp;</p><p><b>Ne sevdiğin\nbelli ne sevmediğin&nbsp;</b></p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p><b>Hainsin oy\nzalimsin oy nedeyim oy</b></p>",
+  "sozler_duz": "Ey sevdiğim sana şikayetim var\n\nNe sevdiğin belli ne sevmediğin\n\nBen de bir insanım bir de canım var \n\n \n\nNe sevdiğin belli ne sevmediğin \n\nHainsin oy zalimsin oy nedeyim oy\n\n \n\nEski günler hayalimden gitmiyor\n\nDün dediğin bugünkünü tutmuyor\n\nYiğidim ya sana gücüm yetmiyor \n\n \n\nNe sevdiğin belli ne sevmediğin \n\nHainsin oy zalimsin oy nedeyim oy\n\n \n\nAkarsuyum böyle miydi ahtımız\n\nOnun için viran oldu tahtımız\n\nUmudum yok gülmez artık bahtımız \n\n \n\nNe sevdiğin belli ne sevmediğin \n\nHainsin oy zalimsin oy nedeyim oy",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Muhlis Akarsu",
-    "aciklama": ""
+    "kaynak_kisi": "Muhlis Akarsu"
   },
   "sistem": {
     "eski_id": 5297,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T18:39:18.718Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
