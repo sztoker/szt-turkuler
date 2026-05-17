@@ -2,25 +2,16 @@
   "id": "ignem-dustu-yerlere",
   "baslik": "İğnem Düştü Yerlere",
   "sozler_html": "<p>İğnem Düştü Yerlere</p>\n<p>Karıştı Gazellere</p>\n<p>Tabiatım Kurusun</p>\n<p>Bakarım Güzellere</p>\n<p class=\"bos\"></p>\n<p>Hop Şimdallı Şimdallı</p>\n<p>Yar Kapısı Mandallı</p>\n<p>Mandalını Kırmalı</p>\n<p>İçeriye Girmeli</p>\n<p>Var Olduğun Bilmeli</p>\n<p class=\"bos\"></p>\n<p>Güvem Dalı Eğmeli</p>\n<p>Güvemini Yemeli</p>\n<p>Hakikatli Yar İse</p>\n<p>Sevdiğine Varmalı</p>\n<p class=\"bos\"></p>\n<p>Hop Şimdallı Şimdallı</p>\n<p>Yar Kapısı Mandallı</p>\n<p>Mandalını Kırmalı</p>\n<p>İçeriye Girmeli</p>\n<p>Var Olduğun Bilmeli</p>",
-  "sozler_duz": "İğnem Düştü Yerlere Karıştı Gazellere Tabiatım Kurusun Bakarım Güzellere Hop Şimdallı Şimdallı Yar Kapısı Mandallı Mandalını Kırmalı İçeriye Girmeli Var Olduğun Bilmeli Güvem Dalı Eğmeli Güvemini Yemeli Hakikatli Yar İse Sevdiğine Varmalı Hop Şimdallı Şimdallı Yar Kapısı Mandallı Mandalını Kırmalı İçeriye Girmeli Var Olduğun Bilmeli",
+  "sozler_duz": "İğnem Düştü Yerlere\n\nKarıştı Gazellere\n\nTabiatım Kurusun\n\nBakarım Güzellere\n\nHop Şimdallı Şimdallı\n\nYar Kapısı Mandallı\n\nMandalını Kırmalı\n\nİçeriye Girmeli\n\nVar Olduğun Bilmeli\n\nGüvem Dalı Eğmeli\n\nGüvemini Yemeli\n\nHakikatli Yar İse\n\nSevdiğine Varmalı\n\nHop Şimdallı Şimdallı\n\nYar Kapısı Mandallı\n\nMandalını Kırmalı\n\nİçeriye Girmeli\n\nVar Olduğun Bilmeli",
   "meta": {
     "yore": "Kütahya",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ahmet İnegöllü(Hisarlı)-Mustafa Hisarlı",
-    "aciklama": ""
+    "derleyen": "Mustafa Hisarlı",
+    "kaynak_kisi": "Ahmet İnegöllü(Hisarlı)"
   },
   "sistem": {
     "eski_id": 4231,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:23:18.441Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
