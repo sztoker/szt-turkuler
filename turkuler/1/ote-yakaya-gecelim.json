@@ -2,25 +2,14 @@
   "id": "ote-yakaya-gecelim",
   "baslik": "ÖTE YAKAYA GEÇELİM",
   "sozler_html": "<p>Öte yakaya geçelim / Atlara yonca biçelim</p>\n<p>A leylim aman aman / Biz bu yerden vazgeçelim</p>\n<p>Oğlan nenni nenni / Eşref’’im nenni</p>\n<p class=\"bos\"></p>\n<p>Öte yakanın bulutu / Beri yakayı bürüdü</p>\n<p>A leylim aman aman / Güzeller aldı yürüdü</p>\n<p>Oğlan nenni nenni / Eşref’’im nenni</p>",
-  "sozler_duz": "Öte yakaya geçelim / Atlara yonca biçelim A leylim aman aman / Biz bu yerden vazgeçelim Oğlan nenni nenni / Eşref’’im nenni Öte yakanın bulutu / Beri yakayı bürüdü A leylim aman aman / Güzeller aldı yürüdü Oğlan nenni nenni / Eşref’’im nenni",
+  "sozler_duz": "Öte yakaya geçelim / Atlara yonca biçelim\n\nA leylim aman aman / Biz bu yerden vazgeçelim\n\nOğlan nenni nenni / Eşref’’im nenni\n\nÖte yakanın bulutu / Beri yakayı bürüdü\n\nA leylim aman aman / Güzeller aldı yürüdü\n\nOğlan nenni nenni / Eşref’’im nenni",
   "meta": {
-    "yore": "ESKİŞEHİR",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ESKİŞEHİR",
-    "aciklama": ""
+    "yore": "ESKİŞEHİR"
   },
   "sistem": {
     "eski_id": 1098,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:28:42.350Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
