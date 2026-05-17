@@ -1,26 +1,16 @@
 {
   "id": "erdi-bahar-sardi-yine",
-  "baslik": "ERDİ BAHAR SARDI YİNE ...",
-  "sozler_html": "<p>Erdi bahar sardı yine neş’e cihanı –a canım *1     (2Eğlenelim raks edelim lale zamanı          (2Açtı bu dem naz ile gül gonca dehanı          (2Dinleyelim bülbülü gel lale zamanı          (2Fasl-ı bahar seyrine çık sen bize gel de     -a canım*1Gönlümüzü şad edelim bezm-i emeldeBağda bahar sinede yar badeler eldeMey içelim raksedelim lale zamanı</p>",
-  "sozler_duz": "Erdi bahar sardı yine neş’e cihanı –a canım *1 (2Eğlenelim raks edelim lale zamanı (2Açtı bu dem naz ile gül gonca dehanı (2Dinleyelim bülbülü gel lale zamanı (2Fasl-ı bahar seyrine çık sen bize gel de -a canım*1Gönlümüzü şad edelim bezm-i emeldeBağda bahar sinede yar badeler eldeMey içelim raksedelim lale zamanı",
+  "baslik": "ERDİ BAHAR SARDI YİNE",
+  "sozler_html": "<p>Erdi bahar sardı yine neş’e cihanı –a canım *1     (2</p><p>Eğlenelim raks edelim lale zamanı          (2</p><p>Açtı bu dem naz ile gül gonca dehanı          (2</p><p><br></p><p><b>Dinleyelim bülbülü gel lale zamanı          (2</b></p><p><br></p><p>Fasl-ı bahar seyrine çık sen bize gel de     -a canım*1</p><p>Gönlümüzü şad edelim bezm-i emelde</p><p>Bağda bahar sinede yar badeler elde</p><p><br></p><p><b>Mey içelim raksedelim lale zamanı</b></p>",
+  "sozler_duz": "Erdi bahar sardı yine neş’e cihanı –a canım *1 (2\n\nEğlenelim raks edelim lale zamanı (2\n\nAçtı bu dem naz ile gül gonca dehanı (2\n\nDinleyelim bülbülü gel lale zamanı (2\n\nFasl-ı bahar seyrine çık sen bize gel de -a canım*1\n\nGönlümüzü şad edelim bezm-i emelde\n\nBağda bahar sinede yar badeler elde\n\nMey içelim raksedelim lale zamanı",
   "meta": {
-    "yore": "M. Nurettin Selçuk / Vecdi Bingöl    Rast / Yürük",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "M. Nurettin Selçuk / Vecdi Bingöl    Rast / Yürük",
-    "aciklama": ""
+    "soz": "Vecdi Bingöl",
+    "muzik": "M. Nurettin Selçuk"
   },
   "sistem": {
     "eski_id": 5244,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T17:46:56.249Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
