@@ -1,26 +1,17 @@
 {
   "id": "gide-gide-bir-sogude-dayandim",
-  "baslik": "Gide Gide Bir Söğüde Dayandım_",
-  "sozler_html": "<p>Gide Gide Bir Söğüde Dayandım Dayandım,O Söğüdün Allarına Boyandım Gelin BoyandımBen O Yare Dağlar Kadar Güvendim Güvendim,Güvendiğim Dağlar Elime Geldi Elime Geldi. Ölem Ben Ölem Ben, Kurban Olam Ağzındaki Dile Ben Gelin Dile BenYüce Dağlar Size Var Mı Zararım Zararım,Yar Yitirdim Uğrun Uğrun Ararım Gelin ArarımBen O Yari Her Gelenden Sorarım SorarımGüvendiğim Dağlar Elime Geldi Elime Geldi.NakaratYüce Dağ Başına Çadır Açarım AçarımÇadırın İçine Güller Saçarım Gelin SaçarımBen O Yari Çalar Dağa Kaçarım KaçarımGüvendiğim Dağlar Elime Geldi Elime Geldi.Nakarat</p>",
-  "sozler_duz": "Gide Gide Bir Söğüde Dayandım Dayandım,O Söğüdün Allarına Boyandım Gelin BoyandımBen O Yare Dağlar Kadar Güvendim Güvendim,Güvendiğim Dağlar Elime Geldi Elime Geldi. Ölem Ben Ölem Ben, Kurban Olam Ağzındaki Dile Ben Gelin Dile BenYüce Dağlar Size Var Mı Zararım Zararım,Yar Yitirdim Uğrun Uğrun Ararım Gelin ArarımBen O Yari Her Gelenden Sorarım SorarımGüvendiğim Dağlar Elime Geldi Elime Geldi.NakaratYüce Dağ Başına Çadır Açarım AçarımÇadırın İçine Güller Saçarım Gelin SaçarımBen O Yari Çalar Dağa Kaçarım KaçarımGüvendiğim Dağlar Elime Geldi Elime Geldi.Nakarat",
+  "baslik": "Gide Gide Bir Söğüde Dayandım",
+  "sozler_html": "<p>Gide Gide Bir Söğüde Dayandım Dayandım,</p><p>O Söğüdün Allarına Boyandım Gelin Boyandım</p><p>Ben O Yare Dağlar Kadar Güvendim Güvendim</p><p>Güvendiğim Dağlar Elime Geldi Elime Geldi.&nbsp;</p><p><br></p><p><b>Ölem Ben Ölem Ben,&nbsp;</b></p><p><b>Kurban Olam Ağzındaki Dile Ben&nbsp;</b></p><p><b>Gelin Dile Ben</b></p><p><br></p><p>Yüce Dağlar Size Var Mı Zararım Zararım</p><p>Yar Yitirdim Uğrun Uğrun Ararım Gelin Ararım</p><p>Ben O Yari Her Gelenden Sorarım Sorarım</p><p>Güvendiğim Dağlar Elime Geldi Elime Geldi</p><p><br></p><p><b>Ölem Ben Ölem Ben,&nbsp;</b></p><p><b>Kurban Olam Ağzındaki Dile Ben&nbsp;</b></p><p><b>Gelin Dile Ben</b></p><p><br></p><p>Yüce Dağ Başına Çadır Açarım Açarım</p><p>Çadırın İçine Güller Saçarım Gelin Saçarım</p><p>Ben O Yari Çalar Dağa Kaçarım Kaçarım</p><p>Güvendiğim Dağlar Elime Geldi Elime Geldi</p><p><br></p><p>Ölem Ben Ölem Ben,&nbsp;</p><p>Kurban Olam Ağzındaki Dile Ben&nbsp;</p><p>Gelin Dile Ben</p>",
+  "sozler_duz": "Gide Gide Bir Söğüde Dayandım Dayandım,\n\nO Söğüdün Allarına Boyandım Gelin Boyandım\n\nBen O Yare Dağlar Kadar Güvendim Güvendim\n\nGüvendiğim Dağlar Elime Geldi Elime Geldi. \n\nÖlem Ben Ölem Ben, \n\nKurban Olam Ağzındaki Dile Ben \n\nGelin Dile Ben\n\nYüce Dağlar Size Var Mı Zararım Zararım\n\nYar Yitirdim Uğrun Uğrun Ararım Gelin Ararım\n\nBen O Yari Her Gelenden Sorarım Sorarım\n\nGüvendiğim Dağlar Elime Geldi Elime Geldi\n\nÖlem Ben Ölem Ben, \n\nKurban Olam Ağzındaki Dile Ben \n\nGelin Dile Ben\n\nYüce Dağ Başına Çadır Açarım Açarım\n\nÇadırın İçine Güller Saçarım Gelin Saçarım\n\nBen O Yari Çalar Dağa Kaçarım Kaçarım\n\nGüvendiğim Dağlar Elime Geldi Elime Geldi\n\nÖlem Ben Ölem Ben, \n\nKurban Olam Ağzındaki Dile Ben \n\nGelin Dile Ben",
   "meta": {
     "yore": "Adana/Karaisalı",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Halil Atılgan-Nida Tüfekçi",
-    "aciklama": ""
+    "derleyen": "Nida Tüfekçi",
+    "kaynak_kisi": "Halil Atılgan"
   },
   "sistem": {
     "eski_id": 5426,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:15:57.501Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
