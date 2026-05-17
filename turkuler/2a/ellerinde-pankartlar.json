@@ -1,26 +1,15 @@
 {
   "id": "ellerinde-pankartlar",
   "baslik": "ELLERİNDE PANKARTLAR",
-  "sozler_html": "<p>Ellerinde pankartlar / Gidiyor bu çocuklarKalkın ayağa kalkın  / Gidiyor bu çocuklarBu pazar kanlı pazar / Dert yazar derman yazarKalkın ayağa kalkın / Gidiyor bu çocuklarBu meydan kanlı meydan / Ok fırladı çıktı yaydanKalkın ayağa kalkın / Biz şehirden siz köyden</p>",
-  "sozler_duz": "Ellerinde pankartlar / Gidiyor bu çocuklarKalkın ayağa kalkın / Gidiyor bu çocuklarBu pazar kanlı pazar / Dert yazar derman yazarKalkın ayağa kalkın / Gidiyor bu çocuklarBu meydan kanlı meydan / Ok fırladı çıktı yaydanKalkın ayağa kalkın / Biz şehirden siz köyden",
+  "sozler_html": "<p>Ellerinde pankartlar&nbsp;</p><p>Gidiyor bu çocuklar</p><p>Kalkın ayağa kalkın&nbsp;</p><p>Gidiyor bu çocuklar</p><p><br></p><p>Bu pazar kanlı pazar&nbsp;</p><p>Dert yazar derman yazar</p><p>Kalkın ayağa kalkın&nbsp;</p><p>Gidiyor bu çocuklar</p><p><br></p><p>Bu meydan kanlı meydan&nbsp;</p><p>Ok fırladı çıktı yaydan</p><p>Kalkın ayağa kalkın&nbsp;</p><p>Biz şehirden siz köyden</p>",
+  "sozler_duz": "Ellerinde pankartlar \n\nGidiyor bu çocuklar\n\nKalkın ayağa kalkın \n\nGidiyor bu çocuklar\n\nBu pazar kanlı pazar \n\nDert yazar derman yazar\n\nKalkın ayağa kalkın \n\nGidiyor bu çocuklar\n\nBu meydan kanlı meydan \n\nOk fırladı çıktı yaydan\n\nKalkın ayağa kalkın \n\nBiz şehirden siz köyden",
   "meta": {
-    "yore": "Ruhi Su",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ruhi Su",
-    "aciklama": ""
+    "soyleyenler": "Ruhi Su"
   },
   "sistem": {
     "eski_id": 5221,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T16:02:43.640Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
