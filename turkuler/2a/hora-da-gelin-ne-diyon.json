@@ -1,19 +1,18 @@
 {
   "id": "hora-da-gelin-ne-diyon",
   "baslik": "HORA DA GELİN NE DİYON",
-  "sozler_html": "<p>Ay doğar aşar gider&nbsp;</p><p>Kızlar Maraş'a gider</p><p>Bir elim yar koynunda&nbsp;</p><p>Bir elim boşa gider</p><p><br></p><p><b>Hora da gelin ne diyon</b></p><p><b>Söylüyom söylemiyon</b></p><p><b>Daha da bana ne diyon</b>&nbsp;</p><p><br></p><p>Karşıdadır evleri<br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Yayılır develeri</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Oturmuş koyun sağar</span><br>\n<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Terlemiş sineleri</span><o:p></o:p></p><p><br></p><p>Hora da...</p><p><br></p><p>Karşıda koyun kuzu&nbsp;</p><p>Koyuna verdim tuzu</p><p>Koyun neylesin tuzu&nbsp;</p><p>Bekara verin kızı&nbsp;</p><p><br></p><p><b>Hora da...</b></p>",
+  "sozler_html": "<p>Ay doğar aşar gider&nbsp;</p><p>Kızlar Maraş'a gider</p><p>Bir elim yar koynunda&nbsp;</p><p>Bir elim boşa gider</p><p><br></p><p><b>Hora da gelin ne diyon</b></p><p><b>Söylüyom söylemiyon</b></p><p><b>Daha da bana ne diyon</b>&nbsp;</p><p><br></p><p>Karşıdadır evleri<br>\nYayılır develeri<br>\nOturmuş koyun sağar<br>\nTerlemiş sineleri</p><p><br></p><p>Hora da...</p><p><br></p><p>Karşıda koyun kuzu&nbsp;</p><p>Koyuna verdim tuzu</p><p>Koyun neylesin tuzu&nbsp;</p><p>Bekara verin kızı&nbsp;</p><p><br></p><p><b>Hora da...</b></p>",
   "sozler_duz": "Ay doğar aşar gider \n\nKızlar Maraş'a gider\n\nBir elim yar koynunda \n\nBir elim boşa gider\n\nHora da gelin ne diyon\n\nSöylüyom söylemiyon\n\nDaha da bana ne diyon \n\nKarşıdadır evleri\nYayılır develeri\nOturmuş koyun sağar\nTerlemiş sineleri\n\nHora da...\n\nKarşıda koyun kuzu \n\nKoyuna verdim tuzu\n\nKoyun neylesin tuzu \n\nBekara verin kızı \n\nHora da...",
   "meta": {
     "yore": "ADIYAMAN/Gölbaşı",
     "turu": "THM",
     "derleyen": "MEHMET SESKE",
-    "kaynak_kisi": "MEHMET SESKE",
-    "karar": "La"
+    "kaynak_kisi": "MEHMET SESKE"
   },
   "sistem": {
     "eski_id": 5605,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-08T19:06:04.092Z",
+    "son_degisiklik": "2026-05-17T20:51:54.633Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
