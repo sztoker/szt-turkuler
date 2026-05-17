@@ -1,26 +1,16 @@
 {
   "id": "dediler-zamanla-hep",
-  "baslik": "DEDİLER ZAMANLA HEP ...",
-  "sozler_html": "<p>Dediler zamanla hep * azalırmış sevgilerOlsun * bana seninle geçen * yıllarım yeterNasıl olsa her şeyin * zamanla sonu yok muÖmür dediğimiz şey * küsecek kadar çok muDediler ki gün gelir * unuturmuş gidenlerOlsun * bana aşk dolu geçen * yıllarım yeter / Nasıl olsa</p>",
-  "sozler_duz": "Dediler zamanla hep * azalırmış sevgilerOlsun * bana seninle geçen * yıllarım yeterNasıl olsa her şeyin * zamanla sonu yok muÖmür dediğimiz şey * küsecek kadar çok muDediler ki gün gelir * unuturmuş gidenlerOlsun * bana aşk dolu geçen * yıllarım yeter / Nasıl olsa",
+  "baslik": "DEDİLER ZAMANLA HEP",
+  "sozler_html": "<p>Dediler zamanla hep * azalırmış sevgiler</p><p>Olsun * bana seninle geçen * yıllarım yeter</p><p><br></p><p><b>Nasıl olsa her şeyin * zamanla sonu yok mu</b></p><p><b>Ömür dediğimiz şey * küsecek kadar çok mu</b></p><p><br></p><p>Dediler ki gün gelir * unuturmuş gidenler</p><p>Olsun * bana aşk dolu geçen * yıllarım yeter&nbsp;</p><p><br></p><p><b>Nasıl olsa...</b></p>",
+  "sozler_duz": "Dediler zamanla hep * azalırmış sevgiler\n\nOlsun * bana seninle geçen * yıllarım yeter\n\nNasıl olsa her şeyin * zamanla sonu yok mu\n\nÖmür dediğimiz şey * küsecek kadar çok mu\n\nDediler ki gün gelir * unuturmuş gidenler\n\nOlsun * bana aşk dolu geçen * yıllarım yeter \n\nNasıl olsa...",
   "meta": {
-    "yore": "Bilge Özgen / İlter Yeşilay              Hicaz / D",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Bilge Özgen / İlter Yeşilay              Hicaz / D",
-    "aciklama": ""
+    "soz": "Bilge Özgen",
+    "muzik": "İlter Yeşilay"
   },
   "sistem": {
     "eski_id": 652,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T12:57:55.073Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
