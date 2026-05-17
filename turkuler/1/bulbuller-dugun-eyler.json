@@ -1,26 +1,15 @@
 {
   "id": "bulbuller-dugun-eyler",
-  "baslik": "Bülbüller Düğün Eyler_",
-  "sozler_html": "<p>Bülbüller Düğün EylerBilmem Ki Ne Gün EylerBen Feleğe NeyledimBana Bildiğin EylerBülbülüm Neva BilmemDertliyim Deva BilmemBana Bir Sevda GeldiBaşımdan SavabilmemBu Dağın Karı MenemGün Vursa ErimenemYedi Yıl Yerde YatsamAşığam ÇürümenemBu Dağın Dudu BendenGeçmez Aşk Odu BendenGördü Yaram SağalmazTabib El Yudu Benden</p>",
-  "sozler_duz": "Bülbüller Düğün EylerBilmem Ki Ne Gün EylerBen Feleğe NeyledimBana Bildiğin EylerBülbülüm Neva BilmemDertliyim Deva BilmemBana Bir Sevda GeldiBaşımdan SavabilmemBu Dağın Karı MenemGün Vursa ErimenemYedi Yıl Yerde YatsamAşığam ÇürümenemBu Dağın Dudu BendenGeçmez Aşk Odu BendenGördü Yaram SağalmazTabib El Yudu Benden",
+  "baslik": "Bülbüller Düğün Eyler",
+  "sozler_html": "<p>Bülbüller\ndüğün eyler</p><p>Bilmem ki ne gün eyler</p><p>Ben feleğe neyledim</p><p>Bana bildiğin eyler</p><p>&nbsp;</p><p>Bülbülüm neva bilmem</p><p>Dertliyim deva bilmem</p><p>Bana bir sevda geldi</p><p>Başımdan savabilmem</p><p>&nbsp;</p><p>Bu dağın karı menem</p><p>Gün vursa erimenem</p><p>Yedi yıl yerde yatsam</p><p>Aşığam çürümenem</p><p>&nbsp;</p><p>Bu dağın dudu benden</p><p>Geçmez aşk odu benden</p><p>Gördü yaram sağalmaz</p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>Tabib el yudu benden</p>",
+  "sozler_duz": "Bülbüller düğün eyler\n\nBilmem ki ne gün eyler\n\nBen feleğe neyledim\n\nBana bildiğin eyler\n\n \n\nBülbülüm neva bilmem\n\nDertliyim deva bilmem\n\nBana bir sevda geldi\n\nBaşımdan savabilmem\n\n \n\nBu dağın karı menem\n\nGün vursa erimenem\n\nYedi yıl yerde yatsam\n\nAşığam çürümenem\n\n \n\nBu dağın dudu benden\n\nGeçmez aşk odu benden\n\nGördü yaram sağalmaz\n\nTabib el yudu benden",
   "meta": {
-    "yore": "Şanlıurfa",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Yöre Ekibi-Muzaffer Sarısözen",
-    "aciklama": ""
+    "yore": "Şanlıurfa"
   },
   "sistem": {
     "eski_id": 3626,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T21:04:37.723Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
