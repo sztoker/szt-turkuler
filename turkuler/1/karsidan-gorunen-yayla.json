@@ -2,25 +2,14 @@
   "id": "karsidan-gorunen-yayla",
   "baslik": "KARŞIDAN GÖRÜNEN YAYLA",
   "sozler_html": "<p>Karşıdan görünen ne güzel yayla</p>\n<p>Bir dem süremedim giderim böyle</p>\n<p>Ela gözlü pirim sen himmet eyle</p>\n<p>Ben de bu yayladan şaha giderim</p>\n<p class=\"bos\"></p>\n<p>Eğer göverip de dosttan olursam</p>\n<p>Şu halkın diline destan olursam</p>\n<p>Kara toprak senden üstün olursam</p>\n<p>Ben de bu yayladan şaha giderim</p>\n<p class=\"bos\"></p>\n<p>Pir sultan abdal'ım dünya durulmaz</p>\n<p>Gittiğinden öbür geri dönülmez</p>\n<p>Gözlerim de dost yolundan ayrılmaz</p>\n<p>Ben de bu yayladan şaha giderim</p>",
-  "sozler_duz": "Karşıdan görünen ne güzel yayla Bir dem süremedim giderim böyle Ela gözlü pirim sen himmet eyle Ben de bu yayladan şaha giderim Eğer göverip de dosttan olursam Şu halkın diline destan olursam Kara toprak senden üstün olursam Ben de bu yayladan şaha giderim Pir sultan abdal'ım dünya durulmaz Gittiğinden öbür geri dönülmez Gözlerim de dost yolundan ayrılmaz Ben de bu yayladan şaha giderim",
+  "sozler_duz": "Karşıdan görünen ne güzel yayla\n\nBir dem süremedim giderim böyle\n\nEla gözlü pirim sen himmet eyle\n\nBen de bu yayladan şaha giderim\n\nEğer göverip de dosttan olursam\n\nŞu halkın diline destan olursam\n\nKara toprak senden üstün olursam\n\nBen de bu yayladan şaha giderim\n\nPir sultan abdal'ım dünya durulmaz\n\nGittiğinden öbür geri dönülmez\n\nGözlerim de dost yolundan ayrılmaz\n\nBen de bu yayladan şaha giderim",
   "meta": {
-    "yore": "Sivas",
-    "turu": "1",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Feyzullah Çınar-?",
-    "aciklama": ""
+    "yore": "Sivas"
   },
   "sistem": {
     "eski_id": 4362,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:51:13.403Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
