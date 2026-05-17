@@ -1,26 +1,16 @@
 {
   "id": "dumanli-dumanli-oy-bizim-eller",
   "baslik": "DUMANLI DUMANLI OY BİZİM ELLER",
-  "sozler_html": "<p>Vay göresim geldi sevdiğim (nazlı yar) seniDumanlı dumanlı oy bizim ellerNasıl unuturum körpe kuzumuDumanlı dumanlı oy bizim ellerOtursam ağlasam delidir derlerBizim elin yiğitleri bol olurÇalar davulları dizgin dol olurÖlüm bizim için tozlu yol olur / Dumanlı ...Mahsuni Şerif’im vay beni beniHani ya ikrarsız ikrarın haniVay göresim geldi nazlı yar seni / Dumanlı ...</p>",
-  "sozler_duz": "Vay göresim geldi sevdiğim (nazlı yar) seniDumanlı dumanlı oy bizim ellerNasıl unuturum körpe kuzumuDumanlı dumanlı oy bizim ellerOtursam ağlasam delidir derlerBizim elin yiğitleri bol olurÇalar davulları dizgin dol olurÖlüm bizim için tozlu yol olur / Dumanlı ...Mahsuni Şerif’im vay beni beniHani ya ikrarsız ikrarın haniVay göresim geldi nazlı yar seni / Dumanlı ...",
+  "sozler_html": "<p>Vay göresim geldi sevdiğim (nazlı yar) seni</p><p>Dumanlı dumanlı oy bizim eller</p><p>Nasıl unuturum körpe kuzumu</p><p><br></p><p><b>Dumanlı dumanlı oy bizim eller</b></p><p><b>Otursam ağlasam delidir derler</b></p><p><br></p><p>Bizim elin yiğitleri bol olur</p><p>Çalar davulları dizgin dol olur</p><p>Ölüm bizim için tozlu yol olur&nbsp;</p><p><br></p><p><b>Dumanlı ...</b></p><p><br></p><p>Mahsuni Şerif’im vay beni beni</p><p>Hani ya ikrarsız ikrarın hani</p><p>Vay göresim geldi nazlı yar seni&nbsp;</p><p>&nbsp;</p><p><b>Dumanlı ...</b></p>",
+  "sozler_duz": "Vay göresim geldi sevdiğim (nazlı yar) seni\n\nDumanlı dumanlı oy bizim eller\n\nNasıl unuturum körpe kuzumu\n\nDumanlı dumanlı oy bizim eller\n\nOtursam ağlasam delidir derler\n\nBizim elin yiğitleri bol olur\n\nÇalar davulları dizgin dol olur\n\nÖlüm bizim için tozlu yol olur \n\nDumanlı ...\n\nMahsuni Şerif’im vay beni beni\n\nHani ya ikrarsız ikrarın hani\n\nVay göresim geldi nazlı yar seni \n\n \n\nDumanlı ...",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Aşık Mahsuni Şerif",
-    "muzik": "Aşık Mahsuni Şerif",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "muzik": "Aşık Mahsuni Şerif"
   },
   "sistem": {
     "eski_id": 179,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T15:19:00.286Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
