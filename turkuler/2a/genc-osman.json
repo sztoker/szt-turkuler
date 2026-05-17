@@ -1,26 +1,15 @@
 {
   "id": "genc-osman",
   "baslik": "GENÇ OSMAN",
-  "sozler_html": "<p>Genç Osman dediğin bir küçük uşakBeline bağlamış ibrişim kuşak – of ofAskerin içinde birinci uşakAllah Allah deyip geçer Genç Osman – of ofBağdat’ın kapısın Genç Osman açtıDüşmanın cümlesi önünden kaçtı – of ofKelle koltuğunda üç gün savaştı / Allah Allah ...Bağdat’ın içine girilmez yastanHer ana doğurmaz böyle bir aslan – of ofKelle koltuğunda geliyor Kars’tan / Allah Allah ...Askerin bir ucu göründü Van’danKılıcın kabzası görünmez kandan – of ofBağdat’ın içinde tozdan dumandan / Allah Allah ...</p>",
-  "sozler_duz": "Genç Osman dediğin bir küçük uşakBeline bağlamış ibrişim kuşak – of ofAskerin içinde birinci uşakAllah Allah deyip geçer Genç Osman – of ofBağdat’ın kapısın Genç Osman açtıDüşmanın cümlesi önünden kaçtı – of ofKelle koltuğunda üç gün savaştı / Allah Allah ...Bağdat’ın içine girilmez yastanHer ana doğurmaz böyle bir aslan – of ofKelle koltuğunda geliyor Kars’tan / Allah Allah ...Askerin bir ucu göründü Van’danKılıcın kabzası görünmez kandan – of ofBağdat’ın içinde tozdan dumandan / Allah Allah ...",
+  "sozler_html": "<p>Genç Osman dediğin bir küçük uşak</p><p>Beline bağlamış ibrişim kuşak – of of</p><p>Askerin içinde birinci uşak</p><p>Allah Allah deyip geçer Genç Osman – of of</p><p><br></p><p>Bağdat’ın kapısın Genç Osman açtı</p><p>Düşmanın cümlesi önünden kaçtı – of of</p><p>Kelle koltuğunda üç gün savaştı&nbsp;</p><p>Allah Allah deyip geçer Genç Osman – of of</p><p><br></p><p>Bağdat’ın içine girilmez yastan</p><p>Her ana doğurmaz böyle bir aslan – of of</p><p>Kelle koltuğunda geliyor Kars’tan&nbsp;</p><p>Allah Allah deyip geçer Genç Osman – of of</p><p><br></p><p>Askerin bir ucu göründü Van’dan</p><p>Kılıcın kabzası görünmez kandan – of of</p><p>Bağdat’ın içinde tozdan dumandan&nbsp;</p><p>Allah Allah deyip geçer Genç Osman – of of</p>",
+  "sozler_duz": "Genç Osman dediğin bir küçük uşak\n\nBeline bağlamış ibrişim kuşak – of of\n\nAskerin içinde birinci uşak\n\nAllah Allah deyip geçer Genç Osman – of of\n\nBağdat’ın kapısın Genç Osman açtı\n\nDüşmanın cümlesi önünden kaçtı – of of\n\nKelle koltuğunda üç gün savaştı \n\nAllah Allah deyip geçer Genç Osman – of of\n\nBağdat’ın içine girilmez yastan\n\nHer ana doğurmaz böyle bir aslan – of of\n\nKelle koltuğunda geliyor Kars’tan \n\nAllah Allah deyip geçer Genç Osman – of of\n\nAskerin bir ucu göründü Van’dan\n\nKılıcın kabzası görünmez kandan – of of\n\nBağdat’ın içinde tozdan dumandan \n\nAllah Allah deyip geçer Genç Osman – of of",
   "meta": {
-    "yore": "?  KARS",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?  KARS",
-    "aciklama": ""
+    "yore": "KARS"
   },
   "sistem": {
     "eski_id": 5415,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:10:40.206Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
