@@ -2,25 +2,14 @@
   "id": "egilmez-basin-gibi",
   "baslik": "EĞİLMEZ BAŞIN GİBİ",
   "sozler_html": "<p>Eğilmez başın gibi / Gökler bulutlu efem</p>\n<p>Dağlar yoldaşın gibi / Sana ne mutlu efem -efem</p>\n<p>Oyna yansın cepkenin / Yansın güneşten tenin</p>\n<p>Gün senin şenlik senin / Sana ne mutlu efem -efem</p>\n<p class=\"bos\"></p>\n<p>Bahar güneşi gibi / Gönlüme doğdun efem</p>\n<p>Sabah yıldızı gibi / İçime aktın efem-efem  /  Oyna ...</p>\n<p>(Sabah yıldızı gibi içime doğdun</p>\n<p>Bir yaz güneşi gibi bağrımı yaktın)</p>",
-  "sozler_duz": "Eğilmez başın gibi / Gökler bulutlu efem Dağlar yoldaşın gibi / Sana ne mutlu efem -efem Oyna yansın cepkenin / Yansın güneşten tenin Gün senin şenlik senin / Sana ne mutlu efem -efem Bahar güneşi gibi / Gönlüme doğdun efem Sabah yıldızı gibi / İçime aktın efem-efem / Oyna ... (Sabah yıldızı gibi içime doğdun Bir yaz güneşi gibi bağrımı yaktın)",
+  "sozler_duz": "Eğilmez başın gibi / Gökler bulutlu efem\n\nDağlar yoldaşın gibi / Sana ne mutlu efem -efem\n\nOyna yansın cepkenin / Yansın güneşten tenin\n\nGün senin şenlik senin / Sana ne mutlu efem -efem\n\nBahar güneşi gibi / Gönlüme doğdun efem\n\nSabah yıldızı gibi / İçime aktın efem-efem / Oyna ...\n\n(Sabah yıldızı gibi içime doğdun\n\nBir yaz güneşi gibi bağrımı yaktın)",
   "meta": {
-    "yore": "EGE",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "EGE",
-    "aciklama": ""
+    "yore": "EGE"
   },
   "sistem": {
     "eski_id": 705,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T21:02:08.044Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
