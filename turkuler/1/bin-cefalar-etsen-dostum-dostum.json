@@ -6,13 +6,12 @@
   "meta": {
     "yore": "Sivas",
     "derleyen": "İstanbul Rad. THM Müd",
-    "kaynak_kisi": "Ali Sultan",
-    "karar": "La - Re"
+    "kaynak_kisi": "Ali Sultan"
   },
   "sistem": {
     "eski_id": 3521,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T00:11:16.234Z",
+    "son_degisiklik": "2026-05-17T20:00:29.114Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
