@@ -6,13 +6,12 @@
   "meta": {
     "yore": "ERZİNCAN",
     "derleyen": "YÜCEL PAŞMAKÇI",
-    "kaynak_kisi": "TURAN ENGİN",
-    "karar": "La"
+    "kaynak_kisi": "TURAN ENGİN"
   },
   "sistem": {
     "eski_id": 232,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-25T14:26:34.602Z",
+    "son_degisiklik": "2026-05-17T20:31:17.779Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
