@@ -2,25 +2,16 @@
   "id": "bu-tepe-pullu-tepe",
   "baslik": "BU TEPE PULLU TEPE",
   "sozler_html": "<p>Bu tepe pullu tepe (nenni de yarim nenni)</p>\n<p>Su gelir serpe serpe (eski de yarim hani)</p>\n<p>Dediler yar uyumuş (nenni de yarim nenni)</p>\n<p>Uyardım öpe öpe (eski de yarim hani)</p>\n<p class=\"bos\"></p>\n<p>Altını bozdurayım (nenni de yarim nenni)</p>\n<p>Gerdana dizdireyim (eski de yarim hani)</p>\n<p>İpek mendil değilsen (nenni de yarim nenni)</p>\n<p>Koynumda gezdireyim (eski de yarim hani)</p>\n<p class=\"bos\"></p>\n<p>Altındır alay değil (nenni de yarim nenni)</p>\n<p>Gümüştür kalay değil (eski de yarim hani)</p>\n<p>Kınamayın a dostlar (nenni de yarim nenni)</p>\n<p>Sevdadır kolay değil (eski de yarim hani)</p>",
-  "sozler_duz": "Bu tepe pullu tepe (nenni de yarim nenni) Su gelir serpe serpe (eski de yarim hani) Dediler yar uyumuş (nenni de yarim nenni) Uyardım öpe öpe (eski de yarim hani) Altını bozdurayım (nenni de yarim nenni) Gerdana dizdireyim (eski de yarim hani) İpek mendil değilsen (nenni de yarim nenni) Koynumda gezdireyim (eski de yarim hani) Altındır alay değil (nenni de yarim nenni) Gümüştür kalay değil (eski de yarim hani) Kınamayın a dostlar (nenni de yarim nenni) Sevdadır kolay değil (eski de yarim hani)",
+  "sozler_duz": "Bu tepe pullu tepe (nenni de yarim nenni)\n\nSu gelir serpe serpe (eski de yarim hani)\n\nDediler yar uyumuş (nenni de yarim nenni)\n\nUyardım öpe öpe (eski de yarim hani)\n\nAltını bozdurayım (nenni de yarim nenni)\n\nGerdana dizdireyim (eski de yarim hani)\n\nİpek mendil değilsen (nenni de yarim nenni)\n\nKoynumda gezdireyim (eski de yarim hani)\n\nAltındır alay değil (nenni de yarim nenni)\n\nGümüştür kalay değil (eski de yarim hani)\n\nKınamayın a dostlar (nenni de yarim nenni)\n\nSevdadır kolay değil (eski de yarim hani)",
   "meta": {
     "yore": "Erzurum",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Muharrem Akkuş-Nida Tüfekçi",
-    "aciklama": ""
+    "derleyen": "Nida Tüfekçi",
+    "kaynak_kisi": "Muharrem Akkuş"
   },
   "sistem": {
     "eski_id": 3590,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:01:17.671Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
