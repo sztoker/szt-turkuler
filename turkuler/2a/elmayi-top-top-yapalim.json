@@ -1,26 +1,17 @@
 {
   "id": "elmayi-top-top-yapalim",
-  "baslik": "Elmayı Top Top Yapalım_",
-  "sozler_html": "<p>Elmayı Top Top YapalımKızlara Bahşiş AtalımKadifeden Ceketini Dar Yapalım,Ne Güzel Yakışır İnce BeleEğlenelim Taze İlenAltında Yelpaze İlen,Ölçelim De O Güzelim İnce Beli,Bir Gümüş Endâze İlen</p>",
-  "sozler_duz": "Elmayı Top Top YapalımKızlara Bahşiş AtalımKadifeden Ceketini Dar Yapalım,Ne Güzel Yakışır İnce BeleEğlenelim Taze İlenAltında Yelpaze İlen,Ölçelim De O Güzelim İnce Beli,Bir Gümüş Endâze İlen",
+  "baslik": "Elmayı Top Top Yapalım",
+  "sozler_html": "<p>Elmayı Top Top Yapalım</p><p>Kızlara Bahşiş Atalım</p><p>Kadifeden Ceketini Dar Yapalım</p><p>Ne Güzel Yakışır İnce Bele</p><p><br></p><p>Eğlenelim Taze İlen</p><p>Altında Yelpaze İlen,</p><p>Ölçelim De O Güzelim İnce Beli</p><p>Bir Gümüş Endâze İlen</p>",
+  "sozler_duz": "Elmayı Top Top Yapalım\n\nKızlara Bahşiş Atalım\n\nKadifeden Ceketini Dar Yapalım\n\nNe Güzel Yakışır İnce Bele\n\nEğlenelim Taze İlen\n\nAltında Yelpaze İlen,\n\nÖlçelim De O Güzelim İnce Beli\n\nBir Gümüş Endâze İlen",
   "meta": {
     "yore": "Sakarya",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ziya Bulut-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Ziya Bulut"
   },
   "sistem": {
     "eski_id": 5226,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T16:04:08.883Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
