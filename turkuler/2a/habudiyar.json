@@ -1,19 +1,18 @@
 {
   "id": "habudiyar",
   "baslik": "HABUDİYAR",
-  "sozler_html": "<p>Eledir oğul eledir&nbsp;</p><p>Şimdiki zaman beledir</p><p>Almış yari koynuna&nbsp;</p><p>Hem öpir hem söyletir</p><p><br></p><p><b>Ha bu diyar ha bu diyar&nbsp;</b></p><p><b>Habudi habudi ha bu diyar</b></p><p><br></p><p>Gece çıktım ayaza&nbsp;</p><p>Sarıldım bir beyaza</p><p>Öyle bir yar sevmişem&nbsp;</p><p>Hem okuya hem yaza</p><p><br></p><p>Ha bu diyar ...</p><p><br></p><p><br></p><p><i>Irmak susuz\nolur mu&nbsp;<o:p></o:p></i></p><p><i>Dibi kumsuz olur\nmu<o:p></o:p></i></p><p><i>Doğru söyleyin\ndostlar&nbsp;<o:p></o:p></i></p><p><i>O yar bensiz\nolur mu</i></p>",
+  "sozler_html": "<p>Eledir oğul eledir&nbsp;</p><p>Şimdiki zaman beledir</p><p>Almış yari koynuna&nbsp;</p><p>Hem öpir hem söyletir</p><p><br></p><p><b>Ha bu diyar ha bu diyar&nbsp;</b></p><p><b>Habudi habudi ha bu diyar</b></p><p><br></p><p>Gece çıktım ayaza&nbsp;</p><p>Sarıldım bir beyaza</p><p>Öyle bir yar sevmişem&nbsp;</p><p>Hem okuya hem yaza</p><p><br></p><p>Ha bu diyar ...</p><p><br></p><p><br></p><p><i>Irmak susuz\nolur mu&nbsp;</i></p><p><i>Dibi kumsuz olur\nmu</i></p><p><i>Doğru söyleyin\ndostlar&nbsp;</i></p><p><i>O yar bensiz\nolur mu</i></p>",
   "sozler_duz": "Eledir oğul eledir \n\nŞimdiki zaman beledir\n\nAlmış yari koynuna \n\nHem öpir hem söyletir\n\nHa bu diyar ha bu diyar \n\nHabudi habudi ha bu diyar\n\nGece çıktım ayaza \n\nSarıldım bir beyaza\n\nÖyle bir yar sevmişem \n\nHem okuya hem yaza\n\nHa bu diyar ...\n\nIrmak susuz olur mu \n\nDibi kumsuz olur mu\n\nDoğru söyleyin dostlar \n\nO yar bensiz olur mu",
   "meta": {
     "yore": "ERZURUM",
     "turu": "THM",
     "derleyen": "TRT ANKARA RAD.",
-    "kaynak_kisi": "SEYFETTİN SIĞMAZ",
-    "karar": "Do"
+    "kaynak_kisi": "SEYFETTİN SIĞMAZ"
   },
   "sistem": {
     "eski_id": 5523,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-11T07:09:20.059Z",
+    "son_degisiklik": "2026-05-17T20:54:28.450Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
