@@ -1,26 +1,16 @@
 {
   "id": "dereler-caglar-oldu",
   "baslik": "DERELER ÇAĞLAR OLDU",
-  "sozler_html": "<p>Dereler çağlar oldu / Gözlerim ağlar olduBir yare gönül verdim / Meskenim dağlar olduYaktın yandırdın beni / Zalim (çapkın) aldattın beniAğlarım yandığıma / Yanarım kandığımaDağlar taşlar dayanmaz / Benim dayandığıma / Zalim ...</p>",
-  "sozler_duz": "Dereler çağlar oldu / Gözlerim ağlar olduBir yare gönül verdim / Meskenim dağlar olduYaktın yandırdın beni / Zalim (çapkın) aldattın beniAğlarım yandığıma / Yanarım kandığımaDağlar taşlar dayanmaz / Benim dayandığıma / Zalim ...",
+  "sozler_html": "<p>Dereler çağlar oldu&nbsp;</p><p>Gözlerim ağlar oldu</p><p>Bir yare gönül verdim&nbsp;</p><p>Meskenim dağlar oldu</p><p><br></p><p><b>Yaktın yandırdın beni&nbsp;</b></p><p><b>Zalim (çapkın) aldattın beni</b></p><p><br></p><p>Ağlarım yandığıma&nbsp;</p><p>Yanarım kandığıma</p><p>Dağlar taşlar dayanmaz&nbsp;</p><p>Benim dayandığıma&nbsp;</p><p><br></p><p><b>Yaktın yandırdın ...</b></p>",
+  "sozler_duz": "Dereler çağlar oldu \n\nGözlerim ağlar oldu\n\nBir yare gönül verdim \n\nMeskenim dağlar oldu\n\nYaktın yandırdın beni \n\nZalim (çapkın) aldattın beni\n\nAğlarım yandığıma \n\nYanarım kandığıma\n\nDağlar taşlar dayanmaz \n\nBenim dayandığıma \n\nYaktın yandırdın ...",
   "meta": {
-    "yore": "S-M: Zeki Duygulu             Uşşak / Nim Sofyan",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S-M: Zeki Duygulu             Uşşak / Nim Sofyan",
-    "aciklama": ""
+    "soz": "Zeki Duygulu",
+    "muzik": "Zeki Duygulu"
   },
   "sistem": {
     "eski_id": 673,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T14:40:54.074Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
