@@ -1,26 +1,17 @@
 {
   "id": "igdirin-al-almasi",
-  "baslik": "Iğdır'ın Al Alması_",
-  "sozler_html": "<p>Iğdırın Al Alması Ay Balam, Yemeye Bal AlmasıYar Gelenden Sonra, Yaremin Sağalması, Ölürem.Ölürem Yar, Yetimem YarYetimem Yar Yar Ay BalamAyı Sevirem Yar SeviremYar Sevirem Yar YarIğdır'dan Alma Aldım Ay BalamYarimi Yola SaldımVar Gedenden SonraAyva Gibi SarardımÖlürem Yar, Yetimem YarYetimem Yar Yar Ay BalamAyı Sevirem Yar SeviremYar Sevirem Yar YarDeryada Deryalıklar Ay Balam, Suda Oynar BalıklarNe Bu Sevda Olaydı, Ne De Bu Ayrılıklar,Ölürem Yar, Yetimem YarYetimem Yar Yar Ay BalamAyı Sevirem Yar SeviremYar Sevirem Yar Yar</p>",
-  "sozler_duz": "Iğdırın Al Alması Ay Balam, Yemeye Bal AlmasıYar Gelenden Sonra, Yaremin Sağalması, Ölürem.Ölürem Yar, Yetimem YarYetimem Yar Yar Ay BalamAyı Sevirem Yar SeviremYar Sevirem Yar YarIğdır'dan Alma Aldım Ay BalamYarimi Yola SaldımVar Gedenden SonraAyva Gibi SarardımÖlürem Yar, Yetimem YarYetimem Yar Yar Ay BalamAyı Sevirem Yar SeviremYar Sevirem Yar YarDeryada Deryalıklar Ay Balam, Suda Oynar BalıklarNe Bu Sevda Olaydı, Ne De Bu Ayrılıklar,Ölürem Yar, Yetimem YarYetimem Yar Yar Ay BalamAyı Sevirem Yar SeviremYar Sevirem Yar Yar",
+  "baslik": "Iğdır'ın Al Alması",
+  "sozler_html": "<p>Iğdırın Al Alması Ay Balam</p><p>Yemeye Bal Alması</p><p>Yar Gelenden Sonra</p><p>Yaremin Sağalması</p><p><br></p><p><b>Ölürem Ölürem Yar</b></p><p><b>Yetimem YarYetimem&nbsp;</b></p><p><b>Yar Yar Ay Balam Ay&nbsp;</b></p><p><b>Sevirem Yar SeviremYar&nbsp;</b></p><p><b>Sevirem Yar Yar</b></p><p><br></p><p>Iğdır'dan Alma Aldım Ay Balam</p><p>Yarimi Yola Saldım</p><p>Yar Gedenden Sonra</p><p>Ayva Gibi Sarardım</p><p><br></p><p>Ölürem Ölürem...</p><p><br></p><p>Deryada Deryalıklar Ay Balam</p><p>Suda Oynar Balıklar</p><p>Ne Bu Sevda Olaydı</p><p>Ne De Bu Ayrılıklar</p><p><br></p><p>Ölürem Ölürem...</p>",
+  "sozler_duz": "Iğdırın Al Alması Ay Balam\n\nYemeye Bal Alması\n\nYar Gelenden Sonra\n\nYaremin Sağalması\n\nÖlürem Ölürem Yar\n\nYetimem YarYetimem \n\nYar Yar Ay Balam Ay \n\nSevirem Yar SeviremYar \n\nSevirem Yar Yar\n\nIğdır'dan Alma Aldım Ay Balam\n\nYarimi Yola Saldım\n\nYar Gedenden Sonra\n\nAyva Gibi Sarardım\n\nÖlürem Ölürem...\n\nDeryada Deryalıklar Ay Balam\n\nSuda Oynar Balıklar\n\nNe Bu Sevda Olaydı\n\nNe De Bu Ayrılıklar\n\nÖlürem Ölürem...",
   "meta": {
     "yore": "Iğdır",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Yusuf Yıldırım/K.Çiftçi/N.Ergin-Muzaffer Sar",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Yusuf Yıldırım/K.Çiftçi/N.Ergin"
   },
   "sistem": {
     "eski_id": 5615,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:22:49.300Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
