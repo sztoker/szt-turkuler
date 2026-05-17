@@ -1,26 +1,16 @@
 {
   "id": "geceler-yarim-oldu",
   "baslik": "GECELER YARİM OLDU",
-  "sozler_html": "<p>Geceler yarim olduAğlamak karım olduHer dertten yıkılmazdımSebebim zalim olduBayram gelmiş neyimeKan damlar yüreğimeYaralarım sızlıyorDoktor benim neyime</p>",
-  "sozler_duz": "Geceler yarim olduAğlamak karım olduHer dertten yıkılmazdımSebebim zalim olduBayram gelmiş neyimeKan damlar yüreğimeYaralarım sızlıyorDoktor benim neyime",
+  "sozler_html": "<p>Geceler yarim oldu</p><p>Ağlamak karım oldu</p><p>Her dertten yıkılmazdım</p><p>Sebebim zalim oldu</p><p><br></p><p>Bayram gelmiş neyime</p><p>Kan damlar yüreğime</p><p>Yaralarım sızlıyor</p><p>Doktor benim neyime</p>",
+  "sozler_duz": "Geceler yarim oldu\n\nAğlamak karım oldu\n\nHer dertten yıkılmazdım\n\nSebebim zalim oldu\n\nBayram gelmiş neyime\n\nKan damlar yüreğime\n\nYaralarım sızlıyor\n\nDoktor benim neyime",
   "meta": {
-    "yore": "S-M : Ahmet Cemil Cankat",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S-M : Ahmet Cemil Cankat",
-    "aciklama": ""
+    "soz": "Ahmet Cemil Cankat",
+    "muzik": "Ahmet Cemil Cankat"
   },
   "sistem": {
     "eski_id": 5378,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:05:07.924Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
