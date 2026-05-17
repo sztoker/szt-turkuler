@@ -1,26 +1,16 @@
 {
   "id": "ela-gozlerini-sevdigim-dilber",
   "baslik": "ELA GÖZLERİNİ SEVDİĞİM DİLBER",
-  "sozler_html": "<p>Ela gözlerini sevdiğim dilberSana bir sözüm var diyemiyorumBilmem deli miyim Mecnun gezerimSırrımı ellere veremiyorum –Derdimi ellere diyemiyorumİnce belini tatlı dilini sevdiğimKırılsın kollarım duramıyorum (2 Helal olsun al yanaktan emdiğimEl uzatıp gonca gülün derdiğim / İnce belini ...Al yanaktan emdicağzım azıktırTarama zülfünü göynüm bozukturÖksüzüm garibim bana yazıktırIradı yollarım göremiyorum (2</p>",
-  "sozler_duz": "Ela gözlerini sevdiğim dilberSana bir sözüm var diyemiyorumBilmem deli miyim Mecnun gezerimSırrımı ellere veremiyorum –Derdimi ellere diyemiyorumİnce belini tatlı dilini sevdiğimKırılsın kollarım duramıyorum (2 Helal olsun al yanaktan emdiğimEl uzatıp gonca gülün derdiğim / İnce belini ...Al yanaktan emdicağzım azıktırTarama zülfünü göynüm bozukturÖksüzüm garibim bana yazıktırIradı yollarım göremiyorum (2",
+  "sozler_html": "<p>Ela gözlerini sevdiğim dilber</p><p>Sana bir sözüm var diyemiyorum</p><p>Bilmem deli miyim Mecnun gezerim</p><p>Sırrımı ellere veremiyorum</p><p>–Derdimi ellere diyemiyorum</p><p><br></p><p>İnce belini tatlı dilini sevdiğim</p><p>Kırılsın kollarım duramıyorum (2&nbsp;</p><p>Helal olsun al yanaktan emdiğim</p><p>El uzatıp gonca gülün derdiğim /&nbsp;</p><p><br></p><p>Al yanaktan emdicağzım azıktır</p><p>Tarama zülfünü göynüm bozuktur</p><p>Öksüzüm garibim bana yazıktır</p><p>Iradı yollarım göremiyorum (2</p>",
+  "sozler_duz": "Ela gözlerini sevdiğim dilber\n\nSana bir sözüm var diyemiyorum\n\nBilmem deli miyim Mecnun gezerim\n\nSırrımı ellere veremiyorum\n\n–Derdimi ellere diyemiyorum\n\nİnce belini tatlı dilini sevdiğim\n\nKırılsın kollarım duramıyorum (2 \n\nHelal olsun al yanaktan emdiğim\n\nEl uzatıp gonca gülün derdiğim / \n\nAl yanaktan emdicağzım azıktır\n\nTarama zülfünü göynüm bozuktur\n\nÖksüzüm garibim bana yazıktır\n\nIradı yollarım göremiyorum (2",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Neşet Ertaş",
-    "muzik": "Neşet Ertaş",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "muzik": "Neşet Ertaş"
   },
   "sistem": {
     "eski_id": 5216,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T15:51:56.356Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
