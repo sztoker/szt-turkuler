@@ -1,26 +1,15 @@
 {
   "id": "delhadur-basindayim",
   "baslik": "DELHADUR BAŞINDAYIM",
-  "sozler_html": "<p>Delhadur başındayım / Simav'ın kaşındayımBana da Kadir Efe derler  / Zeybekler başındayımDumanlı dağlar / Karagözlüm ardımdan ağlarKarşı yakadan indin mi / Kaya dibine sindin miKadir Efe geliyor / Yarenini bildin miDumanlı dağlar / Karagözlüm ardımdan ağlar</p>",
-  "sozler_duz": "Delhadur başındayım / Simav'ın kaşındayımBana da Kadir Efe derler / Zeybekler başındayımDumanlı dağlar / Karagözlüm ardımdan ağlarKarşı yakadan indin mi / Kaya dibine sindin miKadir Efe geliyor / Yarenini bildin miDumanlı dağlar / Karagözlüm ardımdan ağlar",
+  "sozler_html": "<p>Delhadur başındayım&nbsp;</p><p>Simav'ın kaşındayım</p><p>Bana da Kadir Efe derler&nbsp;</p><p>Zeybekler başındayım</p><p><br></p><p><b>Dumanlı dağlar&nbsp;</b></p><p><b>Karagözlüm ardımdan ağlar</b></p><p><br></p><p>Karşı yakadan indin mi&nbsp;</p><p>Kaya dibine sindin mi</p><p>Kadir Efe geliyor&nbsp;&nbsp;</p><p>Yarenini bildin mi</p><p><br></p><p><b>Dumanlı dağlar&nbsp;</b></p><p><b>Karagözlüm ardımdan ağlar</b></p>",
+  "sozler_duz": "Delhadur başındayım \n\nSimav'ın kaşındayım\n\nBana da Kadir Efe derler \n\nZeybekler başındayım\n\nDumanlı dağlar \n\nKaragözlüm ardımdan ağlar\n\nKarşı yakadan indin mi \n\nKaya dibine sindin mi\n\nKadir Efe geliyor  \n\nYarenini bildin mi\n\nDumanlı dağlar \n\nKaragözlüm ardımdan ağlar",
   "meta": {
-    "yore": "K : Kılkadir'in Mehmet Efe",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "K : Kılkadir'in Mehmet Efe",
-    "aciklama": ""
+    "kaynak_kisi": "Kılkadir'in Mehmet Efe"
   },
   "sistem": {
     "eski_id": 657,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T13:18:46.610Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
