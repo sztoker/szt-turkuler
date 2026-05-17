@@ -1,26 +1,17 @@
 {
   "id": "eyvanina-vardim",
-  "baslik": "Eyvanına Vardım_",
-  "sozler_html": "<p>Eyvanına Vardım Eyvanı ÇamurOdasına Vardım Elleri HamurUykudan Uyanmış Gözleri MahmurÖmrümde Görmedim Böyle Gelini.Gelini Gelini Türkmen Gelini,Saramadım Aney Gel Gör Halimiİpek Köynek Giymiş Ayna DizindeSıralı Benleri O Mah YüzündeSevemedim Vazgeçmiyor NazındanÖmrümde Görmedim Böyle Gelini.Gelini Gelini Türkmen GeliniSaramadım Aney Gel Gör Halimi</p>",
-  "sozler_duz": "Eyvanına Vardım Eyvanı ÇamurOdasına Vardım Elleri HamurUykudan Uyanmış Gözleri MahmurÖmrümde Görmedim Böyle Gelini.Gelini Gelini Türkmen Gelini,Saramadım Aney Gel Gör Halimiİpek Köynek Giymiş Ayna DizindeSıralı Benleri O Mah YüzündeSevemedim Vazgeçmiyor NazındanÖmrümde Görmedim Böyle Gelini.Gelini Gelini Türkmen GeliniSaramadım Aney Gel Gör Halimi",
+  "baslik": "Eyvanına Vardım",
+  "sozler_html": "<p>Eyvanına\nvardım eyvanı çamur</p><p>Odasına vardım elleri hamur</p><p>Uykudan uyanmış gözleri mahmur</p><p>&nbsp;</p><p><b>Ömrümde\ngörmedim böyle gelini</b></p><p><b>Gelini\ngelini türkmen gelini</b></p><p><b>Saramadım\naney gel gör halimi</b></p><p>&nbsp;</p><p>İpek köynek giymiş ayna dizinde</p><p>Sıralı benleri o mah yüzünde</p><p>Sevemedim vazgeçmiyor nazından</p><p>&nbsp;</p><p><b>Ömrümde\ngörmedim böyle gelini</b></p><p><b>Gelini\ngelini türkmen gelini</b></p><p><b>Saramadım\naney gel gör halimi</b></p>",
+  "sozler_duz": "Eyvanına vardım eyvanı çamur\n\nOdasına vardım elleri hamur\n\nUykudan uyanmış gözleri mahmur\n\n \n\nÖmrümde görmedim böyle gelini\n\nGelini gelini türkmen gelini\n\nSaramadım aney gel gör halimi\n\n \n\nİpek köynek giymiş ayna dizinde\n\nSıralı benleri o mah yüzünde\n\nSevemedim vazgeçmiyor nazından\n\n \n\nÖmrümde görmedim böyle gelini\n\nGelini gelini türkmen gelini\n\nSaramadım aney gel gör halimi",
   "meta": {
     "yore": "Adıyaman",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aziz Çelik-Mehmet Seske",
-    "aciklama": ""
+    "derleyen": "Mehmet Seske",
+    "kaynak_kisi": "Aziz Çelik"
   },
   "sistem": {
     "eski_id": 5306,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T18:44:43.979Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
