@@ -1,26 +1,13 @@
 {
   "id": "duriyemin-gugumleri-kalayli",
   "baslik": "DÜRİYEMİN GÜĞÜMLERİ KALAYLI",
-  "sozler_html": "<p>Düriyemin güğümleri kalaylı –ah kalaylıFistan giymiş etekleri alaylı –alaylı ah alaylıDüriyemi aldatması kolay mı –ah kolay mıAh alırım dedin de aldattın beni –aldattın beni amanOn telli sazınan oynattın beni –oynattın beni aman (Yar güle güle ayrılalım ağlama / Kara gözlüm aman aman)Giyme dedim giydin sen bu alleri - ah alleriBaşıma getirdin türlü halleri - halleri aman amanDüşman ettin bana bütün elleri - ah elleriAh alırım dedin de ....</p>",
-  "sozler_duz": "Düriyemin güğümleri kalaylı –ah kalaylıFistan giymiş etekleri alaylı –alaylı ah alaylıDüriyemi aldatması kolay mı –ah kolay mıAh alırım dedin de aldattın beni –aldattın beni amanOn telli sazınan oynattın beni –oynattın beni aman (Yar güle güle ayrılalım ağlama / Kara gözlüm aman aman)Giyme dedim giydin sen bu alleri - ah alleriBaşıma getirdin türlü halleri - halleri aman amanDüşman ettin bana bütün elleri - ah elleriAh alırım dedin de ....",
-  "meta": {
-    "yore": "(T)                       Hüzzam / Aksak",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "(T)                       Hüzzam / Aksak",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Düriyemin güğümleri kalaylı –ah kalaylı</p><p>Fistan giymiş etekleri alaylı –alaylı ah alaylı</p><p>Düriyemi aldatması kolay mı –ah kolay mı</p><p><br></p><p><b>Ah alırım dedin de aldattın beni&nbsp;</b></p><p><b>Aldattın beni aman</b></p><p><b>On telli sazınan oynattın beni&nbsp;</b></p><p><b>Oynattın beni aman</b></p><p><i><b>(Yar güle güle ayrılalım ağlama&nbsp;</b></i></p><p><i><b>Kara gözlüm aman aman)</b></i></p><p><br></p><p>Giyme dedim giydin sen bu alleri - ah alleri</p><p>Başıma getirdin türlü halleri - halleri aman aman</p><p>Düşman ettin bana bütün elleri - ah elleri</p><p><br></p><p><b>Ah alırım dedin de ....</b></p>",
+  "sozler_duz": "Düriyemin güğümleri kalaylı –ah kalaylı\n\nFistan giymiş etekleri alaylı –alaylı ah alaylı\n\nDüriyemi aldatması kolay mı –ah kolay mı\n\nAh alırım dedin de aldattın beni \n\nAldattın beni aman\n\nOn telli sazınan oynattın beni \n\nOynattın beni aman\n\n(Yar güle güle ayrılalım ağlama \n\nKara gözlüm aman aman)\n\nGiyme dedim giydin sen bu alleri - ah alleri\n\nBaşıma getirdin türlü halleri - halleri aman aman\n\nDüşman ettin bana bütün elleri - ah elleri\n\nAh alırım dedin de ....",
+  "meta": {},
   "sistem": {
     "eski_id": 700,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T15:26:23.642Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
