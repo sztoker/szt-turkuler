@@ -1,26 +1,15 @@
 {
   "id": "daglar-daglar-1",
   "baslik": "DAĞLAR DAĞLAR-1",
-  "sozler_html": "<p>Ellerimle büyüttüğüm / Solar iken dirilttiğimÇiçeğimi kopardın sen * ellere verdinDağlar dağlar / Kurban olam yol ver geçemSevdiğimi son bir olsun / Yakından göremKuşlar uçmaz kervan geçmez/Yüce dağlar selam vermez(Kuşlar ötmez güller soldu / Yüce dağlar duman oldu)Belli ki gittiğin yerden * kara haber var / Dağlar ...</p>",
-  "sozler_duz": "Ellerimle büyüttüğüm / Solar iken dirilttiğimÇiçeğimi kopardın sen * ellere verdinDağlar dağlar / Kurban olam yol ver geçemSevdiğimi son bir olsun / Yakından göremKuşlar uçmaz kervan geçmez/Yüce dağlar selam vermez(Kuşlar ötmez güller soldu / Yüce dağlar duman oldu)Belli ki gittiğin yerden * kara haber var / Dağlar ...",
+  "sozler_html": "<p>Ellerimle büyüttüğüm&nbsp;</p><p>Solar iken dirilttiğim</p><p>Çiçeğimi kopardın sen *&nbsp;</p><p>Ellere verdin</p><p><br></p><p><b>Dağlar dağlar&nbsp;</b></p><p><b>Kurban olam yol ver geçem</b></p><p><b>Sevdiğimi son bir olsun&nbsp;</b></p><p><b>Yakından görem</b></p><p><br></p><p>Kuşlar uçmaz kervan geçmez</p><p>Yüce dağlar selam vermez</p><p>(Kuşlar ötmez güller soldu&nbsp;</p><p>Yüce dağlar duman oldu)</p><p>Belli ki gittiğin yerden&nbsp;</p><p>Kara haber var&nbsp;</p><p><br></p><p><b>Dağlar ...</b></p>",
+  "sozler_duz": "Ellerimle büyüttüğüm \n\nSolar iken dirilttiğim\n\nÇiçeğimi kopardın sen * \n\nEllere verdin\n\nDağlar dağlar \n\nKurban olam yol ver geçem\n\nSevdiğimi son bir olsun \n\nYakından görem\n\nKuşlar uçmaz kervan geçmez\n\nYüce dağlar selam vermez\n\n(Kuşlar ötmez güller soldu \n\nYüce dağlar duman oldu)\n\nBelli ki gittiğin yerden \n\nKara haber var \n\nDağlar ...",
   "meta": {
-    "yore": "Barış Manço",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Barış Manço",
-    "aciklama": ""
+    "soyleyenler": "Barış Manço"
   },
   "sistem": {
     "eski_id": 2554,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T10:54:30.116Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
