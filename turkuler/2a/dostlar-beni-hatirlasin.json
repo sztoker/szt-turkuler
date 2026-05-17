@@ -1,26 +1,17 @@
 {
   "id": "dostlar-beni-hatirlasin",
   "baslik": "DOSTLAR BENİ HATIRLASIN",
-  "sozler_html": "<p>Ben giderim adım kalır / Dostlar beni hatırlasınDüğün olur bayram gelir / Dostlar beni hatırlasınCan kafeste durmaz uçar / Dünya bir han konan göçerAy dolanır yıllar geçer / Dostlar beni hatırlasınCan bedenden ayrılacak / Tütmez baca yanmaz ocakSelam olsun kucak kucak / Dostlar beni hatırlasınNe gelsemdi ne giderdim / Günden güne arttı derdimGarip kalır yerim yurdum / Dostlar beni hatırlasınAçar solar türlü çiçek / Kimler gülmüş kim gülecekMurat yalan ölüm gerçek / Dostlar beni hatırlasınGün ikindi akşam olur / Gör ki başa neler gelirVeysel gider adı kalır / Dostlar beni hatırlasın</p>",
-  "sozler_duz": "Ben giderim adım kalır / Dostlar beni hatırlasınDüğün olur bayram gelir / Dostlar beni hatırlasınCan kafeste durmaz uçar / Dünya bir han konan göçerAy dolanır yıllar geçer / Dostlar beni hatırlasınCan bedenden ayrılacak / Tütmez baca yanmaz ocakSelam olsun kucak kucak / Dostlar beni hatırlasınNe gelsemdi ne giderdim / Günden güne arttı derdimGarip kalır yerim yurdum / Dostlar beni hatırlasınAçar solar türlü çiçek / Kimler gülmüş kim gülecekMurat yalan ölüm gerçek / Dostlar beni hatırlasınGün ikindi akşam olur / Gör ki başa neler gelirVeysel gider adı kalır / Dostlar beni hatırlasın",
+  "sozler_html": "<p>Ben giderim adım kalır</p><p>Dostlar beni hatırlasın</p><p>Düğün olur bayram gelir&nbsp;</p><p>Dostlar beni hatırlasın</p><p><br></p><p>Can kafeste durmaz uçar&nbsp;</p><p>Dünya bir han konan göçer</p><p>Ay dolanır yıllar geçer</p><p>Dostlar beni hatırlasın</p><p><br></p><p>Can bedenden ayrılacak</p><p>Tütmez baca yanmaz ocak</p><p>Selam olsun kucak kucak&nbsp;</p><p>Dostlar beni hatırlasın</p><p><br></p><p>Ne gelsemdi ne giderdim&nbsp;</p><p>Günden güne arttı derdim</p><p>Garip kalır yerim yurdum</p><p>Dostlar beni hatırlasın</p><p><br></p><p>Açar solar türlü çiçek&nbsp;</p><p>Kimler gülmüş kim gülecek</p><p>Murat yalan ölüm gerçek&nbsp;</p><p>Dostlar beni hatırlasın</p><p><br></p><p>Gün ikindi akşam olur&nbsp;</p><p>Gör ki başa neler gelir</p><p>Veysel gider adı kalır&nbsp;</p><p>Dostlar beni hatırlasın</p>",
+  "sozler_duz": "Ben giderim adım kalır\n\nDostlar beni hatırlasın\n\nDüğün olur bayram gelir \n\nDostlar beni hatırlasın\n\nCan kafeste durmaz uçar \n\nDünya bir han konan göçer\n\nAy dolanır yıllar geçer\n\nDostlar beni hatırlasın\n\nCan bedenden ayrılacak\n\nTütmez baca yanmaz ocak\n\nSelam olsun kucak kucak \n\nDostlar beni hatırlasın\n\nNe gelsemdi ne giderdim \n\nGünden güne arttı derdim\n\nGarip kalır yerim yurdum\n\nDostlar beni hatırlasın\n\nAçar solar türlü çiçek \n\nKimler gülmüş kim gülecek\n\nMurat yalan ölüm gerçek \n\nDostlar beni hatırlasın\n\nGün ikindi akşam olur \n\nGör ki başa neler gelir\n\nVeysel gider adı kalır \n\nDostlar beni hatırlasın",
   "meta": {
     "yore": "ŞARKIŞLA / SİVAS",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Aşık Veysel",
-    "muzik": "Aşık Veysel",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ŞARKIŞLA / SİVAS",
-    "aciklama": ""
+    "muzik": "Aşık Veysel"
   },
   "sistem": {
     "eski_id": 203,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T15:15:14.150Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
