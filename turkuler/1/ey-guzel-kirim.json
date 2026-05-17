@@ -2,25 +2,14 @@
   "id": "ey-guzel-kirim",
   "baslik": "EY GÜZEL KIRIM",
   "sozler_html": "<p>Aluştadan esken yeller yüzüme vurdu</p>\n<p>Balalıktan özken evge közyaşım tuştu</p>\n<p>Men bu yerde yaşalmadım yaşlığıma toyalmadım</p>\n<p>Vetanıma hasret oldum ey güzel Kırım</p>\n<p class=\"bos\"></p>\n<p>Bahçaların meyvaları bal ile şerbet</p>\n<p>Sularını içe içe toyalmadım men / Men bu yerde ...</p>\n<p class=\"bos\"></p>\n<p>Bala çaga vetanıp det közyaşı döke</p>\n<p>Kartlarımız hemenç yayıp dualar ete / Men bu yerde ...</p>\n<p>Keze keze toyalmadım her yerlere korakmadım</p>\n<p>Vetanıma ...</p>",
-  "sozler_duz": "Aluştadan esken yeller yüzüme vurdu Balalıktan özken evge közyaşım tuştu Men bu yerde yaşalmadım yaşlığıma toyalmadım Vetanıma hasret oldum ey güzel Kırım Bahçaların meyvaları bal ile şerbet Sularını içe içe toyalmadım men / Men bu yerde ... Bala çaga vetanıp det közyaşı döke Kartlarımız hemenç yayıp dualar ete / Men bu yerde ... Keze keze toyalmadım her yerlere korakmadım Vetanıma ...",
+  "sozler_duz": "Aluştadan esken yeller yüzüme vurdu\n\nBalalıktan özken evge közyaşım tuştu\n\nMen bu yerde yaşalmadım yaşlığıma toyalmadım\n\nVetanıma hasret oldum ey güzel Kırım\n\nBahçaların meyvaları bal ile şerbet\n\nSularını içe içe toyalmadım men / Men bu yerde ...\n\nBala çaga vetanıp det közyaşı döke\n\nKartlarımız hemenç yayıp dualar ete / Men bu yerde ...\n\nKeze keze toyalmadım her yerlere korakmadım\n\nVetanıma ...",
   "meta": {
-    "yore": "KIRIM ?",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "KIRIM ?",
-    "aciklama": ""
+    "yore": "KIRIM ?"
   },
   "sistem": {
     "eski_id": 756,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T21:01:41.282Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
