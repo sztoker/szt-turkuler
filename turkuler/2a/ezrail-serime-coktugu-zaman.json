@@ -1,26 +1,17 @@
 {
   "id": "ezrail-serime-coktugu-zaman",
-  "baslik": "Ezrail Serime Çöktüğü Zaman_",
-  "sozler_html": "<p>Ezrail Serime Çöktüğü ZamanKırılır Kanadım Kol Yavaş YavaşMevlam Nasip Etsin Din İle İmanAkar Gözlerimden Sel Yavaş YavaşYüksek Uçan Gönül Yorulur Bir GünMizan Terazisi Kurulur Bir GünHerkesin Ettiği Sorulur Bir GünDöner Mi Yarabbim Dil Yavaş YavaşMezarım Üstüne Dikerler TaşıKimi Gölgesinde Saklarsın BaşıBaba Oğlu Görmez Kardaş KardaşıGider Geri Dönmez Yol Yavaş YavaşIsıcak Ilıman Suyun Koyarlarİyi Kötü Elbiseni SoyarlarMeslekiyem Öldüğümü DuyarlarGirer Salacama El Yavaş Yavaş</p>",
-  "sozler_duz": "Ezrail Serime Çöktüğü ZamanKırılır Kanadım Kol Yavaş YavaşMevlam Nasip Etsin Din İle İmanAkar Gözlerimden Sel Yavaş YavaşYüksek Uçan Gönül Yorulur Bir GünMizan Terazisi Kurulur Bir GünHerkesin Ettiği Sorulur Bir GünDöner Mi Yarabbim Dil Yavaş YavaşMezarım Üstüne Dikerler TaşıKimi Gölgesinde Saklarsın BaşıBaba Oğlu Görmez Kardaş KardaşıGider Geri Dönmez Yol Yavaş YavaşIsıcak Ilıman Suyun Koyarlarİyi Kötü Elbiseni SoyarlarMeslekiyem Öldüğümü DuyarlarGirer Salacama El Yavaş Yavaş",
+  "baslik": "Ezrail Serime Çöktüğü Zaman",
+  "sozler_html": "<p>Ezrail\nserime çöktüğü zaman</p><p>Kırılır kanadım kol yavaş yavaş</p><p>Mevlam nasip etsin din ile iman</p><p>Akar gözlerimden sel yavaş yavaş</p><p>&nbsp;</p><p>Yüksek uçan gönül yorulur bir gün</p><p>Mizan terazisi kurulur bir gün</p><p>Herkesin ettiği sorulur bir gün</p><p>Döner mi yarabbim dil yavaş yavaş</p><p>&nbsp;</p><p>Mezarım üstüne dikerler taşı</p><p>Kimi gölgesinde saklarsın başı</p><p>Baba oğlu görmez kardaş kardaşı</p><p>Gider geri dönmez yol yavaş yavaş</p><p>&nbsp;</p><p>Isıcak ılıman suyun koyarlar</p><p>İyi kötü elbiseni soyarlar</p><p>Meslekiyem öldüğümü duyarlar</p><p>Girer salacama el yavaş yavaş</p>",
+  "sozler_duz": "Ezrail serime çöktüğü zaman\n\nKırılır kanadım kol yavaş yavaş\n\nMevlam nasip etsin din ile iman\n\nAkar gözlerimden sel yavaş yavaş\n\n \n\nYüksek uçan gönül yorulur bir gün\n\nMizan terazisi kurulur bir gün\n\nHerkesin ettiği sorulur bir gün\n\nDöner mi yarabbim dil yavaş yavaş\n\n \n\nMezarım üstüne dikerler taşı\n\nKimi gölgesinde saklarsın başı\n\nBaba oğlu görmez kardaş kardaşı\n\nGider geri dönmez yol yavaş yavaş\n\n \n\nIsıcak ılıman suyun koyarlar\n\nİyi kötü elbiseni soyarlar\n\nMeslekiyem öldüğümü duyarlar\n\nGirer salacama el yavaş yavaş",
   "meta": {
     "yore": "Sivas/Tokuş Köyü",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Yüksel Yıldız-İhsan Öztürk",
-    "aciklama": ""
+    "derleyen": "İhsan Öztürk",
+    "kaynak_kisi": "Yüksel Yıldız"
   },
   "sistem": {
     "eski_id": 5312,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T18:47:10.903Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
