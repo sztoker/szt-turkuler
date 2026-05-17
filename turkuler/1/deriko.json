@@ -1,26 +1,16 @@
 {
   "id": "deriko",
   "baslik": "DERİKO",
-  "sozler_html": "<p>Deriko saçın örmezler / Seni de bana vermezler</p>\n<p>Deriko kaşlar kara Deriko gözler ela -hey</p>\n<p class=\"bos\"></p>\n<p>Deriko saçın iki kat / Kes birini bana sat / Deriko ...</p>\n<p>Kız annenden izin al / Bir gece de bizde kal / Deriko ...</p>\n<p>Bu bağ bizim olaydı / Koruk üzüm olaydı / Deriko ...</p>",
-  "sozler_duz": "Deriko saçın örmezler / Seni de bana vermezler Deriko kaşlar kara Deriko gözler ela -hey Deriko saçın iki kat / Kes birini bana sat / Deriko ... Kız annenden izin al / Bir gece de bizde kal / Deriko ... Bu bağ bizim olaydı / Koruk üzüm olaydı / Deriko ...",
+  "sozler_html": "<p>Deriko saçın örmezler&nbsp;</p><p>Seni de bana vermezler</p>\n<p><br></p><p><b>Deriko kaşlar kara&nbsp;</b></p><p><b>Deriko gözler ela -hey</b></p>\n<p class=\"bos\"></p>\n<p>Deriko saçın iki kat&nbsp;</p><p>Kes birini bana sat&nbsp;</p><p><br></p><p><b>Deriko ...</b></p><p><b><br></b></p>\n<p>Kız annenden izin al&nbsp;</p><p>Bir gece de bizde kal&nbsp;</p><p><br></p><p><b>Deriko ...</b></p><p><br></p>\n<p>Bu bağ bizim olaydı&nbsp;</p><p>Koruk üzüm olaydı&nbsp;</p><p><br></p><p><b>Deriko ...</b></p>",
+  "sozler_duz": "Deriko saçın örmezler \n\nSeni de bana vermezler\n\nDeriko kaşlar kara \n\nDeriko gözler ela -hey\n\nDeriko saçın iki kat \n\nKes birini bana sat \n\nDeriko ...\n\nKız annenden izin al \n\nBir gece de bizde kal \n\nDeriko ...\n\nBu bağ bizim olaydı \n\nKoruk üzüm olaydı \n\nDeriko ...",
   "meta": {
     "yore": "GAZİANTEP",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "Azmi Körükçü",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "GAZİANTEP          D : Azmi Körükçü",
-    "aciklama": ""
+    "derleyen": "Azmi Körükçü"
   },
   "sistem": {
     "eski_id": 675,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:09:32.284Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
