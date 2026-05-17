@@ -2,25 +2,17 @@
   "id": "gokte-ucan-huma-kusu",
   "baslik": "GÖKTE UÇAN HUMA KUŞU",
   "sozler_html": "<p>Gökte uçan huma kuşu</p>\n<p>Ne bilir dalın kıymatın</p>\n<p>Gargayı kondurman dala</p>\n<p>Ne bilir gülün kıymatın</p>\n<p class=\"bos\"></p>\n<p>Çift sürüp ekin ekmeyen</p>\n<p>Meydana sofra dökmeyen</p>\n<p>Arının kahrın çekmeyen</p>\n<p>Ne bilir balın kıymatın</p>\n<p class=\"bos\"></p>\n<p>Mencilisten söz atanlar</p>\n<p>Gerçeğe yalan katarlar</p>\n<p>Sonra beyliğe yetenler</p>\n<p>Ne bilir elin kıvmatın</p>\n<p class=\"bos\"></p>\n<p>Bunu diyen deli Boran</p>\n<p>Küçücükten yetim duran</p>\n<p>Bir görmeye deve veren</p>\n<p>Ne bilir malın kıymatın</p>",
-  "sozler_duz": "Gökte uçan huma kuşu Ne bilir dalın kıymatın Gargayı kondurman dala Ne bilir gülün kıymatın Çift sürüp ekin ekmeyen Meydana sofra dökmeyen Arının kahrın çekmeyen Ne bilir balın kıymatın Mencilisten söz atanlar Gerçeğe yalan katarlar Sonra beyliğe yetenler Ne bilir elin kıvmatın Bunu diyen deli Boran Küçücükten yetim duran Bir görmeye deve veren Ne bilir malın kıymatın",
+  "sozler_duz": "Gökte uçan huma kuşu\n\nNe bilir dalın kıymatın\n\nGargayı kondurman dala\n\nNe bilir gülün kıymatın\n\nÇift sürüp ekin ekmeyen\n\nMeydana sofra dökmeyen\n\nArının kahrın çekmeyen\n\nNe bilir balın kıymatın\n\nMencilisten söz atanlar\n\nGerçeğe yalan katarlar\n\nSonra beyliğe yetenler\n\nNe bilir elin kıvmatın\n\nBunu diyen deli Boran\n\nKüçücükten yetim duran\n\nBir görmeye deve veren\n\nNe bilir malın kıymatın",
   "meta": {
     "yore": "Kahramanmaraş",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "Erkan oğur",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Mehmet Kara-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Mehmet Kara",
+    "soyleyenler": "Erkan oğur"
   },
   "sistem": {
     "eski_id": 4097,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:56:32.064Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
