@@ -1,26 +1,17 @@
 {
   "id": "daglar-seni-delik-delik-delerim",
-  "baslik": "Dağlar Seni Delik Delik Delerim_",
-  "sozler_html": "<p>Dağlar Seni Delik Delik Delerim DelerimKalbur Alır Toprağını Elerim Aman AmanElerim Aman Aman Dumanlı Dağlar.Sen Bir Gara Goyun Ben De Bir Guzu Bir GuzuSen Döndükçe Ardın Sıra Melerim Aman AmanMelerim Aman Aman Dumanlı DağlarDağlar Senin Ne Garanlık Ardın Var, Ardın VarLâle Sümbül Boynun Bükmüş Derdin Var Aman AmanDerdin Var Aman Aman Dumanlı DağlarEl Âlemin Vatanı Var Yurdu Var Yurdu VarBenim Yurtsuz Galışıma N’edeyim Aman AmanN’edeyim, Aman Aman Dumanlı DağlarGurbet Elde Galışıma Nedeyim Aman AmanN’edeyim, Aman Aman Dumanlı Dağlar</p>",
-  "sozler_duz": "Dağlar Seni Delik Delik Delerim DelerimKalbur Alır Toprağını Elerim Aman AmanElerim Aman Aman Dumanlı Dağlar.Sen Bir Gara Goyun Ben De Bir Guzu Bir GuzuSen Döndükçe Ardın Sıra Melerim Aman AmanMelerim Aman Aman Dumanlı DağlarDağlar Senin Ne Garanlık Ardın Var, Ardın VarLâle Sümbül Boynun Bükmüş Derdin Var Aman AmanDerdin Var Aman Aman Dumanlı DağlarEl Âlemin Vatanı Var Yurdu Var Yurdu VarBenim Yurtsuz Galışıma N’edeyim Aman AmanN’edeyim, Aman Aman Dumanlı DağlarGurbet Elde Galışıma Nedeyim Aman AmanN’edeyim, Aman Aman Dumanlı Dağlar",
+  "baslik": "Dağlar Seni Delik Delik Delerim",
+  "sozler_html": "<p>Dağlar Seni Delik Delik Delerim Delerim</p><p>Kalbur Alır Toprağını Elerim Aman Aman</p><p>Elerim Aman Aman Dumanlı Dağlar.</p><p>Sen Bir Gara Goyun Ben De Bir Guzu Bir Guzu</p><p>Sen Döndükçe Ardın Sıra Melerim Aman Aman</p><p>Melerim Aman Aman Dumanlı Dağlar</p><p><br></p><p>Dağlar Senin Ne Garanlık Ardın Var, Ardın Var</p><p>Lâle Sümbül Boynun Bükmüş Derdin Var Aman Aman</p><p>Derdin Var Aman Aman Dumanlı Dağlar</p><p>El Âlemin Vatanı Var Yurdu Var Yurdu Var</p><p>Benim Yurtsuz Galışıma N’edeyim Aman Aman</p><p>N’edeyim, Aman Aman Dumanlı Dağlar</p><p>Gurbet Elde Galışıma Nedeyim Aman Aman</p><p>N’edeyim, Aman Aman Dumanlı Dağlar</p>",
+  "sozler_duz": "Dağlar Seni Delik Delik Delerim Delerim\n\nKalbur Alır Toprağını Elerim Aman Aman\n\nElerim Aman Aman Dumanlı Dağlar.\n\nSen Bir Gara Goyun Ben De Bir Guzu Bir Guzu\n\nSen Döndükçe Ardın Sıra Melerim Aman Aman\n\nMelerim Aman Aman Dumanlı Dağlar\n\nDağlar Senin Ne Garanlık Ardın Var, Ardın Var\n\nLâle Sümbül Boynun Bükmüş Derdin Var Aman Aman\n\nDerdin Var Aman Aman Dumanlı Dağlar\n\nEl Âlemin Vatanı Var Yurdu Var Yurdu Var\n\nBenim Yurtsuz Galışıma N’edeyim Aman Aman\n\nN’edeyim, Aman Aman Dumanlı Dağlar\n\nGurbet Elde Galışıma Nedeyim Aman Aman\n\nN’edeyim, Aman Aman Dumanlı Dağlar",
   "meta": {
     "yore": "Sivas",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Muhsin Akarsu-Nida Tüfekçi",
-    "aciklama": ""
+    "derleyen": "Nida Tüfekçi",
+    "kaynak_kisi": "Muhsin Akarsu"
   },
   "sistem": {
     "eski_id": 3744,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T12:40:30.928Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
