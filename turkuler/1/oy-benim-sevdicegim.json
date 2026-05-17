@@ -2,25 +2,16 @@
   "id": "oy-benim-sevdicegim",
   "baslik": "OY BENİM SEVDİCEĞİM",
   "sozler_html": "<p>Oy benim sevdiceğim - oy-olur mi böyle keder</p>\n<p>Of Sürmene  y aylası –oy- onbeş doktora bedel</p>\n<p class=\"bos\"></p>\n<p>Tirabizon’un feneri –oy- iki yana (defa) döneyi</p>\n<p>Geldi Ordu vapuri –oy- İstanbul’a gideyi</p>\n<p class=\"bos\"></p>\n<p>Araklı' dan Yomra’dan - oy-gel gidelum Pazar’a</p>\n<p>Ben Pazar’da duramam –oy- beni Rize’de ara</p>\n<p class=\"bos\"></p>\n<p>Tirabizon buyük şehir –oy- doyamadum tadina</p>\n<p>Uzaktan sevmak olmaz –oy- gel yakina yakina</p>\n<p class=\"bos\"></p>\n<p>Tirabizon Limanında –oy- vapurlar dolaşiyi</p>\n<p>Yar aklıma gelende –oy- yüreğuma düşiyi</p>",
-  "sozler_duz": "Oy benim sevdiceğim - oy-olur mi böyle keder Of Sürmene y aylası –oy- onbeş doktora bedel Tirabizon’un feneri –oy- iki yana (defa) döneyi Geldi Ordu vapuri –oy- İstanbul’a gideyi Araklı' dan Yomra’dan - oy-gel gidelum Pazar’a Ben Pazar’da duramam –oy- beni Rize’de ara Tirabizon buyük şehir –oy- doyamadum tadina Uzaktan sevmak olmaz –oy- gel yakina yakina Tirabizon Limanında –oy- vapurlar dolaşiyi Yar aklıma gelende –oy- yüreğuma düşiyi",
+  "sozler_duz": "Oy benim sevdiceğim - oy-olur mi böyle keder\n\nOf Sürmene y aylası –oy- onbeş doktora bedel\n\nTirabizon’un feneri –oy- iki yana (defa) döneyi\n\nGeldi Ordu vapuri –oy- İstanbul’a gideyi\n\nAraklı' dan Yomra’dan - oy-gel gidelum Pazar’a\n\nBen Pazar’da duramam –oy- beni Rize’de ara\n\nTirabizon buyük şehir –oy- doyamadum tadina\n\nUzaktan sevmak olmaz –oy- gel yakina yakina\n\nTirabizon Limanında –oy- vapurlar dolaşiyi\n\nYar aklıma gelende –oy- yüreğuma düşiyi",
   "meta": {
     "yore": "TRABZON",
     "turu": "1",
-    "turu2": "1",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "La",
-    "diger_bilgiler": "TRABZON          K:Hüseyin Dilaver",
-    "aciklama": ""
+    "kaynak_kisi": "Hüseyin Dilaver"
   },
   "sistem": {
     "eski_id": 1195,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:42:44.074Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
