@@ -1,26 +1,13 @@
 {
   "id": "evlerinin-onu-yoldur-yolaktir",
   "baslik": "EVLERİNİN ÖNÜ YOLDUR YOLAKTIR",
-  "sozler_html": "<p>Evlerinin önü yoldur yolaktırBaşımızda dönen dektir dolaptırEllerin huriyse benim melektirBen yarime neler neler alayımBen yarime ipek mendil alayımDarılmışsa gidip hatrın sorayımAyrılığa yoktur benim dayağımEvlerinin önü kahve dibeğiDibeğe vurdukça ağlar bebeğiNe sen gelin oldun ne ben güveyi / Ben yarime ...Evlerinin önü bulgur sokusuYel estikçe gelir yarin kokusuYarim küçüktür cilve kutusu / Ben yarime ...</p>",
-  "sozler_duz": "Evlerinin önü yoldur yolaktırBaşımızda dönen dektir dolaptırEllerin huriyse benim melektirBen yarime neler neler alayımBen yarime ipek mendil alayımDarılmışsa gidip hatrın sorayımAyrılığa yoktur benim dayağımEvlerinin önü kahve dibeğiDibeğe vurdukça ağlar bebeğiNe sen gelin oldun ne ben güveyi / Ben yarime ...Evlerinin önü bulgur sokusuYel estikçe gelir yarin kokusuYarim küçüktür cilve kutusu / Ben yarime ...",
-  "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Evlerinin önü yoldur yolaktır</p><p>Başımızda dönen dektir dolaptır</p><p>Ellerin huriyse benim melektir</p><p><br></p><p><b>Ben yarime neler neler alayım</b></p><p><b>Ben yarime ipek mendil alayım</b></p><p><b>Darılmışsa gidip hatrın sorayım</b></p><p><b>Ayrılığa yoktur benim dayağım</b></p><p><br></p><p>Evlerinin önü kahve dibeği</p><p>Dibeğe vurdukça ağlar bebeği</p><p>Ne sen gelin oldun ne ben güvey</p><p><br></p><p><b>Ben yarime ...</b></p><p><br></p><p>Evlerinin önü bulgur sokusu</p><p>Yel estikçe gelir yarin kokusu</p><p>Yarim küçüktür cilve kutusu&nbsp;</p><p><br></p><p><b>Ben yarime ...</b></p>",
+  "sozler_duz": "Evlerinin önü yoldur yolaktır\n\nBaşımızda dönen dektir dolaptır\n\nEllerin huriyse benim melektir\n\nBen yarime neler neler alayım\n\nBen yarime ipek mendil alayım\n\nDarılmışsa gidip hatrın sorayım\n\nAyrılığa yoktur benim dayağım\n\nEvlerinin önü kahve dibeği\n\nDibeğe vurdukça ağlar bebeği\n\nNe sen gelin oldun ne ben güvey\n\nBen yarime ...\n\nEvlerinin önü bulgur sokusu\n\nYel estikçe gelir yarin kokusu\n\nYarim küçüktür cilve kutusu \n\nBen yarime ...",
+  "meta": {},
   "sistem": {
     "eski_id": 5286,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T18:33:14.416Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
