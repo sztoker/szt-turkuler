@@ -1,26 +1,16 @@
 {
   "id": "gam-elinden-benim-zulfu-siyahim",
   "baslik": "GAM ELİNDEN BENİM ZÜLFÜ SİYAHIM",
-  "sozler_html": "<p>Gam elinden benim zülfü  siyahımPeykan değdi sinem yaralandı gelSuna başın için –hey dost- ağlatma beniBugün sevda candan aralandı gelGamdan hisar oldu mekanım yurdumİşitmez avazım dinlemez birdimBir değil beş değil –hey dost- on değil derdimDüğümler baş verdi sıralandı gel</p>",
-  "sozler_duz": "Gam elinden benim zülfü siyahımPeykan değdi sinem yaralandı gelSuna başın için –hey dost- ağlatma beniBugün sevda candan aralandı gelGamdan hisar oldu mekanım yurdumİşitmez avazım dinlemez birdimBir değil beş değil –hey dost- on değil derdimDüğümler baş verdi sıralandı gel",
+  "sozler_html": "<p>Gam elinden benim zülfü  siyahım</p><p>Peykan değdi sinem yaralandı gel</p><p>Suna başın için –hey dost- ağlatma beni</p><p>Bugün sevda candan aralandı gel</p><p><br></p><p>Gamdan hisar oldu mekanım yurdum</p><p>İşitmez avazım dinlemez birdim</p><p>Bir değil beş değil –hey dost- on değil derdim</p><p>Düğümler baş verdi sıralandı gel</p>",
+  "sozler_duz": "Gam elinden benim zülfü siyahım\n\nPeykan değdi sinem yaralandı gel\n\nSuna başın için –hey dost- ağlatma beni\n\nBugün sevda candan aralandı gel\n\nGamdan hisar oldu mekanım yurdum\n\nİşitmez avazım dinlemez birdim\n\nBir değil beş değil –hey dost- on değil derdim\n\nDüğümler baş verdi sıralandı gel",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
     "kaynak_kisi": "Pir Sultan Abdal",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "Ruhi Su",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "soyleyenler": "Ruhi Su"
   },
   "sistem": {
     "eski_id": 5359,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:00:13.766Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
