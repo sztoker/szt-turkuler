@@ -1,26 +1,17 @@
 {
   "id": "gesi-baglari",
-  "baslik": "Gesi Bağları_",
-  "sozler_html": "<p>(Of) Gesi Bağları'nda DolanıyorumYitirdiğim Yarimi Aman AranıyorumBir Çift Selamına GüveniyorumGel Otur Yanıma Hallerimi SöyleyimHalimden Bilmiyor Ben O Yari Neyleyim(Of) Gesi Bağları'ndan Gelsin GeçilsinKurulsun Masalar Rakı Konyak İçilsinHerkes Sevdiğini Alsın SeçilsinAtma Anam Atma Şu Dağların ArdınaKimseler Yanmasın Anam Yansın Derdime(Of) Gesi Bağları'nda Üç Top Gülüm VarHey Allah'tan Korkmaz Sana Bana Ölüm VarÖlüm Varsa Şu Dünyada Zulüm VarGel Otur Yanıma Hallerimi SöyleyimHalimden Bilmiyor Ben O Yari Neyleyim</p>",
-  "sozler_duz": "(Of) Gesi Bağları'nda DolanıyorumYitirdiğim Yarimi Aman AranıyorumBir Çift Selamına GüveniyorumGel Otur Yanıma Hallerimi SöyleyimHalimden Bilmiyor Ben O Yari Neyleyim(Of) Gesi Bağları'ndan Gelsin GeçilsinKurulsun Masalar Rakı Konyak İçilsinHerkes Sevdiğini Alsın SeçilsinAtma Anam Atma Şu Dağların ArdınaKimseler Yanmasın Anam Yansın Derdime(Of) Gesi Bağları'nda Üç Top Gülüm VarHey Allah'tan Korkmaz Sana Bana Ölüm VarÖlüm Varsa Şu Dünyada Zulüm VarGel Otur Yanıma Hallerimi SöyleyimHalimden Bilmiyor Ben O Yari Neyleyim",
+  "baslik": "Gesi Bağları",
+  "sozler_html": "<p>(Of)\ngesi bağları'nda dolanıyorum</p><p>Yitirdiğim yarimi aman aranıyorum</p><p>Bir çift selamına güveniyorum</p><p>Gel otur yanıma hallerimi söyleyim</p><p>Halimden bilmiyor ben o yari neyleyim</p><p>&nbsp;</p><p>(of) gesi bağları'ndan gelsin geçilsin</p><p>Kurulsun masalar rakı konyak içilsin</p><p>Herkes sevdiğini alsın seçilsin</p><p>Atma anam atma şu dağların ardına</p><p>Kimseler yanmasın anam yansın derdime</p><p>&nbsp;</p><p>(of) gesi bağları'nda üç top gülüm var</p><p>Hey allah'tan korkmaz sana bana ölüm var</p><p>Ölüm varsa şu dünyada zulüm var</p><p>Gel otur yanıma hallerimi söyleyim</p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>Halimden bilmiyor ben o yari neyleyim</p>",
+  "sozler_duz": "(Of) gesi bağları'nda dolanıyorum\n\nYitirdiğim yarimi aman aranıyorum\n\nBir çift selamına güveniyorum\n\nGel otur yanıma hallerimi söyleyim\n\nHalimden bilmiyor ben o yari neyleyim\n\n \n\n(of) gesi bağları'ndan gelsin geçilsin\n\nKurulsun masalar rakı konyak içilsin\n\nHerkes sevdiğini alsın seçilsin\n\nAtma anam atma şu dağların ardına\n\nKimseler yanmasın anam yansın derdime\n\n \n\n(of) gesi bağları'nda üç top gülüm var\n\nHey allah'tan korkmaz sana bana ölüm var\n\nÖlüm varsa şu dünyada zulüm var\n\nGel otur yanıma hallerimi söyleyim\n\nHalimden bilmiyor ben o yari neyleyim",
   "meta": {
     "yore": "Kayseri",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ahmet Gazi Ayhan-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Ahmet Gazi Ayhan"
   },
   "sistem": {
     "eski_id": 5419,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T21:00:04.011Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
