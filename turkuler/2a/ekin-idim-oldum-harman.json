@@ -1,26 +1,15 @@
 {
   "id": "ekin-idim-oldum-harman",
   "baslik": "EKİN İDİM OLDUM HARMAN",
-  "sozler_html": "<p>Düşürdün aşkın narına / Karıştırdın küle beniAtın yolun kenarına  /  Yar geçtikce göre beniKarda meleşir kuzular  /  Derdim çok yarem sızılarGönül sevdiğin arzular  /  Götürsünler yare beniEcel geldi haktan ferman / Can çekilir kalmaz dermanEkin idim oldum harman  /  Savursunlar yele beni</p>",
-  "sozler_duz": "Düşürdün aşkın narına / Karıştırdın küle beniAtın yolun kenarına / Yar geçtikce göre beniKarda meleşir kuzular / Derdim çok yarem sızılarGönül sevdiğin arzular / Götürsünler yare beniEcel geldi haktan ferman / Can çekilir kalmaz dermanEkin idim oldum harman / Savursunlar yele beni",
+  "sozler_html": "<p>Düşürdün aşkın narına&nbsp;</p><p>Karıştırdın küle beni</p><p>Atın yolun kenarına&nbsp;</p><p>Yar geçtikce göre beni</p><p><br></p><p>Karda meleşir kuzular&nbsp;</p><p>Derdim çok yarem sızılar</p><p>Gönül sevdiğin arzular&nbsp;</p><p>Götürsünler yare beni</p><p><br></p><p>Ecel geldi haktan ferman&nbsp;</p><p>Can çekilir kalmaz derman</p><p>Ekin idim oldum harman&nbsp;</p><p>Savursunlar yele beni</p>",
+  "sozler_duz": "Düşürdün aşkın narına \n\nKarıştırdın küle beni\n\nAtın yolun kenarına \n\nYar geçtikce göre beni\n\nKarda meleşir kuzular \n\nDerdim çok yarem sızılar\n\nGönül sevdiğin arzular \n\nGötürsünler yare beni\n\nEcel geldi haktan ferman \n\nCan çekilir kalmaz derman\n\nEkin idim oldum harman \n\nSavursunlar yele beni",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "Ruhi Su",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "soyleyenler": "Ruhi Su"
   },
   "sistem": {
     "eski_id": 5201,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T15:47:37.602Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
