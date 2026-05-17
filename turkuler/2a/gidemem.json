@@ -1,26 +1,15 @@
 {
   "id": "gidemem",
   "baslik": "GİDEMEM",
-  "sozler_html": "<p>Bilemem * nereye sürüldüğümü beklemeBelki kaybolup gidecek bu yürekKarla kaplı yüreğimde hüzne doğan kır çiçeğim     2Yandım amman * öldüm amman * sararıp soldum ammanKar boran yollar *ardımda sevdan var *seni bırakıp gidememAğlama * sil akan gözyaşlarını ağlamaBir de sen tuz basma gülüm yaramaGitmeler çok zor küçüğüm yoldaş olur yalnızlığım bana2Yandım amman...</p>",
-  "sozler_duz": "Bilemem * nereye sürüldüğümü beklemeBelki kaybolup gidecek bu yürekKarla kaplı yüreğimde hüzne doğan kır çiçeğim 2Yandım amman * öldüm amman * sararıp soldum ammanKar boran yollar *ardımda sevdan var *seni bırakıp gidememAğlama * sil akan gözyaşlarını ağlamaBir de sen tuz basma gülüm yaramaGitmeler çok zor küçüğüm yoldaş olur yalnızlığım bana2Yandım amman...",
+  "sozler_html": "<p>Bilemem&nbsp; nereye sürüldüğümü bekleme</p><p>Belki kaybolup gidecek bu yürek</p><p>Karla kaplı yüreğimde&nbsp;</p><p>Hüzne doğan kır çiçeğim     2</p><p><br></p><p><b>Yandım amman&nbsp;</b></p><p><b>Öldüm amman&nbsp;</b></p><p><b>Sararıp soldum amman</b></p><p><b>Kar boran yollar&nbsp;</b></p><p><b>Ardımda sevdan var&nbsp;</b></p><p><b>Seni bırakıp gidemem</b></p><p><br></p><p>Ağlama&nbsp; sil akan gözyaşlarını ağlama</p><p>Bir de sen tuz basma gülüm yarama</p><p>Gitmeler çok zor küçüğüm&nbsp;</p><p>Yoldaş olur yalnızlığım bana2</p><p><br></p><p>Yandım amman&nbsp;</p><p>Öldüm amman&nbsp;</p><p>Sararıp soldum amman</p><p>Kar boran yollar&nbsp;</p><p>Ardımda sevdan var&nbsp;</p><p>Seni bırakıp gidemem</p>",
+  "sozler_duz": "Bilemem  nereye sürüldüğümü bekleme\n\nBelki kaybolup gidecek bu yürek\n\nKarla kaplı yüreğimde \n\nHüzne doğan kır çiçeğim 2\n\nYandım amman \n\nÖldüm amman \n\nSararıp soldum amman\n\nKar boran yollar \n\nArdımda sevdan var \n\nSeni bırakıp gidemem\n\nAğlama  sil akan gözyaşlarını ağlama\n\nBir de sen tuz basma gülüm yarama\n\nGitmeler çok zor küçüğüm \n\nYoldaş olur yalnızlığım bana2\n\nYandım amman \n\nÖldüm amman \n\nSararıp soldum amman\n\nKar boran yollar \n\nArdımda sevdan var \n\nSeni bırakıp gidemem",
   "meta": {
-    "yore": "?     Y : İlkay Akkaya (Kızılırmak)",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?     Y : İlkay Akkaya (Kızılırmak)",
-    "aciklama": ""
+    "soyleyenler": "İlkay Akkaya"
   },
   "sistem": {
     "eski_id": 5430,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:18:28.253Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
