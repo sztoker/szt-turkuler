@@ -1,7 +1,7 @@
 {
   "id": "bizim-eller-ne-guzel-eller",
   "baslik": "BİZİM ELLER NE GÜZEL ELLER",
-  "sozler_html": "<p>Bizim eller ne güzel eller&nbsp;</p><p>Söylesin şirin diller</p><p>Oynasın koç yiğitler&nbsp;</p><p>Oy bizim eller ne güzel eller</p><p><br></p><p>Şu dağda maral gezer&nbsp;</p><p>Zülfünü tarar gezer</p><p>Dağ bizim maral bizim&nbsp;</p><p>Avcı burda ne gezer&nbsp;</p><p><br></p><p>Bizim ...</p><p><br></p><p>Al geyer allanırsan&nbsp;</p><p>Şekerlenir ballanırsan</p><p>Geyinmiş kuşanmışsan&nbsp;</p><p>Karşımda sallanırsan&nbsp;</p><p><br></p><p>Bizim ...</p>",
+  "sozler_html": "<p><b>Bizim eller ne güzel eller&nbsp;</b></p><p><b>Söylesin şirin diller</b></p><p><b>Oynasın koç yiğitler&nbsp;</b></p><p><b>Oy bizim eller ne güzel eller</b></p><p><br></p><p>Şu dağda maral gezer&nbsp;</p><p>Zülfünü tarar gezer</p><p>Dağ bizim maral bizim&nbsp;</p><p>Avcı burda ne gezer&nbsp;</p><p><br></p><p><b>Bizim ...</b></p><p><br></p><p>Al geyer allanırsan&nbsp;</p><p>Şekerlenir ballanırsan</p><p>Geyinmiş kuşanmışsan&nbsp;</p><p>Karşımda sallanırsan&nbsp;</p><p><br></p><p><b>Bizim ...</b></p>",
   "sozler_duz": "Bizim eller ne güzel eller \n\nSöylesin şirin diller\n\nOynasın koç yiğitler \n\nOy bizim eller ne güzel eller\n\nŞu dağda maral gezer \n\nZülfünü tarar gezer\n\nDağ bizim maral bizim \n\nAvcı burda ne gezer \n\nBizim ...\n\nAl geyer allanırsan \n\nŞekerlenir ballanırsan\n\nGeyinmiş kuşanmışsan \n\nKarşımda sallanırsan \n\nBizim ...",
   "meta": {
     "yore": "VAN"
@@ -9,7 +9,7 @@
   "sistem": {
     "eski_id": 563,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-16T19:46:50.257Z",
+    "son_degisiklik": "2026-05-17T20:00:51.075Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
