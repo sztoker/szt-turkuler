@@ -2,25 +2,15 @@
   "id": "kiz-sen-geldin-cerkesten",
   "baslik": "KIZ SEN GELDİN ÇERKEŞTEN",
   "sozler_html": "<p>Kız sen geldin Çerkeş'ten / Çok güzelsin herkesten</p>\n<p>Farkın yoktur vallahi / Lepiska saçlı Çerkez'den</p>\n<p>Annen baban işte bunu bilmezler</p>\n<p>Kız seni beylere vermezler –2</p>\n<p class=\"bos\"></p>\n<p>Kız acırım haline / Aldanma el aleme</p>\n<p>Satsalardı alırdım / Ben sevdim yaman ile / Annen ...</p>",
-  "sozler_duz": "Kız sen geldin Çerkeş'ten / Çok güzelsin herkesten Farkın yoktur vallahi / Lepiska saçlı Çerkez'den Annen baban işte bunu bilmezler Kız seni beylere vermezler –2 Kız acırım haline / Aldanma el aleme Satsalardı alırdım / Ben sevdim yaman ile / Annen ...",
+  "sozler_duz": "Kız sen geldin Çerkeş'ten / Çok güzelsin herkesten\n\nFarkın yoktur vallahi / Lepiska saçlı Çerkez'den\n\nAnnen baban işte bunu bilmezler\n\nKız seni beylere vermezler –2\n\nKız acırım haline / Aldanma el aleme\n\nSatsalardı alırdım / Ben sevdim yaman ile / Annen ...",
   "meta": {
-    "yore": "",
     "turu": "TSM",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_22",
-    "karar": "",
-    "diger_bilgiler": "Faize Hanım          Nihavend - Çifte Sofyan",
-    "aciklama": ""
+    "kaynak_kisi": "Faize Hanım"
   },
   "sistem": {
     "eski_id": 1014,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:45:48.442Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
