@@ -2,25 +2,14 @@
   "id": "sezenler-olmus",
   "baslik": "SEZENLER OLMUŞ",
   "sozler_html": "<p>Seni yerlerde göklerde bulamazlarken</p>\n<p>Bende gizli olduğunu sezenler olmuş</p>\n<p>Dumlu dumluymuşsun yüreğimde</p>\n<p>Kımıl kımılmışsın bileklerimde</p>\n<p class=\"bos\"></p>\n<p><b>Türkü olmuşsun, umudummuşsun</b></p>\n<p><b>Ellerimde gözbebeğimde</b></p>\n<p class=\"bos\"></p>\n<p>Aramızda dağlar yollar yıllar var iken</p>\n<p>Beni sana sımsıkı sarılı görenler olmuş</p>\n<p>Sargın yaprakmışım dallarına</p>\n<p>Yangın toprakmışım yağmurlarına</p>\n<p class=\"bos\"></p>\n<p><b>Domur domur ter ışıl ışıl fer</b></p>\n<p><b>Ellerimde gözbebeğimde</b></p>\n<p class=\"bos\"></p>\n<p><b>Türkü olmuşsun, umudummuşsun</b></p>\n<p><b>Sevdama yarınlarıma</b></p>",
-  "sozler_duz": "Seni yerlerde göklerde bulamazlarken Bende gizli olduğunu sezenler olmuş Dumlu dumluymuşsun yüreğimde Kımıl kımılmışsın bileklerimde Türkü olmuşsun, umudummuşsun Ellerimde gözbebeğimde Aramızda dağlar yollar yıllar var iken Beni sana sımsıkı sarılı görenler olmuş Sargın yaprakmışım dallarına Yangın toprakmışım yağmurlarına Domur domur ter ışıl ışıl fer Ellerimde gözbebeğimde Türkü olmuşsun, umudummuşsun Sevdama yarınlarıma",
+  "sozler_duz": "Seni yerlerde göklerde bulamazlarken\n\nBende gizli olduğunu sezenler olmuş\n\nDumlu dumluymuşsun yüreğimde\n\nKımıl kımılmışsın bileklerimde\n\nTürkü olmuşsun, umudummuşsun\n\nEllerimde gözbebeğimde\n\nAramızda dağlar yollar yıllar var iken\n\nBeni sana sımsıkı sarılı görenler olmuş\n\nSargın yaprakmışım dallarına\n\nYangın toprakmışım yağmurlarına\n\nDomur domur ter ışıl ışıl fer\n\nEllerimde gözbebeğimde\n\nTürkü olmuşsun, umudummuşsun\n\nSevdama yarınlarıma",
   "meta": {
-    "yore": "",
-    "turu": "1",
-    "turu2": "1",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "Ümmüşen Gürsoy",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "La",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "soz": "Ümmüşen Gürsoy"
   },
   "sistem": {
     "eski_id": 4702,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:30:41.472Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
