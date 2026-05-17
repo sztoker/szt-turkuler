@@ -1,26 +1,15 @@
 {
   "id": "firat",
   "baslik": "FIRAT",
-  "sozler_html": "<p>Şu Fırat'ın suyu akar serindir- oy oy ölem ölem - derdo ölem - akar serindir - oy oy oyYarimi götürdü -ano- kanlı zalimdir- ölem ölem - kanlı zalimdir - nasıl gülem -oy oy oyDaha gün görmemiş taze gelindir- oy oy ölem ölem - derdo ölem - taze gelindir - oy oy oySöyletmeyin beni -ano- yaram derindir - ölem ölem -yaram derindir - nasıl gülem - oy oy oy Kömürhan Köprüsü Harput'a bakarKör olası zalım Fırat ocaklar yıkarAhbaplarım gelmiş ağıtlar yakarSöyletmeyin beni yaram derindir</p>",
-  "sozler_duz": "Şu Fırat'ın suyu akar serindir- oy oy ölem ölem - derdo ölem - akar serindir - oy oy oyYarimi götürdü -ano- kanlı zalimdir- ölem ölem - kanlı zalimdir - nasıl gülem -oy oy oyDaha gün görmemiş taze gelindir- oy oy ölem ölem - derdo ölem - taze gelindir - oy oy oySöyletmeyin beni -ano- yaram derindir - ölem ölem -yaram derindir - nasıl gülem - oy oy oy Kömürhan Köprüsü Harput'a bakarKör olası zalım Fırat ocaklar yıkarAhbaplarım gelmiş ağıtlar yakarSöyletmeyin beni yaram derindir",
+  "sozler_html": "<p>Şu Fırat'ın suyu akar serindir-&nbsp;</p><p>oy oy ölem ölem - derdo ölem&nbsp;</p><p>- akar serindir - oy oy oy</p><p>Yarimi götürdü -ano- kanlı zalimdir</p><p>- ölem ölem - kanlı zalimdir&nbsp;</p><p>- nasıl gülem -oy oy oy</p><p>Daha gün görmemiş taze gelindir</p><p>Söyletmeyin beni -ano- yaram derindir</p><p><br></p><p>Kömürhan Köprüsü Harput'a bakar</p><p>Kör olası zalım Fırat ocaklar yıkar</p><p>Ahbaplarım gelmiş ağıtlar yakar</p><p>Söyletmeyin beni yaram derindir</p>",
+  "sozler_duz": "Şu Fırat'ın suyu akar serindir- \n\noy oy ölem ölem - derdo ölem \n\n- akar serindir - oy oy oy\n\nYarimi götürdü -ano- kanlı zalimdir\n\n- ölem ölem - kanlı zalimdir \n\n- nasıl gülem -oy oy oy\n\nDaha gün görmemiş taze gelindir\n\nSöyletmeyin beni -ano- yaram derindir\n\nKömürhan Köprüsü Harput'a bakar\n\nKör olası zalım Fırat ocaklar yıkar\n\nAhbaplarım gelmiş ağıtlar yakar\n\nSöyletmeyin beni yaram derindir",
   "meta": {
-    "yore": "ELAZIĞ",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ELAZIĞ",
-    "aciklama": ""
+    "yore": "ELAZIĞ"
   },
   "sistem": {
     "eski_id": 5333,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T18:54:14.256Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
