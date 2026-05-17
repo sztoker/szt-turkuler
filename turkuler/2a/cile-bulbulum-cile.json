@@ -1,26 +1,17 @@
 {
   "id": "cile-bulbulum-cile",
   "baslik": "ÇİLE BÜLBÜLÜM ÇİLE",
-  "sozler_html": "<p>Bülbülüm gel de dile / Söyle benimle bile / Sesini duyur eleÇile bülbülüm çile (2 / Çile bülbülüm*çile –ah çile bülbülüm –allah- çile bülbülüm çileIssız yuvada tektin / Çekilmez çile çektinKim derdi gülecektin / Çile bülbülüm ...Müjde ey güzel kuşum / Bahara döndü kışımGülüyor içim dışım / Çile bülbülüm ...</p>",
-  "sozler_duz": "Bülbülüm gel de dile / Söyle benimle bile / Sesini duyur eleÇile bülbülüm çile (2 / Çile bülbülüm*çile –ah çile bülbülüm –allah- çile bülbülüm çileIssız yuvada tektin / Çekilmez çile çektinKim derdi gülecektin / Çile bülbülüm ...Müjde ey güzel kuşum / Bahara döndü kışımGülüyor içim dışım / Çile bülbülüm ...",
+  "sozler_html": "<p>Bülbülüm gel de dile&nbsp;</p><p>Söyle benimle bile&nbsp;</p><p>Sesini duyur ele</p><p><br></p><p><b>Çile bülbülüm çile (2&nbsp;</b></p><p><b>Çile bülbülüm*çile –ah&nbsp;</b></p><p><b>Çile bülbülüm –allah</b></p><p><b>Çile bülbülüm çile</b></p><p><br></p><p>Issız yuvada tektin&nbsp;</p><p>Çekilmez çile çektin</p><p>Kim derdi gülecektin&nbsp;</p><p><br></p><p><b>Çile bülbülüm ...</b></p><p><br></p><p>Müjde ey güzel kuşum&nbsp;</p><p>Bahara döndü kışım</p><p>Gülüyor içim dışım&nbsp;</p><p><br></p><p><b>Çile bülbülüm ...</b></p>",
+  "sozler_duz": "Bülbülüm gel de dile \n\nSöyle benimle bile \n\nSesini duyur ele\n\nÇile bülbülüm çile (2 \n\nÇile bülbülüm*çile –ah \n\nÇile bülbülüm –allah\n\nÇile bülbülüm çile\n\nIssız yuvada tektin \n\nÇekilmez çile çektin\n\nKim derdi gülecektin \n\nÇile bülbülüm ...\n\nMüjde ey güzel kuşum \n\nBahara döndü kışım\n\nGülüyor içim dışım \n\nÇile bülbülüm ...",
   "meta": {
-    "yore": "Sadettin Kaynak  / Vecdi Bingöl          Muhayyer",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Sadettin Kaynak  / Vecdi Bingöl          Muhayyer",
-    "aciklama": ""
+    "soz": "Vecdi Bingöl",
+    "muzik": "Sadettin Kaynak",
+    "diger_bilgiler": "Muhayyer"
   },
   "sistem": {
     "eski_id": 628,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T10:43:12.018Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
