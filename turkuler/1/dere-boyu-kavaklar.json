@@ -1,26 +1,15 @@
 {
   "id": "dere-boyu-kavaklar",
   "baslik": "DERE BOYU KAVAKLAR",
-  "sozler_html": "<p>Dere boyu kavaklar - ah dere boyu kavaklarAçtı yeşil yapraklar - açtı yeşil yapraklarBen sana doyamadım *2 / Doysun kara topraklar *2Hadi gülüm yandan yandan yandanBiz korkmayız ondan bundan (2- jandarmadan)Dere boyunun düzü / Mevlam ayırdı biziAh babanın aklı olsa / Evlendirirdi bizi /Hadi gülüm ..Gidiyom Giresun'a / Kızlar meyhanesineOrda bir güzel ölmüş / Varam cenazesine Hadi gülüm yandan yandan yandanBiz korkmayız ondan bundan (hele de kaymakamdan)</p>",
-  "sozler_duz": "Dere boyu kavaklar - ah dere boyu kavaklarAçtı yeşil yapraklar - açtı yeşil yapraklarBen sana doyamadım *2 / Doysun kara topraklar *2Hadi gülüm yandan yandan yandanBiz korkmayız ondan bundan (2- jandarmadan)Dere boyunun düzü / Mevlam ayırdı biziAh babanın aklı olsa / Evlendirirdi bizi /Hadi gülüm ..Gidiyom Giresun'a / Kızlar meyhanesineOrda bir güzel ölmüş / Varam cenazesine Hadi gülüm yandan yandan yandanBiz korkmayız ondan bundan (hele de kaymakamdan)",
+  "sozler_html": "<p>Dere boyu kavaklar - ah dere boyu kavaklar</p><p>Açtı yeşil yapraklar - açtı yeşil yapraklar</p><p>Ben sana doyamadım *2&nbsp;</p><p>Doysun kara topraklar *2</p><p><br></p><p><b>Hadi gülüm yandan yandan yandan</b></p><p><b>Biz korkmayız ondan bundan (2- jandarmadan)</b></p><p><br></p><p>Dere boyunun düzü&nbsp;</p><p>Mevlam ayırdı bizi</p><p>Ah babanın aklı olsa&nbsp;</p><p>Evlendirirdi bizi</p><p><br></p><p><b>Hadi gülüm ..</b></p><p><br></p><p>Gidiyom Giresun'a&nbsp;</p><p>Kızlar meyhanesine</p><p>Orda bir güzel ölmüş&nbsp;</p><p>Varam cenazesine&nbsp;</p><p><br></p><p><b>Hadi gülüm yandan yandan yandan</b></p><p><b>Biz korkmayız ondan bundan (hele de kaymakamdan)</b></p>",
+  "sozler_duz": "Dere boyu kavaklar - ah dere boyu kavaklar\n\nAçtı yeşil yapraklar - açtı yeşil yapraklar\n\nBen sana doyamadım *2 \n\nDoysun kara topraklar *2\n\nHadi gülüm yandan yandan yandan\n\nBiz korkmayız ondan bundan (2- jandarmadan)\n\nDere boyunun düzü \n\nMevlam ayırdı bizi\n\nAh babanın aklı olsa \n\nEvlendirirdi bizi\n\nHadi gülüm ..\n\nGidiyom Giresun'a \n\nKızlar meyhanesine\n\nOrda bir güzel ölmüş \n\nVaram cenazesine \n\nHadi gülüm yandan yandan yandan\n\nBiz korkmayız ondan bundan (hele de kaymakamdan)",
   "meta": {
-    "yore": "GİRESUN",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "GİRESUN",
-    "aciklama": ""
+    "yore": "GİRESUN"
   },
   "sistem": {
     "eski_id": 671,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T20:08:06.185Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
