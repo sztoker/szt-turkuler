@@ -1,26 +1,15 @@
 {
   "id": "evrese-yollari",
   "baslik": "EVREŞE YOLLARI",
-  "sozler_html": "<p>Evreşe yolları dar dar/ bana bakma benim yarim var</p>\n<p class=\"bos\"></p>\n<p>Bir fırın yaptırdım doldurdum ekmekleri</p>\n<p>Gel beraber yiyelim yaptırdım çörekleri / Evreşe .....</p>\n<p class=\"bos\"></p>\n<p>Sırtındaki yeleği ben örmedim mi yarim</p>\n<p>Kızlarla konuşurken ben görmedim mi yarim / Evreşe ....</p>\n<p class=\"bos\"></p>\n<p>Yeleğimin içinde mavi boncuk nazarlık</p>\n<p>Benim yare hediyem bir ufacık gerdanlık / Evreşe ....</p>",
-  "sozler_duz": "Evreşe yolları dar dar/ bana bakma benim yarim var Bir fırın yaptırdım doldurdum ekmekleri Gel beraber yiyelim yaptırdım çörekleri / Evreşe ..... Sırtındaki yeleği ben örmedim mi yarim Kızlarla konuşurken ben görmedim mi yarim / Evreşe .... Yeleğimin içinde mavi boncuk nazarlık Benim yare hediyem bir ufacık gerdanlık / Evreşe ....",
+  "sozler_html": "<p><b>Evreşe yolları dar dar</b></p><p><b>bana bakma benim yarim var</b></p>\n<p class=\"bos\"></p>\n<p>Bir fırın yaptırdım doldurdum ekmekleri</p>\n<p>Gel beraber yiyelim yaptırdım çörekleri&nbsp;</p><p><br></p><p><b>Evreşe .....</b></p>\n<p class=\"bos\"></p>\n<p>Sırtındaki yeleği ben örmedim mi yarim</p>\n<p>Kızlarla konuşurken ben görmedim mi yarim&nbsp;</p><p><br></p><p><b>Evreşe ....</b></p>\n<p class=\"bos\"></p>\n<p>Yeleğimin içinde mavi boncuk nazarlık</p>\n<p>Benim yare hediyem bir ufacık gerdanlık&nbsp;</p><p><br></p><p><b>Evreşe ....</b></p>",
+  "sozler_duz": "Evreşe yolları dar dar\n\nbana bakma benim yarim var\n\nBir fırın yaptırdım doldurdum ekmekleri\n\nGel beraber yiyelim yaptırdım çörekleri \n\nEvreşe .....\n\nSırtındaki yeleği ben örmedim mi yarim\n\nKızlarla konuşurken ben görmedim mi yarim \n\nEvreşe ....\n\nYeleğimin içinde mavi boncuk nazarlık\n\nBenim yare hediyem bir ufacık gerdanlık \n\nEvreşe ....",
   "meta": {
-    "yore": "KEŞAN",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "KEŞAN",
-    "aciklama": ""
+    "yore": "KEŞAN"
   },
   "sistem": {
     "eski_id": 752,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:53:35.791Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
