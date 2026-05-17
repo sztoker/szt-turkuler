@@ -1,26 +1,15 @@
 {
   "id": "efulim",
   "baslik": "EFULİM",
-  "sozler_html": "<p>Hey onyedili kız gözlerin yıldız yıldızGel otur çakıllara seninle konuşacağızEğer baban vermezse dağlara kaçacağızYedirek martı gibi göklere çıkacağız / EfulimYel uçurur ağları oy Faroz’da Faroz’daKaçamayan kızları kuruturlar çirozdaSevdali uşak olsam belune kuşak olsamOkşarken yanağuni gülden yumuşak olsam – EfulimAtmaca doğan olsam kapilarina konsamGece uyurken yavrum döşeğunde bulunsamGece geldum duydun mi güzelum tanidun miBağirdum kapilara sesumi tanidun mi – EfulimParmağum batti bala yala ufağum yalaBen fırsat arayirum sen babani oyalaSen baluk ben ağ olsam yüreğune yağ olsamHer gün bile gezerduk çaruğuna bağ olsam - Efulim</p>",
-  "sozler_duz": "Hey onyedili kız gözlerin yıldız yıldızGel otur çakıllara seninle konuşacağızEğer baban vermezse dağlara kaçacağızYedirek martı gibi göklere çıkacağız / EfulimYel uçurur ağları oy Faroz’da Faroz’daKaçamayan kızları kuruturlar çirozdaSevdali uşak olsam belune kuşak olsamOkşarken yanağuni gülden yumuşak olsam – EfulimAtmaca doğan olsam kapilarina konsamGece uyurken yavrum döşeğunde bulunsamGece geldum duydun mi güzelum tanidun miBağirdum kapilara sesumi tanidun mi – EfulimParmağum batti bala yala ufağum yalaBen fırsat arayirum sen babani oyalaSen baluk ben ağ olsam yüreğune yağ olsamHer gün bile gezerduk çaruğuna bağ olsam - Efulim",
+  "sozler_html": "<p>Hey onyedili kız gözlerin yıldız yıldız</p><p>Gel otur çakıllara seninle konuşacağız</p><p>Eğer baban vermezse dağlara kaçacağız</p><p>Yedirek martı gibi göklere çıkacağız-Efulim</p><p><br></p><p>Yel uçurur ağları oy Faroz’da Faroz’da</p><p>Kaçamayan kızları kuruturlar çirozda</p><p>Sevdali uşak olsam belune kuşak olsam</p><p>Okşarken yanağuni gülden yumuşak olsam-Efulim</p><p><br></p><p>Atmaca doğan olsam kapilarina konsam</p><p>Gece uyurken yavrum döşeğunde bulunsam</p><p>Gece geldum duydun mi güzelum tanidun mi</p><p>Bağirdum kapilara sesumi tanidun mi-Efulim</p><p><br></p><p>Parmağum batti bala yala ufağum yala</p><p>Ben fırsat arayirum sen babani oyala</p><p>Sen baluk ben ağ olsam yüreğune yağ olsam</p><p>Her gün bile gezerduk çaruğuna bağ olsam-Efulim</p>",
+  "sozler_duz": "Hey onyedili kız gözlerin yıldız yıldız\n\nGel otur çakıllara seninle konuşacağız\n\nEğer baban vermezse dağlara kaçacağız\n\nYedirek martı gibi göklere çıkacağız-Efulim\n\nYel uçurur ağları oy Faroz’da Faroz’da\n\nKaçamayan kızları kuruturlar çirozda\n\nSevdali uşak olsam belune kuşak olsam\n\nOkşarken yanağuni gülden yumuşak olsam-Efulim\n\nAtmaca doğan olsam kapilarina konsam\n\nGece uyurken yavrum döşeğunde bulunsam\n\nGece geldum duydun mi güzelum tanidun mi\n\nBağirdum kapilara sesumi tanidun mi-Efulim\n\nParmağum batti bala yala ufağum yala\n\nBen fırsat arayirum sen babani oyala\n\nSen baluk ben ağ olsam yüreğune yağ olsam\n\nHer gün bile gezerduk çaruğuna bağ olsam-Efulim",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "Volkan Konak",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "soyleyenler": "Volkan Konak"
   },
   "sistem": {
     "eski_id": 5190,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T15:43:15.441Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
