@@ -1,26 +1,16 @@
 {
   "id": "geldi-gecti-omrum-benim",
-  "baslik": "Geldi Geçti Ömrüm Benim_",
-  "sozler_html": "<p>Geldi Geçti Ömrüm BenimŞol Yel Esip Geçmiş GibiHele Bana Şöyle DurunŞol Göz Yumup Açmış GibiMiskin Adem-OğlanınıBenzetmişler EkinciğeKimi Biter Kimi YiterYere Tohum Saçmış GibiBu Dünyada Bir NesneyeYanar İçim Göynür GibiYiğit İken ÖlenlereGök Ekini Biçmiş GibiYunus Emre Bu Dünyadaİki Kişi Kalır DerlerMeğer Hızır, İlyas OlaÃb-I Hayat İçmiş Gibi</p>",
-  "sozler_duz": "Geldi Geçti Ömrüm BenimŞol Yel Esip Geçmiş GibiHele Bana Şöyle DurunŞol Göz Yumup Açmış GibiMiskin Adem-OğlanınıBenzetmişler EkinciğeKimi Biter Kimi YiterYere Tohum Saçmış GibiBu Dünyada Bir NesneyeYanar İçim Göynür GibiYiğit İken ÖlenlereGök Ekini Biçmiş GibiYunus Emre Bu Dünyadaİki Kişi Kalır DerlerMeğer Hızır, İlyas OlaÃb-I Hayat İçmiş Gibi",
+  "baslik": "Geldi Geçti Ömrüm Benim",
+  "sozler_html": "<p>Geldi\ngeçti ömrüm benim</p><p>Şol yel esip geçmiş gibi</p><p>Hele bana şöyle gelir</p><p>Şol göz yumup açmış gibi</p><p>&nbsp;</p><p>Miskin adem oğulları</p><p>Benzetmişler ekinciğe</p><p>Kimi biter kimi yiter</p><p>Yere tohum saçmış gibi</p><p>&nbsp;</p><p>Bu dünyada bir nesneye</p><p>Yanar içim göynür özüm</p><p>Yiğit iken ölenlere</p><p>Gök ekini biçmiş gibi</p><p>&nbsp;</p><p>Yunus emre bu dünyada</p><p>İki kişi kalır derler</p><p>Meğer hızır, ilyas ola</p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>Ãb-ı hayat içmiş gibi</p>",
+  "sozler_duz": "Geldi geçti ömrüm benim\n\nŞol yel esip geçmiş gibi\n\nHele bana şöyle gelir\n\nŞol göz yumup açmış gibi\n\n \n\nMiskin adem oğulları\n\nBenzetmişler ekinciğe\n\nKimi biter kimi yiter\n\nYere tohum saçmış gibi\n\n \n\nBu dünyada bir nesneye\n\nYanar içim göynür özüm\n\nYiğit iken ölenlere\n\nGök ekini biçmiş gibi\n\n \n\nYunus emre bu dünyada\n\nİki kişi kalır derler\n\nMeğer hızır, ilyas ola\n\nÃb-ı hayat içmiş gibi",
   "meta": {
-    "yore": "Yunus Emre",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Zülfü Livaneli",
-    "aciklama": ""
+    "soz": "Yunus Emre",
+    "soyleyenler": "Zülfü Livaneli"
   },
   "sistem": {
     "eski_id": 5402,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:56:57.747Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
