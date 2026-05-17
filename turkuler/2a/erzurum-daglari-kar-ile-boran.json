@@ -1,26 +1,13 @@
 {
   "id": "erzurum-daglari-kar-ile-boran",
   "baslik": "ERZURUM DAĞLARI KAR İLE BORAN",
-  "sozler_html": "<p>Erzurum Dağları kar ile boranAldı yüreğimi dert ile veremSizde bulunmaz mı bir kurşun kalemYazam arzuhalımı yare gönderemUy beni beni beni belalım beniSatarım bu canı da alırım seniÇıkayım dağlara da kurt yesin beniUy beni beni belalım beniDört yanımı gurbet sardı tel ilenYaslı yaslı bayram yaptım el ilenGöz göz oldu yaralarım dil ilenYaramı sarmaya da derman bulamam / Uy beni ...</p>",
-  "sozler_duz": "Erzurum Dağları kar ile boranAldı yüreğimi dert ile veremSizde bulunmaz mı bir kurşun kalemYazam arzuhalımı yare gönderemUy beni beni beni belalım beniSatarım bu canı da alırım seniÇıkayım dağlara da kurt yesin beniUy beni beni belalım beniDört yanımı gurbet sardı tel ilenYaslı yaslı bayram yaptım el ilenGöz göz oldu yaralarım dil ilenYaramı sarmaya da derman bulamam / Uy beni ...",
-  "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
-  },
+  "sozler_html": "<p>Erzurum Dağları kar ile boran</p><p>Aldı yüreğimi dert ile verem</p><p>Sizde bulunmaz mı bir kurşun kalem</p><p>Yazam arzuhalımı yare gönderem</p><p><br></p><p><b>Uy beni beni beni belalım beni</b></p><p><b>Satarım bu canı da alırım seni</b></p><p><b>Çıkayım dağlara da kurt yesin beni</b></p><p><b>Uy beni beni belalım beni</b></p><p><br></p><p>Dört yanımı gurbet sardı tel ilen</p><p>Yaslı yaslı bayram yaptım el ilen</p><p>Göz göz oldu yaralarım dil ilen</p><p>Yaramı sarmaya da derman bulamam</p><p><br></p><p>Uy beni beni beni ...</p>",
+  "sozler_duz": "Erzurum Dağları kar ile boran\n\nAldı yüreğimi dert ile verem\n\nSizde bulunmaz mı bir kurşun kalem\n\nYazam arzuhalımı yare gönderem\n\nUy beni beni beni belalım beni\n\nSatarım bu canı da alırım seni\n\nÇıkayım dağlara da kurt yesin beni\n\nUy beni beni belalım beni\n\nDört yanımı gurbet sardı tel ilen\n\nYaslı yaslı bayram yaptım el ilen\n\nGöz göz oldu yaralarım dil ilen\n\nYaramı sarmaya da derman bulamam\n\nUy beni beni beni ...",
+  "meta": {},
   "sistem": {
     "eski_id": 5255,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T18:22:14.181Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
