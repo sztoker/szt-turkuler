@@ -1,26 +1,17 @@
 {
   "id": "cirpinip-icinde",
   "baslik": "ÇIRPINIP İÇİNDE",
-  "sozler_html": "<p>Çırpınıp içinde döndüğüm denizDalgalanır coşar rüzgarındanMevce gelir coşar inleyen aşkımAh çektikçe kaynar gelir derindenDerya coşar inci saçar kenaraAşk ehli dayanır ateşe koraBülbüller gül için giymişler karaSeherler uyanır gülün zarındanDert ile mihnete dalmayan aşıkNe yemiş ne doymuş eli bulaşıkKınama Veysel’i fikri dolaşıkAyrılmış yarinden yar diyarından</p>",
-  "sozler_duz": "Çırpınıp içinde döndüğüm denizDalgalanır coşar rüzgarındanMevce gelir coşar inleyen aşkımAh çektikçe kaynar gelir derindenDerya coşar inci saçar kenaraAşk ehli dayanır ateşe koraBülbüller gül için giymişler karaSeherler uyanır gülün zarındanDert ile mihnete dalmayan aşıkNe yemiş ne doymuş eli bulaşıkKınama Veysel’i fikri dolaşıkAyrılmış yarinden yar diyarından",
+  "sozler_html": "<p>Çırpınıp içinde döndüğüm deniz</p><p>Dalgalanır coşar rüzgarından</p><p>Mevce gelir coşar inleyen aşkım</p><p>Ah çektikçe kaynar gelir derinden</p><p><br></p><p>Derya coşar inci saçar kenara</p><p>Aşk ehli dayanır ateşe kora</p><p>Bülbüller gül için giymişler kara</p><p>Seherler uyanır gülün zarından</p><p><br></p><p>Dert ile mihnete dalmayan aşık</p><p>Ne yemiş ne doymuş eli bulaşık</p><p>Kınama Veysel’i fikri dolaşık</p><p>Ayrılmış yarinden yar diyarından</p>",
+  "sozler_duz": "Çırpınıp içinde döndüğüm deniz\n\nDalgalanır coşar rüzgarından\n\nMevce gelir coşar inleyen aşkım\n\nAh çektikçe kaynar gelir derinden\n\nDerya coşar inci saçar kenara\n\nAşk ehli dayanır ateşe kora\n\nBülbüller gül için giymişler kara\n\nSeherler uyanır gülün zarından\n\nDert ile mihnete dalmayan aşık\n\nNe yemiş ne doymuş eli bulaşık\n\nKınama Veysel’i fikri dolaşık\n\nAyrılmış yarinden yar diyarından",
   "meta": {
     "yore": "ŞARKIŞLA / SİVAS",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Aşık Veysel",
-    "muzik": "Aşık Veysel",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ŞARKIŞLA / SİVAS",
-    "aciklama": ""
+    "muzik": "Aşık Veysel"
   },
   "sistem": {
     "eski_id": 204,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T10:43:55.273Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
