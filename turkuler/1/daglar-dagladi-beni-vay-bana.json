@@ -2,25 +2,14 @@
   "id": "daglar-dagladi-beni-vay-bana",
   "baslik": "DAĞLAR DAĞLADI BENİ ( Vay bana ...)",
   "sozler_html": "<p>Dağlar dağladı beni / Gören ağladı beni</p>\n<p>Gitti yarim gelmedi / Derde bağladı beni</p>\n<p>Vay bana vaylar bana / Yıl oldu aylar bana</p>\n<p>Susadım su isterim / Su vermez çaylar bana</p>\n<p class=\"bos\"></p>\n<p>Dağların arkasından / Öldüm yar sevdasından</p>\n<p>Bileydim ayrılık var / Giderdim arkasından /  Vay bana ...</p>",
-  "sozler_duz": "Dağlar dağladı beni / Gören ağladı beni Gitti yarim gelmedi / Derde bağladı beni Vay bana vaylar bana / Yıl oldu aylar bana Susadım su isterim / Su vermez çaylar bana Dağların arkasından / Öldüm yar sevdasından Bileydim ayrılık var / Giderdim arkasından / Vay bana ...",
+  "sozler_duz": "Dağlar dağladı beni / Gören ağladı beni\n\nGitti yarim gelmedi / Derde bağladı beni\n\nVay bana vaylar bana / Yıl oldu aylar bana\n\nSusadım su isterim / Su vermez çaylar bana\n\nDağların arkasından / Öldüm yar sevdasından\n\nBileydim ayrılık var / Giderdim arkasından / Vay bana ...",
   "meta": {
-    "yore": "HARPUT",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "HARPUT",
-    "aciklama": ""
+    "yore": "HARPUT"
   },
   "sistem": {
     "eski_id": 637,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T19:46:47.084Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
