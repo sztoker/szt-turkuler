@@ -1,26 +1,16 @@
 {
   "id": "enginde-yavas-yavas",
   "baslik": "ENGİNDE YAVAŞ YAVAŞ",
-  "sozler_html": "<p>Enginde yavaş yavaş / Günün minesi solduDerdim bana arkadaş / Bu gün de akşam olduGölgeler indi suya / Kuşlar vardı uykuyaGurbeti duya duya / Bu gün de akşam olduSu uyur fısıldaşır / Gider yare ulaşırYolcu yolda yaraşır / Bu gün de akşam oldu</p>",
-  "sozler_duz": "Enginde yavaş yavaş / Günün minesi solduDerdim bana arkadaş / Bu gün de akşam olduGölgeler indi suya / Kuşlar vardı uykuyaGurbeti duya duya / Bu gün de akşam olduSu uyur fısıldaşır / Gider yare ulaşırYolcu yolda yaraşır / Bu gün de akşam oldu",
+  "sozler_html": "<p>Enginde yavaş yavaş&nbsp;</p><p>Günün minesi soldu</p><p>Derdim bana arkadaş&nbsp;&nbsp;</p><p>Bu gün de akşam oldu</p><p><br></p><p>Gölgeler indi suya&nbsp;</p><p>Kuşlar vardı uykuya</p><p>Gurbeti duya duya&nbsp;</p><p>Bu gün de akşam oldu</p><p><br></p><p>Su uyur fısıldaşır&nbsp;</p><p>Gider yare ulaşır</p><p>Yolcu yolda yaraşır&nbsp;</p><p>Bu gün de akşam oldu</p>",
+  "sozler_duz": "Enginde yavaş yavaş \n\nGünün minesi soldu\n\nDerdim bana arkadaş  \n\nBu gün de akşam oldu\n\nGölgeler indi suya \n\nKuşlar vardı uykuya\n\nGurbeti duya duya \n\nBu gün de akşam oldu\n\nSu uyur fısıldaşır \n\nGider yare ulaşır\n\nYolcu yolda yaraşır \n\nBu gün de akşam oldu",
   "meta": {
-    "yore": "Sadettin Kaynak / Vecdi Bingöl     Hicaz / Düyek",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Sadettin Kaynak / Vecdi Bingöl     Hicaz / Düyek",
-    "aciklama": ""
+    "soz": "Vecdi Bingöl",
+    "muzik": "Sadettin Kaynak"
   },
   "sistem": {
     "eski_id": 5233,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T16:10:40.164Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
