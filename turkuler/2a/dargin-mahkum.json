@@ -1,26 +1,15 @@
 {
   "id": "dargin-mahkum",
-  "baslik": "Dargın Mahkum _",
-  "sozler_html": "<p>Darıldım Ben Sana Canım Böyle Mi OlacaktıVuruldum Baksana Kanım Yerde Mi KalacaktıHapishane İçinde Minderim Kana BattıYahu Bu Ne Haldır Öldüm Yedi YıldırGardiyan Çekti GittiDağ Gibi Ömrüm Benim Ne Çabuk Söndü GittiYoruldum Hal Bilmezden Yaş Geldi Kırka ÇıktıDirildim Geri Öldüm Dostlar Bizi BıraktıMahzuni Gelir Beyler Bizim Yaylada YaylarYahu Deli Miyim Yok Ölü MüyümParlayan Bizi PaylarAğlama Sızlama Anam Benim Bir Gün Biter Yaralar</p>",
-  "sozler_duz": "Darıldım Ben Sana Canım Böyle Mi OlacaktıVuruldum Baksana Kanım Yerde Mi KalacaktıHapishane İçinde Minderim Kana BattıYahu Bu Ne Haldır Öldüm Yedi YıldırGardiyan Çekti GittiDağ Gibi Ömrüm Benim Ne Çabuk Söndü GittiYoruldum Hal Bilmezden Yaş Geldi Kırka ÇıktıDirildim Geri Öldüm Dostlar Bizi BıraktıMahzuni Gelir Beyler Bizim Yaylada YaylarYahu Deli Miyim Yok Ölü MüyümParlayan Bizi PaylarAğlama Sızlama Anam Benim Bir Gün Biter Yaralar",
+  "baslik": "Dargın Mahkum",
+  "sozler_html": "<p>Darıldım Ben Sana Canım&nbsp;</p><p>Böyle Mi Olacaktı</p><p>Vuruldum Baksana Kanım&nbsp;</p><p>Yerde Mi Kalacaktı</p><p><br></p><p>Hapishane İçinde&nbsp;</p><p>Minderim Kana Battı</p><p>Yahu Bu Ne Haldır&nbsp;</p><p>Öldüm Yedi Yıldır</p><p>Gardiyan Çekti Gitti</p><p>Dağ Gibi Ömrüm Benim&nbsp;</p><p>Ne Çabuk Söndü Gitti</p><p><br></p><p>Yoruldum Hal Bilmezden&nbsp;</p><p>Yaş Geldi Kırka Çıktı</p><p>Dirildim Geri Öldüm&nbsp;</p><p>Dostlar Bizi Bıraktı</p><p><br></p><p>Mahzuni Gelir Beyler&nbsp;</p><p>Bizim Yaylada Yaylar</p><p>Yahu Deli Miyim&nbsp;</p><p>Yok Ölü Müyüm</p><p>Parlayan Bizi Paylar</p><p>Ağlama Sızlama Anam Benim&nbsp;</p><p>Bir Gün Biter Yaralar</p>",
+  "sozler_duz": "Darıldım Ben Sana Canım \n\nBöyle Mi Olacaktı\n\nVuruldum Baksana Kanım \n\nYerde Mi Kalacaktı\n\nHapishane İçinde \n\nMinderim Kana Battı\n\nYahu Bu Ne Haldır \n\nÖldüm Yedi Yıldır\n\nGardiyan Çekti Gitti\n\nDağ Gibi Ömrüm Benim \n\nNe Çabuk Söndü Gitti\n\nYoruldum Hal Bilmezden \n\nYaş Geldi Kırka Çıktı\n\nDirildim Geri Öldüm \n\nDostlar Bizi Bıraktı\n\nMahzuni Gelir Beyler \n\nBizim Yaylada Yaylar\n\nYahu Deli Miyim \n\nYok Ölü Müyüm\n\nParlayan Bizi Paylar\n\nAğlama Sızlama Anam Benim \n\nBir Gün Biter Yaralar",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aşık Mahzuni Şerif",
-    "aciklama": ""
+    "kaynak_kisi": "Aşık Mahzuni Şerif"
   },
   "sistem": {
     "eski_id": 3765,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T12:54:00.298Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
