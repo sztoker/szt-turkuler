@@ -1,26 +1,17 @@
 {
   "id": "gine-bugun-yaralandim",
-  "baslik": "Gine Bugün Yaralandım_",
-  "sozler_html": "<p>(Ah) Gine Bugün Yaralandımİndim Etrafı DolandımDertli Canımdan UsandımYıldız Yıldız Yıldız OfSana Kervan Kıran Beller BükenEvler Yıkan Yıldız(Ah) Yıldızlardan ÜrüşansınBenim Gibi PerişansınYardan Bana Bir NişansınYıldız Yıldız Yıldız OfGine Doğdun Sarı Yıldız Mavi Yıldız Of</p>",
-  "sozler_duz": "(Ah) Gine Bugün Yaralandımİndim Etrafı DolandımDertli Canımdan UsandımYıldız Yıldız Yıldız OfSana Kervan Kıran Beller BükenEvler Yıkan Yıldız(Ah) Yıldızlardan ÜrüşansınBenim Gibi PerişansınYardan Bana Bir NişansınYıldız Yıldız Yıldız OfGine Doğdun Sarı Yıldız Mavi Yıldız Of",
+  "baslik": "Gine Bugün Yaralandım",
+  "sozler_html": "<p>(Ah) Gine Bugün Yaralandım</p><p>İndim Etrafı Dolandım</p><p>Dertli Canımdan Usandım</p><p>Yıldız Yıldız Yıldız Of Sana&nbsp;</p><p>Kervan Kıran Beller Büken</p><p>Evler Yıkan Yıldız(Ah)&nbsp;</p><p>Yıldızlardan Ürüşansın</p><p>Benim Gibi Perişansın</p><p>Yardan Bana Bir Nişansın</p><p>Yıldız Yıldız Yıldız Of</p><p>Gine Doğdun Sarı Yıldız Mavi Yıldız Of</p>",
+  "sozler_duz": "(Ah) Gine Bugün Yaralandım\n\nİndim Etrafı Dolandım\n\nDertli Canımdan Usandım\n\nYıldız Yıldız Yıldız Of Sana \n\nKervan Kıran Beller Büken\n\nEvler Yıkan Yıldız(Ah) \n\nYıldızlardan Ürüşansın\n\nBenim Gibi Perişansın\n\nYardan Bana Bir Nişansın\n\nYıldız Yıldız Yıldız Of\n\nGine Doğdun Sarı Yıldız Mavi Yıldız Of",
   "meta": {
     "yore": "Erzurum",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Saadettin Akatay/Faruk Kaleli-Muzaffer Sa",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Saadettin Akatay/Faruk Kaleli"
   },
   "sistem": {
     "eski_id": 5436,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-17T16:19:37.309Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
