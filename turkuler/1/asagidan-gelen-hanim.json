@@ -1,7 +1,7 @@
 {
   "id": "asagidan-gelen-hanim",
   "baslik": "AŞAĞIDAN GELEN HANIM",
-  "sozler_html": "<p>Aşağıdan Gelen Hanım Oynasın</p>\n<p>Keklik Kebabını Da Yiyen Doymasın</p>\n<p>Beni Yardan Ayıranlar Onmasın</p>\n<p><b>Beri Gel A Yarim</b></p>\n<p><b>Beri Gel Ben Adam Yemem</b></p>\n<p><b>Ellerin Yarine De, Yarim Ol Demem</b></p>\n<p class=\"bos\"></p>\n<p>Yoğurdum Var Yeşil De Meşil Çanakta</p>\n<p>Benleri Var Ak Gerdanda Yanakta</p>\n<p>Benim Yarim Şu Karşıki Konakta</p>\n<p><b>Beri Gel A Yarim...</b></p>",
+  "sozler_html": "<p>Aşağıdan Gelen Hanım Oynasın</p>\n<p>Keklik Kebabını Da Yiyen Doymasın</p>\n<p>Beni Yardan Ayıranlar Onmasın</p><p><br></p>\n<p><b>Beri Gel A Yarim</b></p>\n<p><b>Beri Gel Ben Adam Yemem</b></p>\n<p><b>Ellerin Yarine De, Yarim Ol Demem</b></p>\n<p class=\"bos\"></p>\n<p>Yoğurdum Var Yeşil De Meşil Çanakta</p>\n<p>Benleri Var Ak Gerdanda Yanakta</p>\n<p>Benim Yarim Şu Karşıki Konakta</p><p><br></p>\n<p><b>Beri Gel A Yarim...</b></p>",
   "sozler_duz": "Aşağıdan Gelen Hanım Oynasın\n\nKeklik Kebabını Da Yiyen Doymasın\n\nBeni Yardan Ayıranlar Onmasın\n\nBeri Gel A Yarim\n\nBeri Gel Ben Adam Yemem\n\nEllerin Yarine De, Yarim Ol Demem\n\nYoğurdum Var Yeşil De Meşil Çanakta\n\nBenleri Var Ak Gerdanda Yanakta\n\nBenim Yarim Şu Karşıki Konakta\n\nBeri Gel A Yarim...",
   "meta": {
     "yore": "Bilecik",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 3375,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20T22:59:13.815Z",
+    "son_degisiklik": "2026-05-17T19:37:29.875Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
