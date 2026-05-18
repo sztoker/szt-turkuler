@@ -1,26 +1,16 @@
 {
   "id": "su-kislanin-kapisina",
-  "baslik": "Şu Kışlanın Kapısına_",
-  "sozler_html": "<p>Şu Kışlanın KapısınaMail Oldum YapısınaTelli Kurban BağlayayımAsker Yarin KapısınaYüce Dağlar OlmasaydıLaleleri SolmasaydıÖlüm Allah'ın Emri DeŞu Ayrılık OlmasaydıKara Kazan KaynamasınAltım Cirit Oynamasınİki Sene Asker OldumNazlı Yarim AğlamasınYüce Dağlar OlmasaydıLaleleri SolmasaydıÖlüm Allah'ın Emri DeŞu Ayrılık OlmasaydıKıratımın Beli İnceÖlürüm Yar GörmeyinceTelli Yatak SerdirememAsker Yarim GelmeyinceYüce Dağlar OlmasaydıLaleleri SolmasaydıÖlüm Allah'ın Emri DeŞu Ayrılık Olmasaydı</p>",
-  "sozler_duz": "Şu Kışlanın KapısınaMail Oldum YapısınaTelli Kurban BağlayayımAsker Yarin KapısınaYüce Dağlar OlmasaydıLaleleri SolmasaydıÖlüm Allah'ın Emri DeŞu Ayrılık OlmasaydıKara Kazan KaynamasınAltım Cirit Oynamasınİki Sene Asker OldumNazlı Yarim AğlamasınYüce Dağlar OlmasaydıLaleleri SolmasaydıÖlüm Allah'ın Emri DeŞu Ayrılık OlmasaydıKıratımın Beli İnceÖlürüm Yar GörmeyinceTelli Yatak SerdirememAsker Yarim GelmeyinceYüce Dağlar OlmasaydıLaleleri SolmasaydıÖlüm Allah'ın Emri DeŞu Ayrılık Olmasaydı",
+  "baslik": "Şu Kışlanın Kapısına",
+  "sozler_html": "<p>Şu kışlanın kapısına</p><p>Mail oldum yapısına</p><p>Telli kurban bağlayayım</p><p>Asker yarin kapısına</p><p><br></p><p><b>Yüce dağlar olmasaydı</b></p><p><b>Laleleri solmasaydı</b></p><p><b>Ölüm allah'ın emri de</b></p><p><b>Şu ayrılık olmasaydı</b></p><p><br></p><p>Kara kazan kaynamasın</p><p>Altım cirit oynamasın</p><p>İki sene asker oldum</p><p>Nazlı yarim ağlamasın</p><p><br></p><p>Yüce dağlar...</p><p><br></p><p>Kıratımın beli ince</p><p>Ölürüm yar görmeyince</p><p>Telli yatak serdiremem</p><p>Asker yarim gelmeyince</p><p><br></p><p>Yüce dağlar...</p>",
+  "sozler_duz": "Şu kışlanın kapısına\n\nMail oldum yapısına\n\nTelli kurban bağlayayım\n\nAsker yarin kapısına\n\nYüce dağlar olmasaydı\n\nLaleleri solmasaydı\n\nÖlüm allah'ın emri de\n\nŞu ayrılık olmasaydı\n\nKara kazan kaynamasın\n\nAltım cirit oynamasın\n\nİki sene asker oldum\n\nNazlı yarim ağlamasın\n\nYüce dağlar...\n\nKıratımın beli ince\n\nÖlürüm yar görmeyince\n\nTelli yatak serdiremem\n\nAsker yarim gelmeyince\n\nYüce dağlar...",
   "meta": {
     "yore": "Adana",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Yöre Ekibi-Durmuş Yazıcıoğlu",
-    "aciklama": ""
+    "derleyen": "Durmuş Yazıcıoğlu"
   },
   "sistem": {
     "eski_id": 6398,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T21:07:58.994Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
