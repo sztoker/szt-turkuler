@@ -1,26 +1,16 @@
 {
   "id": "kan-cicekleri",
-  "baslik": "Kan Çiçekleri_",
-  "sozler_html": "<p>Topraktan Mı Sürmüş Candan Mı KopmuşAçar Yediveren Kan ÇiçekleriTürkü Mü Şiir Mi Ağıt Mı YoksaAçar Yediveren Kan ÇiçekleriBölük Bölük Olmuş Çaylar DerelerHiçbiri Denize VarabilmezmişDuvarın Dibinde Bir Yaralı GülGülleri Solduran GülebilmezmişBu Şehrin Üstünü Duman Sis AlmışTomurcuk Çiçekler Kana Belenmiş Dağ]Ar Çiçek Açmış Usta Dert AçmışUmudun Goncası Kan Çiçekleri</p>",
-  "sozler_duz": "Topraktan Mı Sürmüş Candan Mı KopmuşAçar Yediveren Kan ÇiçekleriTürkü Mü Şiir Mi Ağıt Mı YoksaAçar Yediveren Kan ÇiçekleriBölük Bölük Olmuş Çaylar DerelerHiçbiri Denize VarabilmezmişDuvarın Dibinde Bir Yaralı GülGülleri Solduran GülebilmezmişBu Şehrin Üstünü Duman Sis AlmışTomurcuk Çiçekler Kana Belenmiş Dağ]Ar Çiçek Açmış Usta Dert AçmışUmudun Goncası Kan Çiçekleri",
+  "baslik": "Kan Çiçekleri",
+  "sozler_html": "<p>Topraktan mı sürmüş candan mı kopmuş</p><p>Açar yediveren kan çiçekleri</p><p>Türkü mü şiir mi ağıt mı yoksa</p><p>Açar yediveren kan çiçekleri</p><p><br></p><p>Bölük bölük olmuş çaylar dereler</p><p>Hiçbiri denize varabilmezmiş</p><p>Duvarın dibinde bir yaralı gül</p><p>Gülleri solduran gülebilmezmiş</p><p><br></p><p>Bu şehrin üstünü duman sis almış</p><p>Tomurcuk çiçekler kana belenmiş&nbsp;</p><p>Dağlar çiçek açmış usta dert açmış</p><p>Umudun goncası kan çiçekleri</p><br>",
+  "sozler_duz": "Topraktan mı sürmüş candan mı kopmuş\n\nAçar yediveren kan çiçekleri\n\nTürkü mü şiir mi ağıt mı yoksa\n\nAçar yediveren kan çiçekleri\n\nBölük bölük olmuş çaylar dereler\n\nHiçbiri denize varabilmezmiş\n\nDuvarın dibinde bir yaralı gül\n\nGülleri solduran gülebilmezmiş\n\nBu şehrin üstünü duman sis almış\n\nTomurcuk çiçekler kana belenmiş \n\nDağlar çiçek açmış usta dert açmış\n\nUmudun goncası kan çiçekleri",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Zülfü Livaneli",
-    "aciklama": ""
+    "soz": "Zülfü Livaneli",
+    "muzik": "Zülfü Livaneli"
   },
   "sistem": {
     "eski_id": 5734,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T19:11:32.853Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
