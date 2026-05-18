@@ -1,26 +1,17 @@
 {
   "id": "sogutun-erenleri",
-  "baslik": "Söğüt’ün Erenleri_",
-  "sozler_html": "<p>Söğüt’ün Erenleri, Çevirin GidenleriAh Ne Güzel Baş Bağlıyor, Söğüt’ün Güzelleri.Naldırdın Beni Gül İken  Soldurdun BeniSöğüt’ün Çarşısına, Gün Doğar KarşısınaAh İnsan Hile Yapar Mi? Kapı Bir Komşusuna.Naldırdın Beni Gül İken  Soldurdun BeniElmayı Yüke Koydum, Ağzını Büke KoydumAh Aldı Yari Elimden, Boynumu Büke Koydum.Naldırdın Beni Gül İken  Soldurdun Beni</p>",
-  "sozler_duz": "Söğüt’ün Erenleri, Çevirin GidenleriAh Ne Güzel Baş Bağlıyor, Söğüt’ün Güzelleri.Naldırdın Beni Gül İken Soldurdun BeniSöğüt’ün Çarşısına, Gün Doğar KarşısınaAh İnsan Hile Yapar Mi? Kapı Bir Komşusuna.Naldırdın Beni Gül İken Soldurdun BeniElmayı Yüke Koydum, Ağzını Büke KoydumAh Aldı Yari Elimden, Boynumu Büke Koydum.Naldırdın Beni Gül İken Soldurdun Beni",
+  "baslik": "Söğüt’ün Erenleri",
+  "sozler_html": "<p>Söğüt’ün erenleri, çevirin gidenleri</p><p>Ah ne güzel baş bağlıyor, söğüt’ün güzelleri</p><p><br></p><p><b>Naldırdın beni gül iken soldurdun beni</b></p><p><br></p><p>Söğüt’ün çarşısına, gün doğar karşısına</p><p>Ah insan hile yapar mı? Kapı bir komşusuna</p><p><br></p><p><b>Naldırdın beni gül iken soldurdun beni</b></p><p><br></p><p>Elmayı yüke koydum, ağzını büke koydum</p><p>Ah aldı yari elimden, boynumu büke koydum</p><p><b><br></b></p><p><b>Naldırdın beni gül iken soldurdun beni</b></p><br>",
+  "sozler_duz": "Söğüt’ün erenleri, çevirin gidenleri\n\nAh ne güzel baş bağlıyor, söğüt’ün güzelleri\n\nNaldırdın beni gül iken soldurdun beni\n\nSöğüt’ün çarşısına, gün doğar karşısına\n\nAh insan hile yapar mı? Kapı bir komşusuna\n\nNaldırdın beni gül iken soldurdun beni\n\nElmayı yüke koydum, ağzını büke koydum\n\nAh aldı yari elimden, boynumu büke koydum\n\nNaldırdın beni gül iken soldurdun beni",
   "meta": {
     "yore": "Bilecik",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Mustafa Şimşek-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Mustafa Şimşek"
   },
   "sistem": {
     "eski_id": 6326,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T20:37:24.225Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
