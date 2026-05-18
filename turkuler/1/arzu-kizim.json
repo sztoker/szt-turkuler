@@ -1,15 +1,15 @@
 {
   "id": "arzu-kizim",
   "baslik": "ARZU KIZIM",
-  "sozler_html": "<p>Itır saçır gül çiçek  /  Gülsün ömrün bahar tek</p>\n<p>Menim bu şen hayatta ay kızım / Hoş gedenim mübarek</p>\n<p><b>Ay menim Arzu kızım  /  Ömrümün yazı kızım</b></p>\n<p><b>Sevinci nazı kızım  /  Arzu kızım</b></p>\n<p class=\"bos\"></p>\n<p>Dağda duman çen güzel  /  Çehri o çemen güzel</p>\n<p>Kalbimde min Arzu var ay kızım / Hamısından sen güzel</p>\n<p><b>Ay benim ...</b></p>\n<p class=\"bos\"></p>\n<p>Ana kimi mehriban  /  Var  mı güzel bir insan</p>\n<p>Gün olsun sen özün de ay kızım  /  Büyük anay olasan</p>\n<p><b>Ay benim ...</b></p>",
-  "sozler_duz": "Itır saçır gül çiçek / Gülsün ömrün bahar tek\n\nMenim bu şen hayatta ay kızım / Hoş gedenim mübarek\n\nAy menim Arzu kızım / Ömrümün yazı kızım\n\nSevinci nazı kızım / Arzu kızım\n\nDağda duman çen güzel / Çehri o çemen güzel\n\nKalbimde min Arzu var ay kızım / Hamısından sen güzel\n\nAy benim ...\n\nAna kimi mehriban / Var mı güzel bir insan\n\nGün olsun sen özün de ay kızım / Büyük anay olasan\n\nAy benim ...",
+  "sozler_html": "<p>Itır saçır gül çiçek&nbsp;</p><p>Gülsün ömrün bahar tek</p><p>Menim bu şen hayatta <i>ay kızım&nbsp;</i></p><p>Hoş gedenim mübarek</p><p><br></p><p><b>Ay menim Arzu kızım&nbsp;</b></p><p><b>Ömrümün yazı kızım</b></p><p><b>Sevinci nazı kızım&nbsp;</b></p><p><b>Arzu kızım</b></p><p><b><br></b></p><p>Dağda duman çen güzel&nbsp;</p><p>Çehri o çemen güzel</p><p>Kalbimde min Arzu var <i>ay kızım&nbsp;</i></p><p>Hamısından sen güzel</p><p><br></p><p><b>Ay benim ...</b></p><p><br></p><p>Ana kimi mehriban&nbsp;</p><p>Var mı güzel bir insan</p><p>Gün olsun sen özün de <i>ay kızım&nbsp;</i></p><p>Büyük anay olasan</p><p><br></p><p><b>Ay benim ...</b></p><br>",
+  "sozler_duz": "Itır saçır gül çiçek \n\nGülsün ömrün bahar tek\n\nMenim bu şen hayatta ay kızım \n\nHoş gedenim mübarek\n\nAy menim Arzu kızım \n\nÖmrümün yazı kızım\n\nSevinci nazı kızım \n\nArzu kızım\n\nDağda duman çen güzel \n\nÇehri o çemen güzel\n\nKalbimde min Arzu var ay kızım \n\nHamısından sen güzel\n\nAy benim ...\n\nAna kimi mehriban \n\nVar mı güzel bir insan\n\nGün olsun sen özün de ay kızım \n\nBüyük anay olasan\n\nAy benim ...",
   "meta": {
     "yore": "AZERİ"
   },
   "sistem": {
     "eski_id": 443,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20T22:58:40.797Z",
+    "son_degisiklik": "2026-05-18T21:47:57.587Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
