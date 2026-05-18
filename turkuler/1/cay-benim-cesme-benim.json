@@ -1,26 +1,16 @@
 {
   "id": "cay-benim-cesme-benim",
-  "baslik": "Çay Benim Çeşme Benim_",
-  "sozler_html": "<p>Çay Benim Çeşme BenimAman Derdimi Deşme BenimHakikatli Yar İsenAman Önümden Geçme BenimAl Yazmam Alda KaldıAman Gözlerim Yolda KaldıYıkılası Meyhane,Aman Sarhoşum Nerde Kaldı.</p>",
-  "sozler_duz": "Çay Benim Çeşme BenimAman Derdimi Deşme BenimHakikatli Yar İsenAman Önümden Geçme BenimAl Yazmam Alda KaldıAman Gözlerim Yolda KaldıYıkılası Meyhane,Aman Sarhoşum Nerde Kaldı.",
+  "baslik": "Çay Benim Çeşme Benim",
+  "sozler_html": "<p>Çay benim çeşme benim</p><p>Aman derdimi deşme benim</p><p>Hakikatli yar isen</p><p>Aman önümden geçme benim</p><p><br></p><p>Al yazmam alda kaldı</p><p>Aman gözlerim yolda kaldı</p><p>Yıkılası meyhane</p><p>Aman sarhoşum nerde kaldı</p><br>",
+  "sozler_duz": "Çay benim çeşme benim\n\nAman derdimi deşme benim\n\nHakikatli yar isen\n\nAman önümden geçme benim\n\nAl yazmam alda kaldı\n\nAman gözlerim yolda kaldı\n\nYıkılası meyhane\n\nAman sarhoşum nerde kaldı",
   "meta": {
     "yore": "Antalya/korkuteli",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Fahrettin Çelik-İst.Rad.THM Md.",
-    "aciklama": ""
+    "kaynak_kisi": "Fahrettin Çelik"
   },
   "sistem": {
     "eski_id": 3695,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T20:47:59.064Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
