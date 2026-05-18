@@ -3,11 +3,13 @@
   "baslik": "Niye Çattın Kaşlarını",
   "sozler_html": "<p>Niye çattın kaşlarını</p><p>Bilmiyom yar suçlarımı</p><p>Ben ölürsem saçlarını</p><p>Yolma gayrı yolma <i>leyli leyli</i></p><p><br></p><p>Ben yandım aşkın narına</p><p>Meyletmem dünya malına</p><p>Ben ölürsem mezarıma</p><p>Gelme gayrı gelme <i>leyli leyli</i></p><p><br></p>",
   "sozler_duz": "Niye çattın kaşlarını\n\nBilmiyom yar suçlarımı\n\nBen ölürsem saçlarını\n\nYolma gayrı yolma leyli leyli\n\nBen yandım aşkın narına\n\nMeyletmem dünya malına\n\nBen ölürsem mezarıma\n\nGelme gayrı gelme leyli leyli",
-  "meta": {},
+  "meta": {
+    "kaynak_kisi": "Neşet Ertaş"
+  },
   "sistem": {
     "eski_id": 6052,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-18T20:01:30.110Z",
+    "son_degisiklik": "2026-05-18T20:02:19.033Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
