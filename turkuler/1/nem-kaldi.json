@@ -1,26 +1,16 @@
 {
   "id": "nem-kaldi",
-  "baslik": "Nem Kaldı_",
-  "sozler_html": "<p>Parsel Parsel Eylemişler DünyayıBir Dikili Taştan Gayrı Nem KaldıDost Köyünden Ayağımı KestilerBir Akılsız Baştan Gayrı Nem KaldıPadişah Değilem Çeksem OtursamSaraylar Kursam Da Asker YetirsemHediyem Yoktur Ki Dosta Götürsemİki Damla Yaştan Gayrı Nem KaldıMahzuni Şerifim Çıksam DağlaraRastgelsem De Avcı Vurmuş MaralaDoldur Tüfeğini Beni YaralaBir Yaralı Döşten Gayrı Nem Kaldı</p>",
-  "sozler_duz": "Parsel Parsel Eylemişler DünyayıBir Dikili Taştan Gayrı Nem KaldıDost Köyünden Ayağımı KestilerBir Akılsız Baştan Gayrı Nem KaldıPadişah Değilem Çeksem OtursamSaraylar Kursam Da Asker YetirsemHediyem Yoktur Ki Dosta Götürsemİki Damla Yaştan Gayrı Nem KaldıMahzuni Şerifim Çıksam DağlaraRastgelsem De Avcı Vurmuş MaralaDoldur Tüfeğini Beni YaralaBir Yaralı Döşten Gayrı Nem Kaldı",
+  "baslik": "Nem Kaldı",
+  "sozler_html": "<p>Parsel parsel eylemişler dünyayı</p><p>Bir dikili taştan gayrı nem kaldı</p><p>Dost köyünden ayağımı kestiler</p><p>Bir akılsız baştan gayrı nem kaldı</p><p><br></p><p>Padişah değilem çeksem otursam</p><p>Saraylar kursam da asker yetirsem</p><p>Hediyem yoktur ki dosta götürsem</p><p>İki damla yaştan gayrı nem kaldı</p><p><br></p><p>Mahzuni Şerifim çıksam dağlara</p><p>Rastgelsem de avcı vurmuş marala</p><p>Doldur tüfeğini beni yarala</p><p>Bir yaralı döşten gayrı nem kaldı</p><br>",
+  "sozler_duz": "Parsel parsel eylemişler dünyayı\n\nBir dikili taştan gayrı nem kaldı\n\nDost köyünden ayağımı kestiler\n\nBir akılsız baştan gayrı nem kaldı\n\nPadişah değilem çeksem otursam\n\nSaraylar kursam da asker yetirsem\n\nHediyem yoktur ki dosta götürsem\n\nİki damla yaştan gayrı nem kaldı\n\nMahzuni Şerifim çıksam dağlara\n\nRastgelsem de avcı vurmuş marala\n\nDoldur tüfeğini beni yarala\n\nBir yaralı döşten gayrı nem kaldı",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aşık Mahzuni Şerif",
-    "aciklama": ""
+    "soz": "Aşık Mahzuni Şerif",
+    "muzik": "Aşık Mahzuni Şerif"
   },
   "sistem": {
     "eski_id": 6043,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T19:58:30.022Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
