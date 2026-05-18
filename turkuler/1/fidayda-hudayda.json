@@ -1,26 +1,17 @@
 {
   "id": "fidayda-hudayda",
-  "baslik": "Fidayda (Hüdayda)_",
-  "sozler_html": "<p>Aman Bulguru KaynatırlarHaydi Bulguru KaynatırlarSerine YaylatırlarAman Serine YaylatırlarBizde Adet BöyledirAman Bizde Adet BöyledirGüzeli AğlatırlarAman Çirkini SöyletirlerFidayda Da Ankaralım FidaydaBeşyüz Altın Yedirdim Bir AydaGitti De Gelmedi Ne FaydaBaşını Da Yesin Bu SevdaAman Dama Çıkma Baş AçıkHaydi Dama Çıkma Baş AçıkArpalar Kara KılçıkAman Arpalar Kara KılçıkAman Eğer Gönlün Var İseAman Gönlün Var İseGey Galucu Yola ÇıkAma Gey Galucu Yola ÇıkFidayda Da Ankaralım FidaydaBeşyüz Altın Yedirdim Bir AydaGitti De Gelmedi Ne FaydaBaşını Da Yesin Bu Sevda</p>",
-  "sozler_duz": "Aman Bulguru KaynatırlarHaydi Bulguru KaynatırlarSerine YaylatırlarAman Serine YaylatırlarBizde Adet BöyledirAman Bizde Adet BöyledirGüzeli AğlatırlarAman Çirkini SöyletirlerFidayda Da Ankaralım FidaydaBeşyüz Altın Yedirdim Bir AydaGitti De Gelmedi Ne FaydaBaşını Da Yesin Bu SevdaAman Dama Çıkma Baş AçıkHaydi Dama Çıkma Baş AçıkArpalar Kara KılçıkAman Arpalar Kara KılçıkAman Eğer Gönlün Var İseAman Gönlün Var İseGey Galucu Yola ÇıkAma Gey Galucu Yola ÇıkFidayda Da Ankaralım FidaydaBeşyüz Altın Yedirdim Bir AydaGitti De Gelmedi Ne FaydaBaşını Da Yesin Bu Sevda",
+  "baslik": "Fidayda (Hüdayda)",
+  "sozler_html": "<p>Aman bulguru kaynatırlar</p><p>Haydi bulguru kaynatırlar</p><p>Serine yaylatırlar</p><p>Aman serine yaylatırlar</p><p>&nbsp;</p><p>Bizde adet böyledir</p><p>Aman bizde adet böyledir</p><p>Güzeli ağlatırlar</p><p>Aman çirkini söyletirler</p><p>&nbsp;</p><p><b>Fidayda da ankaralım fidayda</b></p><p><b>Beşyüz altın yedirdim bir ayda</b></p><p><b>Gitti de gelmedi ne fayda</b></p><p><b>Başını da yesin bu sevda</b></p><p>&nbsp;</p><p>Aman dama çıkma baş açık</p><p>Haydi dama çıkma baş açık</p><p>Arpalar kara kılçık</p><p>Aman arpalar kara kılçık</p><p>&nbsp;</p><p>Aman eğer gönlün var ise</p><p>Aman gönlün var ise</p><p>Gey galucu yola çık</p><p>Ama gey galucu yola çık</p><p>&nbsp;</p><p><b>Fidayda da ankaralım fidayda</b></p><p><b>Beşyüz altın yedirdim bir ayda</b></p><p><b>Gitti de gelmedi ne fayda</b></p><p><b>Başını da yesin bu sevda</b></p>",
+  "sozler_duz": "Aman bulguru kaynatırlar\n\nHaydi bulguru kaynatırlar\n\nSerine yaylatırlar\n\nAman serine yaylatırlar\n\n \n\nBizde adet böyledir\n\nAman bizde adet böyledir\n\nGüzeli ağlatırlar\n\nAman çirkini söyletirler\n\n \n\nFidayda da ankaralım fidayda\n\nBeşyüz altın yedirdim bir ayda\n\nGitti de gelmedi ne fayda\n\nBaşını da yesin bu sevda\n\n \n\nAman dama çıkma baş açık\n\nHaydi dama çıkma baş açık\n\nArpalar kara kılçık\n\nAman arpalar kara kılçık\n\n \n\nAman eğer gönlün var ise\n\nAman gönlün var ise\n\nGey galucu yola çık\n\nAma gey galucu yola çık\n\n \n\nFidayda da ankaralım fidayda\n\nBeşyüz altın yedirdim bir ayda\n\nGitti de gelmedi ne fayda\n\nBaşını da yesin bu sevda",
   "meta": {
     "yore": "Ankara",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Sadık Ergun/Bayram Aracı-Nida Tüfekçi",
-    "aciklama": ""
+    "derleyen": "Nida Tüfekçi",
+    "kaynak_kisi": "Sadık Ergun/Bayram Aracı"
   },
   "sistem": {
     "eski_id": 5340,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T17:54:26.486Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
