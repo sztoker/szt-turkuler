@@ -1,26 +1,17 @@
 {
   "id": "fincanin-etrafi-yesil",
-  "baslik": "Fincanın Etrafı Yeşil_",
-  "sozler_html": "<p>Fincanın etrafı yeşil aman amanAt kolun kolların boynumdan aşırSarhoşum dilim dolaşır aman aman.Aman kız canım kız öldürdün beniEl ettin göz ettin mahvettin beniFincanın etrafı sarı aman amanAğlarım sızlarım ben zarı-zarıElimden aldılar yari aman amanAman kız canim kız öldürdün beniEl ettin göz ettin mahvettin beni</p>",
-  "sozler_duz": "Fincanın etrafı yeşil aman amanAt kolun kolların boynumdan aşırSarhoşum dilim dolaşır aman aman.Aman kız canım kız öldürdün beniEl ettin göz ettin mahvettin beniFincanın etrafı sarı aman amanAğlarım sızlarım ben zarı-zarıElimden aldılar yari aman amanAman kız canim kız öldürdün beniEl ettin göz ettin mahvettin beni",
+  "baslik": "Fincanın Etrafı Yeşil",
+  "sozler_html": "<p>Fincanın etrafı yeşil aman aman</p><p>At kolun kolların boynumdan aşır</p><p>Sarhoşum dilim dolaşır aman aman</p><p><br></p><p><b>Aman kız canım kız öldürdün beni</b></p><p><b>El ettin göz ettin mahvettin beni</b></p><p><br></p><p>Fincanın etrafı sarı aman aman</p><p>Ağlarım sızlarım ben zarı-zarı</p><p>Elimden aldılar yari aman aman</p><p><br></p><p><b>Aman kız canim kız öldürdün beni</b></p><p><b>El ettin göz ettin mahvettin beni</b></p><p><br></p>",
+  "sozler_duz": "Fincanın etrafı yeşil aman aman\n\nAt kolun kolların boynumdan aşır\n\nSarhoşum dilim dolaşır aman aman\n\nAman kız canım kız öldürdün beni\n\nEl ettin göz ettin mahvettin beni\n\nFincanın etrafı sarı aman aman\n\nAğlarım sızlarım ben zarı-zarı\n\nElimden aldılar yari aman aman\n\nAman kız canim kız öldürdün beni\n\nEl ettin göz ettin mahvettin beni",
   "meta": {
     "yore": "Diyarbakır",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Celal Güzelses-Ahmet Yamacı",
-    "aciklama": ""
+    "derleyen": "Ahmet Yamacı",
+    "kaynak_kisi": "Celal Güzelses"
   },
   "sistem": {
     "eski_id": 5349,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T17:56:49.293Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
