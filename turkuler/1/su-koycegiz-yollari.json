@@ -1,26 +1,17 @@
 {
   "id": "su-koycegiz-yollari",
-  "baslik": "Şu Köyceğiz Yolları_",
-  "sozler_html": "<p>Şu Köyceğiz YollarıKaldır Ayşem KollarıBizim İçin YapılmışŞu Muğlanın YollarıOldu Mu Ayşem Oldu MuEnişten Camızlarını Buldu MuBir Kerecik ÖpmeynenGül Benzin Ayşem Soldu MuAy Doğar Aşmak İsterTop Zülüf Yaşmak İsterŞu Benim Deli GönlümYare Kavuşmak İster</p>",
-  "sozler_duz": "Şu Köyceğiz YollarıKaldır Ayşem KollarıBizim İçin YapılmışŞu Muğlanın YollarıOldu Mu Ayşem Oldu MuEnişten Camızlarını Buldu MuBir Kerecik ÖpmeynenGül Benzin Ayşem Soldu MuAy Doğar Aşmak İsterTop Zülüf Yaşmak İsterŞu Benim Deli GönlümYare Kavuşmak İster",
+  "baslik": "Şu Köyceğiz Yolları",
+  "sozler_html": "<p>Şu Köyceğiz yolları</p><p>Kaldır ayşem kolları</p><p>Bizim için yapılmış</p><p>Şu muğlanın yolları</p><p><br></p><p><b>Oldu mu Ayşem oldu mu</b></p><p><b>Enişten camızlarını buldu mu</b></p><p><b>Bir kerecik öpmeynen</b></p><p><b>Gül benzin ayşem soldu mu</b></p><p><br></p><p>Ay doğar aşmak ister</p><p>Top zülüf yaşmak ister</p><p>Şu benim deli gönlüm</p><p>Yare kavuşmak ister</p><br><b>Oldu mu ayşem...</b>",
+  "sozler_duz": "Şu Köyceğiz yolları\n\nKaldır ayşem kolları\n\nBizim için yapılmış\n\nŞu muğlanın yolları\n\nOldu mu Ayşem oldu mu\n\nEnişten camızlarını buldu mu\n\nBir kerecik öpmeynen\n\nGül benzin ayşem soldu mu\n\nAy doğar aşmak ister\n\nTop zülüf yaşmak ister\n\nŞu benim deli gönlüm\n\nYare kavuşmak ister\n\nOldu mu ayşem...",
   "meta": {
     "yore": "Muğla",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Zehra Bayatoğlu/Ahmet Batyatoğlu-Hamdi Özbay",
-    "aciklama": ""
+    "derleyen": "Hamdi Özbay",
+    "kaynak_kisi": "Zehra Bayatoğlu/Ahmet Batyatoğlu"
   },
   "sistem": {
     "eski_id": 6399,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T21:05:13.784Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
