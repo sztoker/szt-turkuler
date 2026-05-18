@@ -1,26 +1,17 @@
 {
   "id": "camdan-sakiz-akiyor",
-  "baslik": "Çamdan Sakız Akıyor_",
-  "sozler_html": "<p>Çamdan Sakız AkıyorKız Nişanlın Bakıyor (Oy Zalım Nenni Nenni)Koynundaki MemelerTurunç Olmuş Kokuyor (Oy Zalım Nenni Nenni)O Yana Da Dönder Sar BeniBu Yana Da Dönder Sar BeniSağ Yanımda Yarem VarSol Yana Dönder BeniDama Bulgur SererlerÇıkma Boyun Görürler (Oy Zalım Nenni Nenni)Saçın İbrişim TeliHançere Bağ Örerler (Oy Zalım Nenni Nenni)O Yana Da Dönder Sar BeniBu Yana Da Dönder Sar BeniSağ Yanımda Yarem VarSol Yana Dönder Beni</p>",
-  "sozler_duz": "Çamdan Sakız AkıyorKız Nişanlın Bakıyor (Oy Zalım Nenni Nenni)Koynundaki MemelerTurunç Olmuş Kokuyor (Oy Zalım Nenni Nenni)O Yana Da Dönder Sar BeniBu Yana Da Dönder Sar BeniSağ Yanımda Yarem VarSol Yana Dönder BeniDama Bulgur SererlerÇıkma Boyun Görürler (Oy Zalım Nenni Nenni)Saçın İbrişim TeliHançere Bağ Örerler (Oy Zalım Nenni Nenni)O Yana Da Dönder Sar BeniBu Yana Da Dönder Sar BeniSağ Yanımda Yarem VarSol Yana Dönder Beni",
+  "baslik": "Çamdan Sakız Akıyor",
+  "sozler_html": "<p>Çamdan sakız akıyor</p><p>Kız nişanlın bakıyor</p><p><i>(oy zalım nenni nenni)</i></p><p>Koynundaki memeler</p><p>Turunç olmuş kokuyor</p><p><i>(oy zalım nenni nenni)</i></p><p><br></p><p><b>O yana da dönder sar beni</b></p><p><b>Bu yana da dönder sar beni</b></p><p><b>Sağ yanımda yarem var</b></p><p><b>Sol yana dönder beni</b></p><p><br></p><p>Dama bulgur sererler</p><p>Çıkma boyun görürler&nbsp;</p><p><i>(oy zalım nenni nenni)</i></p><p>Saçın ibrişim teli</p><p>Hançere bağ örerler&nbsp;</p><p><i>(oy zalım nenni nenni)</i></p><p><br></p><p><b>O yana da dönder...&nbsp;</b></p><br><div><b><i>Armut dalda beş imiş</i></b></div><div><b><i>Tan yerleri ışımış</i></b></div><div><b><i>Annesi yorgan vermemiş</i></b></div><div><b><i>Kar memeler üşümüş</i></b></div><div><b><i><br></i></b></div><div><b><i>Ah çinçini çinçini</i></b></div><div><b><i>Öpem ağzın içini</i></b></div><div><b><i>Öperken ısırmışım</i></b></div><div><b><i>Bağışlayın suçum</i></b></div><br><span style=\"color: rgb(106, 58, 26); font-weight: 600;\">O yana da dönder...&nbsp;</span><br>",
+  "sozler_duz": "Çamdan sakız akıyor\n\nKız nişanlın bakıyor\n\n(oy zalım nenni nenni)\n\nKoynundaki memeler\n\nTurunç olmuş kokuyor\n\n(oy zalım nenni nenni)\n\nO yana da dönder sar beni\n\nBu yana da dönder sar beni\n\nSağ yanımda yarem var\n\nSol yana dönder beni\n\nDama bulgur sererler\n\nÇıkma boyun görürler \n\n(oy zalım nenni nenni)\n\nSaçın ibrişim teli\n\nHançere bağ örerler \n\n(oy zalım nenni nenni)\n\nO yana da dönder... \n\nArmut dalda beş imiş\nTan yerleri ışımış\nAnnesi yorgan vermemiş\nKar memeler üşümüş\n\nAh çinçini çinçini\nÖpem ağzın içini\nÖperken ısırmışım\nBağışlayın suçum\n\nO yana da dönder...",
   "meta": {
     "yore": "Kahramanmaraş/Elbistan",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Özer Oruç-Muzaffer Sarısöze",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Özer Oruç"
   },
   "sistem": {
     "eski_id": 3686,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T20:45:54.421Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
