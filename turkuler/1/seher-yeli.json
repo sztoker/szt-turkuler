@@ -1,26 +1,15 @@
 {
   "id": "seher-yeli",
-  "baslik": "Seher Yeli_",
-  "sozler_html": "<p>Seher yeli nazlı yareBildir beni bildir beniDüşmüşüm elden ayaktanKaldır beni kaldır beniSöyle güzeller şahınaYüz süreydim dergahınaZehir olan kadehineDoldur beni doldur beniKul Ahmed'im gönül versemBağrında gülünü dersemSenden gayrı yar seversemÖldür beni öldür beni</p>",
-  "sozler_duz": "Seher yeli nazlı yareBildir beni bildir beniDüşmüşüm elden ayaktanKaldır beni kaldır beniSöyle güzeller şahınaYüz süreydim dergahınaZehir olan kadehineDoldur beni doldur beniKul Ahmed'im gönül versemBağrında gülünü dersemSenden gayrı yar seversemÖldür beni öldür beni",
+  "baslik": "Seher Yeli",
+  "sozler_html": "<p>Seher yeli nazlı yare</p><p>Bildir beni bildir beni</p><p>Düşmüşüm elden ayaktan</p><p>Kaldır beni kaldır beni</p><p><br></p><p>Söyle güzeller şahına</p><p>Yüz süreydim dergahına</p><p>Zehir olan kadehine</p><p>Doldur beni doldur beni</p><p><br></p><p>Kul Ahmed'im gönül versem</p><p>Bağrında gülünü dersem</p><p>Senden gayrı yar seversem</p><p>Öldür beni öldür beni</p><br>",
+  "sozler_duz": "Seher yeli nazlı yare\n\nBildir beni bildir beni\n\nDüşmüşüm elden ayaktan\n\nKaldır beni kaldır beni\n\nSöyle güzeller şahına\n\nYüz süreydim dergahına\n\nZehir olan kadehine\n\nDoldur beni doldur beni\n\nKul Ahmed'im gönül versem\n\nBağrında gülünü dersem\n\nSenden gayrı yar seversem\n\nÖldür beni öldür beni",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aşık Kul Ahmet",
-    "aciklama": ""
+    "kaynak_kisi": "Aşık Kul Ahmet"
   },
   "sistem": {
     "eski_id": 6243,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T20:26:21.033Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
