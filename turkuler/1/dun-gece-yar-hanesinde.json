@@ -1,26 +1,16 @@
 {
   "id": "dun-gece-yar-hanesinde",
-  "baslik": "Dün Gece Yar Hanesinde_",
-  "sozler_html": "<p>(Amman Amman)Dün Gece Yar Hanesinde Yastığım Bir Taş İdiAltım Çamur Üstüm Yağmur Gine Gönlüm Hoş İdi(Amman Amman)Ben Yandım Seni Bilmem(Amman Amman) Dağ Ne Kadar Yüce Olsa Bir Kenarı Yol OlurBuna Bayram Günü Derler Dostla Düşman Bir Olur(Amman Amman)Ben Yandım Seni Bilmem(Amman Amman) Sen Bugün Nadan İle GezdinMerak Oldu Bana Sen Bugün Nadan İle GezdinMerak Oldu Bana Çeşmi Mestimden Bile SüzdümMerak Oldu Bana (Amman Amman Amman Amman)Ben Yandım Seni Bilmem</p>",
-  "sozler_duz": "(Amman Amman)Dün Gece Yar Hanesinde Yastığım Bir Taş İdiAltım Çamur Üstüm Yağmur Gine Gönlüm Hoş İdi(Amman Amman)Ben Yandım Seni Bilmem(Amman Amman) Dağ Ne Kadar Yüce Olsa Bir Kenarı Yol OlurBuna Bayram Günü Derler Dostla Düşman Bir Olur(Amman Amman)Ben Yandım Seni Bilmem(Amman Amman) Sen Bugün Nadan İle GezdinMerak Oldu Bana Sen Bugün Nadan İle GezdinMerak Oldu Bana Çeşmi Mestimden Bile SüzdümMerak Oldu Bana (Amman Amman Amman Amman)Ben Yandım Seni Bilmem",
+  "baslik": "Dün Gece Yar Hanesinde",
+  "sozler_html": "<p><i>(Amman Amman)</i></p><p>Dün Gece Yar Hanesinde&nbsp;</p><p>Yastığım Bir Taş İdi</p><p>Altım Çamur Üstüm Yağmur&nbsp;</p><p>Gine Gönlüm Hoş İdi</p><p><br></p><p><b>Ben Yandım Seni Bilmem</b></p><p><br></p><p><i>(Amman Amman)&nbsp;</i></p><p>Dağ Ne Kadar Yüce Olsa&nbsp;</p><p>Bir Kenarı Yol Olur</p><p>Buna Bayram Günü Derler&nbsp;</p><p>Dostla Düşman Bir Olur</p><p><br></p><p><b>Ben Yandım Seni Bilmem</b></p><br><p><br></p>",
+  "sozler_duz": "(Amman Amman)\n\nDün Gece Yar Hanesinde \n\nYastığım Bir Taş İdi\n\nAltım Çamur Üstüm Yağmur \n\nGine Gönlüm Hoş İdi\n\nBen Yandım Seni Bilmem\n\n(Amman Amman) \n\nDağ Ne Kadar Yüce Olsa \n\nBir Kenarı Yol Olur\n\nBuna Bayram Günü Derler \n\nDostla Düşman Bir Olur\n\nBen Yandım Seni Bilmem",
   "meta": {
     "yore": "Erzurum",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Raci Alkır-TRT Erzurum Rad. Thm Mdr",
-    "aciklama": ""
+    "kaynak_kisi": "Raci Alkır"
   },
   "sistem": {
     "eski_id": 3859,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T17:27:58.018Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
