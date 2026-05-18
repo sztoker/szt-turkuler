@@ -1,8 +1,8 @@
 {
   "id": "gonul-gurbet-ele-varma",
   "baslik": "Gönül Gurbet Ele Varma",
-  "sozler_html": "<p>Gönül\ngurbet ele varma</p><p>Ya gelinir ya gelinmez</p><p>Her güzele gönül verme</p><p>Ya sevilir ya sevilmez</p><p>&nbsp;</p><p><b>Gel güllü'm\ngel</b></p><p><b>Gel tellim\ngel</b></p><p><b>Gel nazlım\ngel</b></p><p><b>Gel ey gel\ney</b></p><p><b>Gel ey gel\ney, ey</b></p><p>&nbsp;</p><p>Has bahçenin nar ağacı</p><p>Kimi tatlı kimi acı</p><p>Zalim derdimin ilâcı</p><p>Ya bulunur ya bulunmaz</p><p>&nbsp;</p><p><b>Gel\ngüllü'm...</b></p><p>&nbsp;</p><p>Deryalarda yüzer bahri</p><p>Doldur ver içeyim zehri</p><p>Zalim gurbet elin kahrı</p><p>Ya çekilir ya çekilmez</p><p>&nbsp;</p><p><b>Gel\ngüllü'm...</b></p><p>&nbsp;</p><p>Karacaoğlan düşse yola</p><p>Bülbül figan eder güle</p><p>Güzel sevmek sarp bir kale</p><p>Ya çekilir ya çekilmez</p><p>&nbsp;</p><p><b>Gel\ngüllü'm...</b></p><p><br></p>",
-  "sozler_duz": "Gönül gurbet ele varma\n\nYa gelinir ya gelinmez\n\nHer güzele gönül verme\n\nYa sevilir ya sevilmez\n\n \n\nGel güllü'm gel\n\nGel tellim gel\n\nGel nazlım gel\n\nGel ey gel ey\n\nGel ey gel ey, ey\n\n \n\nHas bahçenin nar ağacı\n\nKimi tatlı kimi acı\n\nZalim derdimin ilâcı\n\nYa bulunur ya bulunmaz\n\n \n\nGel güllü'm...\n\n \n\nDeryalarda yüzer bahri\n\nDoldur ver içeyim zehri\n\nZalim gurbet elin kahrı\n\nYa çekilir ya çekilmez\n\n \n\nGel güllü'm...\n\n \n\nKaracaoğlan düşse yola\n\nBülbül figan eder güle\n\nGüzel sevmek sarp bir kale\n\nYa çekilir ya çekilmez\n\n \n\nGel güllü'm...",
+  "sozler_html": "<p>Gönül\ngurbet ele varma (2</p><p>Ya gelinir ya gelinmez</p><p>Her güzele gönül verme</p><p>Ya sevilir ya sevilmez</p><p>Gel ey gel ey gel</p><p>Her güzele gönül verme (2</p><p>Ya sevilir ya sevilmez</p><p><br></p><p><b>Gel güllü'm\ngel</b></p><p><b>Gel tellim\ngel</b></p><p><b>Gel nazlım\ngel</b></p><p><b>Gel ey gel\ney</b></p><p><b>Gel ey gel\ney gel</b></p><p>&nbsp;</p><p>Has bahçenin nar ağacı</p><p>Kimi tatlı kimi acı</p><p>Zalim derdimin ilâcı</p><p>Ya bulunur ya bulunmaz</p><p>&nbsp;</p><p><b>Gel\ngüllü'm...</b></p><p>&nbsp;</p><p>Deryalarda yüzer bahri</p><p>Doldur ver içeyim zehri</p><p>Zalim gurbet elin kahrı</p><p>Ya çekilir ya çekilmez</p><p>&nbsp;</p><p><b>Gel\ngüllü'm...</b></p><p>&nbsp;</p><p>Karacaoğlan düşse yola</p><p>Bülbül figan eder güle</p><p>Güzel sevmek sarp bir kale</p><p>Ya çekilir ya çekilmez</p><p>&nbsp;</p><p><b>Gel\ngüllü'm...</b></p><p><br></p>",
+  "sozler_duz": "Gönül gurbet ele varma (2\n\nYa gelinir ya gelinmez\n\nHer güzele gönül verme\n\nYa sevilir ya sevilmez\n\nGel ey gel ey gel\n\nHer güzele gönül verme (2\n\nYa sevilir ya sevilmez\n\nGel güllü'm gel\n\nGel tellim gel\n\nGel nazlım gel\n\nGel ey gel ey\n\nGel ey gel ey gel\n\n \n\nHas bahçenin nar ağacı\n\nKimi tatlı kimi acı\n\nZalim derdimin ilâcı\n\nYa bulunur ya bulunmaz\n\n \n\nGel güllü'm...\n\n \n\nDeryalarda yüzer bahri\n\nDoldur ver içeyim zehri\n\nZalim gurbet elin kahrı\n\nYa çekilir ya çekilmez\n\n \n\nGel güllü'm...\n\n \n\nKaracaoğlan düşse yola\n\nBülbül figan eder güle\n\nGüzel sevmek sarp bir kale\n\nYa çekilir ya çekilmez\n\n \n\nGel güllü'm...",
   "meta": {
     "yore": "Gaziantep",
     "derleyen": "Muzaffer Sarısözen",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 5476,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-18T18:44:08.568Z",
+    "son_degisiklik": "2026-05-18T18:49:07.824Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
