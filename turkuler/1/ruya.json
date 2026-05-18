@@ -1,14 +1,14 @@
 {
   "id": "ruya",
   "baslik": "RÜYA",
-  "sozler_html": "<p>Bir kuş uçar, gökyüzünde süzülür<br>Bir çocuk bütün oyunlara yazılır<br>Bir gül kokar, tüm çiçekler ezilir<br>\"Bir tel kopar, ahenk ebediyyen kesilir\" (*)<br><br>Yüzünü görmem, yerini sormam<br>Elini tutmam, seni hiç unutmam<br>Tenine değmem, sesini duymam<br>Adını koymam, sana hiç doymam</p>",
-  "sozler_duz": "Bir kuş uçar, gökyüzünde süzülür\nBir çocuk bütün oyunlara yazılır\nBir gül kokar, tüm çiçekler ezilir\n\"Bir tel kopar, ahenk ebediyyen kesilir\" (*)\n\nYüzünü görmem, yerini sormam\nElini tutmam, seni hiç unutmam\nTenine değmem, sesini duymam\nAdını koymam, sana hiç doymam",
+  "sozler_html": "<p>Bir kuş uçar, gökyüzünde süzülür</p><p>Bir çocuk bütün oyunlara yazılır</p><p>Bir gül kokar, tüm çiçekler ezilir</p><p>\"Bir tel kopar, ahenk ebediyyen kesilir\" (*)</p><p><br></p><p>Yüzünü görmem, yerini sormam</p><p>Elini tutmam, seni hiç unutmam</p><p>Tenine değmem, sesini duymam</p><p>Adını koymam, sana hiç doymam</p><br>",
+  "sozler_duz": "Bir kuş uçar, gökyüzünde süzülür\n\nBir çocuk bütün oyunlara yazılır\n\nBir gül kokar, tüm çiçekler ezilir\n\n\"Bir tel kopar, ahenk ebediyyen kesilir\" (*)\n\nYüzünü görmem, yerini sormam\n\nElini tutmam, seni hiç unutmam\n\nTenine değmem, sesini duymam\n\nAdını koymam, sana hiç doymam",
   "meta": {
     "soz": "Nadir GÖKTÜRK",
     "muzik": "Nadir GÖKTÜRK",
     "diger_bilgiler": "(*) Yahya Kemal"
   },
   "sistem": {
-    "son_degisiklik": "2026-05-16T10:52:03.518Z"
+    "son_degisiklik": "2026-05-18T21:25:35.472Z"
   }
 }
