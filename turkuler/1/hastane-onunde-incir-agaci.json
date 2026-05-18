@@ -1,26 +1,16 @@
 {
   "id": "hastane-onunde-incir-agaci",
-  "baslik": "Hastane Önünde İncir Ağacı_",
-  "sozler_html": "<p>Hastane önünde incir ağacı... annem ağacıDoktor bulamadı buna ilâcı... anem ilâcıBaş tabip geliyor zehirden acı...annem vay acıGarip kaldım yüreğime dert oldu..Annem dert olduEllerin vatanı bana yurt oldu..Annem yurt olduMezarımı kazın bayıra düze...annem vay düzeYönünü çevirin sıladan yüze..annem vay yüzeBenden selâm söylen sevdiğinize...sevdiğinizeBaşına koysun kareler bağlasın..Annem bağlasınGurbet elde kaldım diye ağlasın..Annem ağlasın</p>",
-  "sozler_duz": "Hastane önünde incir ağacı... annem ağacıDoktor bulamadı buna ilâcı... anem ilâcıBaş tabip geliyor zehirden acı...annem vay acıGarip kaldım yüreğime dert oldu..Annem dert olduEllerin vatanı bana yurt oldu..Annem yurt olduMezarımı kazın bayıra düze...annem vay düzeYönünü çevirin sıladan yüze..annem vay yüzeBenden selâm söylen sevdiğinize...sevdiğinizeBaşına koysun kareler bağlasın..Annem bağlasınGurbet elde kaldım diye ağlasın..Annem ağlasın",
+  "baslik": "Hastane Önünde İncir Ağacı",
+  "sozler_html": "<p>Hastane önünde incir ağacı-<i>annem ağacı</i></p><p>Doktor bulamadı buna ilâcı-<i>anem ilâcı</i></p><p>Baş tabip geliyor zehirden acı-<i>annem vay acı</i></p><p>Garip kaldım yüreğime dert oldu-<i>annem dert oldu</i></p><p>Ellerin vatanı bana yurt oldu-<i>annem yurt oldu</i></p><p><br></p><p>Mezarımı kazın bayıra düze</p><p>Yönünü çevirin sıladan yüze</p><p>Benden selâm söylen sevdiğinize</p><p>Başına koysun kareler bağlasın</p><p>Gurbet elde kaldım diye ağlasın</p>",
+  "sozler_duz": "Hastane önünde incir ağacı-annem ağacı\n\nDoktor bulamadı buna ilâcı-anem ilâcı\n\nBaş tabip geliyor zehirden acı-annem vay acı\n\nGarip kaldım yüreğime dert oldu-annem dert oldu\n\nEllerin vatanı bana yurt oldu-annem yurt oldu\n\nMezarımı kazın bayıra düze\n\nYönünü çevirin sıladan yüze\n\nBenden selâm söylen sevdiğinize\n\nBaşına koysun kareler bağlasın\n\nGurbet elde kaldım diye ağlasın",
   "meta": {
     "yore": "Yozgat/Akdağmadeni",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Nida Tüfekçi",
-    "aciklama": ""
+    "derleyen": "Nida Tüfekçi"
   },
   "sistem": {
     "eski_id": 5563,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T18:57:48.648Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
