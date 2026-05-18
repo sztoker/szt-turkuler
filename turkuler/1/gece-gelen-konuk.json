@@ -1,8 +1,8 @@
 {
   "id": "gece-gelen-konuk",
   "baslik": "GECE GELEN KONUK",
-  "sozler_html": "<p>Gözlerin nasıl bulanık / Gözlerin sanki bir orman</p>\n<p>Saklı korkulardan sanık / Sanki kaçarken vurulan</p>\n<p class=\"bos\"></p>\n<p>Dudakların nasıl ürkek / Ne kadar uzakta sesin</p>\n<p>Sen gece gelen konuğum / Hiç  kimsenin ve herkesin</p>\n<p class=\"bos\"></p>\n<p>Kirpiklerin diken diken / Tel örgüler kirpiklerin</p>\n<p>Yasak sınırlar geçerken / Geride kaybettiklerim</p>",
-  "sozler_duz": "Gözlerin nasıl bulanık / Gözlerin sanki bir orman\n\nSaklı korkulardan sanık / Sanki kaçarken vurulan\n\nDudakların nasıl ürkek / Ne kadar uzakta sesin\n\nSen gece gelen konuğum / Hiç kimsenin ve herkesin\n\nKirpiklerin diken diken / Tel örgüler kirpiklerin\n\nYasak sınırlar geçerken / Geride kaybettiklerim",
+  "sozler_html": "<p>Gözlerin nasıl bulanık&nbsp;</p><p>Gözlerin sanki bir orman</p><p>Saklı korkulardan sanık&nbsp;</p><p>Sanki kaçarken vurulan</p><p><br></p><p><b>Dudakların nasıl ürkek&nbsp;</b></p><p><b>Ne kadar uzakta sesin</b></p><p><b>Sen gece gelen konuğu&nbsp;</b></p><p><b>Hiç kimsenin ve herkesin</b></p><p><br></p><p>Kirpiklerin diken diken&nbsp;</p><p>Tel örgüler kirpiklerin</p><p>Yasak sınırlar geçerken&nbsp;</p><p>Geride kaybettiklerim</p><p><br></p><p><b>Dudakların nasıl ürkek&nbsp;</b></p><p><b>Ne kadar uzakta sesin</b></p><p><b>Sen gece gelen konuğum&nbsp;</b></p><p><b>Hiç kimsenin ve herkesin</b></p><p><br></p>",
+  "sozler_duz": "Gözlerin nasıl bulanık \n\nGözlerin sanki bir orman\n\nSaklı korkulardan sanık \n\nSanki kaçarken vurulan\n\nDudakların nasıl ürkek \n\nNe kadar uzakta sesin\n\nSen gece gelen konuğu \n\nHiç kimsenin ve herkesin\n\nKirpiklerin diken diken \n\nTel örgüler kirpiklerin\n\nYasak sınırlar geçerken \n\nGeride kaybettiklerim\n\nDudakların nasıl ürkek \n\nNe kadar uzakta sesin\n\nSen gece gelen konuğum \n\nHiç kimsenin ve herkesin",
   "meta": {
     "soz": "Yağmur Adsız",
     "muzik": "Arif Kemal"
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 815,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-17T21:01:28.899Z",
+    "son_degisiklik": "2026-05-18T18:01:28.968Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
