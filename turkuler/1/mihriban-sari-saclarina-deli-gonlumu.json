@@ -1,26 +1,16 @@
 {
   "id": "mihriban-sari-saclarina-deli-gonlumu",
   "baslik": "MİHRİBAN (Sarı saçlarına deli gönlümü... )",
-  "sozler_html": "<p>Sarı saçlarına deli gönlümü</p>\n<p>Bağlamışım çözülmüyor Mihriban</p>\n<p>Ayrılıktan zor belleme ölümü -ölümü</p>\n<p>Görmeyince sezilmiyor Mihriban / Sevdiğim Mihriban</p>\n<p class=\"bos\"></p>\n<p>Yar deyince kalem elden düşüyor</p>\n<p>Gözlerim görmüyor aklım şaşıyor</p>\n<p>Lambada titreyen alev üşüyor</p>\n<p>Aşk kağıda yazılmıyor Mihriban / Sevdiğim Mihriban</p>\n<p class=\"bos\"></p>\n<p>Tabiplerde ilaç yoktur yarama</p>\n<p>Aşk deyince ötesini arama</p>\n<p>Her nesnenin bir bitimi var ama</p>\n<p>Aşka hudut çizilmiyor Mihriban / Sevdiğim Mihriban</p>\n<p class=\"bos\"></p>\n<p>Önce naz sonra söz ve sonra hile / Sevilen seveni düşürür dile</p>\n<p>Seneler asırlar değişse bile / Eski töre bozulmuyor Mihriban</p>\n<p class=\"bos\"></p>\n<p>Boşa bağlanmamış bülbül gülüne / Kar koysan kör olur aşkın külüne</p>\n<p>Şaştım kara bahtım tahammülüne / Taşa çalsam ezilmiyor Mihriban</p>\n<p class=\"bos\"></p>\n<p>Tarife sığmıyor aşkın anlamı / Ancak çeken bilir bu derdi gamı</p>\n<p>Bir kör düğüm baştan sona tamamı /Çözemedim çözülmüyor Mihriban</p>",
-  "sozler_duz": "Sarı saçlarına deli gönlümü Bağlamışım çözülmüyor Mihriban Ayrılıktan zor belleme ölümü -ölümü Görmeyince sezilmiyor Mihriban / Sevdiğim Mihriban Yar deyince kalem elden düşüyor Gözlerim görmüyor aklım şaşıyor Lambada titreyen alev üşüyor Aşk kağıda yazılmıyor Mihriban / Sevdiğim Mihriban Tabiplerde ilaç yoktur yarama Aşk deyince ötesini arama Her nesnenin bir bitimi var ama Aşka hudut çizilmiyor Mihriban / Sevdiğim Mihriban Önce naz sonra söz ve sonra hile / Sevilen seveni düşürür dile Seneler asırlar değişse bile / Eski töre bozulmuyor Mihriban Boşa bağlanmamış bülbül gülüne / Kar koysan kör olur aşkın külüne Şaştım kara bahtım tahammülüne / Taşa çalsam ezilmiyor Mihriban Tarife sığmıyor aşkın anlamı / Ancak çeken bilir bu derdi gamı Bir kör düğüm baştan sona tamamı /Çözemedim çözülmüyor Mihriban",
+  "sozler_html": "<p>Sarı saçlarına deli gönlümü</p><p>Bağlamışım\nçözülmüyor Mihriban</p><p>Ayrılıktan\nzor belleme ölümü -ölümü</p><p>Görmeyince\nsezilmiyor Mihriban</p><p>&nbsp;</p><p>Yar deyince\nkalem elden düşüyor</p><p>Gözlerim görmüyor\naklım şaşıyor</p><p>Lambada\ntitreyen alev üşüyor</p><p>Aşk kağıda\nyazılmıyor Mihriban</p><p>&nbsp;</p><p>Tabiplerde\nilaç yoktur yarama</p><p>Aşk deyince\nötesini arama</p><p>Her nesnenin\nbir bitimi var ama</p><p>Aşka hudut\nçizilmiyor Mihriban</p>",
+  "sozler_duz": "Sarı saçlarına deli gönlümü\n\nBağlamışım çözülmüyor Mihriban\n\nAyrılıktan zor belleme ölümü -ölümü\n\nGörmeyince sezilmiyor Mihriban\n\n \n\nYar deyince kalem elden düşüyor\n\nGözlerim görmüyor aklım şaşıyor\n\nLambada titreyen alev üşüyor\n\nAşk kağıda yazılmıyor Mihriban\n\n \n\nTabiplerde ilaç yoktur yarama\n\nAşk deyince ötesini arama\n\nHer nesnenin bir bitimi var ama\n\nAşka hudut çizilmiyor Mihriban",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Abdurrahim Karakoç",
-    "muzik": "Musa Eroğlu",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "muzik": "Musa Eroğlu"
   },
   "sistem": {
     "eski_id": 43,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T19:56:38.349Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
