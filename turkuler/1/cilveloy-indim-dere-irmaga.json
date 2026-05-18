@@ -1,26 +1,15 @@
 {
   "id": "cilveloy-indim-dere-irmaga",
   "baslik": "CİLVELOY (İNDİM DERE IRMAĞA)",
-  "sozler_html": "<p>İndim dere (derin) ırmağa -oy nanayda -cilveloy nanayda</p>\n<p>Zeytin dali kırmağa -oy nanayda -cilveloy nanayda</p>\n<p>Geldum seni almağa -oy nanayda -cilveloy nanayda</p>\n<p>Başladun ağlamağa -oy nanayda -cilveloy nanayda</p>\n<p>Nay da na oy nanay da oy nanayda -cilveloy nanayda</p>\n<p class=\"bos\"></p>\n<p>Derenun kenarinda  /  Gördüm sari yılani</p>\n<p>Seni gavurun kızi  /  Dedun bağa yalani</p>\n<p class=\"bos\"></p>\n<p>İndim derin ırmağa /  Peştamalini buldum</p>\n<p>Bilsem o onun idi  /  Oğa bir sarilurdum</p>\n<p class=\"bos\"></p>\n<p>Pınar başı pıtırak  /  Gel beraber oturak</p>\n<p>Bir sen söyle bir de ben  /  Bu sevdadan kurtulak</p>\n<p class=\"bos\"></p>\n<p>Dere boyu gezerim / Söğüt dalı keserim</p>\n<p>Nerde bir güzel görsem / Gözlerimi süzerim</p>\n<p class=\"bos\"></p>\n<p>Karşıda gül menevşe / Gel güneşe güneşe</p>\n<p>Senin yarin gül ise / Benim yarim menevşe</p>",
-  "sozler_duz": "İndim dere (derin) ırmağa -oy nanayda -cilveloy nanayda Zeytin dali kırmağa -oy nanayda -cilveloy nanayda Geldum seni almağa -oy nanayda -cilveloy nanayda Başladun ağlamağa -oy nanayda -cilveloy nanayda Nay da na oy nanay da oy nanayda -cilveloy nanayda Derenun kenarinda / Gördüm sari yılani Seni gavurun kızi / Dedun bağa yalani İndim derin ırmağa / Peştamalini buldum Bilsem o onun idi / Oğa bir sarilurdum Pınar başı pıtırak / Gel beraber oturak Bir sen söyle bir de ben / Bu sevdadan kurtulak Dere boyu gezerim / Söğüt dalı keserim Nerde bir güzel görsem / Gözlerimi süzerim Karşıda gül menevşe / Gel güneşe güneşe Senin yarin gül ise / Benim yarim menevşe",
+  "sozler_html": "<p>İndim dere (derin) ırmağa -oy nanayda</p><p><i>cilveloy nanayda</i></p><p>Zeytin dali kırmağa -oy nanayda</p><p><i>cilveloy nanayda</i></p><p>Geldum seni almağa -oy nanayda</p><p><i>cilveloy nanayda</i></p><p>Başladun ağlamağa -oy nanayda</p><p><i>cilveloy nanayda</i></p><p><br></p><p><b>Nay da na oy nanay da oy nanayda</b></p><p><b>cilveloy nanayda</b></p><p><br></p><p>Derenun kenarinda&nbsp;</p><p>Gördüm sari yılani</p><p>Seni gavurun kızi&nbsp;</p><p>Dedun bağa yalani</p><p><br></p><p>İndim derin ırmağa&nbsp;</p><p>Peştamalini buldum</p><p>Bilsem o onun idi&nbsp;</p><p>Oğa bir sarilurdum</p><p><br></p><p>Pınar başı pıtırak&nbsp;</p><p>Gel beraber oturak</p><p>Bir sen söyle bir de ben&nbsp;</p><p>Bu sevdadan kurtulak</p><p><br></p><p>Dere boyu gezerim&nbsp;</p><p>Söğüt dalı keserim</p><p>Nerde bir güzel görsem&nbsp;</p><p>Gözlerimi süzerim</p><p><br></p><p>Karşıda gül menevşe&nbsp;</p><p>Gel güneşe güneşe</p><p>Senin yarin gül ise&nbsp;</p><p>Benim yarim menevşe</p><br>",
+  "sozler_duz": "İndim dere (derin) ırmağa -oy nanayda\n\ncilveloy nanayda\n\nZeytin dali kırmağa -oy nanayda\n\ncilveloy nanayda\n\nGeldum seni almağa -oy nanayda\n\ncilveloy nanayda\n\nBaşladun ağlamağa -oy nanayda\n\ncilveloy nanayda\n\nNay da na oy nanay da oy nanayda\n\ncilveloy nanayda\n\nDerenun kenarinda \n\nGördüm sari yılani\n\nSeni gavurun kızi \n\nDedun bağa yalani\n\nİndim derin ırmağa \n\nPeştamalini buldum\n\nBilsem o onun idi \n\nOğa bir sarilurdum\n\nPınar başı pıtırak \n\nGel beraber oturak\n\nBir sen söyle bir de ben \n\nBu sevdadan kurtulak\n\nDere boyu gezerim \n\nSöğüt dalı keserim\n\nNerde bir güzel görsem \n\nGözlerimi süzerim\n\nKarşıda gül menevşe \n\nGel güneşe güneşe\n\nSenin yarin gül ise \n\nBenim yarim menevşe",
   "meta": {
-    "yore": "ARTVİN",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ARTVİN",
-    "aciklama": ""
+    "yore": "ARTVİN"
   },
   "sistem": {
     "eski_id": 607,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T21:56:47.637Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
