@@ -1,26 +1,16 @@
 {
   "id": "sunayi-da-deli-gonul",
-  "baslik": "Sunayı Da Deli Gönül_",
-  "sozler_html": "<p>Sunayı da deli gönül sunayıBen yoluna terk eyledim sılayıArmağan gönderdim telli turnayıİner gider bir gözleri sürmeliSabahtan uğradım yarin yurdunaDayanılmaz firkatine derdineYıkılası karlı dağın ardınaAşar gider bir gözleri sürmeliAteş yanmayınca duman mı tüterAk gerdan üstünde çimen mi biterVakti gelmeyince bülbül mü öterÖter gider bir gözleri sürmeliKaracaoğlan kapınıza kul gibiGönül küsüverse ince kıl gibiSeherde açılmış gonca gül gibiKokar gider bir gözleri sürmeli</p>",
-  "sozler_duz": "Sunayı da deli gönül sunayıBen yoluna terk eyledim sılayıArmağan gönderdim telli turnayıİner gider bir gözleri sürmeliSabahtan uğradım yarin yurdunaDayanılmaz firkatine derdineYıkılası karlı dağın ardınaAşar gider bir gözleri sürmeliAteş yanmayınca duman mı tüterAk gerdan üstünde çimen mi biterVakti gelmeyince bülbül mü öterÖter gider bir gözleri sürmeliKaracaoğlan kapınıza kul gibiGönül küsüverse ince kıl gibiSeherde açılmış gonca gül gibiKokar gider bir gözleri sürmeli",
+  "baslik": "Sunayı Da Deli Gönül",
+  "sozler_html": "<p>Sunayı da deli gönül sunayı</p><p>Ben yoluna terk eyledim sılayı</p><p>Armağan gönderdim telli turnayı</p><p>İner gider bir gözleri sürmeli</p><p><br></p><p>Sabahtan uğradım yarin yurduna</p><p>Dayanılmaz firkatine derdine</p><p>Yıkılası karlı dağın ardına</p><p>Aşar gider bir gözleri sürmeli</p><p><br></p><p>Ateş yanmayınca duman mı tüter</p><p>Ak gerdan üstünde çimen mi biter</p><p>Vakti gelmeyince bülbül mü öter</p><p>Öter gider bir gözleri sürmeli</p><p><br></p><p>Karacaoğlan kapınıza kul gibi</p><p>Gönül küsüverse ince kıl gibi</p><p>Seherde açılmış gonca gül gibi</p><p>Kokar gider bir gözleri sürmeli</p><br>",
+  "sozler_duz": "Sunayı da deli gönül sunayı\n\nBen yoluna terk eyledim sılayı\n\nArmağan gönderdim telli turnayı\n\nİner gider bir gözleri sürmeli\n\nSabahtan uğradım yarin yurduna\n\nDayanılmaz firkatine derdine\n\nYıkılası karlı dağın ardına\n\nAşar gider bir gözleri sürmeli\n\nAteş yanmayınca duman mı tüter\n\nAk gerdan üstünde çimen mi biter\n\nVakti gelmeyince bülbül mü öter\n\nÖter gider bir gözleri sürmeli\n\nKaracaoğlan kapınıza kul gibi\n\nGönül küsüverse ince kıl gibi\n\nSeherde açılmış gonca gül gibi\n\nKokar gider bir gözleri sürmeli",
   "meta": {
     "yore": "Keskin",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Bahri İlhan-İst. Rad. THM Mdr",
-    "aciklama": ""
+    "kaynak_kisi": "Bahri İlhan"
   },
   "sistem": {
     "eski_id": 6345,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T20:33:35.268Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
