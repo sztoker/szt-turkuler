@@ -1,7 +1,7 @@
 {
   "id": "kirvem",
   "baslik": "Kirvem",
-  "sozler_html": "<p>Kirvem bu yıl bu dağlarda-<i>aman</i></p><p>Sensiz yazın tadı m’ olur-<i>aman</i></p><p>Selamın niye kesildi-<i>aman aman aman</i></p><p>Bir selamın adı m’ olur-<i>aman</i></p><p><br></p><p><b>Kirvem aman</b></p><p><b>Nede çabuk geçti zaman</b></p><p><b>Aman aman oy</b></p><p><br></p><p>Can içinde can içinde</p><p>Can erir zaman içinde</p><p>Böyle kader olmaz olsun</p><p>Hüseyin’im kan içinde</p><p><br></p><p>Kirvem aman...</p><p><br></p><p>Varsam gitsem erzincana</p><p>Hüseyin’im gelmiş m’ola</p><p>Der mahsuni bu dağlarda</p><p>Böyle yiğit ölmüş m’ola</p><p><br></p><p>Kirvem aman...</p>",
+  "sozler_html": "<p>Kirvem bu yıl bu dağlarda-<i>aman</i></p><p>Sensiz yazın tadı m’ olur-<i>aman</i></p><p>Selamın niye kesildi-<i>aman aman aman</i></p><p>Bir selamın adı m’ olur-<i>aman</i></p><p><br></p><p><b>Kirvem aman</b></p><p><b>Nede çabuk geçti zaman</b></p><p><b>Aman aman oy</b></p><p><br></p><p>Can içinde can içinde</p><p>Can erir zaman içinde</p><p>Böyle kader olmaz olsun</p><p>Hüseyin’im kan içinde</p><p><br></p><p><b>Kirvem aman...</b></p><p><br></p><p>Varsam gitsem erzincana</p><p>Hüseyin’im gelmiş m’ola</p><p>Der mahsuni bu dağlarda</p><p>Böyle yiğit ölmüş m’ola</p><p><br></p><p><b>Kirvem aman...</b></p>",
   "sozler_duz": "Kirvem bu yıl bu dağlarda-aman\n\nSensiz yazın tadı m’ olur-aman\n\nSelamın niye kesildi-aman aman aman\n\nBir selamın adı m’ olur-aman\n\nKirvem aman\n\nNede çabuk geçti zaman\n\nAman aman oy\n\nCan içinde can içinde\n\nCan erir zaman içinde\n\nBöyle kader olmaz olsun\n\nHüseyin’im kan içinde\n\nKirvem aman...\n\nVarsam gitsem erzincana\n\nHüseyin’im gelmiş m’ola\n\nDer mahsuni bu dağlarda\n\nBöyle yiğit ölmüş m’ola\n\nKirvem aman...",
   "meta": {
     "soz": "Aşık Mahzuni Şerif",
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 5874,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-18T19:28:11.740Z",
+    "son_degisiklik": "2026-05-18T22:12:40.270Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
