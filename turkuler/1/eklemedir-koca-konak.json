@@ -1,26 +1,16 @@
 {
   "id": "eklemedir-koca-konak",
-  "baslik": "Eklemedir Koca Konak_",
-  "sozler_html": "<p>Eklemedir Koca Konak Ekleme Aman AmanNazlı Da Yarim Yine Yine Geldi AklımaNasıl Edeyim Başımdaki Sevdaya Aman AmanAman Aman Dostlar Yoldan Geldim YorgunumOrta Da Boylu Bir Güzele Vurgunum.Bizim Bağın Menekşesi Al Olur Aman Aman,Âlem De Sevdiğine De Yanar Kul OlurSevdiğini Alamayan Del Olur Aman Aman,Haydi Haydi Gidelim Aynalı Konağa ÜçümüzTaze De Şeftalidir Bizim YükümüzBizim Bağa Giderken SerhayaÇektiler Kolumdan Da Beni TenhayaNasıl Edeyim Başımdaki SevdayaAman Aman Dostlar Kabir Bile Dar GelirBu Gençlikte Ölüm Bile Bana Zor Gelir</p>",
-  "sozler_duz": "Eklemedir Koca Konak Ekleme Aman AmanNazlı Da Yarim Yine Yine Geldi AklımaNasıl Edeyim Başımdaki Sevdaya Aman AmanAman Aman Dostlar Yoldan Geldim YorgunumOrta Da Boylu Bir Güzele Vurgunum.Bizim Bağın Menekşesi Al Olur Aman Aman,Âlem De Sevdiğine De Yanar Kul OlurSevdiğini Alamayan Del Olur Aman Aman,Haydi Haydi Gidelim Aynalı Konağa ÜçümüzTaze De Şeftalidir Bizim YükümüzBizim Bağa Giderken SerhayaÇektiler Kolumdan Da Beni TenhayaNasıl Edeyim Başımdaki SevdayaAman Aman Dostlar Kabir Bile Dar GelirBu Gençlikte Ölüm Bile Bana Zor Gelir",
+  "baslik": "Eklemedir Koca Konak",
+  "sozler_html": "<p>Eklemedir koca konak ekleme <i>aman aman</i></p><p>Nazlı da yarim yine yine geldi aklıma</p><p>Nasıl edeyim başımdaki sevdaya <i>aman aman</i></p><p><br></p><p><b>Aman aman dostlar&nbsp;</b></p><p><b>Yoldan geldim yorgunum</b></p><p><b>Orta da boylu bir güzele vurgunum</b></p><p><br></p><p>Bizim bağa giderken serhaya</p><p>Çektiler kolumdan da beni tenhaya</p><p>Nasıl edeyim başımdaki sevdaya</p><p><br></p><p><b>Aman aman dostlar&nbsp;</b></p><p><b>Kabir bile bana dar gelir</b></p><p><b>Bu gençlikte ölüm bana zor gelir</b></p><p><br></p><p>Bizim bağın menekşesi al olur aman aman</p><p>Âlem de sevdiğine de yanar kul olur</p><p>Sevdiğini alamayan del olur aman aman</p><p><br></p><p><b>Haydi haydi gidelim&nbsp;</b></p><p><b>Aynalı konağa üçümüz</b></p><p><b>Taze de şeftalidir bizim yükümüz</b></p><br>",
+  "sozler_duz": "Eklemedir koca konak ekleme aman aman\n\nNazlı da yarim yine yine geldi aklıma\n\nNasıl edeyim başımdaki sevdaya aman aman\n\nAman aman dostlar \n\nYoldan geldim yorgunum\n\nOrta da boylu bir güzele vurgunum\n\nBizim bağa giderken serhaya\n\nÇektiler kolumdan da beni tenhaya\n\nNasıl edeyim başımdaki sevdaya\n\nAman aman dostlar \n\nKabir bile bana dar gelir\n\nBu gençlikte ölüm bana zor gelir\n\nBizim bağın menekşesi al olur aman aman\n\nÂlem de sevdiğine de yanar kul olur\n\nSevdiğini alamayan del olur aman aman\n\nHaydi haydi gidelim \n\nAynalı konağa üçümüz\n\nTaze de şeftalidir bizim yükümüz",
   "meta": {
     "yore": "Aydın",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Kemal Kazdağlı-Ahmet Yamacı",
-    "aciklama": ""
+    "kaynak_kisi": "Kemal Kazdağlı-Ahmet Yamacı"
   },
   "sistem": {
     "eski_id": 5206,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T17:35:21.634Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
