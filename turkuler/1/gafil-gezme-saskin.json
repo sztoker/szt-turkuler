@@ -1,26 +1,16 @@
 {
   "id": "gafil-gezme-saskin",
-  "baslik": "Gafil Gezme Şaşkın_",
-  "sozler_html": "<p>Gafil Gezme Şaşkın Bir Gün ÖlürsünDünya Kadar Malın Olsa Ne FaydaSöyleyen Dillerin Söylemez OlurBülbül Gibi Dilin Olsa Ne FaydaSen Söylersin Söz İçinde Sözün VarÇalarsın Çırparsın Oğlun Kızın VarŞu Dünyada Üç Beş Arşın Bezin VarTüm Bedesten Senin Olsa Ne FaydaKul Himmet Üstadım Gelse OtursaHakkın Kelamını Dile GetirsenDünya Benim Deyi Zapta GeçirseKarun Kadar Malın Olsa Ne Fayda</p>",
-  "sozler_duz": "Gafil Gezme Şaşkın Bir Gün ÖlürsünDünya Kadar Malın Olsa Ne FaydaSöyleyen Dillerin Söylemez OlurBülbül Gibi Dilin Olsa Ne FaydaSen Söylersin Söz İçinde Sözün VarÇalarsın Çırparsın Oğlun Kızın VarŞu Dünyada Üç Beş Arşın Bezin VarTüm Bedesten Senin Olsa Ne FaydaKul Himmet Üstadım Gelse OtursaHakkın Kelamını Dile GetirsenDünya Benim Deyi Zapta GeçirseKarun Kadar Malın Olsa Ne Fayda",
+  "baslik": "Gafil Gezme Şaşkın",
+  "sozler_html": "<p>Gafil gezme şaşkın bir gün ölürsün</p><p>Dünya kadar malın olsa ne fayda</p><p>Söyleyen dillerin söylemez olur</p><p>Bülbül gibi dilin olsa ne fayda</p><p><br></p><p>Sen söylersin söz içinde sözün var</p><p>Çalarsın çırparsın oğlun kızın var</p><p>Şu dünyada üç beş arşın bezin var</p><p>Tüm bedesten senin olsa ne fayda</p><p><br></p><p>Kul himmet üstadım gelse otursa</p><p>Hakkın kelamını dile getirsen</p><p>Dünya benim deyi zapta geçirse</p><p>Karun kadar malın olsa ne fayda</p><br>",
+  "sozler_duz": "Gafil gezme şaşkın bir gün ölürsün\n\nDünya kadar malın olsa ne fayda\n\nSöyleyen dillerin söylemez olur\n\nBülbül gibi dilin olsa ne fayda\n\nSen söylersin söz içinde sözün var\n\nÇalarsın çırparsın oğlun kızın var\n\nŞu dünyada üç beş arşın bezin var\n\nTüm bedesten senin olsa ne fayda\n\nKul himmet üstadım gelse otursa\n\nHakkın kelamını dile getirsen\n\nDünya benim deyi zapta geçirse\n\nKarun kadar malın olsa ne fayda",
   "meta": {
     "yore": "Gaziantep",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Hasan Hüseyin-Yavuz Top",
-    "aciklama": ""
+    "kaynak_kisi": "Hasan Hüseyin-Yavuz Top"
   },
   "sistem": {
     "eski_id": 5356,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T17:58:35.880Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
