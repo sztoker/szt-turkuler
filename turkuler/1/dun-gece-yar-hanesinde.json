@@ -1,8 +1,8 @@
 {
   "id": "dun-gece-yar-hanesinde",
   "baslik": "Dün Gece Yar Hanesinde",
-  "sozler_html": "<p><i>(Amman Amman)</i></p><p>Dün Gece Yar Hanesinde&nbsp;</p><p>Yastığım Bir Taş İdi</p><p>Altım Çamur Üstüm Yağmur&nbsp;</p><p>Gine Gönlüm Hoş İdi</p><p><br></p><p><b>Ben Yandım Seni Bilmem</b></p><p><br></p><p><i>(Amman Amman)&nbsp;</i></p><p>Dağ Ne Kadar Yüce Olsa&nbsp;</p><p>Bir Kenarı Yol Olur</p><p>Buna Bayram Günü Derler&nbsp;</p><p>Dostla Düşman Bir Olur</p><p><br></p><p><b>Ben Yandım Seni Bilmem</b></p><br><p><br></p>",
-  "sozler_duz": "(Amman Amman)\n\nDün Gece Yar Hanesinde \n\nYastığım Bir Taş İdi\n\nAltım Çamur Üstüm Yağmur \n\nGine Gönlüm Hoş İdi\n\nBen Yandım Seni Bilmem\n\n(Amman Amman) \n\nDağ Ne Kadar Yüce Olsa \n\nBir Kenarı Yol Olur\n\nBuna Bayram Günü Derler \n\nDostla Düşman Bir Olur\n\nBen Yandım Seni Bilmem",
+  "sozler_html": "<p><i>(Amman\namman)</i></p><p>Dün gece yar hanesinde&nbsp;</p><p>Yastığım bir taş idi</p><p>Altım çamur üstüm yağmur&nbsp;</p><p>Gine gönlüm hoş idi</p><p>&nbsp;</p><p><b>Ben yandım\nseni bilmem</b></p><p>&nbsp;</p><p><i>(Amman\namman)&nbsp;</i></p><p>Dağ ne kadar yüce olsa&nbsp;</p><p>Bir kenarı yol olur</p><p>Buna bayram günü derler&nbsp;</p><p>Dostla düşman bir olur</p><p>&nbsp;</p><p><b>Ben yandım\nseni bilmem</b></p><br><p><br></p>",
+  "sozler_duz": "(Amman amman)\n\nDün gece yar hanesinde \n\nYastığım bir taş idi\n\nAltım çamur üstüm yağmur \n\nGine gönlüm hoş idi\n\n \n\nBen yandım seni bilmem\n\n \n\n(Amman amman) \n\nDağ ne kadar yüce olsa \n\nBir kenarı yol olur\n\nBuna bayram günü derler \n\nDostla düşman bir olur\n\n \n\nBen yandım seni bilmem",
   "meta": {
     "yore": "Erzurum",
     "kaynak_kisi": "Raci Alkır"
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 3859,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-18T17:27:58.018Z",
+    "son_degisiklik": "2026-05-18T18:11:56.240Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
