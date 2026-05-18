@@ -1,26 +1,17 @@
 {
   "id": "cayelinden-oteye",
-  "baslik": "Çayeli'nden Öteye_",
-  "sozler_html": "<p>Çayelinden Öteye,Gidelum Yali YaliSırtındaki SepetunBen Olayım Hamalı.Sepetumun İpleriKeseyi OmuzumuAç Beyaz Pestemali,Bir Göreyim Yüzünü.Karlı Tepeden BeriYeşil Çay Bahçeleri,Çay Filizi ToplayıPeştemalli Kızları</p>",
-  "sozler_duz": "Çayelinden Öteye,Gidelum Yali YaliSırtındaki SepetunBen Olayım Hamalı.Sepetumun İpleriKeseyi OmuzumuAç Beyaz Pestemali,Bir Göreyim Yüzünü.Karlı Tepeden BeriYeşil Çay Bahçeleri,Çay Filizi ToplayıPeştemalli Kızları",
+  "baslik": "Çayeli'nden Öteye",
+  "sozler_html": "<p>Çayelinden öteye</p><p>Gidelum yali yali</p><p>Sırtındaki sepetun</p><p>Ben olayım hamalı</p><p><br></p><p>Sepetumun ipleri</p><p>Keseyi omuzumu</p><p>Aç beyaz pestemali</p><p>Bir göreyim yüzünü</p><p><br></p><p>Karlı tepeden beri</p><p>Yeşil çay bahçeleri</p><p>Çay filizi toplayı</p><p>Peştemalli kızları</p><br>",
+  "sozler_duz": "Çayelinden öteye\n\nGidelum yali yali\n\nSırtındaki sepetun\n\nBen olayım hamalı\n\nSepetumun ipleri\n\nKeseyi omuzumu\n\nAç beyaz pestemali\n\nBir göreyim yüzünü\n\nKarlı tepeden beri\n\nYeşil çay bahçeleri\n\nÇay filizi toplayı\n\nPeştemalli kızları",
   "meta": {
     "yore": "Rize",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Dursun Tanyaş-Yücel Paşmakçı",
-    "aciklama": ""
+    "derleyen": "Yücel Paşmakçı",
+    "kaynak_kisi": "Dursun Tanyaş"
   },
   "sistem": {
     "eski_id": 3699,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T20:49:53.601Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
