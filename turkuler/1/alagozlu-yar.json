@@ -1,26 +1,15 @@
 {
   "id": "alagozlu-yar",
   "baslik": "ALAGÖZLÜ YAR",
-  "sozler_html": "<p>Gözlerin aladır yar  /  Sanki piyaledir yar</p>\n<p>Dertlerimin dermanı  /  Başıma beladır yar</p>\n<p class=\"bos\"></p>\n<p><b>Alagözlü yar şirin sözlü yar</b></p>\n<p><b>Güler yüzlü yar şirin sözlü yar </b></p>\n<p><b>Alagözlü yar</b></p>\n<p class=\"bos\"></p>\n<p>Gözlerini süzme yar / Üreğimi üzme yar</p>\n<p>Kalbimi incitme gel/Menden tez tez küsme yar</p>\n<p class=\"bos\"></p>\n<p><b>Alagözlü ...</b></p>\n<p class=\"bos\"></p>\n<p>Taze bahar gülümsen  /  Sevimli bülbülümsen</p>\n<p>Dudakların goncedir  /  Oy açılsın gülüm sen</p>\n<p class=\"bos\"></p>\n<p><b>Alagözlü ...</b></p>\n<p class=\"bos\"></p>\n<p>Gel boşa devran sürek/Devrin devranın görek</p>\n<p>Gönlünü vir gönlüme /Koy birge vursun yürek</p>\n<p class=\"bos\"></p>\n<p><b>Alagözlü ...</b></p>",
-  "sozler_duz": "Gözlerin aladır yar / Sanki piyaledir yar Dertlerimin dermanı / Başıma beladır yar Alagözlü yar şirin sözlü yar Güler yüzlü yar şirin sözlü yar Alagözlü yar Gözlerini süzme yar / Üreğimi üzme yar Kalbimi incitme gel/Menden tez tez küsme yar Alagözlü ... Taze bahar gülümsen / Sevimli bülbülümsen Dudakların goncedir / Oy açılsın gülüm sen Alagözlü ... Gel boşa devran sürek/Devrin devranın görek Gönlünü vir gönlüme /Koy birge vursun yürek Alagözlü ...",
+  "sozler_html": "<p>Gözlerin aladır yar&nbsp;</p><p>Sanki piyaledir yar</p><p>Dertlerimin dermanı&nbsp;</p><p>Başıma beladır yar</p><p><br></p><p><b>Alagözlü yar şirin sözlü yar</b></p><p><b>Güler yüzlü yar şirin sözlü yar</b></p><p><b>Alagözlü yar</b></p><p><br></p><p>Gözlerini süzme yar&nbsp;</p><p>Üreğimi üzme yar</p><p>Kalbimi incitme gel</p><p>Menden tez tez küsme yar</p><p><br></p><p><b>Alagözlü ...</b></p><p><br></p><p>Taze bahar gülümsen&nbsp;</p><p>Sevimli bülbülümsen</p><p>Dudakların goncedir&nbsp;</p><p>Oy açılsın gülüm sen</p><p><br></p><p><b>Alagözlü ...</b></p><p><br></p><p>Gel boşa devran sürek</p><p>Devrin devranın görek</p><p>Gönlünü vir gönlüme&nbsp;</p><p>Koy birge vursun yürek</p><p><b><br></b></p><p><b>Alagözlü ...</b></p><br>",
+  "sozler_duz": "Gözlerin aladır yar \n\nSanki piyaledir yar\n\nDertlerimin dermanı \n\nBaşıma beladır yar\n\nAlagözlü yar şirin sözlü yar\n\nGüler yüzlü yar şirin sözlü yar\n\nAlagözlü yar\n\nGözlerini süzme yar \n\nÜreğimi üzme yar\n\nKalbimi incitme gel\n\nMenden tez tez küsme yar\n\nAlagözlü ...\n\nTaze bahar gülümsen \n\nSevimli bülbülümsen\n\nDudakların goncedir \n\nOy açılsın gülüm sen\n\nAlagözlü ...\n\nGel boşa devran sürek\n\nDevrin devranın görek\n\nGönlünü vir gönlüme \n\nKoy birge vursun yürek\n\nAlagözlü ...",
   "meta": {
-    "yore": "AZERİ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "yore": "AZERİ"
   },
   "sistem": {
     "eski_id": 407,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T21:46:03.710Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
