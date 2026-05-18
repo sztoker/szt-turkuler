@@ -1,26 +1,17 @@
 {
   "id": "gel-ha-gonul-havalanma",
-  "baslik": "Gel Ha Gönül Havalanma_",
-  "sozler_html": "<p>Gel Ha Gönül HavalanmaEngin Ol Gönül Engin OlDünya Malına GüvenmeEngin Ol Gönül Engin OlŞu Dünyanın Hali BöyleYalan Yahşi Geçer ŞöyleSöyledikçe Engin SöyleEngin Ol Gönül Engin OlGökde Uçar Huma KuşuBilmeyenler Atar TaşıEnginlik Gönülün İşiEngin Ol Gönül Engin OlTeslim Abdal Özüm HaktırSözümün Yalanı YokturEngin Söyle BüyüklüktürEngin Ol Gönül Engin Ol</p>",
-  "sozler_duz": "Gel Ha Gönül HavalanmaEngin Ol Gönül Engin OlDünya Malına GüvenmeEngin Ol Gönül Engin OlŞu Dünyanın Hali BöyleYalan Yahşi Geçer ŞöyleSöyledikçe Engin SöyleEngin Ol Gönül Engin OlGökde Uçar Huma KuşuBilmeyenler Atar TaşıEnginlik Gönülün İşiEngin Ol Gönül Engin OlTeslim Abdal Özüm HaktırSözümün Yalanı YokturEngin Söyle BüyüklüktürEngin Ol Gönül Engin Ol",
+  "baslik": "Gel Ha Gönül Havalanma",
+  "sozler_html": "<p>Gel ha gönül havalanma</p><p>Engin ol gönül engin ol</p><p>Dünya malına güvenme</p><p>Engin ol gönül engin ol</p><p>&nbsp;</p><p>Şu dünyanın hali böyle</p><p>Yalan yahşi geçer şöyle</p><p>Söyledikçe engin söyle</p><p>Engin ol gönül engin ol</p><p>&nbsp;</p><p>Gökde uçar huma kuşu</p><p>Bilmeyenler atar taşı</p><p>Enginlik gönülün işi</p><p>Engin ol gönül engin ol</p><p>&nbsp;</p><p>Teslim abdal özüm haktır</p><p>Sözümün yalanı yoktur</p><p>Engin söyle büyüklüktür</p><p>Engin ol gönül engin ol</p>",
+  "sozler_duz": "Gel ha gönül havalanma\n\nEngin ol gönül engin ol\n\nDünya malına güvenme\n\nEngin ol gönül engin ol\n\n \n\nŞu dünyanın hali böyle\n\nYalan yahşi geçer şöyle\n\nSöyledikçe engin söyle\n\nEngin ol gönül engin ol\n\n \n\nGökde uçar huma kuşu\n\nBilmeyenler atar taşı\n\nEnginlik gönülün işi\n\nEngin ol gönül engin ol\n\n \n\nTeslim abdal özüm haktır\n\nSözümün yalanı yoktur\n\nEngin söyle büyüklüktür\n\nEngin ol gönül engin ol",
   "meta": {
     "yore": "Sivas/Şarkışla",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "İzzet Savaş-Nida Tüfekçi",
-    "aciklama": ""
+    "derleyen": "Nida Tüfekçi",
+    "kaynak_kisi": "İzzet Savaş"
   },
   "sistem": {
     "eski_id": 5396,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T18:30:24.512Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
