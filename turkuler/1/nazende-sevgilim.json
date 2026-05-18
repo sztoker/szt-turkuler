@@ -1,18 +1,17 @@
 {
   "id": "nazende-sevgilim",
   "baslik": "NAZENDE SEVGİLİM",
-  "sozler_html": "<p>Değdi saçlarıma bahar küleyi</p>\n<p>Nazende sevgilim yadıma düştün</p>\n<p>Here n in bahtına bir gö zel düşer</p>\n<p>Sen de  t ekçe  menim adıma düştün</p>\n<p class=\"bos\"></p>\n<p><b>Nazende sevgilim yadıma düştün</b></p>\n<p class=\"bos\"></p>\n<p>Sensiz dağ döşüne çıktım bu seher</p>\n<p>Ö t tü  k umru kimi gü r  şelaleler</p>\n<p>De  niye yalgızsan sordu laleler</p>\n<p>Gövr etti nisgilim  yadıma düştün</p>\n<p class=\"bos\"></p>\n<p><b>Nazende...</b></p>\n<p class=\"bos\"></p>\n<p>Gözlerim yoldadır kulağım seste</p>\n<p>Seni unutmaram men son nefeste</p>\n<p>Ey cey r an bakışlı m  ey boyu beste</p>\n<p>Ey taze  t er   gü lüm yadıma düştün</p>\n<p class=\"bos\"></p>\n<p><b>Nazende...</b></p>",
-  "sozler_duz": "Değdi saçlarıma bahar küleyi\n\nNazende sevgilim yadıma düştün\n\nHere n in bahtına bir gö zel düşer\n\nSen de t ekçe menim adıma düştün\n\nNazende sevgilim yadıma düştün\n\nSensiz dağ döşüne çıktım bu seher\n\nÖ t tü k umru kimi gü r şelaleler\n\nDe niye yalgızsan sordu laleler\n\nGövr etti nisgilim yadıma düştün\n\nNazende...\n\nGözlerim yoldadır kulağım seste\n\nSeni unutmaram men son nefeste\n\nEy cey r an bakışlı m ey boyu beste\n\nEy taze t er gü lüm yadıma düştün\n\nNazende...",
+  "sozler_html": "<p>Değdi saçlarıma bahar küleyi</p><p>Nazende sevgilim yadıma düştün</p><p>Here n in bahtına bir gö zel düşer</p><p>Sen de tekçe menim adıma düştün</p><p><br></p><p><b>Nazende sevgilim yadıma düştün</b></p><p><br></p><p>Sensiz dağ döşüne çıktım bu seher</p><p>Öttü kumru kimi gü r şelaleler</p><p>De niye yalgızsan sordu laleler</p><p>Gövretti nisgilim yadıma düştün</p><p><br></p><p><b>Nazende...</b></p><p><br></p><p>Gözlerim yoldadır kulağım seste</p><p>Seni unutmaram men son nefeste</p><p>Ey ceyran bakışlım ey boyu beste</p><p>Ey taze ter gülüm yadıma düştün</p><p><br></p><p><b>Nazende...</b></p><br>",
+  "sozler_duz": "Değdi saçlarıma bahar küleyi\n\nNazende sevgilim yadıma düştün\n\nHere n in bahtına bir gö zel düşer\n\nSen de tekçe menim adıma düştün\n\nNazende sevgilim yadıma düştün\n\nSensiz dağ döşüne çıktım bu seher\n\nÖttü kumru kimi gü r şelaleler\n\nDe niye yalgızsan sordu laleler\n\nGövretti nisgilim yadıma düştün\n\nNazende...\n\nGözlerim yoldadır kulağım seste\n\nSeni unutmaram men son nefeste\n\nEy ceyran bakışlım ey boyu beste\n\nEy taze ter gülüm yadıma düştün\n\nNazende...",
   "meta": {
     "yore": "AZERİ",
     "soz": "islam safarlı",
-    "muzik": "andrey babayev",
-    "karar": "La"
+    "muzik": "andrey babayev"
   },
   "sistem": {
     "eski_id": 1063,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-25T10:29:02.938Z",
+    "son_degisiklik": "2026-05-18T21:32:36.550Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
