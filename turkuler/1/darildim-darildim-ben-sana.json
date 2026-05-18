@@ -1,26 +1,16 @@
 {
   "id": "darildim-darildim-ben-sana",
   "baslik": "DARILDIM DARILDIM BEN SANA",
-  "sozler_html": "<p>Darıldım darıldım ben sana canım / böyle mi olacaktı</p>\n<p>Vuruldum vuruldum baksana kanım / yerde mi kalacaktı</p>\n<p class=\"bos\"></p>\n<p>Hapishane içinde minderim kana battı</p>\n<p>Yahu bu ne haldır öldüm yedi yıldır (2 /Gardiyan çekti gitti</p>\n<p>Dağ gibi ömrüm benim ne çabuk söndü gitti</p>\n<p class=\"bos\"></p>\n<p>Yoruldum yoruldum hal bilmezler / yaş geldi kırka çıktı</p>\n<p>Dirildim dirildim geri öldüm / dostlar bizi bıraktı</p>\n<p class=\"bos\"></p>\n<p>Mahzuni gelir beyler bizim yaylada yaylar</p>\n<p>Yahu deli miyim yok ölü müyüm / parlayan bizi paylar</p>\n<p>Ağlama sızlama anam benim / bir gün biter yaralar</p>",
-  "sozler_duz": "Darıldım darıldım ben sana canım / böyle mi olacaktı Vuruldum vuruldum baksana kanım / yerde mi kalacaktı Hapishane içinde minderim kana battı Yahu bu ne haldır öldüm yedi yıldır (2 /Gardiyan çekti gitti Dağ gibi ömrüm benim ne çabuk söndü gitti Yoruldum yoruldum hal bilmezler / yaş geldi kırka çıktı Dirildim dirildim geri öldüm / dostlar bizi bıraktı Mahzuni gelir beyler bizim yaylada yaylar Yahu deli miyim yok ölü müyüm / parlayan bizi paylar Ağlama sızlama anam benim / bir gün biter yaralar",
+  "sozler_html": "<p>Darıldım darıldım ben sana canım</p><p>böyle mi olacaktı</p><p>Vuruldum vuruldum baksana kanım&nbsp;</p><p>yerde mi kalacaktı</p><p><br></p><p>Hapishane içinde minderim kana battı</p><p>Yahu bu ne haldır öldüm yedi yıldır (2&nbsp;</p><p>Gardiyan çekti gitti (2&nbsp;</p><p>Dağ gibi dağ gibi ömrüm benim&nbsp;</p><p>ne çabuk söndü gitti</p><p><br></p><p>Yoruldum yoruldum hal bilmezler&nbsp;</p><p>yaş geldi kırka çıktı</p><p>Dirildim dirildim geri öldüm&nbsp;</p><p>dostlar bizi bıraktı</p><p><br></p><p>Mahzuni gelir beyler&nbsp;</p><p>bizim yaylada yaylar</p><p>Yahu deli miyim yok ölü müyüm&nbsp;</p><p>parlayan bizi paylar</p><p>Ağlama sızlama anam benim&nbsp;</p><p>bir gün biter yaralar</p><br>",
+  "sozler_duz": "Darıldım darıldım ben sana canım\n\nböyle mi olacaktı\n\nVuruldum vuruldum baksana kanım \n\nyerde mi kalacaktı\n\nHapishane içinde minderim kana battı\n\nYahu bu ne haldır öldüm yedi yıldır (2 \n\nGardiyan çekti gitti (2 \n\nDağ gibi dağ gibi ömrüm benim \n\nne çabuk söndü gitti\n\nYoruldum yoruldum hal bilmezler \n\nyaş geldi kırka çıktı\n\nDirildim dirildim geri öldüm \n\ndostlar bizi bıraktı\n\nMahzuni gelir beyler \n\nbizim yaylada yaylar\n\nYahu deli miyim yok ölü müyüm \n\nparlayan bizi paylar\n\nAğlama sızlama anam benim \n\nbir gün biter yaralar",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Aşık Mahsuni Şerif",
-    "muzik": "Aşık Mahsuni Şerif",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "muzik": "Aşık Mahsuni Şerif"
   },
   "sistem": {
     "eski_id": 178,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T22:00:17.722Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
