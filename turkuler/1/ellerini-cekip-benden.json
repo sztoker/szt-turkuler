@@ -1,26 +1,17 @@
 {
   "id": "ellerini-cekip-benden",
-  "baslik": "Ellerini Çekip Benden  _",
-  "sozler_html": "<p>Ellerini Çekip Benden Yarim Bugün Gider OlduHem Sever Hem Sevilirdi Bu Ayrılık Neden OlduYar Aşkıyla Yana Yana Ayrı Düştüm Ellere BenAma Senden Ayrı Gezen Yürek Değil Beden OlduYandı Yürek Kebap Oldu Gül Bahçemde Hazan OlduBen Ki Senden Ayrılmazdım Bu Ayrılık Neden OlduYar Aşkıyla Yana Yana Ayrı Düştüm Ellere BenAma Senden Ayrı Gezen Yürek Değil Beden Oldu</p>",
-  "sozler_duz": "Ellerini Çekip Benden Yarim Bugün Gider OlduHem Sever Hem Sevilirdi Bu Ayrılık Neden OlduYar Aşkıyla Yana Yana Ayrı Düştüm Ellere BenAma Senden Ayrı Gezen Yürek Değil Beden OlduYandı Yürek Kebap Oldu Gül Bahçemde Hazan OlduBen Ki Senden Ayrılmazdım Bu Ayrılık Neden OlduYar Aşkıyla Yana Yana Ayrı Düştüm Ellere BenAma Senden Ayrı Gezen Yürek Değil Beden Oldu",
+  "baslik": "Ellerini Çekip Benden",
+  "sozler_html": "<p>Ellerini çekip benden</p><p>Yarim bugün gider oldu</p><p>Hem sever hem sevilirdi&nbsp;</p><p>Bu ayrılık neden oldu</p><p><br></p><p><b>Yar aşkıyla yana yana&nbsp;</b></p><p><b>Ayrı düştüm ellere ben</b></p><p><b>Ama senden ayrı gezen&nbsp;</b></p><p><b>Yürek değil beden oldu</b></p><p><br></p><p>Yandı yürek kebap oldu&nbsp;</p><p>Gül bahçemde hazan oldu</p><p>Ben ki senden ayrılmazdım&nbsp;</p><p>Bu ayrılık neden oldu</p><p><br></p><p><b>Yar aşkıyla yana yana&nbsp;</b></p><p><b>Ayrı düştüm ellere ben</b></p><p><b>Ama senden ayrı gezen&nbsp;</b></p><p><b>Yürek değil beden oldu</b></p><br>",
+  "sozler_duz": "Ellerini çekip benden\n\nYarim bugün gider oldu\n\nHem sever hem sevilirdi \n\nBu ayrılık neden oldu\n\nYar aşkıyla yana yana \n\nAyrı düştüm ellere ben\n\nAma senden ayrı gezen \n\nYürek değil beden oldu\n\nYandı yürek kebap oldu \n\nGül bahçemde hazan oldu\n\nBen ki senden ayrılmazdım \n\nBu ayrılık neden oldu\n\nYar aşkıyla yana yana \n\nAyrı düştüm ellere ben\n\nAma senden ayrı gezen \n\nYürek değil beden oldu",
   "meta": {
-    "yore": "?",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "?",
-    "aciklama": ""
+    "yore": "AZERİ",
+    "soz": "Bahtiyar Vahapzade",
+    "muzik": "Şefika Ahundova"
   },
   "sistem": {
     "eski_id": 5222,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T17:46:51.477Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
