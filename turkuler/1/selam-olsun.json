@@ -1,26 +1,16 @@
 {
   "id": "selam-olsun",
-  "baslik": "Selam Olsun _",
-  "sozler_html": "<p>Biz Dünyadan Gider OldukKalanlara Selam OlsunBizim İçin Hayır DuaKılanlara Selam OlsunEcel Büke BelimiziSöyletmeye DilimiziHasta İken HalimiziSoranlara Selam OlsunEceli Gelenler GiderHepsi Dönmez Yola GiderBizim Halimizden HaberSoranlara Selam OlsunDerviş Yunus Söyler SözüYaş Doldurur İki GözüBilmeyen Ne Bilsin BiziBilenlere Selam Olsun</p>",
-  "sozler_duz": "Biz Dünyadan Gider OldukKalanlara Selam OlsunBizim İçin Hayır DuaKılanlara Selam OlsunEcel Büke BelimiziSöyletmeye DilimiziHasta İken HalimiziSoranlara Selam OlsunEceli Gelenler GiderHepsi Dönmez Yola GiderBizim Halimizden HaberSoranlara Selam OlsunDerviş Yunus Söyler SözüYaş Doldurur İki GözüBilmeyen Ne Bilsin BiziBilenlere Selam Olsun",
+  "baslik": "Selam Olsun",
+  "sozler_html": "<p>Biz dünyadan gider olduk</p><p>Kalanlara selam olsun</p><p>Bizim için hayır dua</p><p>Kılanlara selam olsun</p><p><br></p><p>Ecel büke belimizi</p><p>Söyletmeye dilimizi</p><p>Hasta iken halimizi</p><p>Soranlara selam olsun</p><p><br></p><p>Eceli gelenler gider</p><p>Hepsi dönmez yola gider</p><p>Bizim halimizden haber</p><p>Soranlara selam olsun</p><p><br></p><p>Derviş yunus söyler sözü</p><p>Yaş doldurur iki gözü</p><p>Bilmeyen ne bilsin bizi</p><p>Bilenlere selam olsun</p><br>",
+  "sozler_duz": "Biz dünyadan gider olduk\n\nKalanlara selam olsun\n\nBizim için hayır dua\n\nKılanlara selam olsun\n\nEcel büke belimizi\n\nSöyletmeye dilimizi\n\nHasta iken halimizi\n\nSoranlara selam olsun\n\nEceli gelenler gider\n\nHepsi dönmez yola gider\n\nBizim halimizden haber\n\nSoranlara selam olsun\n\nDerviş yunus söyler sözü\n\nYaş doldurur iki gözü\n\nBilmeyen ne bilsin bizi\n\nBilenlere selam olsun",
   "meta": {
-    "yore": "Yunus Emre",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Lütfü Gültekin",
-    "aciklama": ""
+    "soz": "Yunus Emre",
+    "muzik": "Lütfü Gültekin"
   },
   "sistem": {
     "eski_id": 6251,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T20:31:34.085Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
