@@ -1,26 +1,16 @@
 {
   "id": "leylim-ley",
-  "baslik": "Leylim Ley_",
-  "sozler_html": "<p>Döndüm Daldan Düşen Kuru Yaprağa Leylim LeySeher Yeli Dağıt Beni Sar Beni Leylim LeyGötür Tozlarımı Burdan Uzağa Leyli LeyYarin Çıplak Ayağına Sür Beni Leylim Ley Leylim Ley Leylim LeyAyin şavkı Vurur Sazım Üstüne Leylim LeySöz Söyleyen Yoktur Sözüm Üstüne  Leylim LeyGel Ey Hilal Kaşlım Dizim Üstüne  Leylim LeyAy Bir Yandan Sen Bir Yandan Sar Beni  Leylim Ley Leylim Ley Leylim LeyYedi Yıldır Uğramadım Yurduma Leylim LeyDert Ortağı Aramadım Derdime Leylim LeyGeleceksin Bir Gün Düşüp Ardıma Leylim LeyKula Değil Yüreğine Sor Beni Leylim Ley Leylim Ley Leylim Ley</p>",
-  "sozler_duz": "Döndüm Daldan Düşen Kuru Yaprağa Leylim LeySeher Yeli Dağıt Beni Sar Beni Leylim LeyGötür Tozlarımı Burdan Uzağa Leyli LeyYarin Çıplak Ayağına Sür Beni Leylim Ley Leylim Ley Leylim LeyAyin şavkı Vurur Sazım Üstüne Leylim LeySöz Söyleyen Yoktur Sözüm Üstüne Leylim LeyGel Ey Hilal Kaşlım Dizim Üstüne Leylim LeyAy Bir Yandan Sen Bir Yandan Sar Beni Leylim Ley Leylim Ley Leylim LeyYedi Yıldır Uğramadım Yurduma Leylim LeyDert Ortağı Aramadım Derdime Leylim LeyGeleceksin Bir Gün Düşüp Ardıma Leylim LeyKula Değil Yüreğine Sor Beni Leylim Ley Leylim Ley Leylim Ley",
+  "baslik": "Leylim Ley",
+  "sozler_html": "<p>Döndüm daldan düşen kuru yaprağa <i>leylim ley</i></p><p>Seher yeli dağıt beni sar beni <i>leylim ley</i></p><p>Götür tozlarımı burdan uzağa <i>leyli ley</i></p><p>Yarin çıplak ayağına sür beni <i>leylim ley</i>&nbsp;</p><p><b>Leylim ley leylim ley</b></p><p><br></p><p>Ayın şavkı vurur sazım üstüne</p><p>Söz söyleyen yoktur sözüm üstüne</p><p>Gel ey hilal kaşlım dizim üstüne</p><p>Ay bir yandan sen bir yandan sar beni</p><p>Leylim ley leylim ley</p><p><br></p><p><br></p><p>Yedi yıldır uğramadım yurduma</p><p>Dert ortağı aramadım derdime</p><p>Geleceksin bir gün düşüp ardıma</p><p>Kula değil yüreğine sor beni</p><span style=\"color: rgb(106, 58, 26); font-weight: 600;\">Leylim ley leylim ley</span>",
+  "sozler_duz": "Döndüm daldan düşen kuru yaprağa leylim ley\n\nSeher yeli dağıt beni sar beni leylim ley\n\nGötür tozlarımı burdan uzağa leyli ley\n\nYarin çıplak ayağına sür beni leylim ley \n\nLeylim ley leylim ley\n\nAyın şavkı vurur sazım üstüne\n\nSöz söyleyen yoktur sözüm üstüne\n\nGel ey hilal kaşlım dizim üstüne\n\nAy bir yandan sen bir yandan sar beni\n\nLeylim ley leylim ley\n\nYedi yıldır uğramadım yurduma\n\nDert ortağı aramadım derdime\n\nGeleceksin bir gün düşüp ardıma\n\nKula değil yüreğine sor beni\n\nLeylim ley leylim ley",
   "meta": {
-    "yore": "Sabahattin Ali",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Zülfü Livaneli",
-    "aciklama": ""
+    "soz": "Sabahattin Ali",
+    "muzik": "Zülfü Livaneli"
   },
   "sistem": {
     "eski_id": 5908,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T19:47:12.071Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
