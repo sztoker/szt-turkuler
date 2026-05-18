@@ -1,7 +1,7 @@
 {
   "id": "makaram-sari-baglar",
   "baslik": "Makaram Sarı Bağlar",
-  "sozler_html": "<p>Makaram sarı bağlar-<i>lo</i></p><p>Kız söyler gelin ağlar</p><p>Niye ben ölmüşmüyem-<i>lo</i></p><p>Asyam karalar bağlar</p><p><br></p><p><b>Lo perde lo perde</b></p><p><b>Zülfün yüzüne perde</b></p><p><b>Devriyeler sardı da bizi</b></p><p><b>Meğer kaderim böyle</b></p><p><br></p><p>Makarada ipliğim</p><p>Asya benim kekliğim</p><p>Hiç aklımdan çıkmıyor</p><p>Tenhalarda gezdiğim</p><p><br></p><p>Lo perde lo perde...</p><p><br></p><p>Sarı gülü derende</p><p>İnsaf senin nerende</p><p>Kabahat sende değil</p><p>Sana gönül verende</p><br><p><span style=\"color: rgb(106, 58, 26); font-weight: 600;\">Lo perde lo perde...</span></p>",
+  "sozler_html": "<p>Makaram sarı bağlar-lo</p><p>Kız söyler gelin ağlar</p><p>Niye ben ölmüşmüyem-lo</p><p>Asyam karalar bağlar</p><p><br></p><p><b>Lo perde lo perde</b></p><p><b>Zülfün yüzüne perde</b></p><p><b>Devriyeler sardı da bizi</b></p><p><b>Meğer kaderim böyle</b></p><p><br></p><p>Makarada ipliğim</p><p>Asya benim kekliğim</p><p>Hiç aklımdan çıkmıyor</p><p>Tenhalarda gezdiğim</p><p><br></p><p><b>Lo perde lo perde...</b></p><p><br></p><p>Sarı gülü derende</p><p>İnsaf senin nerende</p><p>Kabahat sende değil</p><p>Sana gönül verende</p><p><br></p><p><b>Lo perde lo perde...</b></p><p><br></p>",
   "sozler_duz": "Makaram sarı bağlar-lo\n\nKız söyler gelin ağlar\n\nNiye ben ölmüşmüyem-lo\n\nAsyam karalar bağlar\n\nLo perde lo perde\n\nZülfün yüzüne perde\n\nDevriyeler sardı da bizi\n\nMeğer kaderim böyle\n\nMakarada ipliğim\n\nAsya benim kekliğim\n\nHiç aklımdan çıkmıyor\n\nTenhalarda gezdiğim\n\nLo perde lo perde...\n\nSarı gülü derende\n\nİnsaf senin nerende\n\nKabahat sende değil\n\nSana gönül verende\n\nLo perde lo perde...",
   "meta": {
     "yore": "Diyarbakır",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 5927,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-18T19:51:23.903Z",
+    "son_degisiklik": "2026-05-18T22:17:20.530Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
