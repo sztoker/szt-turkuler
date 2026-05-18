@@ -1,8 +1,8 @@
 {
   "id": "yine-kitaplari-turkuleri",
   "baslik": "YİNE KİTAPLARI TÜRKÜLERİ",
-  "sozler_html": "<p>Yine kitapları türküleri bayraklarıyla geldiler (2</p><p>Dalga dalga aydınlık oldular&nbsp;</p><p>Hey - hey aman hey hey</p><p>Yürüdüler karanlığın üstüne</p><p>Meydanları zaptediler -aman</p><p>Beyazit’ta şehit düşen&nbsp;</p><p>Silkinip kalktı kabrinden (2</p><p>Ve elinde bir güneş gibi taşıyıp davasını (2</p><p>Yıktı yıktı şahmeranın marasını</p><p>Daha gün o gün değil&nbsp;</p><p>Derlenip dürülmesin bayraklar</p><p>Dinleyin duyduğunuz çakalların ulumasıdır</p><p>Safları sıklaştırın çocuklar</p><p>Bu kavga faşizme karşı&nbsp;</p><p>Bu kavga hürriyet kavgasıdır</p>",
-  "sozler_duz": "Yine kitapları türküleri bayraklarıyla geldiler (2\n\nDalga dalga aydınlık oldular \n\nHey - hey aman hey hey\n\nYürüdüler karanlığın üstüne\n\nMeydanları zaptediler -aman\n\nBeyazit’ta şehit düşen \n\nSilkinip kalktı kabrinden (2\n\nVe elinde bir güneş gibi taşıyıp davasını (2\n\nYıktı yıktı şahmeranın marasını\n\nDaha gün o gün değil \n\nDerlenip dürülmesin bayraklar\n\nDinleyin duyduğunuz çakalların ulumasıdır\n\nSafları sıklaştırın çocuklar\n\nBu kavga faşizme karşı \n\nBu kavga hürriyet kavgasıdır",
+  "sozler_html": "<p>Yine kitapları türküleri&nbsp;</p><p>bayraklarıyla geldiler (2</p><p>Dalga dalga aydınlık oldular&nbsp;</p><p>Hey - hey aman hey hey</p><p>Yürüdüler karanlığın üstüne</p><p>Meydanları zaptediler -aman</p><p><br></p><p>Beyazıt’ta şehit düşen&nbsp;</p><p>Silkinip kalktı kabrinden (2</p><p>Ve elinde bir güneş gibi taşıyıp davasını (2</p><p>Yıktı yıktı şahmeranın mağarasını</p><p><br></p><p>Daha gün o gün değil&nbsp;</p><p>Derlenip dürülmesin bayraklar</p><p>Dinleyin duyduğunuz çakalların ulumasıdır</p><p>Safları sıklaştırın çocuklar</p><p>Bu kavga faşizme karşı&nbsp;</p><p>Bu kavga hürriyet kavgasıdır</p><p><br></p>",
+  "sozler_duz": "Yine kitapları türküleri \n\nbayraklarıyla geldiler (2\n\nDalga dalga aydınlık oldular \n\nHey - hey aman hey hey\n\nYürüdüler karanlığın üstüne\n\nMeydanları zaptediler -aman\n\nBeyazıt’ta şehit düşen \n\nSilkinip kalktı kabrinden (2\n\nVe elinde bir güneş gibi taşıyıp davasını (2\n\nYıktı yıktı şahmeranın mağarasını\n\nDaha gün o gün değil \n\nDerlenip dürülmesin bayraklar\n\nDinleyin duyduğunuz çakalların ulumasıdır\n\nSafları sıklaştırın çocuklar\n\nBu kavga faşizme karşı \n\nBu kavga hürriyet kavgasıdır",
   "meta": {
     "turu": "Özgün",
     "soz": "Nazım Hikmet",
@@ -12,7 +12,7 @@
   "sistem": {
     "eski_id": 6677,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-06T09:57:11.010Z",
+    "son_degisiklik": "2026-05-18T21:43:13.945Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
