@@ -1,8 +1,8 @@
 {
   "id": "kizilciklar-oldu-mu",
   "baslik": "Kızılcıklar Oldu Mu",
-  "sozler_html": "<p>Kızılcıklar oldu mu</p><p>Selelere doldu mu hey</p><p>Gönderdiğim çoraplar</p><p>Ayağına oldu mu</p><p><br></p><p><b>Mendili eline</b></p><p><b>Mendil verdim eline</b></p><p><b>Kara kına yollamış</b></p><p><b>Yar benim ellerime</b></p><p><br></p><p>Kızılcıklar kırmızı,</p><p>Alamadım su kızı hey</p><p>Gerdanında beni var</p><p>Sandım seher yıldızı</p><p><br></p><p>Mendili eline</p><p>Mendil verdim eline</p><p>Kara kına yollamış</p><p>Yar benim ellerime</p><p><br></p><p>Tabakası aynalı</p><p>Su oğlana varmalı hey</p><p>Oğlan çok güzel ama</p><p>Anası olmamalı</p><p><br></p><p>Mendili eline</p><p>Mendil verdim eline</p><p>Kara kına yollamış</p><p>Yar benim ellerime</p><br>",
-  "sozler_duz": "Kızılcıklar oldu mu\n\nSelelere doldu mu hey\n\nGönderdiğim çoraplar\n\nAyağına oldu mu\n\nMendili eline\n\nMendil verdim eline\n\nKara kına yollamış\n\nYar benim ellerime\n\nKızılcıklar kırmızı,\n\nAlamadım su kızı hey\n\nGerdanında beni var\n\nSandım seher yıldızı\n\nMendili eline\n\nMendil verdim eline\n\nKara kına yollamış\n\nYar benim ellerime\n\nTabakası aynalı\n\nSu oğlana varmalı hey\n\nOğlan çok güzel ama\n\nAnası olmamalı\n\nMendili eline\n\nMendil verdim eline\n\nKara kına yollamış\n\nYar benim ellerime",
+  "sozler_html": "<p>Kızılcıklar oldu mu</p><p>Selelere doldu mu hey</p><p>Gönderdiğim çoraplar</p><p>Ayağına oldu mu</p><p><br></p><p><b>Mendili eline</b></p><p><b>Mendil verdim eline</b></p><p><b>Kara kına yollamış</b></p><p><b>Yar benim ellerime</b></p><p><br></p><p>Kızılcıklar kırmızı,</p><p>Alamadım su kızı hey</p><p>Gerdanında beni var</p><p>Sandım seher yıldızı</p><p><br></p><p><b>Mendili eline...</b></p><p><br></p><p>Tabakası aynalı</p><p>Su oğlana varmalı hey</p><p>Oğlan çok güzel ama</p><p>Anası olmamalı</p><p><br></p><p><b>Mendili eline...</b></p><p><br></p><br>",
+  "sozler_duz": "Kızılcıklar oldu mu\n\nSelelere doldu mu hey\n\nGönderdiğim çoraplar\n\nAyağına oldu mu\n\nMendili eline\n\nMendil verdim eline\n\nKara kına yollamış\n\nYar benim ellerime\n\nKızılcıklar kırmızı,\n\nAlamadım su kızı hey\n\nGerdanında beni var\n\nSandım seher yıldızı\n\nMendili eline...\n\nTabakası aynalı\n\nSu oğlana varmalı hey\n\nOğlan çok güzel ama\n\nAnası olmamalı\n\nMendili eline...",
   "meta": {
     "yore": "Edirne/Keşan",
     "derleyen": "Nimet Çubukoğlu"
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 5858,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-18T19:42:54.751Z",
+    "son_degisiklik": "2026-05-18T22:14:21.976Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
