@@ -1,26 +1,17 @@
 {
   "id": "hel-hele-verin-geline",
-  "baslik": "Hel Hele Verin Geline_",
-  "sozler_html": "<p>Hel Hele Verin Geline,Deste Gül Verin GelineAltın Kemer BağlamışGelin İnce BelineElinde Terazi VarCebinde Çerezi VarAlêmlen Oynar Güler,Benimle Garezi Var(Baba) Kapıdan Geçti Yarim,Yaramı Deşti YarimUydu Eller SözüneMenden Vazgeçti Yarim(Baba)   Kapının Ayrığından,Tanıram YağlığındanGünde Yüz Gelin Geçer,Yüreğim Yandığından.(Baba)</p>",
-  "sozler_duz": "Hel Hele Verin Geline,Deste Gül Verin GelineAltın Kemer BağlamışGelin İnce BelineElinde Terazi VarCebinde Çerezi VarAlêmlen Oynar Güler,Benimle Garezi Var(Baba) Kapıdan Geçti Yarim,Yaramı Deşti YarimUydu Eller SözüneMenden Vazgeçti Yarim(Baba) Kapının Ayrığından,Tanıram YağlığındanGünde Yüz Gelin Geçer,Yüreğim Yandığından.(Baba)",
+  "baslik": "Hel Hele Verin Geline",
+  "sozler_html": "<p>Hel hele verin geline</p><p>Deste gül verin geline</p><p>Altın kemer bağlamış</p><p>Gelin ince beline</p><p>&nbsp;</p><p>Elinde terazi var</p><p>Cebinde çerezi var</p><p>Alêmlen oynar güler</p><p>Benimle garezi var (baba)&nbsp;</p><p>&nbsp;</p><p>Kapıdan geçti yarim</p><p>Yaramı deşti yarim</p><p>Uydu eller sözüne</p><p>Menden vazgeçti yarim (baba)&nbsp;</p><p>&nbsp;</p><p>Kapının ayrığından</p><p>Tanıram yağlığından</p><p>Günde yüz gelin geçer</p><p>Yüreğim yandığından (baba)</p>",
+  "sozler_duz": "Hel hele verin geline\n\nDeste gül verin geline\n\nAltın kemer bağlamış\n\nGelin ince beline\n\n \n\nElinde terazi var\n\nCebinde çerezi var\n\nAlêmlen oynar güler\n\nBenimle garezi var (baba) \n\n \n\nKapıdan geçti yarim\n\nYaramı deşti yarim\n\nUydu eller sözüne\n\nMenden vazgeçti yarim (baba) \n\n \n\nKapının ayrığından\n\nTanıram yağlığından\n\nGünde yüz gelin geçer\n\nYüreğim yandığından (baba)",
   "meta": {
     "yore": "Kerkük",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Abdülvahit Kuzecioğlu-Nida Tüfekçi",
-    "aciklama": ""
+    "derleyen": "Nida Tüfekçi",
+    "kaynak_kisi": "Abdülvahit Kuzecioğlu"
   },
   "sistem": {
     "eski_id": 5585,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T19:01:09.967Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
