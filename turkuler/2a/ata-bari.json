@@ -1,8 +1,8 @@
 {
   "id": "ata-bari",
   "baslik": "ATA BARI",
-  "sozler_html": "<p>Ayvası var narı var / Bahçası var bağı var</p>\n<p>Atamızdan yadigar / Bizde Ata barı var</p>\n<p class=\"bos\"></p>\n<p>Uzun uzun kamışlar / Ucunu budamışlar</p>\n<p>Benim ela gözlümü / Gurbete yollamışlar</p>\n<p class=\"bos\"></p>\n<p>Ben bir uzun kamışm / Yoluna dikilmişim</p>\n<p>İster al ister alma / Alnına yazılmışım</p>\n<p class=\"bos\"></p>\n<p>Ana baba evidir (Bu babamın evidir) / Tahtaları kevidir</p>\n<p>Çalın vurun oynayın / Burası düğün yeridir (evidir)</p>\n<p class=\"bos\"></p>\n<p>Ata barı tek barı / Bahçada gördüm yari</p>\n<p>Seslendim ses vermedi / Ağladı zarı zarı</p>",
-  "sozler_duz": "Ayvası var narı var / Bahçası var bağı var\n\nAtamızdan yadigar / Bizde Ata barı var\n\nUzun uzun kamışlar / Ucunu budamışlar\n\nBenim ela gözlümü / Gurbete yollamışlar\n\nBen bir uzun kamışm / Yoluna dikilmişim\n\nİster al ister alma / Alnına yazılmışım\n\nAna baba evidir (Bu babamın evidir) / Tahtaları kevidir\n\nÇalın vurun oynayın / Burası düğün yeridir (evidir)\n\nAta barı tek barı / Bahçada gördüm yari\n\nSeslendim ses vermedi / Ağladı zarı zarı",
+  "sozler_html": "<p>Ayvası var narı var&nbsp;</p><p>Bahçası var bağı var</p><p>Atamızdan yadigar&nbsp;</p><p>Bizde Ata barı var</p><p><br></p><p>Uzun uzun kamışlar&nbsp;</p><p>Ucunu budamışlar</p><p>Benim ela gözlümü&nbsp;</p><p>Gurbete yollamışlar</p><p><br></p><p>Ben bir uzun kamışm&nbsp;</p><p>Yoluna dikilmişim</p><p>İster al ister alma&nbsp;</p><p>Alnına yazılmışım</p><p><br></p><p>Ana baba evidir&nbsp;</p><p><i>(Bu babamın evidir)&nbsp;</i></p><p>Tahtaları kevidir</p><p>Çalın vurun oynayın&nbsp;</p><p>Burası düğün yeridir <i>(evidir)</i></p><p><br></p><p>Ata barı tek barı&nbsp;</p><p>Bahçada gördüm yari</p><p>Seslendim ses vermedi&nbsp;</p><p>Ağladı zarı zarı</p><br>",
+  "sozler_duz": "Ayvası var narı var \n\nBahçası var bağı var\n\nAtamızdan yadigar \n\nBizde Ata barı var\n\nUzun uzun kamışlar \n\nUcunu budamışlar\n\nBenim ela gözlümü \n\nGurbete yollamışlar\n\nBen bir uzun kamışm \n\nYoluna dikilmişim\n\nİster al ister alma \n\nAlnına yazılmışım\n\nAna baba evidir \n\n(Bu babamın evidir) \n\nTahtaları kevidir\n\nÇalın vurun oynayın \n\nBurası düğün yeridir (evidir)\n\nAta barı tek barı \n\nBahçada gördüm yari\n\nSeslendim ses vermedi \n\nAğladı zarı zarı",
   "meta": {
     "yore": "ARTVİN",
     "turu": "THM",
@@ -12,7 +12,7 @@
   "sistem": {
     "eski_id": 451,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-16T13:01:56.812Z",
+    "son_degisiklik": "2026-05-18T21:49:56.512Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
