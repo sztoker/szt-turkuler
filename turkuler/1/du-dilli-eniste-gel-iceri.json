@@ -1,26 +1,15 @@
 {
   "id": "du-dilli-eniste-gel-iceri",
   "baslik": "DU DİLLİ  (ENİŞTE GEL İÇERİ)",
-  "sozler_html": "<p>Enişte gel içeri (2 / Ev daracık oda yok (2x2</p>\n<p>Bir mıhlama yapardum (2 / Tava delik yağ da yok (2x2</p>\n<p>Du dilli du dilli du (4</p>\n<p class=\"bos\"></p>\n<p>Lavuz yoğuramaduk / Lahana vuramaduk (2</p>\n<p>Baluğa çıkamaduk / Taka deluk ağ da yok (2 / Du dilli ...</p>\n<p class=\"bos\"></p>\n<p>Bu yıl olmadu finduk / Asmada kaldi koruk</p>\n<p>Karamişe fit olduk / Çok aradum dağda yok / Du dilli ...</p>\n<p class=\"bos\"></p>\n<p>Talihin yok enişte / Evde bişey yok işte</p>\n<p>Gel bir horon tepelum / Kemençeme yay da yok / Du dilli</p>",
-  "sozler_duz": "Enişte gel içeri (2 / Ev daracık oda yok (2x2 Bir mıhlama yapardum (2 / Tava delik yağ da yok (2x2 Du dilli du dilli du (4 Lavuz yoğuramaduk / Lahana vuramaduk (2 Baluğa çıkamaduk / Taka deluk ağ da yok (2 / Du dilli ... Bu yıl olmadu finduk / Asmada kaldi koruk Karamişe fit olduk / Çok aradum dağda yok / Du dilli ... Talihin yok enişte / Evde bişey yok işte Gel bir horon tepelum / Kemençeme yay da yok / Du dilli",
+  "sozler_html": "<p>Enişte gel içeri (2&nbsp;</p><p>Ev daracık oda yok (2x2</p><p>Bir mıhlama yapardum (2&nbsp;</p><p>Tava delik yağ da yok (2x2</p><p><br></p><p><b>Du dilli du dilli du (4</b></p><p><br></p><p>Lavuz yoğuramaduk&nbsp;</p><p>Lahana vuramaduk (2</p><p>Baluğa çıkamaduk&nbsp;</p><p>Taka deluk ağ da yok (2&nbsp;</p><p><br></p><p><b>Du dilli du dilli du (4</b></p><p><br></p><p>Bu yıl olmadu finduk&nbsp;</p><p>Asmada kaldi koruk</p><p>Karamişe fit olduk&nbsp;</p><p>Çok aradum dağda yok</p><p><br></p><p><b>Du dilli du dilli du (4</b></p><p><br></p><p>Talihin yok enişte&nbsp;</p><p>Evde bişey yok işte</p><p>Gel bir horon tepelum&nbsp;</p><p>Kemençeme yay da yok</p><p><br></p><p><b>Du dilli du dilli du (4</b></p><br>",
+  "sozler_duz": "Enişte gel içeri (2 \n\nEv daracık oda yok (2x2\n\nBir mıhlama yapardum (2 \n\nTava delik yağ da yok (2x2\n\nDu dilli du dilli du (4\n\nLavuz yoğuramaduk \n\nLahana vuramaduk (2\n\nBaluğa çıkamaduk \n\nTaka deluk ağ da yok (2 \n\nDu dilli du dilli du (4\n\nBu yıl olmadu finduk \n\nAsmada kaldi koruk\n\nKaramişe fit olduk \n\nÇok aradum dağda yok\n\nDu dilli du dilli du (4\n\nTalihin yok enişte \n\nEvde bişey yok işte\n\nGel bir horon tepelum \n\nKemençeme yay da yok\n\nDu dilli du dilli du (4",
   "meta": {
-    "yore": "KARADENİZ",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "KARADENİZ          D : Şeref Canku",
-    "aciklama": ""
+    "yore": "KARADENİZ"
   },
   "sistem": {
     "eski_id": 694,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T17:23:48.371Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
