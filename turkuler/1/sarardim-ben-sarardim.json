@@ -1,7 +1,7 @@
 {
   "id": "sarardim-ben-sarardim",
   "baslik": "Sarardım Ben Sarardım",
-  "sozler_html": "<p>Sarardım ben sarardım, senin için sarardım</p><p>Baş yastıkta göz yolda, her gelenden sorardım</p><p>Oy dağlar yeşil dağlar, gurbette yarim ağlar</p><p><br></p><p><b>Açtı m’ola şu Sivas’ın gülü yaprağı</b></p><p><b>Çekti bizi gurbet elin suyu toprağı</b></p><p><br></p><p>Kayalardan kayarım, bulamadım ayarım</p><p>Ben bu dertten ölürsem, kaderime sayarım</p><p>Al dağlar yeşil dağlar, gurbette yarim ağlar</p><br><p><span style=\"color: rgb(106, 58, 26); font-weight: 600;\">Açtı m’ola şu Sivas’ın gülü yaprağı</span></p><p><span style=\"color: rgb(106, 58, 26); font-weight: 600;\">Çekti bizi gurbet elin suyu toprağı</span></p><p><br></p><p><br></p>",
+  "sozler_html": "<p>Sarardım ben sarardım, senin için sarardım</p><p>Baş yastıkta göz yolda, her gelenden sorardım</p><p>Oy dağlar yeşil dağlar, gurbette yarim ağlar</p><p><br></p><p><b>Açtı m’ola şu Sivas’ın gülü yaprağı</b></p><p><b>Çekti bizi gurbet elin suyu toprağı</b></p><p><br></p><p>Kayalardan kayarım, bulamadım ayarım</p><p>Ben bu dertten ölürsem, kaderime sayarım</p><p>Al dağlar yeşil dağlar, gurbette yarim ağlar</p><p><br></p><p><b>Açtı m’ola şu Sivas’ın gülü yaprağı</b></p><p><b>Çekti bizi gurbet elin suyu toprağı</b></p><p><br></p>",
   "sozler_duz": "Sarardım ben sarardım, senin için sarardım\n\nBaş yastıkta göz yolda, her gelenden sorardım\n\nOy dağlar yeşil dağlar, gurbette yarim ağlar\n\nAçtı m’ola şu Sivas’ın gülü yaprağı\n\nÇekti bizi gurbet elin suyu toprağı\n\nKayalardan kayarım, bulamadım ayarım\n\nBen bu dertten ölürsem, kaderime sayarım\n\nAl dağlar yeşil dağlar, gurbette yarim ağlar\n\nAçtı m’ola şu Sivas’ın gülü yaprağı\n\nÇekti bizi gurbet elin suyu toprağı",
   "meta": {
     "yore": "Sivas",
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 6222,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-18T20:18:14.664Z",
+    "son_degisiklik": "2026-05-18T22:20:27.858Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
