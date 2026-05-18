@@ -1,26 +1,17 @@
 {
   "id": "gokyuzunde-boluk-boluk-turnalar",
-  "baslik": "Gökyüzünde Bölük Bölük Turnalar_",
-  "sozler_html": "<p>Gökyüzünde Bölük Bölük Turnalar (Leyli Leyli Durnalar Ey)Nerededir Meskeniniz Eliniz (Eliniz Eliniz)Bir Name Yazayım Yare Götürün (Leyli Leyli Götürün Ey)Dost Eline Uğrar M'ola Yolunuz (Yolunuz Yolunuz)Telli Turnam Gökyüzünün Gülüdür (Leyli Leyli Durnalar Ey)Esip Konducağın Bağdat Elidir (Elidir Elidir)Gözüm Yaşı Mahramalar Çürüdür (Leyli Leyli Götürün Ey)Aşamazsan Telli Turnam Dön Geri (Dön Geri)</p>",
-  "sozler_duz": "Gökyüzünde Bölük Bölük Turnalar (Leyli Leyli Durnalar Ey)Nerededir Meskeniniz Eliniz (Eliniz Eliniz)Bir Name Yazayım Yare Götürün (Leyli Leyli Götürün Ey)Dost Eline Uğrar M'ola Yolunuz (Yolunuz Yolunuz)Telli Turnam Gökyüzünün Gülüdür (Leyli Leyli Durnalar Ey)Esip Konducağın Bağdat Elidir (Elidir Elidir)Gözüm Yaşı Mahramalar Çürüdür (Leyli Leyli Götürün Ey)Aşamazsan Telli Turnam Dön Geri (Dön Geri)",
+  "baslik": "Gökyüzünde Bölük Bölük Turnalar",
+  "sozler_html": "<p>Gökyüzünde bölük bölük turnalar</p><p><i>(leyli leyli durnalar ey)</i></p><p>Nerededir meskeniniz eliniz <i>(eliniz eliniz)</i></p><p>Bir name yazayım yare götürün&nbsp;</p><p><i>(leyli leyli götürün ey)</i></p><p>Dost eline uğrar m'ola yolunuz <i>(yolunuz yolunuz)</i></p><p>&nbsp;</p><p>Telli turnam gökyüzünün gülüdür&nbsp;</p><p><i>(leyli leyli durnalar ey)</i></p><p>Esip konducağın bağdat elidir <i>(elidir elidir)</i></p><p>Gözüm yaşı mahramalar çürüdür&nbsp;</p><p><i>(leyli leyli götürün ey)</i></p><p>Aşamazsan telli turnam dön geri <i>(dön geri)</i></p>",
+  "sozler_duz": "Gökyüzünde bölük bölük turnalar\n\n(leyli leyli durnalar ey)\n\nNerededir meskeniniz eliniz (eliniz eliniz)\n\nBir name yazayım yare götürün \n\n(leyli leyli götürün ey)\n\nDost eline uğrar m'ola yolunuz (yolunuz yolunuz)\n\n \n\nTelli turnam gökyüzünün gülüdür \n\n(leyli leyli durnalar ey)\n\nEsip konducağın bağdat elidir (elidir elidir)\n\nGözüm yaşı mahramalar çürüdür \n\n(leyli leyli götürün ey)\n\nAşamazsan telli turnam dön geri (dön geri)",
   "meta": {
     "yore": "Amasya",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aşık Musa Aslan-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Aşık Musa Aslan"
   },
   "sistem": {
     "eski_id": 5467,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T18:37:41.466Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
