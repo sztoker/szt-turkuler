@@ -1,26 +1,16 @@
 {
   "id": "pinar-basindan-bulanir",
-  "baslik": "Pınar Başından Bulanır_",
-  "sozler_html": "<p>Pınar Başından Bulanır (Canım Oy)İner Ovayı Dolanır (Canım Oy)Sende çok Haller Bulunur (Canım Oy)Dağlar Duman OlurHalim Yaman OlurBen Yari GörmesemHalim Yaman Olur Yar YarHiç ovaya inmedin Mi (Canım Oy)Aşk Oduna yanmadın Mı (Canım Oy)Can Yakmadan Doymadın Mı (Canım Oy)Dağlar Duman OlurHalim Yaman OlurBen Yari GörmesemHalim Yaman Olur Yar YarYaz Görmemiş Kışa Benzer (Canım Oy)Dert Görmemiş Başa Benzer (Canım Oy)Çok İçmiş Serhoşa Benzer (Canım Oy)Dağlar Duman OlurHalim Yaman OlurBen Yari GörmesemHalim Yaman Olur Yar Yar</p>",
-  "sozler_duz": "Pınar Başından Bulanır (Canım Oy)İner Ovayı Dolanır (Canım Oy)Sende çok Haller Bulunur (Canım Oy)Dağlar Duman OlurHalim Yaman OlurBen Yari GörmesemHalim Yaman Olur Yar YarHiç ovaya inmedin Mi (Canım Oy)Aşk Oduna yanmadın Mı (Canım Oy)Can Yakmadan Doymadın Mı (Canım Oy)Dağlar Duman OlurHalim Yaman OlurBen Yari GörmesemHalim Yaman Olur Yar YarYaz Görmemiş Kışa Benzer (Canım Oy)Dert Görmemiş Başa Benzer (Canım Oy)Çok İçmiş Serhoşa Benzer (Canım Oy)Dağlar Duman OlurHalim Yaman OlurBen Yari GörmesemHalim Yaman Olur Yar Yar",
+  "baslik": "Pınar Başından Bulanır",
+  "sozler_html": "<p>Pınar başından bulanır-<i>canım oy</i></p><p>İner ovayı dolanır-<i>canım oy</i></p><p>Sende çok haller bulunur-<i>canım oy</i></p><p><br></p><p><b>Dağlar duman olur</b></p><p><b>Halim yaman olur</b></p><p><b>Ben yari görmesem</b></p><p><b>Halim yaman olur yar yar</b></p><p><br></p><p>Hiç ovaya inmedin mi-<i>canım oy</i></p><p>Aşk oduna yanmadın mı-<i>canım oy</i></p><p>Can yakmadan doymadın mı-<i>canım oy</i></p><p><br></p><p><b>Dağlar duman olur</b></p><p><b>Halim yaman olur</b></p><p><b>Ben yari görmesem</b></p><p><b>Halim yaman olur yar yar</b></p><p><br></p><p>Yaz görmemiş kışa benzer-<i>canım oy</i></p><p>Dert görmemiş başa benzer-<i>canım oy</i></p><p>Çok içmiş serhoşa benzer-<i>canım oy</i></p><p><br></p><p><b>Dağlar duman olur</b></p><p><b>Halim yaman olur</b></p><p><b>Ben yari görmesem</b></p><p><b>Halim yaman olur yar yar</b></p><br>",
+  "sozler_duz": "Pınar başından bulanır-canım oy\n\nİner ovayı dolanır-canım oy\n\nSende çok haller bulunur-canım oy\n\nDağlar duman olur\n\nHalim yaman olur\n\nBen yari görmesem\n\nHalim yaman olur yar yar\n\nHiç ovaya inmedin mi-canım oy\n\nAşk oduna yanmadın mı-canım oy\n\nCan yakmadan doymadın mı-canım oy\n\nDağlar duman olur\n\nHalim yaman olur\n\nBen yari görmesem\n\nHalim yaman olur yar yar\n\nYaz görmemiş kışa benzer-canım oy\n\nDert görmemiş başa benzer-canım oy\n\nÇok içmiş serhoşa benzer-canım oy\n\nDağlar duman olur\n\nHalim yaman olur\n\nBen yari görmesem\n\nHalim yaman olur yar yar",
   "meta": {
     "yore": "Erzurum",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Seyfettin Sığmaz",
-    "aciklama": ""
+    "kaynak_kisi": "Seyfettin Sığmaz"
   },
   "sistem": {
     "eski_id": 6167,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T20:15:16.583Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
