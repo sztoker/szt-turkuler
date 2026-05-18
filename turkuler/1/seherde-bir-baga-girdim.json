@@ -1,26 +1,17 @@
 {
   "id": "seherde-bir-baga-girdim",
-  "baslik": "Seherde Bir Bağa Girdim_",
-  "sozler_html": "<p>Seherde Bir Bağa GirdimNe Bağ Duydu Ne BağbancıEl Vurup Güllerin DerdimNe Bağ Duydu Ne BağbancıBağın Kapusunu AçtımSayın Ki Cennete DüştümYar İle Tenha BuluştumNe Bağ Duydu Ne BağbancıSeherin Bülbülü ÖttüÖttü De Murada YettiTeslim Abdal Yükün TuttuNe Bağ Duydu Ne Bağbancı</p>",
-  "sozler_duz": "Seherde Bir Bağa GirdimNe Bağ Duydu Ne BağbancıEl Vurup Güllerin DerdimNe Bağ Duydu Ne BağbancıBağın Kapusunu AçtımSayın Ki Cennete DüştümYar İle Tenha BuluştumNe Bağ Duydu Ne BağbancıSeherin Bülbülü ÖttüÖttü De Murada YettiTeslim Abdal Yükün TuttuNe Bağ Duydu Ne Bağbancı",
+  "baslik": "Seherde Bir Bağa Girdim",
+  "sozler_html": "<p>Seherde bir bağa girdim</p><p>Ne bağ duydu ne bağbancı</p><p>El vurup güllerin derdim</p><p>Ne bağ duydu ne bağbancı</p><p><br></p><p>Bağın kapusunu açtım</p><p>Sayın ki cennete düştüm</p><p>Yar ile tenha buluştum</p><p>Ne bağ duydu ne bağbancı</p><p><br></p><p>Seherin bülbülü öttü</p><p>Öttü de murada yetti</p><p>Teslim abdal yükün tuttu</p><p>Ne bağ duydu ne bağbancı</p><br>",
+  "sozler_duz": "Seherde bir bağa girdim\n\nNe bağ duydu ne bağbancı\n\nEl vurup güllerin derdim\n\nNe bağ duydu ne bağbancı\n\nBağın kapusunu açtım\n\nSayın ki cennete düştüm\n\nYar ile tenha buluştum\n\nNe bağ duydu ne bağbancı\n\nSeherin bülbülü öttü\n\nÖttü de murada yetti\n\nTeslim abdal yükün tuttu\n\nNe bağ duydu ne bağbancı",
   "meta": {
     "yore": "Erzincan/Tercan",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aşık Daimi-Nida Tüfekçi",
-    "aciklama": ""
+    "derleyen": "Nida Tüfekçi",
+    "kaynak_kisi": "Aşık Daimi"
   },
   "sistem": {
     "eski_id": 6246,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T20:29:07.581Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
