@@ -1,26 +1,17 @@
 {
   "id": "harman-yeri-surseler-sanem",
   "baslik": "HARMAN YERİ SÜRSELER (Sanem)",
-  "sozler_html": "<p>Harman yeri sürseler</p>\n<p>Oy Sanem vay Sanem</p>\n<p>Yerine gül ekseler</p>\n<p>Esmer gaday ben alı m</p>\n<p class=\"bos\"></p>\n<p>Bahtılı gız başına</p>\n<p>Oy Sanem vay Sanem</p>\n<p>Sevdiğine verseler</p>\n<p>Esmer gaday ben alı m</p>\n<p class=\"bos\"></p>\n<p>Harman yeri yaş yeri</p>\n<p>Oy Sanem vay Sanem</p>\n<p>Yavaş yürü hoş yürü</p>\n<p>Esmer gaday ben alı m</p>\n<p class=\"bos\"></p>\n<p>Gel beraber gezelim</p>\n<p>Oy Sanem vay Sanem</p>\n<p>Sevdigim gitme geri</p>\n<p>Esmer gaday ben alı m</p>",
-  "sozler_duz": "Harman yeri sürseler Oy Sanem vay Sanem Yerine gül ekseler Esmer gaday ben alı m Bahtılı gız başına Oy Sanem vay Sanem Sevdiğine verseler Esmer gaday ben alı m Harman yeri yaş yeri Oy Sanem vay Sanem Yavaş yürü hoş yürü Esmer gaday ben alı m Gel beraber gezelim Oy Sanem vay Sanem Sevdigim gitme geri Esmer gaday ben alı m",
+  "sozler_html": "<p>Harman yeri sürseler</p>\n<p>Oy Sanem vay Sanem</p>\n<p>Yerine gül ekseler</p>\n<p>Esmer gaday ben alım</p>\n<p class=\"bos\"></p>\n<p>Bahtılı gız başına</p>\n<p>Oy Sanem vay Sanem</p>\n<p>Sevdiğine verseler</p>\n<p>Esmer gaday ben alım</p>\n<p class=\"bos\"></p>\n<p>Harman yeri yaş yeri</p>\n<p>Oy Sanem vay Sanem</p>\n<p>Yavaş yürü hoş yürü</p>\n<p>Esmer gaday ben alım</p>\n<p class=\"bos\"></p>\n<p>Gel beraber gezelim</p>\n<p>Oy Sanem vay Sanem</p>\n<p>Sevdigim gitme geri</p>\n<p>Esmer gaday ben alım</p>",
+  "sozler_duz": "Harman yeri sürseler\n\nOy Sanem vay Sanem\n\nYerine gül ekseler\n\nEsmer gaday ben alım\n\nBahtılı gız başına\n\nOy Sanem vay Sanem\n\nSevdiğine verseler\n\nEsmer gaday ben alım\n\nHarman yeri yaş yeri\n\nOy Sanem vay Sanem\n\nYavaş yürü hoş yürü\n\nEsmer gaday ben alım\n\nGel beraber gezelim\n\nOy Sanem vay Sanem\n\nSevdigim gitme geri\n\nEsmer gaday ben alım",
   "meta": {
     "yore": "URFA",
-    "turu": "",
-    "turu2": "",
     "derleyen": "Muzaffer Sarısözen",
-    "kaynak_kisi": "Hilmi Ersoy",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_",
-    "karar": "",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Hilmi Ersoy"
   },
   "sistem": {
     "eski_id": 4170,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T18:54:49.794Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
