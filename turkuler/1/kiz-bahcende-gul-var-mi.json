@@ -1,26 +1,17 @@
 {
   "id": "kiz-bahcende-gul-var-mi",
-  "baslik": "Kız Bahçende Gül Var Mı_",
-  "sozler_html": "<p>Kız Bahçende Gül Var MıDalında Bülbül Var MıBu Akşam GeleceğimTenhalarda Yer Var MıHaydindi Saray ÇeşmesineBen Yandım Badem EzmesineKız Bahçende Mor MeniVerem Ettin Sen BeniNasıl Verem OlmayımEller Sarıyor SeniHaydindi Saray ÇeşmesineBen Yandım Badem Ezmesine</p>",
-  "sozler_duz": "Kız Bahçende Gül Var MıDalında Bülbül Var MıBu Akşam GeleceğimTenhalarda Yer Var MıHaydindi Saray ÇeşmesineBen Yandım Badem EzmesineKız Bahçende Mor MeniVerem Ettin Sen BeniNasıl Verem OlmayımEller Sarıyor SeniHaydindi Saray ÇeşmesineBen Yandım Badem Ezmesine",
+  "baslik": "Kız Bahçende Gül Var Mı",
+  "sozler_html": "<p>Kız bahçende gül var mı</p><p>Dalında bülbül var mı</p><p>Bu akşam geleceğim</p><p>Tenhalarda yer var mı</p><p><br></p><p><b>Haydindi saray çeşmesine</b></p><p><b>Ben yandım badem ezmesine</b></p><p><br></p><p>Kız bahçende mor meni</p><p>Verem ettin sen beni</p><p>Nasıl verem olmayım</p><p>Eller sarıyor seni</p><p><br></p><p><b>Haydindi saray çeşmesine</b></p><p><b>Ben yandım badem ezmesine</b></p><br>",
+  "sozler_duz": "Kız bahçende gül var mı\n\nDalında bülbül var mı\n\nBu akşam geleceğim\n\nTenhalarda yer var mı\n\nHaydindi saray çeşmesine\n\nBen yandım badem ezmesine\n\nKız bahçende mor meni\n\nVerem ettin sen beni\n\nNasıl verem olmayım\n\nEller sarıyor seni\n\nHaydindi saray çeşmesine\n\nBen yandım badem ezmesine",
   "meta": {
     "yore": "Kastamonu",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Yılmaz Arsoy-Adnan Ataman",
-    "aciklama": ""
+    "derleyen": "Adnan Ataman",
+    "kaynak_kisi": "Yılmaz Arsoy"
   },
   "sistem": {
     "eski_id": 5854,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T19:39:58.694Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
