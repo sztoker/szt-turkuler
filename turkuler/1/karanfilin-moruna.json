@@ -1,26 +1,16 @@
 {
   "id": "karanfilin-moruna",
-  "baslik": "Karanfilin Moruna_",
-  "sozler_html": "<p>Karanfilin MorunaÖlüyorum Yoluna.Çifte Kurban AdadımSevdiğimin YolunaKaranfilim Süt Beyaz,Ayrı Düştük Biz Bu Yaz.Hediyeni İstemem,Mektubunu Sıkça Yaz.Karanfilsin TarçınsınNeden Böyle HırçınsınNe Küçüksün Ne Büyük,Tamam Benim Harcımsın</p>",
-  "sozler_duz": "Karanfilin MorunaÖlüyorum Yoluna.Çifte Kurban AdadımSevdiğimin YolunaKaranfilim Süt Beyaz,Ayrı Düştük Biz Bu Yaz.Hediyeni İstemem,Mektubunu Sıkça Yaz.Karanfilsin TarçınsınNeden Böyle HırçınsınNe Küçüksün Ne Büyük,Tamam Benim Harcımsın",
+  "baslik": "Karanfilin Moruna",
+  "sozler_html": "<p>Karanfilin moruna</p><p>Ölüyorum yoluna</p><p>Çifte kurban adadım</p><p>Sevdiğimin yoluna</p><p><br></p><p>Karanfilsin tarçınsın</p><p>Neden böyle hırçınsın</p><p>Ne küçüksün ne büyük</p><p>Tamam benim harcımsın</p><p><br></p><p>Karanfilim süt beyaz</p><p>Ayrı düştük biz bu yaz</p><p>Hediyeni istemem</p><p>Mektubunu sıkça yaz</p><br><p><br></p><p><br></p>",
+  "sozler_duz": "Karanfilin moruna\n\nÖlüyorum yoluna\n\nÇifte kurban adadım\n\nSevdiğimin yoluna\n\nKaranfilsin tarçınsın\n\nNeden böyle hırçınsın\n\nNe küçüksün ne büyük\n\nTamam benim harcımsın\n\nKaranfilim süt beyaz\n\nAyrı düştük biz bu yaz\n\nHediyeni istemem\n\nMektubunu sıkça yaz",
   "meta": {
     "yore": "Çanakkale",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Refika Berkant-Saniye Can",
-    "aciklama": ""
+    "kaynak_kisi": "Refika Berkant-Saniye Can"
   },
   "sistem": {
     "eski_id": 5785,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T19:21:32.553Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
