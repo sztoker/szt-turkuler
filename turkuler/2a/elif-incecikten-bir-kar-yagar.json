@@ -1,8 +1,8 @@
 {
   "id": "elif-incecikten-bir-kar-yagar",
   "baslik": "ELİF ( İncecikten bir kar yağar )",
-  "sozler_html": "<p>İncecikten bir kar yağar / Tozar Elif Elif diye</p><p>Deli gönül hayran olmuş / Gezer Elif Elif diye</p><p><b>Yar sana hayran - can sana kurban</b></p><p><b>Derdime derman bulamam / Aşktan el aman</b></p><p><br></p><p>Elif kaşlarını çatar / Gamzesi sineme batar</p><p>Ak elleri kalem tutar / Yazar Elif Elif diye&nbsp;</p><p><b>Yar sana ...</b></p><p><b><br></b></p><p>Karac’oğlan eymelerin / Gönül vermez değmelerin</p><p>İliklenmiş düğmelerin / Çözer Elif Elif diye&nbsp;</p><p><b>Yar sana ...</b></p>",
-  "sozler_duz": "İncecikten bir kar yağar / Tozar Elif Elif diye\n\nDeli gönül hayran olmuş / Gezer Elif Elif diye\n\nYar sana hayran - can sana kurban\n\nDerdime derman bulamam / Aşktan el aman\n\nElif kaşlarını çatar / Gamzesi sineme batar\n\nAk elleri kalem tutar / Yazar Elif Elif diye \n\nYar sana ...\n\nKarac’oğlan eymelerin / Gönül vermez değmelerin\n\nİliklenmiş düğmelerin / Çözer Elif Elif diye \n\nYar sana ...",
+  "sozler_html": "<p>İncecikten bir kar yağar&nbsp;</p><p>Tozar Elif Elif diye</p><p>Deli gönül hayran olmuş&nbsp;</p><p>Gezer Elif Elif diye</p><p><br></p><p><b>Yar sana hayran&nbsp;</b></p><p><b>can sana kurban</b></p><p><b>Derdime derman bulamam&nbsp;</b></p><p><b>Aşktan el aman</b></p><p><br></p><p>Elif kaşlarını çatar&nbsp;</p><p>Gamzesi sineme batar</p><p>Ak elleri kalem tutar&nbsp;</p><p>Yazar Elif Elif diye&nbsp;</p><p><br></p><p><b>Yar sana ...</b></p><p><br></p><p>Karac’oğlan eymelerin&nbsp;</p><p>Gönül vermez değmelerin</p><p>İliklenmiş düğmelerin&nbsp;</p><p>Çözer Elif Elif diye&nbsp;</p><p><br></p><p><b>Yar sana ...</b></p><br>",
+  "sozler_duz": "İncecikten bir kar yağar \n\nTozar Elif Elif diye\n\nDeli gönül hayran olmuş \n\nGezer Elif Elif diye\n\nYar sana hayran \n\ncan sana kurban\n\nDerdime derman bulamam \n\nAşktan el aman\n\nElif kaşlarını çatar \n\nGamzesi sineme batar\n\nAk elleri kalem tutar \n\nYazar Elif Elif diye \n\nYar sana ...\n\nKarac’oğlan eymelerin \n\nGönül vermez değmelerin\n\nİliklenmiş düğmelerin \n\nÇözer Elif Elif diye \n\nYar sana ...",
   "meta": {
     "soz": "Karacaoğlan",
     "muzik": "Saadettin Kaynak",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 5175,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-21T00:58:27.702Z",
+    "son_degisiklik": "2026-05-18T22:02:55.817Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
