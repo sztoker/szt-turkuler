@@ -1,26 +1,16 @@
 {
   "id": "merhaba",
-  "baslik": "Merhaba_",
-  "sozler_html": "<p>Dünyanın Ucunda Bir Gül AçılmışEfil Efil Esen Yele MerhabaKaranlığın Sonu Bir Ulu ŞafakSarp Kayadan Geçen Yola MerhabaAcıda Kahırda Çekmiş GeliyorGüneşten Boşanmış Kopmuş Geliyor</p>",
-  "sozler_duz": "Dünyanın Ucunda Bir Gül AçılmışEfil Efil Esen Yele MerhabaKaranlığın Sonu Bir Ulu ŞafakSarp Kayadan Geçen Yola MerhabaAcıda Kahırda Çekmiş GeliyorGüneşten Boşanmış Kopmuş Geliyor",
+  "baslik": "Merhaba",
+  "sozler_html": "<p>Dünyanın ucunda bir gül açılmış</p><p>Efil efil esen yele merhaba</p><p>&nbsp;</p><p>Karanlığın sonu bir ulu şafak</p><p>Sarp kayadan geçen yola merhaba</p><p>&nbsp;</p><p>Acıda kahırda çekmiş geliyor</p><p>Güneşten boşanmış kopmuş geliyor</p>",
+  "sozler_duz": "Dünyanın ucunda bir gül açılmış\n\nEfil efil esen yele merhaba\n\n \n\nKaranlığın sonu bir ulu şafak\n\nSarp kayadan geçen yola merhaba\n\n \n\nAcıda kahırda çekmiş geliyor\n\nGüneşten boşanmış kopmuş geliyor",
   "meta": {
-    "yore": "Yaşar Kemal",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Zülfü Livaneli",
-    "aciklama": ""
+    "soz": "Yaşar Kemal",
+    "muzik": "Zülfü Livaneli"
   },
   "sistem": {
     "eski_id": 5975,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T19:54:19.981Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
