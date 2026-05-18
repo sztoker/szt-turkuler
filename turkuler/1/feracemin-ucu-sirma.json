@@ -1,26 +1,17 @@
 {
   "id": "feracemin-ucu-sirma",
-  "baslik": "Feracemin Ucu Sırma_",
-  "sozler_html": "<p>Feracemin (Aman Aman) Ucu SırmaBıyıkları Burma BurmaGit Güzel Karşımda DurmaAl Hançeri Vur BoynumaSaat De Beşte Gel YanımaFeracemin (Aman Aman) Al YakasıTerziler Vurur MakasıKolu Dibinden KopasıAl Hançeri Vur Ben ÖlemKapınızda Kölen Olam</p>",
-  "sozler_duz": "Feracemin (Aman Aman) Ucu SırmaBıyıkları Burma BurmaGit Güzel Karşımda DurmaAl Hançeri Vur BoynumaSaat De Beşte Gel YanımaFeracemin (Aman Aman) Al YakasıTerziler Vurur MakasıKolu Dibinden KopasıAl Hançeri Vur Ben ÖlemKapınızda Kölen Olam",
+  "baslik": "Feracemin Ucu Sırma",
+  "sozler_html": "<p>Feracemin <i>(aman aman)</i> ucu\nsırma</p><p>Bıyıkları burma burma</p><p>Git güzel karşımda durma</p><p>Al hançeri vur boynuma</p><p>Saat de beşte gel yanıma</p><p>&nbsp;</p><p>Feracemin<i> (aman aman)</i> al\nyakası</p><p>Terziler vurur makası</p><p>Kolu dibinden kopası</p><p>Al hançeri vur ben ölem</p><p>Kapınızda kölen olam</p>",
+  "sozler_duz": "Feracemin (aman aman) ucu sırma\n\nBıyıkları burma burma\n\nGit güzel karşımda durma\n\nAl hançeri vur boynuma\n\nSaat de beşte gel yanıma\n\n \n\nFeracemin (aman aman) al yakası\n\nTerziler vurur makası\n\nKolu dibinden kopası\n\nAl hançeri vur ben ölem\n\nKapınızda kölen olam",
   "meta": {
     "yore": "Kütahya",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ahmet İnegöllüoğlu (Hisarlı)-Yücel Paşmak",
-    "aciklama": ""
+    "derleyen": "Yücel Paşmakcı",
+    "kaynak_kisi": "Ahmet İnegöllüoğlu (Hisarlı)"
   },
   "sistem": {
     "eski_id": 5322,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T17:51:15.331Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
