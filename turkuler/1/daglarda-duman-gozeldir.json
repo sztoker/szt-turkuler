@@ -1,7 +1,7 @@
 {
   "id": "daglarda-duman-gozeldir",
   "baslik": "DAĞLARDA DUMAN GÖZELDİR",
-  "sozler_html": "<p>Dağlarda duman gözeldir</p><p>Kaşları keman gözeldir</p><p>Sözüne heç bir söz olmaz&nbsp;</p><p>Gözleri yaman gözeldir</p><p><br></p><p>Alırsan aklımı baştan&nbsp;</p><p>Geçmek olmaz bu göz kaştan</p><p>Seni men yaman sevirem&nbsp;</p><p>Ürehten candan sevirem</p><p>Beri gel eyle vefa yar&nbsp;</p><p>Eşikem etme cefa yar</p><p>Söğütler boyun eğende&nbsp;</p><p>Sene men yarim deyende</p><p>Sanıram dünya menimdir&nbsp;</p><p>Gözüme gözün değende</p><p><br></p><p>Alırsan aklımı ...</p><br>",
+  "sozler_html": "<p>Dağlarda duman gözeldir</p><p>Kaşları keman gözeldir</p><p>Sözüne heç bir söz olmaz&nbsp;</p><p>Gözleri yaman gözeldir</p><p><br></p><p><b>Alırsan aklımı baştan&nbsp;</b></p><p><b>Geçmek olmaz bu göz kaştan</b></p><p><b>Seni men yaman sevirem&nbsp;</b></p><p><b>Ürehten candan sevirem</b></p><p><b>Beri gel eyle vefa yar&nbsp;</b></p><p><b>Eşikem etme cefa yar</b></p><p><br></p><p>Söğütler boyun eğende&nbsp;</p><p>Sene men yarim deyende</p><p>Sanıram dünya menimdir&nbsp;</p><p>Gözüme gözün değende</p><p><br></p><p><b>Alırsan aklımı ...</b></p><br>",
   "sozler_duz": "Dağlarda duman gözeldir\n\nKaşları keman gözeldir\n\nSözüne heç bir söz olmaz \n\nGözleri yaman gözeldir\n\nAlırsan aklımı baştan \n\nGeçmek olmaz bu göz kaştan\n\nSeni men yaman sevirem \n\nÜrehten candan sevirem\n\nBeri gel eyle vefa yar \n\nEşikem etme cefa yar\n\nSöğütler boyun eğende \n\nSene men yarim deyende\n\nSanıram dünya menimdir \n\nGözüme gözün değende\n\nAlırsan aklımı ...",
   "meta": {
     "yore": "AZERİ"
@@ -9,7 +9,7 @@
   "sistem": {
     "eski_id": 645,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-18T16:52:09.105Z",
+    "son_degisiklik": "2026-05-18T18:07:12.411Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
