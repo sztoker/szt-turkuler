@@ -1,8 +1,8 @@
 {
   "id": "gunu-gelir-bu-toprakta-kalir-adin",
   "baslik": "GÜNÜ GELİR (Bu toprakta kalır adın)",
-  "sozler_html": "<p>Bu toprakta kalır adın tohumların karasında (2</p>\n<p>Yeşilin de tarlaların başakların sarısında (2</p>\n<p>Günü gelir dağa çıkar / Yıldızlardan şiir çeker</p>\n<p>Kanımızı siler yıkar / Suların en durusunda (...2</p>\n<p class=\"bos\"></p>\n<p>Yıllar geçse de aradan kopar gelir ırmaklardan</p>\n<p>Işır yine kurşunlanan dostlarının yarasından</p>\n<p>Bayrak olur bize yarın / Rüzgarıyla ilkbaharın</p>\n<p>Dalgalanır genç kızların / Gözlerinin karasında</p>",
-  "sozler_duz": "Bu toprakta kalır adın tohumların karasında (2\n\nYeşilin de tarlaların başakların sarısında (2\n\nGünü gelir dağa çıkar / Yıldızlardan şiir çeker\n\nKanımızı siler yıkar / Suların en durusunda (...2\n\nYıllar geçse de aradan kopar gelir ırmaklardan\n\nIşır yine kurşunlanan dostlarının yarasından\n\nBayrak olur bize yarın / Rüzgarıyla ilkbaharın\n\nDalgalanır genç kızların / Gözlerinin karasında",
+  "sozler_html": "<p>Bu toprakta kalır adın&nbsp;</p><p>tohumların karasında (2</p>\n<p>Yeşilin de tarlaların&nbsp;</p><p>başakların sarısında (2</p>\n<p><br></p><p><b>Günü gelir dağa çıkar&nbsp;</b></p><p><b>Yıldızlardan şiir çeker</b></p>\n<p><b>Kanımızı siler yıkar&nbsp;</b></p><p><b>Suların en durusunda (...2</b></p>\n<p class=\"bos\"></p>\n<p>Yıllar geçse de aradan&nbsp;</p><p>kopar gelir ırmaklardan</p>\n<p>Işır yine kurşunlanan&nbsp;</p><p>dostlarının yarasından</p>\n<p><br></p><p><b>Bayrak olur bize yarın&nbsp;</b></p><p><b>Rüzgarıyla ilkbaharın</b></p>\n<p><b>Dalgalanır genç kızların&nbsp;</b></p><p><b>Gözlerinin karasında</b></p>",
+  "sozler_duz": "Bu toprakta kalır adın \n\ntohumların karasında (2\n\nYeşilin de tarlaların \n\nbaşakların sarısında (2\n\nGünü gelir dağa çıkar \n\nYıldızlardan şiir çeker\n\nKanımızı siler yıkar \n\nSuların en durusunda (...2\n\nYıllar geçse de aradan \n\nkopar gelir ırmaklardan\n\nIşır yine kurşunlanan \n\ndostlarının yarasından\n\nBayrak olur bize yarın \n\nRüzgarıyla ilkbaharın\n\nDalgalanır genç kızların \n\nGözlerinin karasında",
   "meta": {
     "soz": "Ülkü Tamer",
     "muzik": "Grup Yorum"
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 880,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-17T20:54:39.641Z",
+    "son_degisiklik": "2026-05-18T18:53:45.749Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
