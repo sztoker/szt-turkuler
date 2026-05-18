@@ -1,26 +1,15 @@
 {
   "id": "nefes-zahit-bizi",
   "baslik": "NEFES ( Zahit Bizi )",
-  "sozler_html": "<p>Zahit bizi tan eyleme Hay hay</p>\n<p>Hak ismin okur dilimiz -hey canım</p>\n<p>Sakın efsane söyleme Hay hay</p>\n<p>Hazrete varır yolumuz - eyvallah hey hey dost</p>\n<p class=\"bos\"></p>\n<p>Sayılmayız parmağ ile / Tükenmeyiz kırmağ ile</p>\n<p>Taşramızdan sormağ ile/Kimse bilmez ahvalimiz</p>\n<p class=\"bos\"></p>\n<p>Erenlerin birdir yolu / Cümlesine dedik beli</p>\n<p>Gören bizi sanır deli / Usludan yeğdir delimiz</p>\n<p class=\"bos\"></p>\n<p>Muhyi sana olan himmet   /   Aşık isen cana minnet</p>\n<p>Cümle alemlere rahmet /   Saçar şu yoksul elimiz</p>",
-  "sozler_duz": "Zahit bizi tan eyleme Hay hay Hak ismin okur dilimiz -hey canım Sakın efsane söyleme Hay hay Hazrete varır yolumuz - eyvallah hey hey dost Sayılmayız parmağ ile / Tükenmeyiz kırmağ ile Taşramızdan sormağ ile/Kimse bilmez ahvalimiz Erenlerin birdir yolu / Cümlesine dedik beli Gören bizi sanır deli / Usludan yeğdir delimiz Muhyi sana olan himmet / Aşık isen cana minnet Cümle alemlere rahmet / Saçar şu yoksul elimiz",
+  "sozler_html": "<p>Zahit bizi tan eyleme <i>hay hay</i></p><p>Hak ismin okur dilimiz -<i>hey canım</i></p><p>Sakın efsane söyleme <i>hay hay</i></p><p>Hazrete varır yolumuz-<i>eyvallah hey hey dost</i></p><p><br></p><p>Sayılmayız parmağ ile&nbsp;</p><p>Tükenmeyiz kırmağ ile</p><p>Taşramızdan sormağ ile</p><p>Kimse bilmez ahvalimiz</p><p><br></p><p>Erenlerin birdir yolu&nbsp;</p><p>Cümlesine dedik beli</p><p>Gören bizi sanır deli&nbsp;</p><p>Usludan yeğdir delimiz</p><p><br></p><p>Muhyi sana olan himmet&nbsp;</p><p>Aşık isen cana minnet</p><p>Cümle alemlere rahmet&nbsp;</p><p>Saçar şu yoksul elimiz</p><br>",
+  "sozler_duz": "Zahit bizi tan eyleme hay hay\n\nHak ismin okur dilimiz -hey canım\n\nSakın efsane söyleme hay hay\n\nHazrete varır yolumuz-eyvallah hey hey dost\n\nSayılmayız parmağ ile \n\nTükenmeyiz kırmağ ile\n\nTaşramızdan sormağ ile\n\nKimse bilmez ahvalimiz\n\nErenlerin birdir yolu \n\nCümlesine dedik beli\n\nGören bizi sanır deli \n\nUsludan yeğdir delimiz\n\nMuhyi sana olan himmet \n\nAşık isen cana minnet\n\nCümle alemlere rahmet \n\nSaçar şu yoksul elimiz",
   "meta": {
-    "yore": "",
-    "turu": "1",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "Muhyi",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "La",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Muhyi"
   },
   "sistem": {
     "eski_id": 238,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T21:19:22.506Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
