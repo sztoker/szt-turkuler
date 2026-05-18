@@ -1,26 +1,16 @@
 {
   "id": "divane-asik-gibi",
   "baslik": "Divane Aşık Gibi_",
-  "sozler_html": "<p>ErkekDivane Aşık Gibi De ;Dolanırım YollardaKız Senun SebebineKaldım İstanbul'larda Kız Boban Beni Bobamdan DaBir Kerrecuk İstesunAllah'ın Emru İlanGelinum Olsun Desin Erkek Sar Belune Belune Da Trabulus KuşağıE Sen De Der Misun Alsam Ha Bu Uşağı Kız Yüksek Dağun Guşuyum Da Selviye Gonacağumİste Beni Bobamdan Vermezse Gaçacağum Beraber Al Şalum Yeşil Şalum Da Dünyayı DolaşalımSen Yağmur Ol Ben BulutMaçka’da Buluşalım</p>",
-  "sozler_duz": "ErkekDivane Aşık Gibi De ;Dolanırım YollardaKız Senun SebebineKaldım İstanbul'larda Kız Boban Beni Bobamdan DaBir Kerrecuk İstesunAllah'ın Emru İlanGelinum Olsun Desin Erkek Sar Belune Belune Da Trabulus KuşağıE Sen De Der Misun Alsam Ha Bu Uşağı Kız Yüksek Dağun Guşuyum Da Selviye Gonacağumİste Beni Bobamdan Vermezse Gaçacağum Beraber Al Şalum Yeşil Şalum Da Dünyayı DolaşalımSen Yağmur Ol Ben BulutMaçka’da Buluşalım",
+  "sozler_html": "<p>Divane aşık gibi de ;</p><p>Dolanırım yollarda</p><p>Kız senun sebebine</p><p>Kaldım istanbul'larda&nbsp;</p><p>&nbsp;</p><p>Kız boban beni bobamdan da</p><p>Bir kerrecuk istesun</p><p>Allah'ın emru ilan</p><p>Gelinum olsun desin</p><p>&nbsp;</p><p>Sar belune belune da&nbsp;</p><p>Trabulus kuşağı</p><p>E sen de der misun&nbsp;</p><p>Alsam ha bu uşağı&nbsp;</p><p>&nbsp;</p><p>Yüksek dağun guşuyum da&nbsp;</p><p>Selviye gonacağum</p><p>İste beni bobamdan&nbsp;</p><p>Vermezse gaçacağum&nbsp;</p><p>&nbsp;</p><p>Al şalum yeşil şalum da&nbsp;</p><p>Dünyayı dolaşalım</p><p>Sen yağmur ol ben bulut</p><p>Maçka’da buluşalım</p>",
+  "sozler_duz": "Divane aşık gibi de ;\n\nDolanırım yollarda\n\nKız senun sebebine\n\nKaldım istanbul'larda \n\n \n\nKız boban beni bobamdan da\n\nBir kerrecuk istesun\n\nAllah'ın emru ilan\n\nGelinum olsun desin\n\n \n\nSar belune belune da \n\nTrabulus kuşağı\n\nE sen de der misun \n\nAlsam ha bu uşağı \n\n \n\nYüksek dağun guşuyum da \n\nSelviye gonacağum\n\nİste beni bobamdan \n\nVermezse gaçacağum \n\n \n\nAl şalum yeşil şalum da \n\nDünyayı dolaşalım\n\nSen yağmur ol ben bulut\n\nMaçka’da buluşalım",
   "meta": {
     "yore": "Trabzon/Maçka",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Hasan Tunç-Cemile Cevher",
-    "aciklama": ""
+    "kaynak_kisi": "Hasan Tunç-Cemile Cevher"
   },
   "sistem": {
     "eski_id": 3817,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T17:01:05.946Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
