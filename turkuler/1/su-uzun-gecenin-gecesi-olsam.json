@@ -1,26 +1,17 @@
 {
   "id": "su-uzun-gecenin-gecesi-olsam",
-  "baslik": "Şu Uzun Gecenin Gecesi Olsam_",
-  "sozler_html": "<p>Şu Uzun Gecenin Gecesi OlsamSılada Bir Evin Bacası Olsam (Anan Anam Anam)Dediler Ki Nazlı Yarin Pek HastaBaşında Okuyan Hocası Olsam (Anan Anam Anam)Evlerinin Önü Üç Ağaç ÇınarDillerim Tutuşur Yüreğim Yanar (Anan Anam Anam)Eşinden Ayrılan Böyle Mi YanarAnam Anam Hangi Derdime Yanam (Anan Anam Anam)Kâtipler Oturmuş Yazıya BakmazHerkes Sevdiğini Dilden Bırakmaz (Anan Anam Anam)Hey Allah'tan Korkmaz, Kuldan UtanmazGönül Defterinden Sildin Mi Beni (Anan Anam Anam)</p>",
-  "sozler_duz": "Şu Uzun Gecenin Gecesi OlsamSılada Bir Evin Bacası Olsam (Anan Anam Anam)Dediler Ki Nazlı Yarin Pek HastaBaşında Okuyan Hocası Olsam (Anan Anam Anam)Evlerinin Önü Üç Ağaç ÇınarDillerim Tutuşur Yüreğim Yanar (Anan Anam Anam)Eşinden Ayrılan Böyle Mi YanarAnam Anam Hangi Derdime Yanam (Anan Anam Anam)Kâtipler Oturmuş Yazıya BakmazHerkes Sevdiğini Dilden Bırakmaz (Anan Anam Anam)Hey Allah'tan Korkmaz, Kuldan UtanmazGönül Defterinden Sildin Mi Beni (Anan Anam Anam)",
+  "baslik": "Şu Uzun Gecenin Gecesi Olsam",
+  "sozler_html": "<p>Şu uzun gecenin gecesi olsam</p><p>Sılada bir evin bacası olsam-<i>aman aman aman</i></p><p>Dediler ki nazlı yarin pek hasta</p><p>Başında okuyan hocası olsam-<i>aman aman aman</i></p><p><br></p><p>Evlerinin önü üç ağaç çınar</p><p>Dillerim tutuşur yüreğim yanar</p><p>&nbsp;eşinden ayrılan böyle mi yanar</p><p>Anam anam hangi derdime yanam</p><p><br></p><p>Kâtipler oturmuş yazıya bakmaz</p><p>Herkes sevdiğini dilden bırakmaz</p><p>Hey allah'tan korkmaz, kuldan utanmaz</p><p>Gönül defterinden sildin mi beni</p><br>",
+  "sozler_duz": "Şu uzun gecenin gecesi olsam\n\nSılada bir evin bacası olsam-aman aman aman\n\nDediler ki nazlı yarin pek hasta\n\nBaşında okuyan hocası olsam-aman aman aman\n\nEvlerinin önü üç ağaç çınar\n\nDillerim tutuşur yüreğim yanar\n\n eşinden ayrılan böyle mi yanar\n\nAnam anam hangi derdime yanam\n\nKâtipler oturmuş yazıya bakmaz\n\nHerkes sevdiğini dilden bırakmaz\n\nHey allah'tan korkmaz, kuldan utanmaz\n\nGönül defterinden sildin mi beni",
   "meta": {
     "yore": "Çorum",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Niyazi Biçerel-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Niyazi Biçerel"
   },
   "sistem": {
     "eski_id": 6404,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T21:13:57.357Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
