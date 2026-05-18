@@ -1,26 +1,17 @@
 {
   "id": "kutahyanin-pinarlari",
-  "baslik": "Kütahya'nın Pınarları_",
-  "sozler_html": "<p>Kütahya'nın Pınarları AkışırDevriyeler Kol Kol Olmuş Bakışır.Asalı'ya Çuha Şalvar YakışırAman Aman Vehbi Öyle De Böyle Olur Mu.Ah Ben Ölürsem Dünya Sana Galır Mı.Salın Gelip Musallaya Dayandı,Gar Beyaz Vehbim Al Kanlara Boyandı.Seni Vuran Oğlan Nasıl DayandıAman Aman Vehbi Öyle De Böyle Olur MuAh Ben Ölürsem Dünya Sana Galır Mı</p>",
-  "sozler_duz": "Kütahya'nın Pınarları AkışırDevriyeler Kol Kol Olmuş Bakışır.Asalı'ya Çuha Şalvar YakışırAman Aman Vehbi Öyle De Böyle Olur Mu.Ah Ben Ölürsem Dünya Sana Galır Mı.Salın Gelip Musallaya Dayandı,Gar Beyaz Vehbim Al Kanlara Boyandı.Seni Vuran Oğlan Nasıl DayandıAman Aman Vehbi Öyle De Böyle Olur MuAh Ben Ölürsem Dünya Sana Galır Mı",
+  "baslik": "Kütahya'nın Pınarları",
+  "sozler_html": "<p>Kütahya'nın pınarları akışır</p><p>Devriyeler kol kol olmuş bakışır</p><p>Asalı'ya çuha şalvar yakışır</p><p><br></p><p><b>Amman amman vehbim&nbsp;</b></p><p><b>Öyle de böyle olur mu</b></p><p><b>Ah ben ölürsem&nbsp;</b></p><p><b>Dünya sana galır mı</b></p><p><br></p><p>Salın gelip musallaya dayandı</p><p>Gar beyaz vehbim al kanlara boyandı</p><p>Seni vuran oğlan nasıl dayandı</p><br><p>Amman amman...</p>",
+  "sozler_duz": "Kütahya'nın pınarları akışır\n\nDevriyeler kol kol olmuş bakışır\n\nAsalı'ya çuha şalvar yakışır\n\nAmman amman vehbim \n\nÖyle de böyle olur mu\n\nAh ben ölürsem \n\nDünya sana galır mı\n\nSalın gelip musallaya dayandı\n\nGar beyaz vehbim al kanlara boyandı\n\nSeni vuran oğlan nasıl dayandı\n\nAmman amman...",
   "meta": {
     "yore": "Kütahya",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ahmet İnegöllüoğlu (Hisarlı Ahmet)-Yücel P",
-    "aciklama": ""
+    "derleyen": "Yücel Paşmakcı",
+    "kaynak_kisi": "Hisarlı Ahmet"
   },
   "sistem": {
     "eski_id": 5896,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T19:37:49.043Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
