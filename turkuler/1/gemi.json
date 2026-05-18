@@ -1,13 +1,13 @@
 {
   "id": "gemi",
   "baslik": "GEMİ",
-  "sozler_html": "<p>Ah, küçücük gemi, sulara attın şimdi kendini, delisin<br>Ah, yakarlar seni, dönmezsin bir daha geri, delisin<br>Ah, peşimde rüzgâr, ne yağmurlar dost ne bir kıyı var, deliyim<br>Ah, düşlerim kaldı, yalnızım, düşlerim kaldı, deliyim<br><br><b>Kime sorsam dönüşüm yok, nereye gitsem mavi<br>Yelkenimde deli rüzgâr, her yanım tuz, deliyim</b><br><br>Ah, yaralı kalbin, yanıp gidecek yaralı kalbin, delisin<br>Ah, küçücük gemi, dönmezsin bir daha geri, delisin<br>Ah, deniz olayım, tuzumu rüzgârda savurayım, deliyim<br>Ah, ne yelken ne yel, köpüklerde kaybolayım, deliyim<br><br><b>Kime sorsam dönüşüm yok, her gemi biraz deniz<br>Her yanım mavi, her yanım yel, her yanım tuz.</b></p>",
-  "sozler_duz": "Ah, küçücük gemi, sulara attın şimdi kendini, delisin\nAh, yakarlar seni, dönmezsin bir daha geri, delisin\nAh, peşimde rüzgâr, ne yağmurlar dost ne bir kıyı var, deliyim\nAh, düşlerim kaldı, yalnızım, düşlerim kaldı, deliyim\n\nKime sorsam dönüşüm yok, nereye gitsem mavi\nYelkenimde deli rüzgâr, her yanım tuz, deliyim\n\nAh, yaralı kalbin, yanıp gidecek yaralı kalbin, delisin\nAh, küçücük gemi, dönmezsin bir daha geri, delisin\nAh, deniz olayım, tuzumu rüzgârda savurayım, deliyim\nAh, ne yelken ne yel, köpüklerde kaybolayım, deliyim\n\nKime sorsam dönüşüm yok, her gemi biraz deniz\nHer yanım mavi, her yanım yel, her yanım tuz.",
+  "sozler_html": "<p>Ah, küçücük gemi</p><p>Sulara attın şimdi kendini, <i>delisin</i></p><p>Ah, yakarlar seni</p><p>dönmezsin bir daha geri, <i>delisin</i></p><p>Ah, peşimde rüzgâr</p><p>Ne yağmurlar dost ne bir kıyı var, <i>deliyim</i></p><p>Ah, düşlerim kaldı</p><p>Yalnızım, düşlerim kaldı, <i>deliyim</i></p><p><br></p><p><b>Kime sorsam dönüşüm yok</b></p><p><b>Nereye gitsem mavi</b></p><p><b>Yelkenimde deli rüzgâr</b></p><p><b>Her yanım tuz, deliyim</b></p><p><br></p><p>Ah, yaralı kalbin</p><p>Yanıp gidecek yaralı kalbin, <i>delisin</i></p><p>Ah, küçücük gemi</p><p>Dönmezsin bir daha geri, <i>delisin</i></p><p>Ah, deniz olayım</p><p>Tuzumu rüzgârda savurayım, <i>deliyim</i></p><p>Ah, ne yelken ne yel</p><p>Köpüklerde kaybolayım, <i>deliyim</i></p><p><br></p><p><b>Kime sorsam dönüşüm...</b></p><br>",
+  "sozler_duz": "Ah, küçücük gemi\n\nSulara attın şimdi kendini, delisin\n\nAh, yakarlar seni\n\ndönmezsin bir daha geri, delisin\n\nAh, peşimde rüzgâr\n\nNe yağmurlar dost ne bir kıyı var, deliyim\n\nAh, düşlerim kaldı\n\nYalnızım, düşlerim kaldı, deliyim\n\nKime sorsam dönüşüm yok\n\nNereye gitsem mavi\n\nYelkenimde deli rüzgâr\n\nHer yanım tuz, deliyim\n\nAh, yaralı kalbin\n\nYanıp gidecek yaralı kalbin, delisin\n\nAh, küçücük gemi\n\nDönmezsin bir daha geri, delisin\n\nAh, deniz olayım\n\nTuzumu rüzgârda savurayım, deliyim\n\nAh, ne yelken ne yel\n\nKöpüklerde kaybolayım, deliyim\n\nKime sorsam dönüşüm...",
   "meta": {
     "soz": "Hüsnü ARKAN",
     "muzik": "Hüsnü ARKAN"
   },
   "sistem": {
-    "son_degisiklik": "2026-05-16T10:38:57.720Z"
+    "son_degisiklik": "2026-05-18T21:40:51.432Z"
   }
 }
