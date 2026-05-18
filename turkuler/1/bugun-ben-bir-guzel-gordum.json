@@ -1,26 +1,17 @@
 {
   "id": "bugun-ben-bir-guzel-gordum",
-  "baslik": "Bugün Ben Bir Güzel Gördüm_",
-  "sozler_html": "<p>Bugün Ben Bir Güzel GördümBakar Cennet SarayındanKamaştı Gözümün NuruOnun Hüsnü CemalindenBahçanın Kapısın AçtımSanırsın Cennete DüştümSevdim Coştum HelallaştımBuse Aldım YanağındanSalındı Bahçaya GirdiÇiçekler Selama DurduMor Menekşe Boyun EğdiGül Kızardı HicabındanBahçanın Kapısı GüldürDalında Öten BülbüldürEmrah Da Bir Edna KuldurBağışla Geç Günahından</p>",
-  "sozler_duz": "Bugün Ben Bir Güzel GördümBakar Cennet SarayındanKamaştı Gözümün NuruOnun Hüsnü CemalindenBahçanın Kapısın AçtımSanırsın Cennete DüştümSevdim Coştum HelallaştımBuse Aldım YanağındanSalındı Bahçaya GirdiÇiçekler Selama DurduMor Menekşe Boyun EğdiGül Kızardı HicabındanBahçanın Kapısı GüldürDalında Öten BülbüldürEmrah Da Bir Edna KuldurBağışla Geç Günahından",
+  "baslik": "Bugün Ben Bir Güzel Gördüm",
+  "sozler_html": "<p>Bugün ben bir güzel gördüm</p><p>Bakar cennet sarayından</p><p>Kamaştı gözümün nuru</p><p>Onun hüsnü cemalinden</p><p><br></p><p>Bahçanın kapısın açtım</p><p>Sanırsın cennete düştüm</p><p>Sevdim coştum helallaştım</p><p>Buse aldım yanağından</p><p><br></p><p>Salındı bahçaya girdi</p><p>Çiçekler selama durdu</p><p>Mor menekşe boyun eğdi</p><p>Gül kızardı hicabından</p><p><br></p><p>Bahçanın kapısı güldür</p><p>Dalında öten bülbüldür</p><p>Emrah da bir edna kuldur</p><p>Bağışla geç günahından</p><br>",
+  "sozler_duz": "Bugün ben bir güzel gördüm\n\nBakar cennet sarayından\n\nKamaştı gözümün nuru\n\nOnun hüsnü cemalinden\n\nBahçanın kapısın açtım\n\nSanırsın cennete düştüm\n\nSevdim coştum helallaştım\n\nBuse aldım yanağından\n\nSalındı bahçaya girdi\n\nÇiçekler selama durdu\n\nMor menekşe boyun eğdi\n\nGül kızardı hicabından\n\nBahçanın kapısı güldür\n\nDalında öten bülbüldür\n\nEmrah da bir edna kuldur\n\nBağışla geç günahından",
   "meta": {
     "yore": "Tokat",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "İbrahim Karataş-Mustafa Hoşsu",
-    "aciklama": ""
+    "derleyen": "Mustafa Hoşsu",
+    "kaynak_kisi": "İbrahim Karataş"
   },
   "sistem": {
     "eski_id": 3598,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T21:37:05.250Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
