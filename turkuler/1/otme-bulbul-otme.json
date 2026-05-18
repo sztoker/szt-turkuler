@@ -1,26 +1,17 @@
 {
   "id": "otme-bulbul-otme",
-  "baslik": "Ötme Bülbül Ötme_",
-  "sozler_html": "<p>Ötme Bülbül Ötme, Sen Değil BağımDost Senin Derdinden Ben Yana YanaTükendi Fitilim Eridi YağımDost Senin Derdinden Ben Yana YanaDeryadan Bölünmüş Sellere DöndümAteşi Kararmış Küllere DöndümVakitsiz Açılmış Güllere DöndümDost Senin Derdinden Ben Yana YanaHaberin Duyarsın Peyikler İleYaramı Sarsınlar Şeyikler İleKırk Yıl Dağda Gezdim Geyikler İleDost Senin Derdinden Ben Yana YanaAbdal Pir Sultan'ım, Doldum EksildimYemeden İçmeden Sudan KesildimZülfün Kemendine Kondum AsıldımDost Senin Derdinden Ben Yana Yana</p>",
-  "sozler_duz": "Ötme Bülbül Ötme, Sen Değil BağımDost Senin Derdinden Ben Yana YanaTükendi Fitilim Eridi YağımDost Senin Derdinden Ben Yana YanaDeryadan Bölünmüş Sellere DöndümAteşi Kararmış Küllere DöndümVakitsiz Açılmış Güllere DöndümDost Senin Derdinden Ben Yana YanaHaberin Duyarsın Peyikler İleYaramı Sarsınlar Şeyikler İleKırk Yıl Dağda Gezdim Geyikler İleDost Senin Derdinden Ben Yana YanaAbdal Pir Sultan'ım, Doldum EksildimYemeden İçmeden Sudan KesildimZülfün Kemendine Kondum AsıldımDost Senin Derdinden Ben Yana Yana",
+  "baslik": "Ötme Bülbül Ötme",
+  "sozler_html": "<p>Ötme bülbül ötme, şen değil bağım</p><p>Dost senin derdinden ben yana yana</p><p>Tükendi fitilim eridi yağım</p><p>Dost senin derdinden ben yana yana</p><p><br></p><p>Deryadan bölünmüş sellere döndüm</p><p>Ateşi kararmış küllere döndüm</p><p>Vakitsiz açılmış güllere döndüm</p><p>Dost senin derdinden ben yana yana</p><p><br></p><p>Haberin duyarsın peyikler ile</p><p>Yaramı sarsınlar şeyikler ile</p><p>Kırk yıl dağda gezdim geyikler ile</p><p>Dost senin derdinden ben yana yana</p><p><br></p><p>Abdal Pir Sultan'ım, doldum eksildim</p><p>Yemeden içmeden sudan kesildim</p><p>Zülfün kemendine kondum asıldım</p><p>Dost senin derdinden ben yana yana</p><br>",
+  "sozler_duz": "Ötme bülbül ötme, şen değil bağım\n\nDost senin derdinden ben yana yana\n\nTükendi fitilim eridi yağım\n\nDost senin derdinden ben yana yana\n\nDeryadan bölünmüş sellere döndüm\n\nAteşi kararmış küllere döndüm\n\nVakitsiz açılmış güllere döndüm\n\nDost senin derdinden ben yana yana\n\nHaberin duyarsın peyikler ile\n\nYaramı sarsınlar şeyikler ile\n\nKırk yıl dağda gezdim geyikler ile\n\nDost senin derdinden ben yana yana\n\nAbdal Pir Sultan'ım, doldum eksildim\n\nYemeden içmeden sudan kesildim\n\nZülfün kemendine kondum asıldım\n\nDost senin derdinden ben yana yana",
   "meta": {
     "yore": "Sivas",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Hasan Eylen-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Hasan Eylen"
   },
   "sistem": {
     "eski_id": 6130,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T20:56:27.264Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
