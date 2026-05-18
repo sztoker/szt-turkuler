@@ -1,15 +1,15 @@
 {
   "id": "benimle-oynar-misin",
   "baslik": "BENİMLE OYNAR MISIN",
-  "sozler_html": "<p>Su olsam ateş olsam / Göklerdeki güneş olsam</p><p>Konuşmasam taş olsam / Yine de oynar mısın benimle</p><p><br></p><p>Sus olsam kusur olsam / Ağızdaki  küfür olsam</p><p>Doğuştan esir olsam / Yine de oynar mısın benimle</p><p><br></p><p>Sayılmasam kaç olsam / Topraktaki güç olsam</p><p>Aptal gibi suç olsam / Yine de oynar mısın benimle</p><p><br></p><p>Benimle oynar mısın (2</p>",
-  "sozler_duz": "Su olsam ateş olsam / Göklerdeki güneş olsam\n\nKonuşmasam taş olsam / Yine de oynar mısın benimle\n\nSus olsam kusur olsam / Ağızdaki küfür olsam\n\nDoğuştan esir olsam / Yine de oynar mısın benimle\n\nSayılmasam kaç olsam / Topraktaki güç olsam\n\nAptal gibi suç olsam / Yine de oynar mısın benimle\n\nBenimle oynar mısın (2",
+  "sozler_html": "<p>Su olsam ateş olsam&nbsp;</p><p>Göklerdeki güneş olsam</p><p>Konuşmasam taş olsam&nbsp;</p><p>Yine de oynar mısın benimle</p><p><br></p><p>Sus olsam kusur olsam&nbsp;</p><p>Ağızdaki küfür olsam</p><p>Doğuştan esir olsam&nbsp;</p><p>Yine de oynar mısın benimle</p><p><br></p><p>Sayılmasam kaç olsam&nbsp;</p><p>Topraktaki güç olsam</p><p>Aptal gibi suç olsam&nbsp;</p><p>Yine de oynar mısın benimle</p><p><br></p><p>Benimle oynar mısın (2</p><br>",
+  "sozler_duz": "Su olsam ateş olsam \n\nGöklerdeki güneş olsam\n\nKonuşmasam taş olsam \n\nYine de oynar mısın benimle\n\nSus olsam kusur olsam \n\nAğızdaki küfür olsam\n\nDoğuştan esir olsam \n\nYine de oynar mısın benimle\n\nSayılmasam kaç olsam \n\nTopraktaki güç olsam\n\nAptal gibi suç olsam \n\nYine de oynar mısın benimle\n\nBenimle oynar mısın (2",
   "meta": {
     "soyleyenler": "Bülent Ortaçgil"
   },
   "sistem": {
     "eski_id": 522,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-16T13:59:44.719Z",
+    "son_degisiklik": "2026-05-18T21:50:54.941Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
