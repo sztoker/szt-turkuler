@@ -1,26 +1,17 @@
 {
   "id": "eledim-eledim-holluk-eledim",
-  "baslik": "Eledim Eledim Höllük Eledim_",
-  "sozler_html": "<p>Eledim Eledim Höllük EledimAynalı Beşikte Canan Bebek BeledimBüyüttüm Besledim Asker EyledimGitti De Gelmedi Canan Buna Ne ÇareYandı Ciğerim De Canan Buna Ne ÇareBir Güzel Simâdır Aklımı AlanAşkın Sevdasını Canan Sineme SaranBizi Kınamasın Ehl-i Din OlanGitti De Gelmedi Canan Buna Ne ÇareYandı Ciğerim De Canan Buna Ne Çare</p>",
-  "sozler_duz": "Eledim Eledim Höllük EledimAynalı Beşikte Canan Bebek BeledimBüyüttüm Besledim Asker EyledimGitti De Gelmedi Canan Buna Ne ÇareYandı Ciğerim De Canan Buna Ne ÇareBir Güzel Simâdır Aklımı AlanAşkın Sevdasını Canan Sineme SaranBizi Kınamasın Ehl-i Din OlanGitti De Gelmedi Canan Buna Ne ÇareYandı Ciğerim De Canan Buna Ne Çare",
+  "baslik": "Eledim Eledim Höllük Eledim",
+  "sozler_html": "<p>Eledim eledim höllük eledim</p><p>Aynalı beşikte canan bebek beledim</p><p>Büyüttüm besledim asker eyledim</p><p><br></p><p><b>Gitti de gelmedi canan buna ne çare</b></p><p><b>Yandı ciğerim de canan buna ne çare</b></p><p><br></p><p>Bir güzel simâdır aklımı alan</p><p>Aşkın sevdasını canan sineme saran</p><p>Bizi kınamasın ehl-i din olan</p><p><br></p><p><b>Gitti de gelmedi canan buna ne çare</b></p><p><b>Yandı ciğerim de canan buna ne çare</b></p><br>",
+  "sozler_duz": "Eledim eledim höllük eledim\n\nAynalı beşikte canan bebek beledim\n\nBüyüttüm besledim asker eyledim\n\nGitti de gelmedi canan buna ne çare\n\nYandı ciğerim de canan buna ne çare\n\nBir güzel simâdır aklımı alan\n\nAşkın sevdasını canan sineme saran\n\nBizi kınamasın ehl-i din olan\n\nGitti de gelmedi canan buna ne çare\n\nYandı ciğerim de canan buna ne çare",
   "meta": {
     "yore": "Erzurum",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Muharrem Akkuş-Yücel Paşmakçı",
-    "aciklama": ""
+    "derleyen": "Yücel Paşmakçı",
+    "kaynak_kisi": "Muharrem Akkuş"
   },
   "sistem": {
     "eski_id": 5173,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-18T17:42:24.427Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
