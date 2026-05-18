@@ -1,7 +1,7 @@
 {
   "id": "daglara-kustum-ali",
   "baslik": "Dağlara Küstüm Ali",
-  "sozler_html": "<p>Tozlu yollarına düştüm de geldim</p><p>Haramiler kesmiş suyun başını</p><p>Yolların bacını verdim de geldim</p><p>Bilmem kim silecek gözüm yaşını</p><p>&nbsp;</p><p>Kendime kastım ali&nbsp;</p><p>Dağlara küstüm ali</p><p>Dar günde dostum ali</p><p>&nbsp;</p><p>Kınama hallerimi&nbsp;</p><p>Bağlama dillerimi</p><p>Açık et yollarım</p><p>&nbsp;</p><p>Zalimin elinden kapına geldim</p><p>Kan gölü içinde bunaldım kaldım</p><p>Yetiş ya erenler canımdan oldum</p><p>Bilmem kim saracak yaralarımı</p><p>&nbsp;</p><p>Kendime kastım...</p>",
+  "sozler_html": "<p>Tozlu yollarına düştüm de geldim</p><p>Haramiler kesmiş suyun başını</p><p>Yolların bacını verdim de geldim</p><p>Bilmem kim silecek gözüm yaşını</p><p>&nbsp;</p><p><b>Kendime kastım ali&nbsp;</b></p><p><b>Dağlara küstüm ali</b></p><p><b>Dar günde dostum ali</b></p><p><b>&nbsp;</b></p><p><b>Kınama hallerimi&nbsp;</b></p><p><b>Bağlama dillerimi</b></p><p><b>Açık et yollarım</b></p><p>&nbsp;</p><p>Zalimin elinden kapına geldim</p><p>Kan gölü içinde bunaldım kaldım</p><p>Yetiş ya erenler canımdan oldum</p><p>Bilmem kim saracak yaralarımı</p><p>&nbsp;</p><p><b>Kendime kastım...</b></p>",
   "sozler_duz": "Tozlu yollarına düştüm de geldim\n\nHaramiler kesmiş suyun başını\n\nYolların bacını verdim de geldim\n\nBilmem kim silecek gözüm yaşını\n\n \n\nKendime kastım ali \n\nDağlara küstüm ali\n\nDar günde dostum ali\n\n \n\nKınama hallerimi \n\nBağlama dillerimi\n\nAçık et yollarım\n\n \n\nZalimin elinden kapına geldim\n\nKan gölü içinde bunaldım kaldım\n\nYetiş ya erenler canımdan oldum\n\nBilmem kim saracak yaralarımı\n\n \n\nKendime kastım...",
   "meta": {
     "soz": "Zülfü Livaneli",
@@ -10,7 +10,7 @@
   "sistem": {
     "eski_id": 3745,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-18T16:57:47.681Z",
+    "son_degisiklik": "2026-05-18T18:07:40.455Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
