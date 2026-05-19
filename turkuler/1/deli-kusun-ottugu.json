@@ -2,25 +2,15 @@
   "id": "deli-kusun-ottugu",
   "baslik": "DELİ KUŞUN ÖTTÜĞÜ",
   "sozler_html": "<p>Hey göklere duman durmuş dağlar hey</p>\n<p>Değirmenin üstü hergün yel olmaz</p>\n<p>Dinle ağa dinle paşa dinle bey</p>\n<p>Sen söylersin o susar mı bell’olmaz</p>\n<p class=\"bos\"></p>\n<p>Kızılırmak akar suyun içerler</p>\n<p>Aç karnına yurttan yurda göçerler</p>\n<p>Varıp eylem köprüsünü geçerler</p>\n<p>Öldüler mi kaldılar mı bell’olmaz</p>\n<p>(Çamın başı yine kar mı bell’olmaz)</p>\n<p class=\"bos\"></p>\n<p>Ummam artık olanlar böyle olsun</p>\n<p>Yeni çağda mızrak çuvala girsin</p>\n<p>Vergi dersin ümük dersin can dersin</p>\n<p>Verdiler mi aldılar mı bell’olmaz</p>",
-  "sozler_duz": "Hey göklere duman durmuş dağlar hey Değirmenin üstü hergün yel olmaz Dinle ağa dinle paşa dinle bey Sen söylersin o susar mı bell’olmaz Kızılırmak akar suyun içerler Aç karnına yurttan yurda göçerler Varıp eylem köprüsünü geçerler Öldüler mi kaldılar mı bell’olmaz (Çamın başı yine kar mı bell’olmaz) Ummam artık olanlar böyle olsun Yeni çağda mızrak çuvala girsin Vergi dersin ümük dersin can dersin Verdiler mi aldılar mı bell’olmaz",
+  "sozler_duz": "Hey göklere duman durmuş dağlar hey\n\nDeğirmenin üstü hergün yel olmaz\n\nDinle ağa dinle paşa dinle bey\n\nSen söylersin o susar mı bell’olmaz\n\nKızılırmak akar suyun içerler\n\nAç karnına yurttan yurda göçerler\n\nVarıp eylem köprüsünü geçerler\n\nÖldüler mi kaldılar mı bell’olmaz\n\n(Çamın başı yine kar mı bell’olmaz)\n\nUmmam artık olanlar böyle olsun\n\nYeni çağda mızrak çuvala girsin\n\nVergi dersin ümük dersin can dersin\n\nVerdiler mi aldılar mı bell’olmaz",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "Ö",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Fazıl Hüsnü Dağlarca",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "La",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "muzik": "Tahsin İncirci"
   },
   "sistem": {
     "eski_id": 658,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-19T22:43:44.705Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
