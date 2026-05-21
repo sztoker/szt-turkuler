@@ -2,25 +2,16 @@
   "id": "ben-seni-sevdugumu",
   "baslik": "BEN SENİ SEVDUĞUMU ...",
   "sozler_html": "<p>Ben seni sevduğumi da dünyalara bildurdum</p>\n<p>Endurdun kaşlaruni babani mi eldurdum</p>\n<p class=\"bos\"></p>\n<p>En dereye dereye da al dereden taşlari</p>\n<p>Bizden geçti sevdaluk al cebumden saçlari</p>\n<p class=\"bos\"></p>\n<p>Kız evunun onine da sereceğum kilimi</p>\n<p>Oldi hayli zamanlar görmedum sevduğumi</p>\n<p class=\"bos\"></p>\n<p>Yaz geldi bahar geldi da açti yeşil yapraklar</p>\n<p>Ben sana doyamadum doysun kara topraklar</p>",
-  "sozler_duz": "Ben seni sevduğumi da dünyalara bildurdum Endurdun kaşlaruni babani mi eldurdum En dereye dereye da al dereden taşlari Bizden geçti sevdaluk al cebumden saçlari Kız evunun onine da sereceğum kilimi Oldi hayli zamanlar görmedum sevduğumi Yaz geldi bahar geldi da açti yeşil yapraklar Ben sana doyamadum doysun kara topraklar",
+  "sozler_duz": "Ben seni sevduğumi da dünyalara bildurdum\n\nEndurdun kaşlaruni babani mi eldurdum\n\nEn dereye dereye da al dereden taşlari\n\nBizden geçti sevdaluk al cebumden saçlari\n\nKız evunun onine da sereceğum kilimi\n\nOldi hayli zamanlar görmedum sevduğumi\n\nYaz geldi bahar geldi da açti yeşil yapraklar\n\nBen sana doyamadum doysun kara topraklar",
   "meta": {
     "yore": "MAÇKA / TRABZON",
-    "turu": "",
-    "turu2": "",
     "derleyen": "Yusuf Tapan",
-    "kaynak_kisi": "Hasan Tunç",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_1",
-    "karar": "La",
-    "diger_bilgiler": "",
-    "aciklama": ""
+    "kaynak_kisi": "Hasan Tunç"
   },
   "sistem": {
     "eski_id": 513,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-21T21:54:21.489Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
