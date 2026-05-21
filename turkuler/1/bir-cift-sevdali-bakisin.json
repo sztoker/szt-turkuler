@@ -1,26 +1,16 @@
 {
   "id": "bir-cift-sevdali-bakisin",
   "baslik": "BİR ÇİFT SEVDALI BAKIŞIN",
-  "sozler_html": "<p>Bir çift sevdalı bakışın * aşk ateşi ruhumu sardı     2</p>\n<p>Öyle güzel * öyle derin * öyle yeşil gözleri vardı     2</p>\n<p>Yıllar yılı gizlediğim * duygularım birden uyandı</p>\n<p>Öyle güzel * öyle derin * öyle yeşil gözleri vardı     2</p>\n<p class=\"bos\"></p>\n<p>Rüyalarımı süsleyecek * çok sevecek diye kandım     2</p>\n<p>Bir bakışa * bir gülüşe * aldanarak aşkına yandım     2</p>\n<p>Mutsuzluğuma son verecek * gitmeyecekmiş gibi sandım</p>\n<p>Öyle güzel * öyle derin * öyle yeşil gözleri vardı     2</p>",
-  "sozler_duz": "Bir çift sevdalı bakışın * aşk ateşi ruhumu sardı 2 Öyle güzel * öyle derin * öyle yeşil gözleri vardı 2 Yıllar yılı gizlediğim * duygularım birden uyandı Öyle güzel * öyle derin * öyle yeşil gözleri vardı 2 Rüyalarımı süsleyecek * çok sevecek diye kandım 2 Bir bakışa * bir gülüşe * aldanarak aşkına yandım 2 Mutsuzluğuma son verecek * gitmeyecekmiş gibi sandım Öyle güzel * öyle derin * öyle yeşil gözleri vardı 2",
+  "sozler_html": "<p>Bir çift sevdalı bakışın&nbsp;</p><p>Aşk ateşi ruhumu sardı     2</p>\n<p>Öyle güzel * öyle derin&nbsp;</p><p>Öyle yeşil gözleri vardı     2</p>\n<p><br></p><p>Yıllar yılı gizlediğim&nbsp;</p><p>Duygularım birden uyandı</p>\n<p>Öyle güzel * öyle derin&nbsp;</p><p>Öyle yeşil gözleri vardı     2</p>\n<p class=\"bos\"></p>\n<p>Rüyalarımı süsleyecek&nbsp;</p><p>Çok sevecek diye kandım     2</p>\n<p>Bir bakışa * bir gülüşe&nbsp;</p><p>Aldanarak aşkına yandım     2</p>\n<p><br></p><p>Mutsuzluğuma son verecek&nbsp;</p><p>Gitmeyecekmiş gibi sandım</p>\n<p>Öyle güzel * öyle derin&nbsp;</p><p>Öyle yeşil gözleri vardı     2</p>",
+  "sozler_duz": "Bir çift sevdalı bakışın \n\nAşk ateşi ruhumu sardı 2\n\nÖyle güzel * öyle derin \n\nÖyle yeşil gözleri vardı 2\n\nYıllar yılı gizlediğim \n\nDuygularım birden uyandı\n\nÖyle güzel * öyle derin \n\nÖyle yeşil gözleri vardı 2\n\nRüyalarımı süsleyecek \n\nÇok sevecek diye kandım 2\n\nBir bakışa * bir gülüşe \n\nAldanarak aşkına yandım 2\n\nMutsuzluğuma son verecek \n\nGitmeyecekmiş gibi sandım\n\nÖyle güzel * öyle derin \n\nÖyle yeşil gözleri vardı 2",
   "meta": {
-    "yore": "",
     "turu": "TSM",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Taner Şener                    Muhayyerkürdi / Nim",
-    "aciklama": ""
+    "muzik": "Taner Şener"
   },
   "sistem": {
     "eski_id": 537,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-21T21:58:15.905Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
