@@ -1,8 +1,8 @@
 {
   "id": "nurhak",
   "baslik": "NURHAK",
-  "sozler_html": "<p>Dört bir yana haber salsam&nbsp;</p><p>Öldü desem inanır mı</p>\n<p>Dağlar bana geri verin&nbsp;</p><p>Kadirimi  (Alpaslanı-2) Sinanımı</p>\n<p class=\"bos\"></p>\n<p>Jandarma kurşunu çaldı&nbsp;</p><p>Canını teninden aldı</p>\n<p>Nurhak ağa bir dev (bize-?) kaldı&nbsp;</p><p>Dağlar aldı selamını</p>\n<p class=\"bos\"></p>\n<p>Nurhak sana güneş doğmaz&nbsp;</p><p>Uçan kuşlar yuva kurmaz</p>\n<p>Dökülen kan yerde kalmaz&nbsp;</p><p>Soracağız hesabını</p>\n<p class=\"bos\"></p>\n<p>Böyle kalır sanma devran&nbsp;</p><p>Yola devam eder kervan</p>\n<p>Öldü Sinan doğdu Sinan&nbsp;</p><p>Omuzladık silahını</p>",
-  "sozler_duz": "Dört bir yana haber salsam \n\nÖldü desem inanır mı\n\nDağlar bana geri verin \n\nKadirimi (Alpaslanı-2) Sinanımı\n\nJandarma kurşunu çaldı \n\nCanını teninden aldı\n\nNurhak ağa bir dev (bize-?) kaldı \n\nDağlar aldı selamını\n\nNurhak sana güneş doğmaz \n\nUçan kuşlar yuva kurmaz\n\nDökülen kan yerde kalmaz \n\nSoracağız hesabını\n\nBöyle kalır sanma devran \n\nYola devam eder kervan\n\nÖldü Sinan doğdu Sinan \n\nOmuzladık silahını",
+  "sozler_html": "<p>Dört bir yana haber salsam&nbsp;</p><p>Öldü desem inanır mı</p>\n<p>Dağlar bana geri verin&nbsp;</p><p>Kadirimi  (Alpaslanı-2) Sinanımı</p>\n<p class=\"bos\"></p>\n<p>Jandarma kurşunu çaldı&nbsp;</p><p>Canını teninden aldı</p>\n<p>Nurhak'a abide kaldı&nbsp;</p><p>Dağlar aldı selamını</p>\n<p class=\"bos\"></p>\n<p>Nurhak sana güneş doğmaz&nbsp;</p><p>Uçan kuşlar yuva kurmaz</p>\n<p>Dökülen kan yerde kalmaz&nbsp;</p><p>Soracağız hesabını</p>\n<p class=\"bos\"></p>\n<p>Böyle kalır sanma devran&nbsp;</p><p>Yola devam eder kervan</p>\n<p>Öldü Sinan doğdu Sinan&nbsp;</p><p>Omuzladık silahını</p>",
+  "sozler_duz": "Dört bir yana haber salsam \n\nÖldü desem inanır mı\n\nDağlar bana geri verin \n\nKadirimi (Alpaslanı-2) Sinanımı\n\nJandarma kurşunu çaldı \n\nCanını teninden aldı\n\nNurhak'a abide kaldı \n\nDağlar aldı selamını\n\nNurhak sana güneş doğmaz \n\nUçan kuşlar yuva kurmaz\n\nDökülen kan yerde kalmaz \n\nSoracağız hesabını\n\nBöyle kalır sanma devran \n\nYola devam eder kervan\n\nÖldü Sinan doğdu Sinan \n\nOmuzladık silahını",
   "meta": {
     "soz": "Zülfü Livaneli",
     "muzik": "Zülfü Livaneli",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 1072,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-21T20:12:47.712Z",
+    "son_degisiklik": "2026-05-21T20:14:17.603Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
