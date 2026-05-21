@@ -1,8 +1,8 @@
 {
   "id": "siyrilip-gelen",
   "baslik": "SIYRILIP GELEN",
-  "sozler_html": "<p>Soluk bir ay dolanıyor / Kentin üstünde her gece</p>\n<p>Her gece bilge bir gezgin / Tavrıyla adımlıyor yolunu</p>\n<p class=\"bos\"></p>\n<p>Güz yanığı bir durgun / Sessizlikle örtülü her şey</p>\n<p>Ve yırtılmış bir tül gibi / Savrulup geliyor zaman</p>\n<p class=\"bos\"></p>\n<p>Suların sesini dinle şimdi / Ormanın fısıldayışlarını</p>\n<p>Yarılıyor dağların göğsü / Bir aşkı dinlendirmek için</p>\n<p class=\"bos\"></p>\n<p>Ve gözleri uzak yamaçlarda / Aranıp dururken bir şeyleri</p>\n<p>Sessiz ve sakin beklemekte</p>\n<p>Bekledikçe bileylenen yürek</p>\n<p class=\"bos\"></p>\n<p>Belli ki dağların denizlerin / Ve göllerin üzerinden</p>\n<p>Sıyrılıp gelmektedir seher</p>\n<p>Belli ki yakındır doğayı ve hayatı sarsacak saat</p>",
-  "sozler_duz": "Soluk bir ay dolanıyor / Kentin üstünde her gece\n\nHer gece bilge bir gezgin / Tavrıyla adımlıyor yolunu\n\nGüz yanığı bir durgun / Sessizlikle örtülü her şey\n\nVe yırtılmış bir tül gibi / Savrulup geliyor zaman\n\nSuların sesini dinle şimdi / Ormanın fısıldayışlarını\n\nYarılıyor dağların göğsü / Bir aşkı dinlendirmek için\n\nVe gözleri uzak yamaçlarda / Aranıp dururken bir şeyleri\n\nSessiz ve sakin beklemekte\n\nBekledikçe bileylenen yürek\n\nBelli ki dağların denizlerin / Ve göllerin üzerinden\n\nSıyrılıp gelmektedir seher\n\nBelli ki yakındır doğayı ve hayatı sarsacak saat",
+  "sozler_html": "<p>Soluk bir ay dolanıyor&nbsp;</p><p>Kentin üstünde her gece</p>\n<p>Her gece bilge bir gezgin&nbsp;</p><p>Tavrıyla adımlıyor yolunu</p>\n<p class=\"bos\"></p>\n<p>Güz yanığı bir durgun&nbsp;</p><p>Sessizlikle örtülü her şey</p>\n<p>Ve yırtılmış bir tül gibi&nbsp;</p><p>Savrulup geliyor zaman</p>\n<p class=\"bos\"></p>\n<p>Suların sesini dinle şimdi&nbsp;</p><p>Ormanın fısıldayışlarını</p>\n<p>Yarılıyor dağların göğsü&nbsp;</p><p>Bir aşkı dinlendirmek için</p>\n<p class=\"bos\"></p>\n<p>Ve gözleri uzak yamaçlarda&nbsp;</p><p>Aranıp dururken bir şeyleri</p>\n<p>Sessiz ve sakin beklemekte</p>\n<p>Bekledikçe bileylenen yürek</p>\n<p class=\"bos\"></p>\n<p>Belli ki dağların denizlerin&nbsp;</p><p>Ve göllerin üzerinden</p>\n<p>Sıyrılıp gelmektedir seher</p>\n<p>Belli ki yakındır doğayı</p><p>Ve hayatı sarsacak saat</p>",
+  "sozler_duz": "Soluk bir ay dolanıyor \n\nKentin üstünde her gece\n\nHer gece bilge bir gezgin \n\nTavrıyla adımlıyor yolunu\n\nGüz yanığı bir durgun \n\nSessizlikle örtülü her şey\n\nVe yırtılmış bir tül gibi \n\nSavrulup geliyor zaman\n\nSuların sesini dinle şimdi \n\nOrmanın fısıldayışlarını\n\nYarılıyor dağların göğsü \n\nBir aşkı dinlendirmek için\n\nVe gözleri uzak yamaçlarda \n\nAranıp dururken bir şeyleri\n\nSessiz ve sakin beklemekte\n\nBekledikçe bileylenen yürek\n\nBelli ki dağların denizlerin \n\nVe göllerin üzerinden\n\nSıyrılıp gelmektedir seher\n\nBelli ki yakındır doğayı\n\nVe hayatı sarsacak saat",
   "meta": {
     "soz": "Ahmet Telli",
     "muzik": "Metin Kahraman",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 1172,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-16T11:48:18.501Z",
+    "son_degisiklik": "2026-05-21T21:15:36.930Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
