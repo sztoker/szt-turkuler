@@ -2,25 +2,15 @@
   "id": "istanbul",
   "baslik": "İSTANBUL",
   "sozler_html": "<p>Salkım salkım tan yelleri estiğinde</p>\n<p>Mavi patiskaları yırtan gemilerinle</p>\n<p>Uzaktan seni düşünürüm / İstanbul</p>\n<p class=\"bos\"></p>\n<p>Bin bir direkli Haliç'inde akşamlar</p>\n<p>Adalarında bahar Süleymaniye'nde güneş</p>\n<p>Hey sen ne güzelsin kavgamızın şehri / İstanbul</p>\n<p class=\"bos\"></p>\n<p>Boşuna çekilmedi bunca acılar</p>\n<p>Büyük ve sakin Süleymaniye'nle bekle</p>\n<p>Parklarınla köprülerinle meydanlarınla</p>\n<p>Bekle bizi İstanbul</p>\n<p class=\"bos\"></p>\n<p>Tophane'nin karanlık sokaklarında</p>\n<p>Koyun koyuna yatan çocuklarınla bekle</p>\n<p>Bekle zafer şarkılarıyla geçişimizi / İstanbul</p>\n<p class=\"bos\"></p>\n<p>Haramilerin saltanatını yıkacağız</p>\n<p>Bekle o günler gelsin İstanbul</p>\n<p>Sen bize layıksın biz de sana İstanbul / İstanbul</p>",
-  "sozler_duz": "Salkım salkım tan yelleri estiğinde Mavi patiskaları yırtan gemilerinle Uzaktan seni düşünürüm / İstanbul Bin bir direkli Haliç'inde akşamlar Adalarında bahar Süleymaniye'nde güneş Hey sen ne güzelsin kavgamızın şehri / İstanbul Boşuna çekilmedi bunca acılar Büyük ve sakin Süleymaniye'nle bekle Parklarınla köprülerinle meydanlarınla Bekle bizi İstanbul Tophane'nin karanlık sokaklarında Koyun koyuna yatan çocuklarınla bekle Bekle zafer şarkılarıyla geçişimizi / İstanbul Haramilerin saltanatını yıkacağız Bekle o günler gelsin İstanbul Sen bize layıksın biz de sana İstanbul / İstanbul",
+  "sozler_duz": "Salkım salkım tan yelleri estiğinde\n\nMavi patiskaları yırtan gemilerinle\n\nUzaktan seni düşünürüm / İstanbul\n\nBin bir direkli Haliç'inde akşamlar\n\nAdalarında bahar Süleymaniye'nde güneş\n\nHey sen ne güzelsin kavgamızın şehri / İstanbul\n\nBoşuna çekilmedi bunca acılar\n\nBüyük ve sakin Süleymaniye'nle bekle\n\nParklarınla köprülerinle meydanlarınla\n\nBekle bizi İstanbul\n\nTophane'nin karanlık sokaklarında\n\nKoyun koyuna yatan çocuklarınla bekle\n\nBekle zafer şarkılarıyla geçişimizi / İstanbul\n\nHaramilerin saltanatını yıkacağız\n\nBekle o günler gelsin İstanbul\n\nSen bize layıksın biz de sana İstanbul / İstanbul",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Vedat TÜRKALİ",
-    "muzik": "Onur AKIN",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S : Vedat TÜRKALİ      M : Onur AKIN",
-    "aciklama": ""
+    "muzik": "Onur AKIN"
   },
   "sistem": {
     "eski_id": 949,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-21T19:56:11.260Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
