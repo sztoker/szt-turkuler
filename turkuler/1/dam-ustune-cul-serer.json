@@ -1,26 +1,17 @@
 {
   "id": "dam-ustune-cul-serer",
-  "baslik": "Dam Üstüne Çul Serer_",
-  "sozler_html": "<p>Dam Üstüne Çul Serer    Loyluda Yar, Leylide Yar, Loy Loy LoyBilmem Bu Kimi Sever    Halelim Nennide Kınalım Nennide, Belalım Nennide NenniBunun Bir Sevdiği Var     Loyluda Yar, Leylide Yar, Loy Loy LoyGünde On Çeşit Geyer    Halelim Nennide Kınalım Nennide, Belalım Nennide NenniŞunu Bana Verseler        Loyluda Yar, Leylide Yar, Loy Loy LoyCihana Bildirseler           Halelim Nennide Kınalım Nennide, Belalım Nennide NenniGitsem Yarin Yanına       Loyluda Yar, Leylide Yar, Loy Loy LoySabahtan Öldürseler       Halelim Nennide Kınalım Nennide, Belalım Nennide NenniAğ Daşı Kaldırsalar          Loyluda Yar, Leylide Yar, Loy Loy LoyYılanı Öldürseler             Halelim Nennide Kınalım Nennide, Belalım Nennide NenniKüçükten Yar Seveni       Loyluda Yar, Leylide Yar, Loy Loy LoyCennete Gönderseler      Halelim Nennide Kınalım Nennide, Belalım Nennide Nenni</p>",
-  "sozler_duz": "Dam Üstüne Çul Serer Loyluda Yar, Leylide Yar, Loy Loy LoyBilmem Bu Kimi Sever Halelim Nennide Kınalım Nennide, Belalım Nennide NenniBunun Bir Sevdiği Var Loyluda Yar, Leylide Yar, Loy Loy LoyGünde On Çeşit Geyer Halelim Nennide Kınalım Nennide, Belalım Nennide NenniŞunu Bana Verseler Loyluda Yar, Leylide Yar, Loy Loy LoyCihana Bildirseler Halelim Nennide Kınalım Nennide, Belalım Nennide NenniGitsem Yarin Yanına Loyluda Yar, Leylide Yar, Loy Loy LoySabahtan Öldürseler Halelim Nennide Kınalım Nennide, Belalım Nennide NenniAğ Daşı Kaldırsalar Loyluda Yar, Leylide Yar, Loy Loy LoyYılanı Öldürseler Halelim Nennide Kınalım Nennide, Belalım Nennide NenniKüçükten Yar Seveni Loyluda Yar, Leylide Yar, Loy Loy LoyCennete Gönderseler Halelim Nennide Kınalım Nennide, Belalım Nennide Nenni",
+  "baslik": "Dam Üstüne Çul Serer",
+  "sozler_html": "<p>Dam üstüne çul serer&nbsp;</p><p><i>Loyluda yar, leylide yar, loy loy loy</i></p><p>Bilmem bu kimi sever&nbsp;</p><p><i>A leylim nennide kınalım&nbsp;</i></p><p><i>Nennide, belalım nennide nenni</i></p><p>Bunun bir sevdiği var&nbsp;</p><p><i>Loyluda yar, leylide yar, loy loy loy</i></p><p>Günde on çeşit geyer&nbsp;</p><p><i>A leylim nennide kınalım&nbsp;</i></p><p><i>Nennide, belalım nennide nenni</i></p><p><br></p><p>Şunu bana verseler&nbsp;</p><p>Cihana bildirseler&nbsp;</p><p>Gitsem yarin yanına&nbsp;</p><p>Sabahtan öldürseler</p><p><br></p><p>Ağ daşı kaldırsalar&nbsp;</p><p>Yılanı öldürseler&nbsp;</p><p>Küçükten yar seveni&nbsp;</p><p>Cennete gönderseler</p><br>",
+  "sozler_duz": "Dam üstüne çul serer \n\nLoyluda yar, leylide yar, loy loy loy\n\nBilmem bu kimi sever \n\nA leylim nennide kınalım \n\nNennide, belalım nennide nenni\n\nBunun bir sevdiği var \n\nLoyluda yar, leylide yar, loy loy loy\n\nGünde on çeşit geyer \n\nA leylim nennide kınalım \n\nNennide, belalım nennide nenni\n\nŞunu bana verseler \n\nCihana bildirseler \n\nGitsem yarin yanına \n\nSabahtan öldürseler\n\nAğ daşı kaldırsalar \n\nYılanı öldürseler \n\nKüçükten yar seveni \n\nCennete gönderseler",
   "meta": {
     "yore": "Sivas/Divrik",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ali Kızıltuğ-Yücel Paşmakçı",
-    "aciklama": ""
+    "derleyen": "Yücel Paşmakçı",
+    "kaynak_kisi": "Ali Kızıltuğ"
   },
   "sistem": {
     "eski_id": 3756,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-23T23:58:26.480Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
