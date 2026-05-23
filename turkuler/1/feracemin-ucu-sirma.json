@@ -1,7 +1,7 @@
 {
   "id": "feracemin-ucu-sirma",
   "baslik": "Feracemin Ucu Sırma",
-  "sozler_html": "<p>Feracemin <i>(aman aman)</i> ucu\nsırma</p><p>Bıyıkları burma burma</p><p>Git güzel karşımda durma</p><p>&nbsp;</p><p><b>Al\nhançeri vur boynuma</b></p><p><b>Saat\nde beşte gel yanıma</b></p><p>&nbsp;</p><p>Feracemin<i> (aman aman)</i> al\nyakası</p><p>Terziler vurur makası</p><p>Kolu dibinden kopası</p><p>&nbsp;</p><p><b>Al\nhançeri vur ben ölem</b></p><p><b>Kapınızda\nkölen olam</b></p>",
+  "sozler_html": "<p>Feracemin (<i>aman aman</i>) ucu sırma</p><p>Bıyıkları burma burma</p><p>Git güzel karşımda durma</p><p>&nbsp;</p><p><b>Al hançeri vur boynuma</b></p><p><b>Saat de beşte gel yanıma</b></p><p>&nbsp;</p><p>Feracemin (aman aman) al yakası</p><p>Terziler vurur makası</p><p>Kolu dibinden kopası</p><p>&nbsp;</p><p><b>Al hançeri vur ben ölem</b></p><p><b>Kapınızda kölen olam</b></p><br>",
   "sozler_duz": "Feracemin (aman aman) ucu sırma\n\nBıyıkları burma burma\n\nGit güzel karşımda durma\n\n \n\nAl hançeri vur boynuma\n\nSaat de beşte gel yanıma\n\n \n\nFeracemin (aman aman) al yakası\n\nTerziler vurur makası\n\nKolu dibinden kopası\n\n \n\nAl hançeri vur ben ölem\n\nKapınızda kölen olam",
   "meta": {
     "yore": "Kütahya",
@@ -11,7 +11,7 @@
   "sistem": {
     "eski_id": 5322,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-18T18:16:19.315Z",
+    "son_degisiklik": "2026-05-23T23:33:09.347Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
