@@ -1,26 +1,17 @@
 {
   "id": "suruler-icinde-surmeli-koyun",
-  "baslik": "Sürüler İçinde Sürmeli Koyun_",
-  "sozler_html": "<p>Sürüler İçinde Sürmeli KoyunŞafaklar Atıyor Sarhoşum Duyun (A Canım Gel Duyun)Son Kadehte Yaptın Bana Bir OyunNi Yandasın Sürmeli Palazım Niyanda Hadaman NiyandaEllerim Saz Çalar Gözüm İhvanda Hadaman İhvandaAşağıdan Gelir Gelinin GöcüGelin Mi Ettiler Canımın İçi (A Canım Gel İçi)Beş Sene Sakladım Verdiğin SaçıNi Yandasın Sürmeli Palazım Niyanda Hadaman NiyandaEllerim Saz Çalar Gözüm İhvanda Hadaman İhvandaİki Çeşme Yaptım Altın OlukluSoyunu Bağladım Ala Balıklı (A Canım Alabalıklı)Bir Yar Sevdim O Da Benden YanıklıNi Yandasın Sürmeli Palazım Niyanda Hadaman NiyandaEllerim Saz Çalar Gözüm İhvanda Hadaman İhvanda</p>",
-  "sozler_duz": "Sürüler İçinde Sürmeli KoyunŞafaklar Atıyor Sarhoşum Duyun (A Canım Gel Duyun)Son Kadehte Yaptın Bana Bir OyunNi Yandasın Sürmeli Palazım Niyanda Hadaman NiyandaEllerim Saz Çalar Gözüm İhvanda Hadaman İhvandaAşağıdan Gelir Gelinin GöcüGelin Mi Ettiler Canımın İçi (A Canım Gel İçi)Beş Sene Sakladım Verdiğin SaçıNi Yandasın Sürmeli Palazım Niyanda Hadaman NiyandaEllerim Saz Çalar Gözüm İhvanda Hadaman İhvandaİki Çeşme Yaptım Altın OlukluSoyunu Bağladım Ala Balıklı (A Canım Alabalıklı)Bir Yar Sevdim O Da Benden YanıklıNi Yandasın Sürmeli Palazım Niyanda Hadaman NiyandaEllerim Saz Çalar Gözüm İhvanda Hadaman İhvanda",
+  "baslik": "Sürüler İçinde Sürmeli Koyun",
+  "sozler_html": "<p>Sürüler içinde sürmeli koyun</p><p>Şafaklar atıyor sarhoşum duyun&nbsp;</p><p>(a canım gel duyun)</p><p>Son kadehte yaptın bana bir oyun</p><p><br></p><p><b>Ne yandasın sürmeli palazım niyanda&nbsp;</b></p><p><b>Hadaman niyanda</b></p><p><b>Ellerim saz çalar gözüm ihvanda&nbsp;</b></p><p><b>Hadaman ihvanda</b></p><p><br></p><p>Aşağıdan gelir gelinin göcü</p><p>Gelin mi ettiler canımın içi&nbsp;</p><p>(a canım gel içi)</p><p>Beş sene sakladım verdiğin saçı</p><p><br></p><p><b>Ne yandasın sürmeli...</b></p><p><br></p><p>İki çeşme yaptım altın oluklu</p><p>Soyunu bağladım ala balıklı&nbsp;</p><p>(a canım alabalıklı)</p><p>Bir yar sevdim o da benden yanıklı</p><p><br></p><p><b>Ne yandasın sürmeli...</b></p><p><br></p><br>",
+  "sozler_duz": "Sürüler içinde sürmeli koyun\n\nŞafaklar atıyor sarhoşum duyun \n\n(a canım gel duyun)\n\nSon kadehte yaptın bana bir oyun\n\nNe yandasın sürmeli palazım niyanda \n\nHadaman niyanda\n\nEllerim saz çalar gözüm ihvanda \n\nHadaman ihvanda\n\nAşağıdan gelir gelinin göcü\n\nGelin mi ettiler canımın içi \n\n(a canım gel içi)\n\nBeş sene sakladım verdiğin saçı\n\nNe yandasın sürmeli...\n\nİki çeşme yaptım altın oluklu\n\nSoyunu bağladım ala balıklı \n\n(a canım alabalıklı)\n\nBir yar sevdim o da benden yanıklı\n\nNe yandasın sürmeli...",
   "meta": {
     "yore": "Kırıkkale/Keskin",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Hacı Taşan-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Hacı Taşan"
   },
   "sistem": {
     "eski_id": 6354,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-23T23:45:00.802Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
