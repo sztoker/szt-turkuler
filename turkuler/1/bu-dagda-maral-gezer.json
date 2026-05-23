@@ -1,26 +1,15 @@
 {
   "id": "bu-dagda-maral-gezer",
-  "baslik": "Bu Dağda Maral Gezer_",
-  "sozler_html": "<p>Bu Dağda Maral GezerZülfünü Tarar GezerMen Yarime Neylerim Ay Ceylan,Yar Menden Kenar GezerBu Dağın Karı MenemGün Vurur ErimezemEl Bilir Alem Bilir Ay GülümMen Senden VazgeçmezemDağlarda Çiçek Ay Güle Bakın,Avludan Geçek Ay Güle Bakın,Doldur Ver İçek Ay Güle Bakın, Hey..Ezizin Gözlerine Sürme Çek GözlerineÖzün Özüme Gurban Ay Ceylan, Gözlerim GözlerineNakarat..Bak Uzun Yana Yana, Od Düştü Şirin CanaKor Karan Koyup Gidem Ay Ceylan, Kalasan Yana Yana.Nakarat..</p>",
-  "sozler_duz": "Bu Dağda Maral GezerZülfünü Tarar GezerMen Yarime Neylerim Ay Ceylan,Yar Menden Kenar GezerBu Dağın Karı MenemGün Vurur ErimezemEl Bilir Alem Bilir Ay GülümMen Senden VazgeçmezemDağlarda Çiçek Ay Güle Bakın,Avludan Geçek Ay Güle Bakın,Doldur Ver İçek Ay Güle Bakın, Hey..Ezizin Gözlerine Sürme Çek GözlerineÖzün Özüme Gurban Ay Ceylan, Gözlerim GözlerineNakarat..Bak Uzun Yana Yana, Od Düştü Şirin CanaKor Karan Koyup Gidem Ay Ceylan, Kalasan Yana Yana.Nakarat..",
+  "baslik": "Bu Dağda Maral Gezer",
+  "sozler_html": "<p>Bu dağda maral gezer</p><p>Zülfünü tarar gezer</p><p>Men yarime neylerim ay ceylan</p><p>Yar menden kenar gezer</p><p><br></p><p><b>Dağlarda çiçek ay güle bakın</b></p><p><b>Avludan geçek ay güle bakın</b></p><p><b>Doldur ver içek ay güle bakın, hey</b></p><p><br></p><p>Bu dağın karı menem</p><p>Gün vurur erimezem</p><p>El bilir alem bilir ay gülüm</p><p>Men senden vazgeçmezem</p><p><br></p><p><b>Dağlarda çiçek ...</b></p><p><br></p><p>Ezizin gözlerine&nbsp;</p><p>Sürme çek gözlerine</p><p>Özün özüme gurban ay ceylan</p><p>Gözlerim gözlerine</p><p><br></p><p><b>Dağlarda çiçek ...</b></p><p><br></p><p>Bak uzun yana yana</p><p>Od düştü şirin cana</p><p>Kor karan koyup gidem ay ceylan</p><p>Kalasan yana yana</p><p><br></p><p><b>Dağlarda çiçek ...</b></p><p><br></p>",
+  "sozler_duz": "Bu dağda maral gezer\n\nZülfünü tarar gezer\n\nMen yarime neylerim ay ceylan\n\nYar menden kenar gezer\n\nDağlarda çiçek ay güle bakın\n\nAvludan geçek ay güle bakın\n\nDoldur ver içek ay güle bakın, hey\n\nBu dağın karı menem\n\nGün vurur erimezem\n\nEl bilir alem bilir ay gülüm\n\nMen senden vazgeçmezem\n\nDağlarda çiçek ...\n\nEzizin gözlerine \n\nSürme çek gözlerine\n\nÖzün özüme gurban ay ceylan\n\nGözlerim gözlerine\n\nDağlarda çiçek ...\n\nBak uzun yana yana\n\nOd düştü şirin cana\n\nKor karan koyup gidem ay ceylan\n\nKalasan yana yana\n\nDağlarda çiçek ...",
   "meta": {
-    "yore": "Azerbaycan",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "İbrahim Yıldırım Arşivi",
-    "aciklama": ""
+    "yore": "Azeri"
   },
   "sistem": {
     "eski_id": 3575,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-23T23:49:58.935Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
