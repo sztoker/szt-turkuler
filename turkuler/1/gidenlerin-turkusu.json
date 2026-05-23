@@ -2,25 +2,15 @@
   "id": "gidenlerin-turkusu",
   "baslik": "GİDENLERİN TÜRKÜSÜ",
   "sozler_html": "<p>Camların arkasında gece ve kar</p>\n<p>Beyaz karanlıkta parlayan raylar</p>\n<p>Umutsuz çaresiz sallanan eller</p>\n<p>Kavuşulmamayı anlatıyorlar</p>\n<p class=\"bos\"></p>\n<p>Üçüncü mevkii bekleme salonu</p>\n<p>Çıplak ayaklı bir çocuk yatıyor</p>\n<p>Gece ve kar yine pencerelerde</p>\n<p>Acı türküsünü mırıldanıyor</p>\n<p class=\"bos\"></p>\n<p>Bir türkü söylüyorlardı içerde</p>\n<p>Bu giden kardeşimin türküsüdür</p>\n<p>Arkadaşlar bakmayın gözlerime</p>\n<p>Bu milyonların gerçek öyküsüydü</p>",
-  "sozler_duz": "Camların arkasında gece ve kar Beyaz karanlıkta parlayan raylar Umutsuz çaresiz sallanan eller Kavuşulmamayı anlatıyorlar Üçüncü mevkii bekleme salonu Çıplak ayaklı bir çocuk yatıyor Gece ve kar yine pencerelerde Acı türküsünü mırıldanıyor Bir türkü söylüyorlardı içerde Bu giden kardeşimin türküsüdür Arkadaşlar bakmayın gözlerime Bu milyonların gerçek öyküsüydü",
+  "sozler_duz": "Camların arkasında gece ve kar\n\nBeyaz karanlıkta parlayan raylar\n\nUmutsuz çaresiz sallanan eller\n\nKavuşulmamayı anlatıyorlar\n\nÜçüncü mevkii bekleme salonu\n\nÇıplak ayaklı bir çocuk yatıyor\n\nGece ve kar yine pencerelerde\n\nAcı türküsünü mırıldanıyor\n\nBir türkü söylüyorlardı içerde\n\nBu giden kardeşimin türküsüdür\n\nArkadaşlar bakmayın gözlerime\n\nBu milyonların gerçek öyküsüydü",
   "meta": {
-    "yore": "",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
     "soz": "Nazım Hikmet",
-    "muzik": "Edip Akbayram",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "S: Nazım Hikmet     M: Edip Akbayram",
-    "aciklama": ""
+    "muzik": "Edip Akbayram"
   },
   "sistem": {
     "eski_id": 837,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-23T23:39:12.994Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
