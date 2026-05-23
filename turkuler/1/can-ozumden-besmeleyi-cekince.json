@@ -1,26 +1,17 @@
 {
   "id": "can-ozumden-besmeleyi-cekince",
-  "baslik": "Can Özümden Besmeleyi Çekince_",
-  "sozler_html": "<p>Can Özümden Besmeleyi ÇekinceDil Yanmazsa Ben Yanarım SultanımHak Uğruna Bır Sefere ÇıkıncaYol Yanmazsa Ben Yanarım SultanımDosta Mektup Yazma Vakti GelinceYazar Postalarım Kısmet oluncaMektubumun Mahiyetin BilinceKul Yanmazsa Ben Yanarım SultanımAşıklık İçimde Doğduğu ZamanTaş Yanar Göz Yaşım Yağdığı ZamanMızrabım Sazıma Değdiği ZamanTel Yanmazsa Ben Yanarım Sultanım</p>",
-  "sozler_duz": "Can Özümden Besmeleyi ÇekinceDil Yanmazsa Ben Yanarım SultanımHak Uğruna Bır Sefere ÇıkıncaYol Yanmazsa Ben Yanarım SultanımDosta Mektup Yazma Vakti GelinceYazar Postalarım Kısmet oluncaMektubumun Mahiyetin BilinceKul Yanmazsa Ben Yanarım SultanımAşıklık İçimde Doğduğu ZamanTaş Yanar Göz Yaşım Yağdığı ZamanMızrabım Sazıma Değdiği ZamanTel Yanmazsa Ben Yanarım Sultanım",
+  "baslik": "Can Özümden Besmeleyi Çekince",
+  "sozler_html": "<p>Can özümden besmeleyi çekince</p><p>Dil yanmazsa ben yanarım sultanım</p><p>Hak uğruna bır sefere çıkınca</p><p>Yol yanmazsa ben yanarım sultanım</p><p><br></p><p>Dosta mektup yazma vakti gelince</p><p>Yazar postalarım kısmet olunca</p><p>Mektubumun mahiyetin bilince</p><p>Kul yanmazsa ben yanarım sultanım</p><p><br></p><p>Aşıklık içimde doğduğu zaman</p><p>Taş yanar göz yaşım yağdığı zaman</p><p>Mızrabım sazıma değdiği zaman</p><p>Tel yanmazsa ben yanarım sultanım</p><br>",
+  "sozler_duz": "Can özümden besmeleyi çekince\n\nDil yanmazsa ben yanarım sultanım\n\nHak uğruna bır sefere çıkınca\n\nYol yanmazsa ben yanarım sultanım\n\nDosta mektup yazma vakti gelince\n\nYazar postalarım kısmet olunca\n\nMektubumun mahiyetin bilince\n\nKul yanmazsa ben yanarım sultanım\n\nAşıklık içimde doğduğu zaman\n\nTaş yanar göz yaşım yağdığı zaman\n\nMızrabım sazıma değdiği zaman\n\nTel yanmazsa ben yanarım sultanım",
   "meta": {
     "yore": "Kırıkkale",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Ekrem Çelebi-Can Etili/Erol Parlak",
-    "aciklama": ""
+    "derleyen": "Can Etili/Erol Parlak",
+    "kaynak_kisi": "Ekrem Çelebi-"
   },
   "sistem": {
     "eski_id": 3648,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-23T23:53:52.826Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
