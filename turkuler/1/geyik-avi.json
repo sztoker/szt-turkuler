@@ -1,26 +1,15 @@
 {
   "id": "geyik-avi",
   "baslik": "GEYİK AVI",
-  "sozler_html": "<p>Ben de gittim bir geyiğin avına -aman aman</p>\n<p>Geyik çekti beni kendi dağına -aman aman dağına</p>\n<p>Tövbeler tövbesi geyik avına -aman aman</p>\n<p class=\"bos\"></p>\n<p>Gidin arkadaşlar kaldım burada -aman aman burada</p>\n<p>Siz gidin kardaşlar kaldım burada</p>\n<p>-aman aman Kayalar başında</p>\n<p class=\"bos\"></p>\n<p>Ben giderken Kayabaşı kar idi / Yel vurdu da erim erim eridi</p>\n<p>Ak bilekler taş üstünde çürüdü / Gidin arkadaşlar ...</p>\n<p class=\"bos\"></p>\n<p>Urganım kayada asılı kaldı / Esvabım sandıkta basılı kaldı</p>\n<p>Nişanlım sılada küsülü kaldı / Gidin arkadaşlar ...</p>",
-  "sozler_duz": "Ben de gittim bir geyiğin avına -aman aman Geyik çekti beni kendi dağına -aman aman dağına Tövbeler tövbesi geyik avına -aman aman Gidin arkadaşlar kaldım burada -aman aman burada Siz gidin kardaşlar kaldım burada -aman aman Kayalar başında Ben giderken Kayabaşı kar idi / Yel vurdu da erim erim eridi Ak bilekler taş üstünde çürüdü / Gidin arkadaşlar ... Urganım kayada asılı kaldı / Esvabım sandıkta basılı kaldı Nişanlım sılada küsülü kaldı / Gidin arkadaşlar ...",
+  "sozler_html": "<p>Ben de gittim bir geyiğin avına -<i>aman aman</i></p>\n<p>Geyik çekti beni kendi dağına -<i>aman aman dağına</i></p>\n<p>Tövbeler tövbesi geyik avına -<i>aman aman</i></p>\n<p class=\"bos\"></p>\n<p><b>Gidin arkadaşlar kaldım burada&nbsp;</b></p><p><b>-aman aman burada</b></p>\n<p><b>Siz gidin kardaşlar kaldım burada</b></p>\n<p><b>-aman aman Kayalar başında</b></p>\n<p class=\"bos\"></p>\n<p>Ben giderken Kayabaşı kar idi&nbsp;</p><p>Yel vurdu da erim erim eridi</p>\n<p>Ak bilekler taş üstünde çürüdü&nbsp;</p><p><br></p><p><b>Gidin arkadaşlar ...</b></p>\n<p class=\"bos\"></p>\n<p>Urganım kayada asılı kaldı&nbsp;</p><p>Esvabım sandıkta basılı kaldı</p>\n<p>Nişanlım sılada küsülü kaldı&nbsp;</p><p><br></p><p><b>Gidin arkadaşlar ...</b></p>",
+  "sozler_duz": "Ben de gittim bir geyiğin avına -aman aman\n\nGeyik çekti beni kendi dağına -aman aman dağına\n\nTövbeler tövbesi geyik avına -aman aman\n\nGidin arkadaşlar kaldım burada \n\n-aman aman burada\n\nSiz gidin kardaşlar kaldım burada\n\n-aman aman Kayalar başında\n\nBen giderken Kayabaşı kar idi \n\nYel vurdu da erim erim eridi\n\nAk bilekler taş üstünde çürüdü \n\nGidin arkadaşlar ...\n\nUrganım kayada asılı kaldı \n\nEsvabım sandıkta basılı kaldı\n\nNişanlım sılada küsülü kaldı \n\nGidin arkadaşlar ...",
   "meta": {
-    "yore": "ADANA",
-    "turu": "",
-    "turu2": "",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "ADANA",
-    "aciklama": ""
+    "yore": "ADANA"
   },
   "sistem": {
     "eski_id": 834,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-23T23:40:38.266Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
