@@ -2,25 +2,14 @@
   "id": "harmandali-yagci-efenin-turkusu",
   "baslik": "HARMANDALI (Yağcı Efenin Türküsü)",
   "sozler_html": "<p>Harmandalı efem geliyor -hey hey</p>\n<p>Bileğinden kanlar akıyor -vay vay</p>\n<p>Gümüş bilezikli mavzerin</p>\n<p>Namlusu şimşekler çakıyor -hey hey</p>\n<p class=\"bos\"></p>\n<p>Efeme her (mor) cepken yaraşır -hey hey</p>\n<p>Efem ne giyerse yakışır -vay vay</p>\n<p>Bütün kızanların önünde</p>\n<p>Elinde yatağan savaşır -hey hey</p>",
-  "sozler_duz": "Harmandalı efem geliyor -hey hey Bileğinden kanlar akıyor -vay vay Gümüş bilezikli mavzerin Namlusu şimşekler çakıyor -hey hey Efeme her (mor) cepken yaraşır -hey hey Efem ne giyerse yakışır -vay vay Bütün kızanların önünde Elinde yatağan savaşır -hey hey",
+  "sozler_duz": "Harmandalı efem geliyor -hey hey\n\nBileğinden kanlar akıyor -vay vay\n\nGümüş bilezikli mavzerin\n\nNamlusu şimşekler çakıyor -hey hey\n\nEfeme her (mor) cepken yaraşır -hey hey\n\nEfem ne giyerse yakışır -vay vay\n\nBütün kızanların önünde\n\nElinde yatağan savaşır -hey hey",
   "meta": {
-    "yore": "EGE",
-    "turu": "",
-    "turu2": "H",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "2020_2",
-    "karar": "",
-    "diger_bilgiler": "EGE",
-    "aciklama": ""
+    "yore": "EGE"
   },
   "sistem": {
     "eski_id": 895,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-23T23:30:26.511Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
