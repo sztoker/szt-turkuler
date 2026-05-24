@@ -1,26 +1,17 @@
 {
   "id": "kevengin-yollarinda",
-  "baslik": "Kevengin Yollarında_",
-  "sozler_html": "<p>Kevengin YollarındaÇimeydim Göllerinde (He Anam He)İlik Düğme OlaydımO Yarin Kollarında (He Anam He)O Yandan Yandan YandanSeverim Seni Candan (He Anam He)Üç Gün Oldu SeverimNe Tez Usandın Benden (He Anam He)Dama Vurdum ÇatmayıSeslen Gelsin Fatmayı (He Anam He)Fatma Nerden ÖğrenmişÇarşaftan Kol Atmayı (He Anam He)O Yandan Yandan YandanSeverim Seni Candan (He Anam He)Üç Gün Oldu SeverimNe Tez Usandın Benden (He Anam He)Keveng'in YazılarıMeliyor Kuzuları (He Anam He)Ben Buraya GelmezdimAlnımın Yazıları (He Anam He)O Yandan Yandan YandanSeverim Seni Candan (He Anam He)Üç Gün Oldu SeverimNe Tez Usandın Benden (He Anam He)</p>",
-  "sozler_duz": "Kevengin YollarındaÇimeydim Göllerinde (He Anam He)İlik Düğme OlaydımO Yarin Kollarında (He Anam He)O Yandan Yandan YandanSeverim Seni Candan (He Anam He)Üç Gün Oldu SeverimNe Tez Usandın Benden (He Anam He)Dama Vurdum ÇatmayıSeslen Gelsin Fatmayı (He Anam He)Fatma Nerden ÖğrenmişÇarşaftan Kol Atmayı (He Anam He)O Yandan Yandan YandanSeverim Seni Candan (He Anam He)Üç Gün Oldu SeverimNe Tez Usandın Benden (He Anam He)Keveng'in YazılarıMeliyor Kuzuları (He Anam He)Ben Buraya GelmezdimAlnımın Yazıları (He Anam He)O Yandan Yandan YandanSeverim Seni Candan (He Anam He)Üç Gün Oldu SeverimNe Tez Usandın Benden (He Anam He)",
+  "baslik": "Kevengin Yollarında",
+  "sozler_html": "<p>Kevengin yollarında</p><p>Çimeydim göllerinde <i>(he anam he)</i></p><p>İlik düğme olaydım</p><p>O yarin kollarında <i>(he anam he)</i></p><p><br></p><p><b>O yandan yandan yandan</b></p><p><b>Severim seni candan <i>(he anam he)</i></b></p><p><b>Üç gün oldu severim</b></p><p><b>Ne tez usandın benden <i>(he anam he)</i></b></p><p><br></p><p>Dama vurdum çatmayı</p><p>Seslen gelsin fatmayı&nbsp;</p><p>Fatma nerden öğrenmiş</p><p>Çarşaftan kol atmayı&nbsp;</p><p><br></p><p><b>O yandan yandan...</b></p><p><br></p><p>Keveng'in yazıları</p><p>Meliyor kuzuları&nbsp;</p><p>Ben buraya gelmezdim</p><p>Alnımın yazıları&nbsp;</p><p><b><br></b></p><p><b>O yandan yandan...</b></p><p><br></p>",
+  "sozler_duz": "Kevengin yollarında\n\nÇimeydim göllerinde (he anam he)\n\nİlik düğme olaydım\n\nO yarin kollarında (he anam he)\n\nO yandan yandan yandan\n\nSeverim seni candan (he anam he)\n\nÜç gün oldu severim\n\nNe tez usandın benden (he anam he)\n\nDama vurdum çatmayı\n\nSeslen gelsin fatmayı \n\nFatma nerden öğrenmiş\n\nÇarşaftan kol atmayı \n\nO yandan yandan...\n\nKeveng'in yazıları\n\nMeliyor kuzuları \n\nBen buraya gelmezdim\n\nAlnımın yazıları \n\nO yandan yandan...",
   "meta": {
     "yore": "Elazığ",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Vasfi AKyol-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Vasfi AKyol"
   },
   "sistem": {
     "eski_id": 5833,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-24T00:08:25.907Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
