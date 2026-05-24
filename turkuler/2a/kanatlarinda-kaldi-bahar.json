@@ -1,7 +1,7 @@
 {
   "id": "kanatlarinda-kaldi-bahar",
   "baslik": "KANATLARINDA KALDI BAHAR",
-  "sozler_html": "<div class=\"ll-0-1\"><div class=\"ll-0-1\">Ateşten bir damla gibi</div><div class=\"ll-0-1\">Döksek dünyayı yeniden</div><div class=\"ll-0-1\">Bayrak çekilir gönlümüze (2</div><div class=\"ll-0-1\"><br></div><div class=\"ll-0-1\"><b>72 yazında, yavrum</b></div><div class=\"ll-0-1\"><b>üç günde dağılıp giden,</b></div><div class=\"ll-0-1\"><b>Kuş sürülerinin</b></div><div class=\"ll-0-1\"><b>Kanatlarında kaldı bahar (3</b></div><div class=\"ll-0-1\"><br></div><div class=\"ll-0-1\">Senden ve sevdandan uzak</div><div class=\"ll-0-1\">Hasret bu yavrucağım</div><div class=\"ll-0-1\">Yedi kat yerden geliyor sıcak selamın (2</div><div class=\"ll-0-1\"><br></div><div class=\"ll-0-1\"><b>72 yazında...</b></div></div><div><br></div>",
+  "sozler_html": "<p>Ateşten bir damla gibi</p><p>Döksek dünyayı yeniden</p><p>Bayrak çekilir gönlümüze (2</p><p class=\"bos\"><br></p><p><b>72 yazında, yavrum</b></p><p><b>üç günde dağılıp giden,</b></p><p><b>Kuş sürülerinin</b></p><p><b>Kanatlarında kaldı bahar (3</b></p><p class=\"bos\"><br></p><p>Senden ve sevdandan uzak</p><p>Hasret bu yavrucağım</p><p>Yedi kat yerden geliyor sıcak selamın (2</p><p class=\"bos\"><br></p><p><b>72 yazında...</b></p><p class=\"bos\"><br></p>",
   "sozler_duz": "Ateşten bir damla gibi\nDöksek dünyayı yeniden\nBayrak çekilir gönlümüze (2\n\n72 yazında, yavrum\nüç günde dağılıp giden,\nKuş sürülerinin\nKanatlarında kaldı bahar (3\n\nSenden ve sevdandan uzak\nHasret bu yavrucağım\nYedi kat yerden geliyor sıcak selamın (2\n\n72 yazında...",
   "meta": {
     "soz": "Mehmet Zeki Gezici",
@@ -9,6 +9,6 @@
     "aciklama": "deniz'e, hüseyin'e, yusuf'a yazılmıştır"
   },
   "sistem": {
-    "son_degisiklik": "2026-05-24T20:18:52.331Z"
+    "son_degisiklik": "2026-05-24T20:42:37.560Z"
   }
 }
