@@ -1,26 +1,17 @@
 {
   "id": "kul-olayim-kalem-tutan-ellere",
-  "baslik": "Kul Olayım Kalem Tutan Ellere_",
-  "sozler_html": "<p>Kul Olayım Kalem Tutan EllereKâtip Arzuhalim Yaz Yare BöyleŞekerler Ezeyim Şirin DillereKâtip Arzuhalim Yaz Yare BöyleGüzelim Ey Güzelim Ey Güzelim Ey EySivas Ellerinde Sazım ÇalınırÇamlı Beller Bölük Bölük BölünürYardan Ayrılmışam Bağrım DelinirKâtip Arzuhalim Yaz Yare BöyleGüzelim Ey Güzelim Ey Güzelim Ey EyPir Sultan Abdal’ım Ey Hızır PaşaGör Ki Neler Gelir Sağ Olan BasaBeni Hasret Koydun Kavim KardaşaKâtip Arzuhalim Yaz Yare BöyleGüzelim Ey Güzelim Ey Güzelim Ey Ey</p>",
-  "sozler_duz": "Kul Olayım Kalem Tutan EllereKâtip Arzuhalim Yaz Yare BöyleŞekerler Ezeyim Şirin DillereKâtip Arzuhalim Yaz Yare BöyleGüzelim Ey Güzelim Ey Güzelim Ey EySivas Ellerinde Sazım ÇalınırÇamlı Beller Bölük Bölük BölünürYardan Ayrılmışam Bağrım DelinirKâtip Arzuhalim Yaz Yare BöyleGüzelim Ey Güzelim Ey Güzelim Ey EyPir Sultan Abdal’ım Ey Hızır PaşaGör Ki Neler Gelir Sağ Olan BasaBeni Hasret Koydun Kavim KardaşaKâtip Arzuhalim Yaz Yare BöyleGüzelim Ey Güzelim Ey Güzelim Ey Ey",
+  "baslik": "Kul Olayım Kalem Tutan Ellere",
+  "sozler_html": "<p>Kul olayım kalem tutan ellere</p><p>Kâtip arzuhalim yaz yare böyle</p><p>Şekerler ezeyim şirin dillere</p><p><br></p><p><b>Kâtip arzuhalim yaz yare böyle</b></p><p><b>Güzelim ey birtanem ey ey</b></p><p><br></p><p>Sivas ellerinde sazım çalınır</p><p>Çamlı beller bölük bölük bölünür</p><p>Yardan ayrılmışam bağrım delinir</p><p><br></p><p><b>Kâtip arzuhalim...</b></p><p><br></p><p>Pir sultan abdal’ım ey hızır paşa</p><p>Gör ki neler gelir sağ olan basa</p><p>Beni hasret koydun kavim kardaşa</p><p><br></p><p><b>Kâtip arzuhalim...</b></p><p><br></p>",
+  "sozler_duz": "Kul olayım kalem tutan ellere\n\nKâtip arzuhalim yaz yare böyle\n\nŞekerler ezeyim şirin dillere\n\nKâtip arzuhalim yaz yare böyle\n\nGüzelim ey birtanem ey ey\n\nSivas ellerinde sazım çalınır\n\nÇamlı beller bölük bölük bölünür\n\nYardan ayrılmışam bağrım delinir\n\nKâtip arzuhalim...\n\nPir sultan abdal’ım ey hızır paşa\n\nGör ki neler gelir sağ olan basa\n\nBeni hasret koydun kavim kardaşa\n\nKâtip arzuhalim...",
   "meta": {
     "yore": "Sivas",
-    "turu": "",
-    "turu2": "s",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "Aşık Veysel Şatıroğlu-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "Aşık Veysel"
   },
   "sistem": {
     "eski_id": 5883,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-24T00:11:13.122Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
