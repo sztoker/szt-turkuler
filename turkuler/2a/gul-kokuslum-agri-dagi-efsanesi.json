@@ -1,7 +1,7 @@
 {
   "id": "gul-kokuslum-agri-dagi-efsanesi",
   "baslik": "GÜL KOKUŞLUM (Ağrı Dağı Efsanesi)",
-  "sozler_html": "<p>Gül teninden oyalanıp süzül de gel</p><p class=\"bos\">Gül bakışlım göz yaşların silip de gel</p><p class=\"bos\">Yarem sızlar yalnızlığım bilip de gel</p><p class=\"bos\"><b>Gül kokuşlum gel</b></p><p class=\"bos\"><br></p><p>Ay büyüdü</p><p class=\"bos\">Geceleri seni beklerim</p><p class=\"bos\">Ak gerdanda</p><p class=\"bos\">Gül kokusu tenin özlerim</p><p class=\"bos\">Çare bilmez dertlerimle yolun gözlerim</p><p class=\"bos\"><b>Gül kokuşlum gel</b></p>",
+  "sozler_html": "<p>Gül teninden oyalanıp süzül de gel</p><p>Gül bakışlım göz yaşların silip de gel</p><p>Yarem sızlar yalnızlığım bilip de gel</p><p>Gül kokuşlum gel</p><p class=\"bos\"><br></p><p class=\"bos\"><br></p><p>Ay büyüdü</p><p>Geceleri seni beklerim</p><p>Ak gerdanda</p><p>Gül kokusu tenin özlerim</p><p>Çare bilmez dertlerimle yolun gözlerim</p><p>Gül kokuşlum gel</p>",
   "sozler_duz": "Gül teninden oyalanıp süzül de gel\n\nGül bakışlım göz yaşların silip de gel\n\nYarem sızlar yalnızlığım bilip de gel\n\nGül kokuşlum gel\n\nAy büyüdü\n\nGeceleri seni beklerim\n\nAk gerdanda\n\nGül kokusu tenin özlerim\n\nÇare bilmez dertlerimle yolun gözlerim\n\nGül kokuşlum gel",
   "meta": {
     "soyleyenler": "Erdal Güney"
@@ -9,7 +9,7 @@
   "sistem": {
     "eski_id": 36,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-05-24T21:49:26.441Z",
+    "son_degisiklik": "2026-05-24T21:50:48.023Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
