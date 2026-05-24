@@ -1,26 +1,17 @@
 {
   "id": "canakkale-icinde",
-  "baslik": "Çanakkale İçinde_",
-  "sozler_html": "<p>Çanakkale İçinde Aynalı Çarsı,Ana Ben Gidiyom Düşmana Karsı.Of Gençliğim Eyvah.Çanakkale İçinde Bir Uzun Selvi,Kimimiz Nişanlı Kimimiz EvliOf Gençliğim EyvahÇanakkale Üstünü Duman Bürüdü,On Üçüncü Fırka Yürüdü.Of Gençliğim Eyvah.Çanakkale İçinde Bir Dolu Testi,Analar Babalar Mektubu KestiOf Gençliğim Eyvah</p>",
-  "sozler_duz": "Çanakkale İçinde Aynalı Çarsı,Ana Ben Gidiyom Düşmana Karsı.Of Gençliğim Eyvah.Çanakkale İçinde Bir Uzun Selvi,Kimimiz Nişanlı Kimimiz EvliOf Gençliğim EyvahÇanakkale Üstünü Duman Bürüdü,On Üçüncü Fırka Yürüdü.Of Gençliğim Eyvah.Çanakkale İçinde Bir Dolu Testi,Analar Babalar Mektubu KestiOf Gençliğim Eyvah",
+  "baslik": "Çanakkale İçinde",
+  "sozler_html": "<p>Çanakkale içinde aynalı çarsı</p><p>Ana ben gidiyom düşmana karsı</p><p><b>Of gençliğim eyvah</b></p><p><br></p><p>Çanakkale içinde bir uzun selvi</p><p>Kimimiz nişanlı kimimiz evli</p><p><b>Of gençliğim eyvah</b></p><p><br></p><p>Çanakkale üstünü duman bürüdü</p><p>On üçüncü fırka yürüdü</p><p><b>Of gençliğim eyvah</b></p><p><br></p><p>Çanakkale içinde bir dolu testi</p><p>Analar babalar mektubu kesti</p><p><b>Of gençliğim eyvah</b></p><p><br></p>",
+  "sozler_duz": "Çanakkale içinde aynalı çarsı\n\nAna ben gidiyom düşmana karsı\n\nOf gençliğim eyvah\n\nÇanakkale içinde bir uzun selvi\n\nKimimiz nişanlı kimimiz evli\n\nOf gençliğim eyvah\n\nÇanakkale üstünü duman bürüdü\n\nOn üçüncü fırka yürüdü\n\nOf gençliğim eyvah\n\nÇanakkale içinde bir dolu testi\n\nAnalar babalar mektubu kesti\n\nOf gençliğim eyvah",
   "meta": {
     "yore": "Kastamonu",
-    "turu": "",
-    "turu2": "S",
-    "derleyen": "",
-    "kaynak_kisi": "",
-    "soz": "",
-    "muzik": "",
-    "soyleyenler": "",
-    "repertuar": "",
-    "karar": "",
-    "diger_bilgiler": "İhsan Ozanoğlu-Muzaffer Sarısözen",
-    "aciklama": ""
+    "derleyen": "Muzaffer Sarısözen",
+    "kaynak_kisi": "İhsan Ozanoğlu"
   },
   "sistem": {
     "eski_id": 3689,
     "olusturma": "2026-04-20",
-    "son_degisiklik": "2026-04-20",
+    "son_degisiklik": "2026-05-24T00:17:36.090Z",
     "versiyon": 1,
     "yayinlanabilir": true,
     "kontrol_edildi": false
