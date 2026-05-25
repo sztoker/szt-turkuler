@@ -1,23 +1,25 @@
-"""JSON → SQLite
+"""JSON → SQLite + Arama İndeksi
 turkuler/*.json dosyalarını okuyup SQLite veritabanı üretir.
 Sözlük verisini de ekler.
-Çıktı: turku.db (repo kökünde)
+Ayrıca tarayıcı görüntüleyici için search-index.json üretir.
+Çıktı: turku.db, search-index.json (repo kökünde)
 """
 import json
 import glob
 import sqlite3
 import os
-
+ 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 JSON_DIR = os.path.join(BASE_DIR, 'turkuler')
 SOZLUK_CSV = os.path.join(BASE_DIR, 'sozluk.csv')
 OUT_DB = os.path.join(BASE_DIR, 'turku.db')
-
+OUT_INDEX = os.path.join(BASE_DIR, 'search-index.json')
+ 
 SCHEMA = """
 DROP TABLE IF EXISTS turkuler;
 DROP TABLE IF EXISTS turkuler_fts;
 DROP TABLE IF EXISTS sozluk;
-
+ 
 CREATE TABLE turkuler (
   id          TEXT PRIMARY KEY,
   baslik      TEXT NOT NULL,
@@ -26,9 +28,9 @@ CREATE TABLE turkuler (
   meta_json   TEXT NOT NULL,
   versiyon    INTEGER NOT NULL DEFAULT 1
 );
-
+ 
 CREATE INDEX idx_turkuler_baslik ON turkuler(baslik COLLATE NOCASE);
-
+ 
 CREATE VIRTUAL TABLE turkuler_fts USING fts5(
   id UNINDEXED,
   baslik,
@@ -40,41 +42,43 @@ CREATE VIRTUAL TABLE turkuler_fts USING fts5(
   muzik,
   tokenize = "unicode61 remove_diacritics 2"
 );
-
+ 
 CREATE TABLE sozluk (
   deyim     TEXT PRIMARY KEY,
   aciklama  TEXT NOT NULL
 );
-
+ 
 CREATE INDEX idx_sozluk_deyim ON sozluk(deyim COLLATE NOCASE);
 """
-
-
+ 
+ 
 def main():
     if os.path.exists(OUT_DB):
         os.remove(OUT_DB)
-
+ 
     conn = sqlite3.connect(OUT_DB)
     conn.executescript(SCHEMA)
-
+ 
     # Türküleri yükle
     json_files = sorted(glob.glob(os.path.join(JSON_DIR, '**', '*.json'), recursive=True))
     print(f"JSON dosyaları bulundu: {len(json_files)}")
-
+ 
     turku_sayisi = 0
     skipped = 0
+    arama_indeksi = []
+ 
     for path in json_files:
         with open(path, 'r', encoding='utf-8') as f:
             t = json.load(f)
-
+ 
         # Yayınlanabilir değilse atla
         sistem = t.get('sistem', {})
         if not sistem.get('yayinlanabilir', True):
             skipped += 1
             continue
-
+ 
         meta = t.get('meta', {})
-
+ 
         conn.execute(
             "INSERT INTO turkuler (id, baslik, sozler_html, sozler_duz, meta_json, versiyon) VALUES (?,?,?,?,?,?)",
             (
@@ -86,7 +90,7 @@ def main():
                 sistem.get('versiyon', 1)
             )
         )
-
+ 
         conn.execute(
             "INSERT INTO turkuler_fts (id, baslik, sozler_duz, yore, derleyen, kaynak_kisi, soz, muzik) VALUES (?,?,?,?,?,?,?,?)",
             (
@@ -100,12 +104,33 @@ def main():
                 meta.get('muzik', '')
             )
         )
+ 
+        # Dosya yolunu repo-relatif olarak hesapla
+        rel_path = os.path.relpath(path, BASE_DIR)
+ 
+        # Arama indeksine ekle
+        arama_indeksi.append({
+            'path': rel_path,
+            'baslik': t['baslik'],
+            'metin': t.get('sozler_duz', ''),
+            'yore': meta.get('yore', '')
+        })
+ 
         turku_sayisi += 1
-
+ 
     print(f"Türkü eklendi: {turku_sayisi}")
     if skipped:
         print(f"  Atlandı (yayinlanabilir=False): {skipped}")
-
+ 
+    # Arama indeksini yaz
+    arama_indeksi.sort(key=lambda x: x['baslik'].lower())
+    with open(OUT_INDEX, 'w', encoding='utf-8') as f:
+        json.dump(arama_indeksi, f, ensure_ascii=False, separators=(',', ':'))
+ 
+    index_size_kb = os.path.getsize(OUT_INDEX) / 1024
+    print(f"\nArama indeksi: {len(arama_indeksi)} türkü, {index_size_kb:.0f} KB")
+    print(f"Çıktı: {OUT_INDEX}")
+ 
     # Sözlüğü yükle
     if os.path.exists(SOZLUK_CSV):
         import csv
@@ -129,21 +154,22 @@ def main():
         print(f"Sözlük girdisi eklendi: {sozluk_sayisi}")
     else:
         print("sozluk.csv bulunamadı, sözlük atlandı.")
-
+ 
     conn.commit()
-
+ 
     # İstatistikler
     print("\n=== İstatistikler ===")
     for tbl in ['turkuler', 'sozluk']:
         cnt = conn.execute(f'SELECT COUNT(*) FROM {tbl}').fetchone()[0]
         print(f"  {tbl}: {cnt} kayıt")
-
+ 
     conn.close()
-
+ 
     size_mb = os.path.getsize(OUT_DB) / (1024 * 1024)
     print(f"\nDB boyutu: {size_mb:.2f} MB")
     print(f"Çıktı: {OUT_DB}")
-
-
+ 
+ 
 if __name__ == '__main__':
     main()
+ 
